@@ -4,6 +4,9 @@ on:
     - cron: '17 5,11,17 * * *' # UTC; Istanbul UTC+3
 
   workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/sync_supabase_radar.py'
 permissions:
   contents: write
 concurrency:
