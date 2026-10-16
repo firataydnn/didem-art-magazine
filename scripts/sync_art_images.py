@@ -120,11 +120,29 @@ def main() -> int:
             if articles[idx].get("img", "").startswith("http") and articles[idx].get("fallbackImg"):
                 articles[idx]["img"] = articles[idx]["fallbackImg"]
                 articles[idx]["imageCredit"] = "Geçici editoryal grafik; gerçek eser görseli henüz indirilemedi."
+    # The editorial banner is an original, explicitly AI-labelled project asset,
+    # not a Commons press photograph. Mirror it locally so the site does not rely
+    # on a potentially expiring third-party CloudFront URL.
+    banner_url = "https://d8j0ntlcm91z4.cloudfront.net/user_36k5oKNr2EbFij24yVgRJr0W1Gv/hf_20261012_103850_c2fc178a-166f-44eb-8912-61728c8d9e20.png"
+    banner_target = OUT / "atelier-original-ai-banner.png"
+    try:
+        if not banner_target.exists():
+            banner_data = request(banner_url, max_size=12_000_000)
+            if not banner_data.startswith(b"\x89PNG\r\n\x1a\n"):
+                raise ValueError("Banner response is not a PNG image")
+            banner_target.write_bytes(banner_data)
+        if banner_target.stat().st_size < 1000:
+            raise ValueError("Banner image too small")
+        source = source.replace(banner_url, "assets/images/atelier-original-ai-banner.png")
+        print(f"OK banner: {banner_target.name} ({banner_target.stat().st_size} bytes) — Original AI-labelled editorial image")
+    except Exception as exc:
+        failures.append(["atelier-original-ai-banner", str(exc)])
+        print(f"SKIP banner: {exc}", file=sys.stderr)
     # If another run already downloaded a valid local file, retain it.
     if success:
         updated = json.dumps(articles, ensure_ascii=False, separators=(",", ":"))
         source = source[:m.start(1)] + updated + source[m.end(1):]
-        INDEX.write_text(source, encoding="utf-8")
+    INDEX.write_text(source, encoding="utf-8")
     (OUT / "credits.json").write_text(
         json.dumps({"source": "Wikimedia Commons; license checked per file", "downloaded": success,
                     "failures": failures}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
