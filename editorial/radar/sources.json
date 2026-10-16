@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ARTnews",
+    "category": "sanat-basini",
+    "feed": "https://www.artnews.com/feed/"
+  },
+  {
+    "name": "Hyperallergic",
+    "category": "sanat-basini",
+    "feed": "https://hyperallergic.com/feed/"
+  },
+  {
+    "name": "Colossal",
+    "category": "gorsel-kultur",
+    "feed": "https://www.thisiscolossal.com/feed/"
+  },
+  {
+    "name": "Apollo Magazine",
+    "category": "sanat-basini",
+    "feed": "https://www.apollo-magazine.com/feed/"
+  }
+]
