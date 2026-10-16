@@ -117,6 +117,15 @@ try{
    await mp.locator('#overlay').evaluate(el=>new Promise((resolve,reject)=>{if(!el.classList.contains('on'))return resolve();const start=Date.now();const id=setInterval(()=>{if(!el.classList.contains('on')){clearInterval(id);resolve()}else if(Date.now()-start>3000){clearInterval(id);reject(new Error('Mobile modal did not close'))}},30)}));
    assert.equal(await mp.locator('#overlay.on').count(),0)
  });
+ await check('tablet and narrow desktop layouts avoid horizontal overflow',async()=>{
+   for(const width of [768,820,1024]){
+     await mp.setViewportSize({width,height:900});
+     await mp.waitForTimeout(40);
+     const measure=await mp.evaluate(()=>({scroll:document.documentElement.scrollWidth,inner:innerWidth}));
+     assert.ok(measure.scroll<=measure.inner+2,'horizontal overflow at '+width+': '+JSON.stringify(measure))
+   }
+   await mp.setViewportSize({width:390,height:844})
+ });
  await mp.screenshot({path:path.join(out,'atelier-mobile.png'),fullPage:true});
  await mobile.close();
  assert.deepEqual(errors,[]);
