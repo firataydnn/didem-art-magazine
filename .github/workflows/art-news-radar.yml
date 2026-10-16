@@ -1,0 +1,31 @@
+name: Art news radar (editorial inbox)
+on:
+  schedule:
+    - cron: '17 8,14,20 * * *'
+      timezone: 'Europe/Istanbul'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: art-news-radar
+  cancel-in-progress: false
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Collect headlines (no publishing)
+        run: python scripts/collect_art_news.py
+      - name: Commit editorial inbox if changed
+        run: |
+          if ! git diff --quiet -- editorial/radar/inbox.json; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add editorial/radar/inbox.json
+            git commit -m "chore(radar): collect new art headlines"
+            git push
+          fi
