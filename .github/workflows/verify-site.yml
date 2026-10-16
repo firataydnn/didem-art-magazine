@@ -1,0 +1,44 @@
+name: Verify ATELIER site and image assets
+on:
+  push:
+    branches: [main]
+    paths:
+      - "index.html"
+      - "assets/images/**"
+      - ".github/workflows/verify-site.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check article data, local JPEG assets and extract JavaScript
+        run: |
+          python3 - <<'PY'
+          import json
+          import re
+          from pathlib import Path
+          s=Path("index.html").read_text(encoding="utf-8")
+          m=re.search(r"const data=(\[.*?\]);let cat=",s,re.S)
+          assert m, "Article JSON not found"
+          articles=json.loads(m.group(1))
+          local=[(i,a["img"]) for i,a in enumerate(articles) if a.get("img","").startswith("assets/images/")]
+          assert len(local)>=14, f"Expected at least 14 real self-hosted images, got {len(local)}"
+          for i,path in local:
+              p=Path(path)
+              assert p.is_file(), f"Missing image for article {i}: {path}"
+              assert p.read_bytes().startswith(b"\xff\xd8\xff"), f"Not a JPEG: {path}"
+              assert articles[i].get("imageSource"), f"Missing image source: {i}"
+              assert articles[i].get("imageLicense"), f"Missing image license: {i}"
+          assert "slideOrder=[6,4,5,9,0,3,1,2,7,8]" in s, "Featured slider order missing"
+          scripts=re.findall(r"<script(?:\s[^>]*)?>(.*?)</script>",s,re.S)
+          assert scripts, "Inline JavaScript missing"
+          Path("/tmp/atelier-site.js").write_text("\n".join(scripts),encoding="utf-8")
+          print(f"Verified {len(articles)} articles and {len(local)} actual local JPEG images")
+          PY
+      - name: Validate JavaScript syntax
+        run: node --check /tmp/atelier-site.js
