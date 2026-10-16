@@ -98,6 +98,8 @@ try{
    assert.ok((await response.body()).length>1000)
  });
  await check('no uncaught browser JS errors',async()=>assert.deepEqual(errors,[]));
+ await page.goto(base,{waitUntil:'networkidle'});
+ await page.evaluate(()=>{window.scrollTo(0,0);showSlide(0)});
  await page.screenshot({path:path.join(out,'atelier-desktop.png'),fullPage:true});
  await desktop.close();
  const mobile=await contextFor({width:390,height:844});
@@ -126,6 +128,8 @@ try{
    }
    await mp.setViewportSize({width:390,height:844})
  });
+ await mp.goto(base,{waitUntil:'networkidle'});
+ await mp.evaluate(()=>window.scrollTo(0,0));
  await mp.screenshot({path:path.join(out,'atelier-mobile.png'),fullPage:true});
  await mobile.close();
  assert.deepEqual(errors,[]);
