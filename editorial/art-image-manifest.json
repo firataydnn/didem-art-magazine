@@ -1,6 +1,36 @@
 {
-  "description": "Curated actual artwork reproductions. Do not add press-only images or event photography without explicit license clearance.",
+  "description": "Curated public-domain artworks and attributed CC-licensed venue archive photos; no restricted press-room images.",
   "items": [
+    {
+      "index": 4,
+      "slug": "muze-gazhane-archive",
+      "file": "Müze Gazhane (1).jpg",
+      "artist": "Jelican9",
+      "photographer": "Jelican9",
+      "work": "Müze Gazhane, İstanbul (28 Eylül 2021)",
+      "note": "Mekânın arşiv fotoğrafıdır; 16 Ekim 2026 etkinliğini göstermez.",
+      "allow_cc": true
+    },
+    {
+      "index": 5,
+      "slug": "borusan-perili-kosk-archive",
+      "file": "Perili Köşk.jpg",
+      "artist": "Olmamisbadem",
+      "photographer": "Olmamisbadem",
+      "work": "Perili Köşk, Borusan Contemporary'nin bulunduğu yapı (14 Eylül 2019)",
+      "note": "Mekânın arşiv fotoğrafıdır; 17 Ekim 2026 etkinliğini göstermez.",
+      "allow_cc": true
+    },
+    {
+      "index": 6,
+      "slug": "tate-turbine-hall-archive",
+      "file": "Tate Modern Turbine Hall 2026-08-10.jpg",
+      "artist": "Brett Jordan",
+      "photographer": "Brett Jordan",
+      "work": "Tate Modern Turbine Hall (10 Ağustos 2026)",
+      "note": "Mekânın arşiv fotoğrafıdır; Tarek Atoui'nin enstalasyonunu göstermez.",
+      "allow_cc": true
+    },
     {
       "index": 9,
       "slug": "renoir-moulin-galette",
@@ -54,14 +84,14 @@
     {
       "index": 22,
       "slug": "artemisia-allegory",
-      "file": "Artemisia Gentileschi - Self-Portrait as the Allegory of Painting - Google Art Project.jpg",
+      "file": "Self-portrait as the Allegory of Painting (La Pittura) - Artemisia Gentileschi.jpg",
       "artist": "Artemisia Gentileschi",
       "work": "Self-Portrait as the Allegory of Painting"
     },
     {
       "index": 23,
       "slug": "vermeer-art-painting",
-      "file": "Johannes Vermeer - The Art of Painting - Google Art Project.jpg",
+      "file": "Jan Vermeer - The Art of Painting - Google Art Project.jpg",
       "artist": "Johannes Vermeer",
       "work": "The Art of Painting"
     },

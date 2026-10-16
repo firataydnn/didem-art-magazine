@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Download curated, rights-checked artwork reproductions to local GitHub Pages assets.
 Never downloads press-room photographs or unlicensed event images.
-Only a positive Commons Public Domain/CC0 metadata result permits download.
+Only a positive Commons license result permits download (PD/CC0, or curated CC BY with credits).
 """
 from __future__ import annotations
 import html
@@ -21,6 +21,7 @@ OUT = ROOT / "assets" / "images"
 UA = "AtelierArtEditorial/1.0 (https://github.com/firataydnn/didem-art-magazine; educational editorial reuse)"
 API = "https://commons.wikimedia.org/w/api.php"
 ALLOWED = {"public domain", "cc0", "cc0 1.0", "cc zero", "cc-zero"}
+CC_ALLOWED = {"cc by 4.0", "cc by-sa 4.0"}
 
 def request(url: str, max_size=10_000_000) -> bytes:
     last = None
@@ -54,10 +55,16 @@ def get_image_info(filename: str) -> dict:
         raise ValueError("Commons file does not exist")
     return pages[0]["imageinfo"][0]
 
-def is_public_domain(info: dict) -> tuple[bool, str]:
+def approved_license(info: dict, rec: dict) -> tuple[bool, str, str]:
     meta = info.get("extmetadata") or {}
     name = html.unescape(re.sub(r"<[^>]*>", "", meta.get("LicenseShortName", {}).get("value", ""))).strip()
-    return name.lower() in ALLOWED, name
+    license_url = meta.get("LicenseUrl", {}).get("value", "")
+    if name.lower() in ALLOWED:
+        return True, name, license_url
+    if (name.lower() in CC_ALLOWED and rec.get("allow_cc") is True
+            and rec.get("photographer") and license_url):
+        return True, name, license_url
+    return False, name, license_url
 
 def main() -> int:
     OUT.mkdir(parents=True, exist_ok=True)
@@ -77,7 +84,7 @@ def main() -> int:
         target = OUT / (rec["slug"] + ".jpg")
         try:
             info = get_image_info(rec["file"])
-            allowed, license_name = is_public_domain(info)
+            allowed, license_name, license_url = approved_license(info, rec)
             if not allowed:
                 raise ValueError(f"License not approved for automatic reuse: {license_name}")
             image_url = info.get("thumburl") or info.get("url")
@@ -89,17 +96,21 @@ def main() -> int:
                     raise ValueError("Download is not a JPEG")
                 target.write_bytes(data)
             source_page = "https://commons.wikimedia.org/wiki/File:" + urllib.parse.quote(rec["file"].replace(" ", "_"))
-            caption = f'{rec["artist"]}, {rec["work"]}. Kaynak: Wikimedia Commons. Lisans: {license_name}.'
+            caption = (f'Fotoğraf: {rec["photographer"]}. {rec["work"]}. Kaynak: Wikimedia Commons. Lisans: {license_name}.'
+                       if rec.get("photographer") else
+                       f'{rec["artist"]}, {rec["work"]}. Kaynak: Wikimedia Commons. Lisans: {license_name}.')
             if rec.get("note"):
                 caption += " " + rec["note"]
             articles[idx]["img"] = "assets/images/" + target.name
             articles[idx]["imageCredit"] = caption
             articles[idx]["imageSource"] = source_page
             articles[idx]["imageLicense"] = license_name
+            articles[idx]["imageLicenseUrl"] = license_url
+            articles[idx]["imageKind"] = "archive_venue" if rec.get("photographer") else "artwork"
             success[rec["slug"]] = {
                 "articleIndex": idx, "localPath": "assets/images/" + target.name,
                 "sourceFile": rec["file"], "sourcePage": source_page,
-                "license": license_name, "credit": caption, "bytes": target.stat().st_size
+                "license": license_name, "licenseUrl": license_url, "credit": caption, "bytes": target.stat().st_size
             }
             print(f"OK {idx}: {target.name} ({target.stat().st_size} bytes) — {license_name}")
         except Exception as exc:
