@@ -120,6 +120,7 @@ def main() -> int:
             if articles[idx].get("img", "").startswith("http") and articles[idx].get("fallbackImg"):
                 articles[idx]["img"] = articles[idx]["fallbackImg"]
                 articles[idx]["imageCredit"] = "Geçici editoryal grafik; gerçek eser görseli henüz indirilemedi."
+    banner_local_ready = False
     # The editorial banner is an original, explicitly AI-labelled project asset,
     # not a Commons press photograph. Mirror it locally so the site does not rely
     # on a potentially expiring third-party CloudFront URL.
@@ -133,7 +134,7 @@ def main() -> int:
             banner_target.write_bytes(banner_data)
         if banner_target.stat().st_size < 1000:
             raise ValueError("Banner image too small")
-        source = source.replace(banner_url, "assets/images/atelier-original-ai-banner.png")
+        banner_local_ready = True
         print(f"OK banner: {banner_target.name} ({banner_target.stat().st_size} bytes) — Original AI-labelled editorial image")
     except Exception as exc:
         failures.append(["atelier-original-ai-banner", str(exc)])
@@ -142,6 +143,8 @@ def main() -> int:
     if success:
         updated = json.dumps(articles, ensure_ascii=False, separators=(",", ":"))
         source = source[:m.start(1)] + updated + source[m.end(1):]
+    if banner_local_ready:
+        source = source.replace(banner_url, "assets/images/atelier-original-ai-banner.png")
     INDEX.write_text(source, encoding="utf-8")
     (OUT / "credits.json").write_text(
         json.dumps({"source": "Wikimedia Commons; license checked per file", "downloaded": success,
