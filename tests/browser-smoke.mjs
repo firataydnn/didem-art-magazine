@@ -79,6 +79,18 @@ try{
    assert.equal(await page.locator('#grid article.card').count(),1);
    assert.ok((await page.locator('#grid h3').first().innerText()).includes('Sanat kulisleri'))
  });
+ await check('article opened from category returns to the same category',async()=>{
+   await page.locator('button[data-cat="SANATÇI"]').click();
+   await page.waitForTimeout(100);
+   await page.locator('#grid .card button.more').first().click();
+   await page.waitForTimeout(100);
+   assert.ok(page.url().includes('#/yazi/'));
+   await page.locator('#overlay .close').click();
+   await page.waitForTimeout(150);
+   assert.ok(decodeURIComponent(page.url()).includes('kategori/SANATÇI'));
+   assert.equal(await page.locator('#overlay.on').count(),0);
+   await page.locator('button[data-cat="TÜMÜ"]').click()
+ });
  await check('ticker stories open intended article',async()=>{
    await page.locator('[data-open-article="12"]').click();
    await page.waitForTimeout(100);
@@ -144,6 +156,18 @@ try{
    const width=await mp.evaluate(()=>({scroll:document.documentElement.scrollWidth,inner:innerWidth}));
    assert.ok(width.scroll<=width.inner+2,JSON.stringify(width));
    assert.equal(await mp.locator('#grid article.card').count(),33)
+ });
+ await check('all 33 long-form articles and eight category landings exceed five mobile screens',async()=>{
+   const result=await mp.evaluate(()=>{
+     const articles=[];
+     for(let i=0;i<data.length;i++){showPost(i);articles.push({i,ratio:overlay.scrollHeight/overlay.clientHeight})}
+     hidePost();
+     const categories=[];
+     for(const name of Object.keys(CATEGORY_EDITORIAL)){cat=name;render();categories.push({name,ratio:document.documentElement.scrollHeight/innerHeight})}
+     cat='TÜMÜ';render();return {articles,categories}
+   });
+   for(const x of result.articles)assert.ok(x.ratio>=5,'mobile article under five screens '+JSON.stringify(x));
+   for(const x of result.categories)assert.ok(x.ratio>=5,'mobile category under five screens '+JSON.stringify(x))
  });
  await check('mobile modal opens, closes and fits viewport',async()=>{
    await mp.locator('#grid article.card button.more').first().click();
