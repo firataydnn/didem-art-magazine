@@ -24,6 +24,11 @@ def sync():
             total+=result.get("processed",0)
         except urllib.error.HTTPError as exc:
             print("Supabase sync failed: HTTP",exc.code,file=sys.stderr)
+            try:
+                details=json.loads(exc.read(4096).decode("utf-8","replace"))
+                print("PostgREST error:",details.get("code","unknown"),str(details.get("message",""))[:400],file=sys.stderr)
+            except (ValueError,UnicodeError):
+                print("Response was not JSON",file=sys.stderr)
             return 1
     print("Supabase research leads synced:",total,"(all unapproved)")
     return 0
