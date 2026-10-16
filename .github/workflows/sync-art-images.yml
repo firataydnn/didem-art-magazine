@@ -1,0 +1,37 @@
+name: Download licensed artwork images
+on:
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/sync-art-images.yml"
+      - "editorial/art-image-manifest.json"
+      - "scripts/sync_art_images.py"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: atelier-art-images
+  cancel-in-progress: false
+
+jobs:
+  download:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Verify licenses and download actual artworks
+        run: python3 scripts/sync_art_images.py
+      - name: Commit local artwork images and credits
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index.html assets/images/
+          if ! git diff --cached --quiet; then
+            git commit -m "Download and self-host rights-checked artwork images"
+            git push
+          fi
