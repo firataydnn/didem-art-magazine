@@ -1,0 +1,83 @@
+{
+  "description": "Curated actual artwork reproductions. Do not add press-only images or event photography without explicit license clearance.",
+  "items": [
+    {
+      "index": 9,
+      "slug": "renoir-moulin-galette",
+      "file": "Ball at the Moulin de la Galette Renoir 1876.jpg",
+      "artist": "Pierre-Auguste Renoir",
+      "work": "Bal du moulin de la Galette (1876)",
+      "note": "Tarihsel eser görseli; Londra sergisinin çekimi veya sergilenen eser olduğuna dair iddia değildir."
+    },
+    {
+      "index": 10,
+      "slug": "van-gogh-starry-night",
+      "file": "Van Gogh - Starry Night - Google Art Project.jpg",
+      "artist": "Vincent van Gogh",
+      "work": "The Starry Night (1889)"
+    },
+    {
+      "index": 12,
+      "slug": "hokusai-great-wave",
+      "file": "The Great Wave off Kanagawa.jpg",
+      "artist": "Katsushika Hokusai",
+      "work": "The Great Wave off Kanagawa"
+    },
+    {
+      "index": 13,
+      "slug": "seurat-grande-jatte",
+      "file": "Georges Seurat - A Sunday on La Grande Jatte -- 1884 - Google Art Project.jpg",
+      "artist": "Georges Seurat",
+      "work": "A Sunday Afternoon on the Island of La Grande Jatte"
+    },
+    {
+      "index": 14,
+      "slug": "klimt-kiss",
+      "file": "Gustav Klimt 016.jpg",
+      "artist": "Gustav Klimt",
+      "work": "The Kiss (1907–1908)"
+    },
+    {
+      "index": 15,
+      "slug": "monet-water-lilies",
+      "file": "Claude Monet - Water Lilies - 1906, Ryerson.jpg",
+      "artist": "Claude Monet",
+      "work": "Water Lilies (1906)"
+    },
+    {
+      "index": 20,
+      "slug": "botticelli-venus",
+      "file": "Sandro Botticelli - La nascita di Venere - Google Art ProjectFXD.jpg",
+      "artist": "Sandro Botticelli",
+      "work": "The Birth of Venus"
+    },
+    {
+      "index": 22,
+      "slug": "artemisia-allegory",
+      "file": "Artemisia Gentileschi - Self-Portrait as the Allegory of Painting - Google Art Project.jpg",
+      "artist": "Artemisia Gentileschi",
+      "work": "Self-Portrait as the Allegory of Painting"
+    },
+    {
+      "index": 23,
+      "slug": "vermeer-art-painting",
+      "file": "Johannes Vermeer - The Art of Painting - Google Art Project.jpg",
+      "artist": "Johannes Vermeer",
+      "work": "The Art of Painting"
+    },
+    {
+      "index": 25,
+      "slug": "velazquez-meninas",
+      "file": "Las Meninas 01.jpg",
+      "artist": "Diego Velázquez",
+      "work": "Las Meninas"
+    },
+    {
+      "index": 29,
+      "slug": "munch-scream",
+      "file": "Edvard Munch - The Scream.jpg",
+      "artist": "Edvard Munch",
+      "work": "The Scream (1893)"
+    }
+  ]
+}
