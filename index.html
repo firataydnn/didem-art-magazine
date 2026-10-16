@@ -224,5 +224,26 @@ document.getElementById('slide-prev').addEventListener('click',()=>{showSlide(sl
 document.getElementById('slide-next').addEventListener('click',()=>{showSlide(slideIndex+1);resetSlideTimer()});
 document.getElementById('slide-pause').addEventListener('click',()=>{slidePaused=!slidePaused;document.getElementById('slide-pause').textContent=slidePaused?'▶':'Ⅱ';document.getElementById('slide-pause').setAttribute('aria-label',slidePaused?'Otomatik geçişi başlat':'Otomatik geçişi durdur');resetSlideTimer()});
 function resetSlideTimer(){clearInterval(slideTimer);if(!slidePaused&&!window.matchMedia('(prefers-reduced-motion: reduce)').matches)slideTimer=setInterval(()=>{if(!document.hidden&&activePost<0)showSlide(slideIndex+1)},6500)}
+// Newspaper data connection: approved records only; never display raw RSS leads.
+// The 750-article launch gate prevents incomplete editorial feeds appearing here.
+async function connectApprovedNewspaperData(){
+  try{
+    const response=await fetch('./data/approved-stories.json',{cache:'no-store'});
+    if(!response.ok)return;
+    const feed=await response.json();
+    if(!Array.isArray(feed.stories)||feed.stories.length<750)return;
+    const existing=new Set(data.map(p=>p.slug));
+    for(const story of feed.stories){
+      if(!story.approved_at||!story.image||!story.image_credit||!story.body||story.body.length<500||existing.has(story.slug))continue;
+      data.push({cat:story.category||'GÜNCEL',author:'ATELIER Editörlüğü',title:story.title,
+        dek:story.body.slice(0,180).replace(/\\s+/g,' ').trim()+'…',
+        body:story.body,img:story.image,imageCredit:story.image_credit,
+        slug:story.slug,source:'Editoryal onaylı içerik'});
+      existing.add(story.slug);
+    }
+    render();
+  }catch(error){console.warn('Approved editorial feed unavailable',error)}
+}
+connectApprovedNewspaperData();
 showSlide(0);syncRoute();resetSlideTimer();
 </script></body></html>
