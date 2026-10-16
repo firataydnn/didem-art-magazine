@@ -45,7 +45,7 @@ function render(){
     const picture=create('div','pic');
     picture.setAttribute('role','button');picture.setAttribute('tabindex','0');picture.setAttribute('aria-label',p.title+' yazısını oku');
     const label=imageLabel(p);if(label)picture.append(create('span','photo-label',label));
-    picture.append(addImage(p));
+    const cover=addImage(p);if(p.i<6)cover.loading='eager';picture.append(cover);
     picture.addEventListener('click',()=>goToPost(p.i));
     picture.addEventListener('keydown',e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();goToPost(p.i)}});
     article.append(picture,create('span','eyebrow',p.cat+' / '+p.author),create('h3',null,p.title),create('p',null,p.dek));
