@@ -18,14 +18,18 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Test triage
+        run: python -m unittest discover -s tests -v
       - name: Collect headlines (no publishing)
         run: python scripts/collect_art_news.py
-      - name: Commit editorial inbox if changed
+      - name: Prioritize and flag duplicate headlines
+        run: python scripts/triage_art_news.py
+      - name: Commit editorial inbox and triage if changed
         run: |
-          if ! git diff --quiet -- editorial/radar/inbox.json; then
+          git add editorial/radar/inbox.json editorial/radar/triage.json
+          if ! git diff --cached --quiet; then
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-            git add editorial/radar/inbox.json
-            git commit -m "chore(radar): collect new art headlines"
+            git commit -m "chore(radar): update art editorial inbox and triage"
             git push
           fi
