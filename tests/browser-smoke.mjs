@@ -153,6 +153,17 @@ try{
  await page.goto(base,{waitUntil:'networkidle'});
  await page.evaluate(()=>{window.scrollTo(0,0);showSlide(0)});
  await page.screenshot({path:path.join(out,'atelier-desktop.png'),fullPage:true});
+ await page.locator('button[data-cat="SANATÇI"]').click();
+ await page.waitForTimeout(100);
+ await page.evaluate(()=>window.scrollTo(0,0));
+ await page.screenshot({path:path.join(out,'atelier-category-desktop.png')});
+ await page.locator('button[data-cat="TÜMÜ"]').click();
+ await page.locator('#grid .card button.more').nth(10).click();
+ await page.waitForTimeout(100);
+ await page.screenshot({path:path.join(out,'atelier-reader-desktop.png')});
+ await page.locator('#chapter-10-1').scrollIntoViewIfNeeded();
+ await page.screenshot({path:path.join(out,'atelier-chapter-desktop.png')});
+ await page.keyboard.press('Escape');
  await desktop.close();
  const mobile=await contextFor({width:390,height:844});
  const mp=await mobile.newPage();
@@ -195,6 +206,10 @@ try{
  await mp.goto(base,{waitUntil:'networkidle'});
  await mp.evaluate(()=>window.scrollTo(0,0));
  await mp.screenshot({path:path.join(out,'atelier-mobile.png'),fullPage:true});
+ await mp.locator('#grid .card button.more').nth(10).click();
+ await mp.waitForTimeout(100);
+ await mp.screenshot({path:path.join(out,'atelier-reader-mobile.png')});
+ await mp.keyboard.press('Escape');
  await mobile.close();
  assert.deepEqual(errors,[]);
  console.log('ALL '+passed+' BROWSER CHECKS PASSED');
