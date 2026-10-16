@@ -1,0 +1,28 @@
+name: Editorial data warehouse
+on:
+  workflow_run:
+    workflows: ["Art news radar (editorial inbox)"]
+    types: [completed]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  build:
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Build editorial database
+        run: python scripts/build_editorial_db.py "$RUNNER_TEMP/didem-art-editorial.sqlite"
+      - name: Verify SQLite integrity
+        run: python -c "import sqlite3,os; c=sqlite3.connect(os.environ['RUNNER_TEMP']+'/didem-art-editorial.sqlite'); assert c.execute('PRAGMA integrity_check').fetchone()[0]=='ok'"
+      - uses: actions/upload-artifact@v4
+        with:
+          name: editorial-data-snapshot
+          path: ${{ runner.temp }}/didem-art-editorial.sqlite
+          retention-days: 14
