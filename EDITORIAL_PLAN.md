@@ -35,7 +35,7 @@ Durum: LANSMA HAZIRLIK. Resmî lansman eşiği 750 editoryal onaylı makale; hed
 
 ## Lansman kapısı
 
-Yayına hazır ve tekil içerik sayısı >=750; editoryal, görsel hakları ve teknik kontroller tamamlanmış olmalı. Mevcut 23 prototip kaydı henüz onaylı sayılmaz.
+Yayına hazır ve tekil içerik sayısı >=750; editoryal, görsel hakları ve teknik kontroller tamamlanmış olmalı. 16 Ekim 2026: Sitede 33 prototip yazı kaydı, 20 gerçek ve lisans kaydı tutulmuş yerel JPEG, 10/10 birbirinden farklı görselli güncel manşet bulunuyor. Onaylı yazı sayısı hâlâ **0**. Sitedeki 33 kaydın tümü ayrı editoryal onay gerektiriyor. Resmî lansman gerçekleşmedi.
 
 ## Operasyon notu
 

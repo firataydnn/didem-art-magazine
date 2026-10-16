@@ -27,7 +27,13 @@ jobs:
           assert m, "Article JSON not found"
           articles=json.loads(m.group(1))
           local=[(i,a["img"]) for i,a in enumerate(articles) if a.get("img","").startswith("assets/images/")]
-          assert len(local)>=14, f"Expected at least 14 real self-hosted images, got {len(local)}"
+          assert len(local)>=20, f"Expected at least 20 real self-hosted images, got {len(local)}"
+          featured=articles[:10]
+          assert len(featured)==10 and all(a.get("img","").startswith("assets/images/") for a in featured), "All ten news slides must use real local images"
+          assert len({a["img"] for a in featured})==10, "Repeated image detected in news slider"
+          assert all(a.get("imageCredit") and a.get("imageSource") and a.get("imageLicense") for a in featured), "Featured image attribution missing"
+          assert "Frieze London 2026: 172 galeri" in articles[0]["title"], "Frieze count is stale"
+          assert "17 Ekim'e kadar devam eden 212" not in articles[8]["body"], "Expired 212 Photography festival still listed as open"
           for i,path in local:
               p=Path(path)
               assert p.is_file(), f"Missing image for article {i}: {path}"
@@ -38,7 +44,7 @@ jobs:
           scripts=re.findall(r"<script(?:\s[^>]*)?>(.*?)</script>",s,re.S)
           assert scripts, "Inline JavaScript missing"
           Path("/tmp/atelier-site.js").write_text("\n".join(scripts),encoding="utf-8")
-          print(f"Verified {len(articles)} articles and {len(local)} actual local JPEG images")
+          print(f"Verified {len(articles)} articles, {len(local)} local JPEGs, 10 unique illustrated news slides")
           PY
       - name: Validate JavaScript syntax
         run: node --check /tmp/atelier-site.js

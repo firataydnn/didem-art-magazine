@@ -106,7 +106,7 @@ def main() -> int:
             articles[idx]["imageSource"] = source_page
             articles[idx]["imageLicense"] = license_name
             articles[idx]["imageLicenseUrl"] = license_url
-            articles[idx]["imageKind"] = "archive_venue" if rec.get("photographer") else "artwork"
+            articles[idx]["imageKind"] = rec.get("kind") or ("archive_venue" if rec.get("photographer") else "artwork")
             success[rec["slug"]] = {
                 "articleIndex": idx, "localPath": "assets/images/" + target.name,
                 "sourceFile": rec["file"], "sourcePage": source_page,

@@ -9,7 +9,8 @@
       "photographer": "Kirsteen",
       "work": "Frieze Art Fair 2007, Londra",
       "note": "2007 tarihli fuar arşiv fotoğrafıdır; 2026 edisyonunu göstermez.",
-      "allow_cc": true
+      "allow_cc": true,
+      "kind": "archive_event"
     },
     {
       "index": 1,
@@ -19,7 +20,8 @@
       "photographer": "Rodolph",
       "work": "Frieze Masters, Londra (Ekim 2014)",
       "note": "2014 tarihli fuar arşiv fotoğrafıdır; 2026 edisyonunu göstermez.",
-      "allow_cc": true
+      "allow_cc": true,
+      "kind": "archive_event"
     },
     {
       "index": 2,
@@ -29,7 +31,8 @@
       "photographer": "Jwslubbock",
       "work": "Institute of Contemporary Arts, Londra (17 Ağustos 2017)",
       "note": "ICA'nın arşiv mekân fotoğrafıdır; Frieze × ICA 2026 gösterimini göstermez.",
-      "allow_cc": true
+      "allow_cc": true,
+      "kind": "archive_venue"
     },
     {
       "index": 3,
@@ -39,7 +42,8 @@
       "photographer": "Dustininala",
       "work": "Analog fotoğraf makinesi (2019)",
       "note": "Fotoğrafçılık konulu temsili editoryal görseldir; 212 Photography Istanbul etkinlik fotoğrafı değildir.",
-      "allow_cc": true
+      "allow_cc": true,
+      "kind": "editorial_illustration"
     },
     {
       "index": 4,
@@ -49,7 +53,8 @@
       "photographer": "Jelican9",
       "work": "Müze Gazhane, İstanbul (28 Eylül 2021)",
       "note": "Mekânın arşiv fotoğrafıdır; 16 Ekim 2026 etkinliğini göstermez.",
-      "allow_cc": true
+      "allow_cc": true,
+      "kind": "archive_venue"
     },
     {
       "index": 5,
@@ -59,7 +64,8 @@
       "photographer": "Olmamisbadem",
       "work": "Perili Köşk, Borusan Contemporary'nin bulunduğu yapı (14 Eylül 2019)",
       "note": "Mekânın arşiv fotoğrafıdır; 17 Ekim 2026 etkinliğini göstermez.",
-      "allow_cc": true
+      "allow_cc": true,
+      "kind": "archive_venue"
     },
     {
       "index": 6,
@@ -69,7 +75,8 @@
       "photographer": "Brett Jordan",
       "work": "Tate Modern Turbine Hall (10 Ağustos 2026)",
       "note": "Mekânın arşiv fotoğrafıdır; Tarek Atoui'nin enstalasyonunu göstermez.",
-      "allow_cc": true
+      "allow_cc": true,
+      "kind": "archive_venue"
     },
     {
       "index": 7,
@@ -77,7 +84,8 @@
       "file": "Christie's Auction Rooms MET DP881476.jpg",
       "artist": "Thomas Rowlandson, Augustus Pugin ve John Bluck",
       "work": "Christie's Auction Rooms (1808)",
-      "note": "1808 tarihli gravürdür; güncel bir müzayedenin fotoğrafı değildir."
+      "note": "1808 tarihli gravürdür; güncel bir müzayedenin fotoğrafı değildir.",
+      "kind": "historical_artwork"
     },
     {
       "index": 8,
@@ -87,7 +95,8 @@
       "photographer": "Dosseman",
       "work": "İstanbul Modern dış cephe (29 Mayıs 2024)",
       "note": "İstanbul sanat rotasına ait mekân arşiv fotoğrafıdır; haberdeki etkinliklerin çekimi değildir.",
-      "allow_cc": true
+      "allow_cc": true,
+      "kind": "archive_venue"
     },
     {
       "index": 9,
@@ -95,77 +104,88 @@
       "file": "Ball at the Moulin de la Galette Renoir 1876.jpg",
       "artist": "Pierre-Auguste Renoir",
       "work": "Bal du moulin de la Galette (1876)",
-      "note": "Tarihsel eser görseli; Londra sergisinin çekimi veya sergilenen eser olduğuna dair iddia değildir."
+      "note": "Tarihsel eser görseli; Londra sergisinin çekimi veya sergilenen eser olduğuna dair iddia değildir.",
+      "kind": "historical_artwork"
     },
     {
       "index": 10,
       "slug": "van-gogh-starry-night",
       "file": "Van Gogh - Starry Night - Google Art Project.jpg",
       "artist": "Vincent van Gogh",
-      "work": "The Starry Night (1889)"
+      "work": "The Starry Night (1889)",
+      "kind": "artwork"
     },
     {
       "index": 12,
       "slug": "hokusai-great-wave",
       "file": "The Great Wave off Kanagawa.jpg",
       "artist": "Katsushika Hokusai",
-      "work": "The Great Wave off Kanagawa"
+      "work": "The Great Wave off Kanagawa",
+      "kind": "artwork"
     },
     {
       "index": 13,
       "slug": "seurat-grande-jatte",
       "file": "Georges Seurat - A Sunday on La Grande Jatte -- 1884 - Google Art Project.jpg",
       "artist": "Georges Seurat",
-      "work": "A Sunday Afternoon on the Island of La Grande Jatte"
+      "work": "A Sunday Afternoon on the Island of La Grande Jatte",
+      "kind": "artwork"
     },
     {
       "index": 14,
       "slug": "klimt-kiss",
       "file": "Gustav Klimt 016.jpg",
       "artist": "Gustav Klimt",
-      "work": "The Kiss (1907–1908)"
+      "work": "The Kiss (1907–1908)",
+      "kind": "artwork"
     },
     {
       "index": 15,
       "slug": "monet-water-lilies",
       "file": "Claude Monet - Water Lilies - 1906, Ryerson.jpg",
       "artist": "Claude Monet",
-      "work": "Water Lilies (1906)"
+      "work": "Water Lilies (1906)",
+      "kind": "artwork"
     },
     {
       "index": 20,
       "slug": "botticelli-venus",
       "file": "Sandro Botticelli - La nascita di Venere - Google Art ProjectFXD.jpg",
       "artist": "Sandro Botticelli",
-      "work": "The Birth of Venus"
+      "work": "The Birth of Venus",
+      "kind": "artwork"
     },
     {
       "index": 22,
       "slug": "artemisia-allegory",
       "file": "Self-portrait as the Allegory of Painting (La Pittura) - Artemisia Gentileschi.jpg",
       "artist": "Artemisia Gentileschi",
-      "work": "Self-Portrait as the Allegory of Painting"
+      "work": "Self-Portrait as the Allegory of Painting",
+      "kind": "artwork"
     },
     {
       "index": 23,
       "slug": "vermeer-art-painting",
       "file": "Jan Vermeer - The Art of Painting - Google Art Project.jpg",
       "artist": "Johannes Vermeer",
-      "work": "The Art of Painting"
+      "work": "The Art of Painting",
+      "kind": "artwork"
     },
     {
       "index": 25,
       "slug": "velazquez-meninas",
       "file": "Las Meninas 01.jpg",
       "artist": "Diego Velázquez",
-      "work": "Las Meninas"
+      "work": "Las Meninas",
+      "kind": "artwork"
     },
     {
       "index": 29,
       "slug": "munch-scream",
       "file": "Edvard Munch - The Scream.jpg",
       "artist": "Edvard Munch",
-      "work": "The Scream (1893)"
+      "work": "The Scream (1893)",
+      "kind": "artwork"
     }
   ]
 }
