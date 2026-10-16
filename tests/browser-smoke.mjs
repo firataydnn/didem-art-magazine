@@ -94,6 +94,7 @@ try{
    await mp.waitForTimeout(100);
    assert.equal(await mp.locator('#overlay.on').count(),1);
    await mp.locator('#overlay .close').click();
+   await mp.locator('#overlay').evaluate(el=>new Promise((resolve,reject)=>{if(!el.classList.contains('on'))return resolve();const start=Date.now();const id=setInterval(()=>{if(!el.classList.contains('on')){clearInterval(id);resolve()}else if(Date.now()-start>3000){clearInterval(id);reject(new Error('Mobile modal did not close'))}},30)}));
    assert.equal(await mp.locator('#overlay.on').count(),0)
  });
  await mp.screenshot({path:path.join(out,'atelier-mobile.png'),fullPage:true});
