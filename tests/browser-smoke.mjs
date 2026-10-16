@@ -48,6 +48,7 @@ try{
    await page.waitForTimeout(100);
    assert.ok(page.url().includes('kategori/'));
    assert.equal(await page.locator('.news-slider').isVisible(),false);
+   assert.equal(await page.locator('.main > .banner').isVisible(),false);
    assert.equal(await page.locator('#category-feature .category-hero').isVisible(),true);
    const count=await page.locator('#grid article.card').count();
    assert.ok(count>0&&count<33);
