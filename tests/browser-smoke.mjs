@@ -108,6 +108,12 @@ try{
    await p.goto(base+'gorsel-haklari.html',{waitUntil:'networkidle'});
    assert.ok((await p.locator('h1').innerText()).includes('Görsel hakları'));
    assert.equal(await p.locator('#assets tr').count(),20);
+   const rightsDepth=await p.evaluate(()=>document.documentElement.scrollHeight/innerHeight);
+   assert.ok(rightsDepth>=5,'image rights page under five screens: '+rightsDepth);
+   await p.goto(base+'yayin-ilkeleri.html',{waitUntil:'domcontentloaded'});
+   assert.equal(await p.locator('section.standard').count(),11);
+   const policyDepth=await p.evaluate(()=>document.documentElement.scrollHeight/innerHeight);
+   assert.ok(policyDepth>=5,'editorial policy page under five screens: '+policyDepth);
    await p.close()
  });
  await check('editorial AI banner is hosted locally',async()=>{
