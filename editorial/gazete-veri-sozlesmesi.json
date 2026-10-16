@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "description": "Proposed newspaper content data contract; sample structures, not published records",
+  "source": {
+    "id": "",
+    "name": "",
+    "country": "",
+    "kind": "",
+    "url": "",
+    "feed": "",
+    "verified_at": null
+  },
+  "event": {
+    "id": "",
+    "event_type": "",
+    "occurred_at": null,
+    "location": "",
+    "entity_ids": [],
+    "evidence_ids": [],
+    "verification_status": "unverified"
+  },
+  "entity": {
+    "id": "",
+    "type": "artist|artwork|museum|gallery|fair|auction_house",
+    "name": "",
+    "aliases": [],
+    "country": ""
+  },
+  "source_evidence": {
+    "id": "",
+    "event_id": "",
+    "claim": "",
+    "source_url": "",
+    "checked_at": null
+  },
+  "asset": {
+    "id": "",
+    "article_id": "",
+    "source_url": "",
+    "creator": "",
+    "license": "",
+    "permission_status": "unverified",
+    "credit": "",
+    "alt": ""
+  },
+  "story": {
+    "id": "",
+    "event_ids": [],
+    "entity_ids": [],
+    "title": "",
+    "dek": "",
+    "body": "",
+    "category": "",
+    "slug": "",
+    "status": "draft",
+    "approved_at": null
+  },
+  "publication": {
+    "story_id": "",
+    "published_at": null,
+    "revision": 0,
+    "correction_note": ""
+  }
+}
