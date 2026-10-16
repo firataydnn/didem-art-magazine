@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "count": 35,
+  "count": 42,
   "possible_duplicates": 0,
   "items": [
     {
@@ -52,12 +52,12 @@
       "publication_approved": false
     },
     {
-      "id": "a7ba527a833b76d997d3",
-      "title": "12 Must-Read Books on Textiles and Fiber Art",
-      "url": "https://hyperallergic.com/12-must-read-books-on-textiles-and-fiber-art/",
-      "source": "Hyperallergic",
-      "published": "2026-10-15T21:04:15+00:00",
-      "priority_score": 7,
+      "id": "c2c77d491cef41c631cb",
+      "title": "Norton Simon Museum Countersues Jewish Dealer’s Heirs Over Looted Cranach Painting, Extending a Decades-Long Fight",
+      "url": "https://www.artnews.com/art-news/news/norton-simon-museum-countersues-jewish-heirs-looted-cranach-1234802779/",
+      "source": "ARTnews",
+      "published": "2026-10-16T19:59:46+00:00",
+      "priority_score": 9,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -69,6 +69,30 @@
       "url": "https://hyperallergic.com/a-view-from-the-easel-359/",
       "source": "Hyperallergic",
       "published": "2026-10-16T15:13:08+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "2c983bbd4686407e3b93",
+      "title": "ARTnews Celebrates 2026 Edition of Annual Top 200 Collectors Issue",
+      "url": "https://www.artnews.com/art-news/news/artnews-top-200-collectors-2026-issue-launch-party-1234802617/",
+      "source": "ARTnews",
+      "published": "2026-10-16T20:00:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "c2095e990bf990c22342",
+      "title": "ARTnews Celebrates 2026 Top 200 Collectors Issue",
+      "url": "https://www.artnews.com/gallery/art-news/photos/artnews-2026-top-200-collectors-slideshow-1234802680/",
+      "source": "ARTnews",
+      "published": "2026-10-16T19:57:12+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -88,11 +112,35 @@
       "publication_approved": false
     },
     {
+      "id": "7efb7f5fbbf5f5aeea23",
+      "title": "Artavazd Pelechian’s Distant Connections",
+      "url": "https://hyperallergic.com/artavazd-pelechians-distant-connections/",
+      "source": "Hyperallergic",
+      "published": "2026-10-16T20:38:30+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "62977e45e637eea7d71f",
       "title": "Brazilian Outpost of Centre Pompidou Pushed Back to 2029",
       "url": "https://www.artnews.com/art-news/news/centre-pompidou-parana-delay-1234802759/",
       "source": "ARTnews",
       "published": "2026-10-16T18:17:55+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "37c82a366b2b60f5718d",
+      "title": "Cannupa Hanska Luger’s Truth About America",
+      "url": "https://hyperallergic.com/cannupa-hanska-lugers-truth-about-america/",
+      "source": "Hyperallergic",
+      "published": "2026-10-16T20:59:31+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -196,6 +244,18 @@
       "publication_approved": false
     },
     {
+      "id": "5f534458cea754b29650",
+      "title": "Rubaiya Qatar Quadrennial Names More Than 120 Artists for Inaugural Edition",
+      "url": "https://www.artnews.com/art-news/news/rubaiya-qatar-2026-inaugural-edition-artist-list-1234802793/",
+      "source": "ARTnews",
+      "published": "2026-10-16T21:21:51+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "a56771dd73392f5add7e",
       "title": "Strife at Tom of Finland Foundation as Cofounder Levels Accusations and the Board Claims Harassment",
       "url": "https://www.artnews.com/art-news/news/tom-of-finland-foundation-cofounder-accusations-board-1234802673/",
@@ -208,11 +268,11 @@
       "publication_approved": false
     },
     {
-      "id": "36126ea32f0e94d2433d",
-      "title": "The 98-Year-Old Pop Art Queen Behind an Iconic Lichtenstein Billboard",
-      "url": "https://hyperallergic.com/the-98-year-old-pop-art-queen-behind-an-iconic-lichtenstein-billboard/",
+      "id": "dc840295448426ac1074",
+      "title": "Tanya Merrill's Animal Instinct",
+      "url": "https://hyperallergic.com/tanya-merrills-animal-instinct/",
       "source": "Hyperallergic",
-      "published": "2026-10-15T20:10:18+00:00",
+      "published": "2026-10-16T20:11:17+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -268,12 +328,12 @@
       "publication_approved": false
     },
     {
-      "id": "ff8bf68c589eb50fa713",
-      "title": "WPA Murals at Harlem Hospital Restored to Their Original Glory",
-      "url": "https://hyperallergic.com/wpa-murals-at-harlem-hospital-restored-to-their-original-glory/",
+      "id": "a7ba527a833b76d997d3",
+      "title": "12 Must-Read Books on Textiles and Fiber Art",
+      "url": "https://hyperallergic.com/12-must-read-books-on-textiles-and-fiber-art/",
       "source": "Hyperallergic",
-      "published": "2026-10-15T20:58:56+00:00",
-      "priority_score": 7,
+      "published": "2026-10-15T21:04:15+00:00",
+      "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -328,6 +388,18 @@
       "publication_approved": false
     },
     {
+      "id": "36126ea32f0e94d2433d",
+      "title": "The 98-Year-Old Pop Art Queen Behind an Iconic Lichtenstein Billboard",
+      "url": "https://hyperallergic.com/the-98-year-old-pop-art-queen-behind-an-iconic-lichtenstein-billboard/",
+      "source": "Hyperallergic",
+      "published": "2026-10-15T20:10:18+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "de5b83cd36646149c608",
       "title": "The Wildlife Photographer of the Year 2026 Winners Showcase Nature’s Power and Vulnerability",
       "url": "https://www.thisiscolossal.com/2026/10/wildlife-photographer-of-the-year-2026-winners/",
@@ -345,6 +417,18 @@
       "url": "https://hyperallergic.com/valerio-adamis-hot-and-cold-art/",
       "source": "Hyperallergic",
       "published": "2026-10-15T18:31:38+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "ff8bf68c589eb50fa713",
+      "title": "WPA Murals at Harlem Hospital Restored to Their Original Glory",
+      "url": "https://hyperallergic.com/wpa-murals-at-harlem-hospital-restored-to-their-original-glory/",
+      "source": "Hyperallergic",
+      "published": "2026-10-15T20:58:56+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
