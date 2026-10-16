@@ -1,6 +1,46 @@
 {
   "source": "Wikimedia Commons; license checked per file",
   "downloaded": {
+    "frieze-london-2007-archive": {
+      "articleIndex": 0,
+      "localPath": "assets/images/frieze-london-2007-archive.jpg",
+      "sourceFile": "Frieze Art Fair 2007 (1676072946).jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Frieze_Art_Fair_2007_%281676072946%29.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "credit": "Fotoğraf: Kirsteen. Frieze Art Fair 2007, Londra. Kaynak: Wikimedia Commons. Lisans: CC BY-SA 2.0. 2007 tarihli fuar arşiv fotoğrafıdır; 2026 edisyonunu göstermez.",
+      "bytes": 869255
+    },
+    "frieze-masters-2014-archive": {
+      "articleIndex": 1,
+      "localPath": "assets/images/frieze-masters-2014-archive.jpg",
+      "sourceFile": "Frieze Masters, London Art Fair, October 2014.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Frieze_Masters%2C_London_Art_Fair%2C_October_2014.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "credit": "Fotoğraf: Rodolph. Frieze Masters, Londra (Ekim 2014). Kaynak: Wikimedia Commons. Lisans: CC BY-SA 3.0. 2014 tarihli fuar arşiv fotoğrafıdır; 2026 edisyonunu göstermez.",
+      "bytes": 122033
+    },
+    "ica-london-2017-archive": {
+      "articleIndex": 2,
+      "localPath": "assets/images/ica-london-2017-archive.jpg",
+      "sourceFile": "Institute of Contemporary Arts August 2017.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Institute_of_Contemporary_Arts_August_2017.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "Fotoğraf: Jwslubbock. Institute of Contemporary Arts, Londra (17 Ağustos 2017). Kaynak: Wikimedia Commons. Lisans: CC BY-SA 4.0. ICA'nın arşiv mekân fotoğrafıdır; Frieze × ICA 2026 gösterimini göstermez.",
+      "bytes": 205246
+    },
+    "photography-kodak-camera-editorial": {
+      "articleIndex": 3,
+      "localPath": "assets/images/photography-kodak-camera-editorial.jpg",
+      "sourceFile": "Black and White Image of Vintage Kodak Camera.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Black_and_White_Image_of_Vintage_Kodak_Camera.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "Fotoğraf: Dustininala. Analog fotoğraf makinesi (2019). Kaynak: Wikimedia Commons. Lisans: CC BY-SA 4.0. Fotoğrafçılık konulu temsili editoryal görseldir; 212 Photography Istanbul etkinlik fotoğrafı değildir.",
+      "bytes": 450134
+    },
     "muze-gazhane-archive": {
       "articleIndex": 4,
       "localPath": "assets/images/muze-gazhane-archive.jpg",
@@ -30,6 +70,26 @@
       "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
       "credit": "Fotoğraf: Brett Jordan. Tate Modern Turbine Hall (10 Ağustos 2026). Kaynak: Wikimedia Commons. Lisans: CC BY 4.0. Mekânın arşiv fotoğrafıdır; Tarek Atoui'nin enstalasyonunu göstermez.",
       "bytes": 391292
+    },
+    "christies-auction-rooms-1808": {
+      "articleIndex": 7,
+      "localPath": "assets/images/christies-auction-rooms-1808.jpg",
+      "sourceFile": "Christie's Auction Rooms MET DP881476.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Christie%27s_Auction_Rooms_MET_DP881476.jpg",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "credit": "Thomas Rowlandson, Augustus Pugin ve John Bluck, Christie's Auction Rooms (1808). Kaynak: Wikimedia Commons. Lisans: CC0. 1808 tarihli gravürdür; güncel bir müzayedenin fotoğrafı değildir.",
+      "bytes": 435670
+    },
+    "istanbul-modern-exterior-2024": {
+      "articleIndex": 8,
+      "localPath": "assets/images/istanbul-modern-exterior-2024.jpg",
+      "sourceFile": "Istanbul Museum of Modern Art Exterior in 2024 5626.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Istanbul_Museum_of_Modern_Art_Exterior_in_2024_5626.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "credit": "Fotoğraf: Dosseman. İstanbul Modern dış cephe (29 Mayıs 2024). Kaynak: Wikimedia Commons. Lisans: CC BY-SA 4.0. İstanbul sanat rotasına ait mekân arşiv fotoğrafıdır; haberdeki etkinliklerin çekimi değildir.",
+      "bytes": 252573
     },
     "renoir-moulin-galette": {
       "articleIndex": 9,
