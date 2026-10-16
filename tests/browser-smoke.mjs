@@ -17,6 +17,14 @@ try{
  page.on('pageerror',e=>errors.push(String(e)));
  await page.goto(base,{waitUntil:'networkidle'});
  await check('33 articles render',async()=>assert.equal(await page.locator('#grid article.card').count(),33));
+ await check('first six editorial card images are eagerly loaded',async()=>{
+   const images=page.locator('#grid article.card img');
+   for(let i=0;i<6;i++){
+     const state=await images.nth(i).evaluate(img=>({loading:img.loading,ready:img.complete&&img.naturalWidth>0}));
+     assert.equal(state.loading,'eager');
+     assert.ok(state.ready,'Editorial image '+i+' is blank')
+   }
+ });
  await check('featured images all distinct and load from same origin',async()=>{
    const sources=new Set();
    for(let i=0;i<10;i++){
