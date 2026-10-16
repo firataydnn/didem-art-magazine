@@ -29,6 +29,7 @@ jobs:
           DIDEM_SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.DIDEM_SUPABASE_SERVICE_ROLE_KEY }}
         run: python scripts/sync_supabase_radar.py
       - name: Commit editorial inbox and triage if changed
+        if: always() && !cancelled()
         run: |
           git add editorial/radar/inbox.json editorial/radar/triage.json
           if ! git diff --cached --quiet; then
