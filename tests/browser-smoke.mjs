@@ -58,7 +58,7 @@ try{
    assert.ok(page.url().includes('#/yazi/'));
    assert.equal(await page.locator('#overlay.on').count(),1);
    assert.equal(await page.locator('#post h2').count(),1);
-   assert.equal(await page.locator('#post figure img').count(),1);
+   assert.equal(await page.locator('#post .longform-cover img').count(),1);
    await page.keyboard.press('Escape');
    await page.waitForTimeout(100);
    assert.equal(await page.locator('#overlay.on').count(),0)
@@ -104,6 +104,32 @@ try{
    const response=await page.request.get(base+'assets/images/atelier-original-ai-banner.png');
    assert.equal(response.status(),200);
    assert.ok((await response.body()).length>1000)
+ });
+ await check('all 33 articles have five unique chapters and five-screen reading depth',async()=>{
+   const result=await page.evaluate(()=>{
+     const report=[];
+     for(let i=0;i<data.length;i++){
+       showPost(i);
+       const chapters=document.querySelectorAll('#post .reader-chapter');
+       const titles=Array.from(chapters,el=>el.querySelector('h3')?.textContent||'');
+       report.push({i,chapters:chapters.length,unique:new Set(titles).size,ratio:overlay.scrollHeight/overlay.clientHeight});
+     }
+     hidePost();
+     return report
+   });
+   assert.equal(result.length,33);
+   for(const x of result){assert.equal(x.chapters,5,'chapter count '+x.i);assert.equal(x.unique,5,'unique chapter titles '+x.i);assert.ok(x.ratio>=5,'not five screens '+JSON.stringify(x))}
+ });
+ await check('all eight category pages have four substantial editorial features and five-screen depth',async()=>{
+   const report=await page.evaluate(()=>{
+     const result=[];
+     for(const name of ['GÜNCEL','PİYASA','SANATÇI','ESER ATLASI','SANAT TARİHİ','REHBER','DOSYA','DEDİKODU']){
+       cat=name;render();
+       result.push({name,features:document.querySelectorAll('#category-feature .category-chapter').length,ratio:document.documentElement.scrollHeight/innerHeight});
+     }
+     cat='TÜMÜ';render();return result
+   });
+   for(const x of report){assert.equal(x.features,4,'category chapters '+x.name);assert.ok(x.ratio>=5,'category shorter than five screens '+JSON.stringify(x))}
  });
  await check('no uncaught browser JS errors',async()=>assert.deepEqual(errors,[]));
  await page.goto(base,{waitUntil:'networkidle'});
