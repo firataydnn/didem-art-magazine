@@ -1,0 +1,96 @@
+{
+  "source": "Wikimedia Commons; license checked per file",
+  "downloaded": {
+    "renoir-moulin-galette": {
+      "articleIndex": 9,
+      "localPath": "assets/images/renoir-moulin-galette.jpg",
+      "sourceFile": "Ball at the Moulin de la Galette Renoir 1876.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Ball_at_the_Moulin_de_la_Galette_Renoir_1876.jpg",
+      "license": "Public domain",
+      "credit": "Pierre-Auguste Renoir, Bal du moulin de la Galette (1876). Kaynak: Wikimedia Commons. Lisans: Public domain. Tarihsel eser görseli; Londra sergisinin çekimi veya sergilenen eser olduğuna dair iddia değildir.",
+      "bytes": 350927
+    },
+    "van-gogh-starry-night": {
+      "articleIndex": 10,
+      "localPath": "assets/images/van-gogh-starry-night.jpg",
+      "sourceFile": "Van Gogh - Starry Night - Google Art Project.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "license": "Public domain",
+      "credit": "Vincent van Gogh, The Starry Night (1889). Kaynak: Wikimedia Commons. Lisans: Public domain.",
+      "bytes": 618432
+    },
+    "hokusai-great-wave": {
+      "articleIndex": 12,
+      "localPath": "assets/images/hokusai-great-wave.jpg",
+      "sourceFile": "The Great Wave off Kanagawa.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Great_Wave_off_Kanagawa.jpg",
+      "license": "Public domain",
+      "credit": "Katsushika Hokusai, The Great Wave off Kanagawa. Kaynak: Wikimedia Commons. Lisans: Public domain.",
+      "bytes": 433605
+    },
+    "seurat-grande-jatte": {
+      "articleIndex": 13,
+      "localPath": "assets/images/seurat-grande-jatte.jpg",
+      "sourceFile": "Georges Seurat - A Sunday on La Grande Jatte -- 1884 - Google Art Project.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Georges_Seurat_-_A_Sunday_on_La_Grande_Jatte_--_1884_-_Google_Art_Project.jpg",
+      "license": "Public domain",
+      "credit": "Georges Seurat, A Sunday Afternoon on the Island of La Grande Jatte. Kaynak: Wikimedia Commons. Lisans: Public domain.",
+      "bytes": 419417
+    },
+    "klimt-kiss": {
+      "articleIndex": 14,
+      "localPath": "assets/images/klimt-kiss.jpg",
+      "sourceFile": "Gustav Klimt 016.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Gustav_Klimt_016.jpg",
+      "license": "Public domain",
+      "credit": "Gustav Klimt, The Kiss (1907–1908). Kaynak: Wikimedia Commons. Lisans: Public domain.",
+      "bytes": 2239505
+    },
+    "monet-water-lilies": {
+      "articleIndex": 15,
+      "localPath": "assets/images/monet-water-lilies.jpg",
+      "sourceFile": "Claude Monet - Water Lilies - 1906, Ryerson.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Water_Lilies_-_1906%2C_Ryerson.jpg",
+      "license": "Public domain",
+      "credit": "Claude Monet, Water Lilies (1906). Kaynak: Wikimedia Commons. Lisans: Public domain.",
+      "bytes": 723038
+    },
+    "botticelli-venus": {
+      "articleIndex": 20,
+      "localPath": "assets/images/botticelli-venus.jpg",
+      "sourceFile": "Sandro Botticelli - La nascita di Venere - Google Art ProjectFXD.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_nascita_di_Venere_-_Google_Art_ProjectFXD.jpg",
+      "license": "Public domain",
+      "credit": "Sandro Botticelli, The Birth of Venus. Kaynak: Wikimedia Commons. Lisans: Public domain.",
+      "bytes": 404243
+    },
+    "velazquez-meninas": {
+      "articleIndex": 25,
+      "localPath": "assets/images/velazquez-meninas.jpg",
+      "sourceFile": "Las Meninas 01.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Las_Meninas_01.jpg",
+      "license": "Public domain",
+      "credit": "Diego Velázquez, Las Meninas. Kaynak: Wikimedia Commons. Lisans: Public domain.",
+      "bytes": 454227
+    },
+    "munch-scream": {
+      "articleIndex": 29,
+      "localPath": "assets/images/munch-scream.jpg",
+      "sourceFile": "Edvard Munch - The Scream.jpg",
+      "sourcePage": "https://commons.wikimedia.org/wiki/File:Edvard_Munch_-_The_Scream.jpg",
+      "license": "Public domain",
+      "credit": "Edvard Munch, The Scream (1893). Kaynak: Wikimedia Commons. Lisans: Public domain.",
+      "bytes": 569520
+    }
+  },
+  "failures": [
+    [
+      "artemisia-allegory",
+      "Commons file does not exist"
+    ],
+    [
+      "vermeer-art-painting",
+      "Commons file does not exist"
+    ]
+  ]
+}
