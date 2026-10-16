@@ -94,6 +94,8 @@ const CATEGORY_EDITORIAL={
 function addCategoryFeature(cat){
  const host=document.getElementById('category-feature');
  if(!host)return;
+ const landing=cat!=='TÜMÜ'&&!document.getElementById('q').value.trim();
+ document.body.classList.toggle('category-mode',landing);
  host.replaceChildren();
  if(cat==='TÜMÜ'||document.getElementById('q').value.trim()){host.hidden=true;return}
  const config=CATEGORY_EDITORIAL[cat];if(!config){host.hidden=true;return}
