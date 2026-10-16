@@ -1,0 +1,103 @@
+import {chromium} from 'playwright';
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import path from 'node:path';
+
+const base='http://127.0.0.1:8765/';
+const out='test-results';
+fs.mkdirSync(out,{recursive:true});
+const browser=await chromium.launch({headless:true});
+const errors=[];
+let passed=0;
+async function check(label,fn){try{await fn();passed++;console.log('PASS',label)}catch(e){console.error('FAIL',label,e);throw e}}
+async function contextFor(viewport){return browser.newContext({viewport,reducedMotion:'reduce',locale:'tr-TR'})}
+try{
+ const desktop=await contextFor({width:1440,height:900});
+ const page=await desktop.newPage();
+ page.on('pageerror',e=>errors.push(String(e)));
+ await page.goto(base,{waitUntil:'networkidle'});
+ await check('33 articles render',async()=>assert.equal(await page.locator('#grid article.card').count(),33));
+ await check('featured images all distinct and load from same origin',async()=>{
+   const sources=new Set();
+   for(let i=0;i<10;i++){
+     await page.locator('#slide-dots button').nth(i).click();
+     const result=await page.locator('#slide-img').evaluate(img=>({src:img.currentSrc,ok:img.complete&&img.naturalWidth>0}));
+     assert.ok(result.src.includes('/assets/images/'),result.src);
+     assert.ok(result.ok,'slide '+(i+1)+' did not load');
+     sources.add(result.src)
+   }
+   assert.equal(sources.size,10)
+ });
+ await check('search returns matching articles and clear restores all',async()=>{
+   await page.locator('#q').fill('Hokusai');
+   assert.ok(await page.locator('#grid article.card').count()>=1);
+   assert.ok(await page.locator('#grid article.card').count()<33);
+   await page.locator('#search-clear').click();
+   assert.equal(await page.locator('#grid article.card').count(),33)
+ });
+ await check('category navigation and all reset',async()=>{
+   await page.locator('button[data-cat="SANATÇI"]').click();
+   await page.waitForTimeout(100);
+   assert.ok(page.url().includes('kategori/'));
+   const count=await page.locator('#grid article.card').count();
+   assert.ok(count>0&&count<33);
+   await page.locator('button[data-cat="TÜMÜ"]').click();
+   assert.equal(await page.locator('#grid article.card').count(),33)
+ });
+ await check('article opens, shareable URL and Escape close',async()=>{
+   await page.locator('#grid .card button.more').first().click();
+   await page.waitForTimeout(100);
+   assert.ok(page.url().includes('#/yazi/'));
+   assert.equal(await page.locator('#overlay.on').count(),1);
+   assert.equal(await page.locator('#post h2').count(),1);
+   assert.equal(await page.locator('#post figure img').count(),1);
+   await page.keyboard.press('Escape');
+   await page.waitForTimeout(100);
+   assert.equal(await page.locator('#overlay.on').count(),0)
+ });
+ await check('direct article URL loads',async()=>{
+   await page.goto(base+'#/yazi/yildizli-gece-gokyuzunun-hafizasi',{waitUntil:'domcontentloaded'});
+   await page.waitForTimeout(100);
+   assert.equal(await page.locator('#overlay.on').count(),1);
+   assert.ok((await page.locator('#post h2').innerText()).includes('Yıldızlı Gece'));
+   await page.locator('#overlay .close').click();
+   await page.waitForTimeout(100);
+   assert.equal(await page.locator('#overlay.on').count(),0)
+ });
+ await check('dedikodu feature selects correct category',async()=>{
+   await page.locator('button[data-cat="TÜMÜ"]').click();
+   await page.locator('button:has-text("Dedikodu bölümünü keşfet")').click();
+   await page.waitForTimeout(100);
+   assert.equal(await page.locator('#grid article.card').count(),1);
+   assert.ok((await page.locator('#grid h3').first().innerText()).includes('Sanat kulisleri'))
+ });
+ await check('ticker stories open intended article',async()=>{
+   await page.locator('[data-open-article="12"]').click();
+   await page.waitForTimeout(100);
+   assert.ok((await page.locator('#post h2').innerText()).includes('Büyük Dalga'));
+   await page.keyboard.press('Escape')
+ });
+ await check('no uncaught browser JS errors',async()=>assert.deepEqual(errors,[]));
+ await page.screenshot({path:path.join(out,'atelier-desktop.png'),fullPage:true});
+ await desktop.close();
+ const mobile=await contextFor({width:390,height:844});
+ const mp=await mobile.newPage();
+ mp.on('pageerror',e=>errors.push(String(e)));
+ await mp.goto(base,{waitUntil:'networkidle'});
+ await check('mobile navigation and article cards fit viewport',async()=>{
+   const width=await mp.evaluate(()=>({scroll:document.documentElement.scrollWidth,inner:innerWidth}));
+   assert.ok(width.scroll<=width.inner+2,JSON.stringify(width));
+   assert.equal(await mp.locator('#grid article.card').count(),33)
+ });
+ await check('mobile modal opens, closes and fits viewport',async()=>{
+   await mp.locator('#grid article.card button.more').first().click();
+   await mp.waitForTimeout(100);
+   assert.equal(await mp.locator('#overlay.on').count(),1);
+   await mp.locator('#overlay .close').click();
+   assert.equal(await mp.locator('#overlay.on').count(),0)
+ });
+ await mp.screenshot({path:path.join(out,'atelier-mobile.png'),fullPage:true});
+ await mobile.close();
+ assert.deepEqual(errors,[]);
+ console.log('ALL '+passed+' BROWSER CHECKS PASSED');
+}finally{await browser.close()}
