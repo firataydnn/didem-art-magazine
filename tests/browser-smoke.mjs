@@ -77,6 +77,26 @@ try{
    assert.ok((await page.locator('#post h2').innerText()).includes('Büyük Dalga'));
    await page.keyboard.press('Escape')
  });
+ await check('editorial policy and licensing pages load from footer',async()=>{
+   const policy=page.locator('footer a[href="yayin-ilkeleri.html"]');
+   const rights=page.locator('footer a[href="gorsel-haklari.html"]');
+   assert.equal(await policy.count(),1);
+   assert.equal(await rights.count(),1);
+   const p=await desktop.newPage();
+   await p.goto(base+'yayin-ilkeleri.html',{waitUntil:'domcontentloaded'});
+   assert.ok((await p.locator('h1').innerText()).includes('Yayın ilkeleri'));
+   await p.goto(base+'gorsel-haklari.html',{waitUntil:'networkidle'});
+   assert.ok((await p.locator('h1').innerText()).includes('Görsel hakları'));
+   assert.equal(await p.locator('#assets tr').count(),20);
+   await p.close()
+ });
+ await check('editorial AI banner is hosted locally',async()=>{
+   const style=await page.locator('aside.banner').getAttribute('style');
+   assert.ok(style.includes('assets/images/atelier-original-ai-banner.png'));
+   const response=await page.request.get(base+'assets/images/atelier-original-ai-banner.png');
+   assert.equal(response.status(),200);
+   assert.ok((await response.body()).length>1000)
+ });
  await check('no uncaught browser JS errors',async()=>assert.deepEqual(errors,[]));
  await page.screenshot({path:path.join(out,'atelier-desktop.png'),fullPage:true});
  await desktop.close();
