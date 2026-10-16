@@ -1,0 +1,12 @@
+PRAGMA foreign_keys=ON;
+CREATE TABLE IF NOT EXISTS sources (id TEXT PRIMARY KEY,name TEXT NOT NULL,category TEXT,feed_url TEXT UNIQUE,created_at TEXT DEFAULT CURRENT_TIMESTAMP);
+CREATE TABLE IF NOT EXISTS entities (id TEXT PRIMARY KEY,kind TEXT NOT NULL,name TEXT NOT NULL,country TEXT,metadata_json TEXT DEFAULT '{}');
+CREATE TABLE IF NOT EXISTS events (id TEXT PRIMARY KEY,kind TEXT,title TEXT NOT NULL,event_date TEXT,verification_status TEXT NOT NULL DEFAULT 'unverified');
+CREATE TABLE IF NOT EXISTS event_entities (event_id TEXT NOT NULL REFERENCES events(id),entity_id TEXT NOT NULL REFERENCES entities(id),relation TEXT NOT NULL DEFAULT 'related',PRIMARY KEY(event_id,entity_id,relation));
+CREATE TABLE IF NOT EXISTS evidence (id TEXT PRIMARY KEY,event_id TEXT REFERENCES events(id),source_id TEXT REFERENCES sources(id),url TEXT NOT NULL,claim TEXT,checked_at TEXT);
+CREATE TABLE IF NOT EXISTS stories (id TEXT PRIMARY KEY,event_id TEXT REFERENCES events(id),title TEXT NOT NULL,slug TEXT UNIQUE,body TEXT NOT NULL DEFAULT '',category TEXT,status TEXT NOT NULL DEFAULT 'draft' CHECK(status IN ('draft','fact_check','image_review','editor_review','approved','published','rejected')),created_at TEXT DEFAULT CURRENT_TIMESTAMP,approved_at TEXT,published_at TEXT);
+CREATE TABLE IF NOT EXISTS assets (id TEXT PRIMARY KEY,story_id TEXT REFERENCES stories(id),source_url TEXT,credit TEXT,license TEXT,rights_status TEXT NOT NULL DEFAULT 'unverified',alt TEXT);
+CREATE TABLE IF NOT EXISTS intake (id TEXT PRIMARY KEY,source_id TEXT REFERENCES sources(id),title TEXT NOT NULL,url TEXT NOT NULL UNIQUE,published_at TEXT,discovered_at TEXT,priority INTEGER NOT NULL DEFAULT 0,possible_duplicate_of TEXT,editorial_status TEXT NOT NULL DEFAULT 'needs_review');
+CREATE INDEX IF NOT EXISTS intake_priority ON intake(priority DESC,published_at DESC);
+CREATE INDEX IF NOT EXISTS events_date ON events(event_date);
+CREATE INDEX IF NOT EXISTS stories_status ON stories(status);
