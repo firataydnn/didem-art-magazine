@@ -5,7 +5,7 @@ Never publishes, approves or modifies stories."""
 import json,os,pathlib,sys,urllib.request,urllib.error
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 PROJECT="atjbktwtcveaibwuixfa"
-URL=f"https://{PROJECT}.supabase.co/rest/v1/rpc/ingest_radar_batch"
+URL=f"https://{PROJECT}.supabase.co/rest/v1/rpc/ingest_didem_radar"
 def sync():
     key=os.environ.get("DIDEM_SUPABASE_SERVICE_ROLE_KEY","").strip()
     if not key:
