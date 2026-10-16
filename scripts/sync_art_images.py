@@ -21,7 +21,7 @@ OUT = ROOT / "assets" / "images"
 UA = "AtelierArtEditorial/1.0 (https://github.com/firataydnn/didem-art-magazine; educational editorial reuse)"
 API = "https://commons.wikimedia.org/w/api.php"
 ALLOWED = {"public domain", "cc0", "cc0 1.0", "cc zero", "cc-zero"}
-CC_ALLOWED = {"cc by 4.0", "cc by-sa 4.0"}
+CC_ALLOWED = {"cc by 4.0", "cc by-sa 4.0", "cc by-sa 3.0", "cc by-sa 2.5", "cc by-sa 2.0"}
 
 def request(url: str, max_size=10_000_000) -> bytes:
     last = None

@@ -1,6 +1,46 @@
 {
-  "description": "Curated public-domain artworks and attributed CC-licensed venue archive photos; no restricted press-room images.",
+  "description": "20 curated artwork, fair and venue archive photographs. Each photo has its own photographer/source/license, and old archive images are never presented as the current event.",
   "items": [
+    {
+      "index": 0,
+      "slug": "frieze-london-2007-archive",
+      "file": "Frieze Art Fair 2007 (1676072946).jpg",
+      "artist": "Kirsteen",
+      "photographer": "Kirsteen",
+      "work": "Frieze Art Fair 2007, Londra",
+      "note": "2007 tarihli fuar arşiv fotoğrafıdır; 2026 edisyonunu göstermez.",
+      "allow_cc": true
+    },
+    {
+      "index": 1,
+      "slug": "frieze-masters-2014-archive",
+      "file": "Frieze Masters, London Art Fair, October 2014.jpg",
+      "artist": "Rodolph",
+      "photographer": "Rodolph",
+      "work": "Frieze Masters, Londra (Ekim 2014)",
+      "note": "2014 tarihli fuar arşiv fotoğrafıdır; 2026 edisyonunu göstermez.",
+      "allow_cc": true
+    },
+    {
+      "index": 2,
+      "slug": "ica-london-2017-archive",
+      "file": "Institute of Contemporary Arts August 2017.jpg",
+      "artist": "Jwslubbock",
+      "photographer": "Jwslubbock",
+      "work": "Institute of Contemporary Arts, Londra (17 Ağustos 2017)",
+      "note": "ICA'nın arşiv mekân fotoğrafıdır; Frieze × ICA 2026 gösterimini göstermez.",
+      "allow_cc": true
+    },
+    {
+      "index": 3,
+      "slug": "photography-kodak-camera-editorial",
+      "file": "Black and White Image of Vintage Kodak Camera.jpg",
+      "artist": "Dustininala",
+      "photographer": "Dustininala",
+      "work": "Analog fotoğraf makinesi (2019)",
+      "note": "Fotoğrafçılık konulu temsili editoryal görseldir; 212 Photography Istanbul etkinlik fotoğrafı değildir.",
+      "allow_cc": true
+    },
     {
       "index": 4,
       "slug": "muze-gazhane-archive",
@@ -29,6 +69,24 @@
       "photographer": "Brett Jordan",
       "work": "Tate Modern Turbine Hall (10 Ağustos 2026)",
       "note": "Mekânın arşiv fotoğrafıdır; Tarek Atoui'nin enstalasyonunu göstermez.",
+      "allow_cc": true
+    },
+    {
+      "index": 7,
+      "slug": "christies-auction-rooms-1808",
+      "file": "Christie's Auction Rooms MET DP881476.jpg",
+      "artist": "Thomas Rowlandson, Augustus Pugin ve John Bluck",
+      "work": "Christie's Auction Rooms (1808)",
+      "note": "1808 tarihli gravürdür; güncel bir müzayedenin fotoğrafı değildir."
+    },
+    {
+      "index": 8,
+      "slug": "istanbul-modern-exterior-2024",
+      "file": "Istanbul Museum of Modern Art Exterior in 2024 5626.jpg",
+      "artist": "Dosseman",
+      "photographer": "Dosseman",
+      "work": "İstanbul Modern dış cephe (29 Mayıs 2024)",
+      "note": "İstanbul sanat rotasına ait mekân arşiv fotoğrafıdır; haberdeki etkinliklerin çekimi değildir.",
       "allow_cc": true
     },
     {
