@@ -118,7 +118,7 @@ const postRoot=document.getElementById('post');
 const overlayClose=document.querySelector('#overlay .close');
 const navButtons=Array.from(document.querySelectorAll('[data-cat]'));
 const slideOrder=[6,4,5,9,0,3,1,2,7,8];
-let slideIndex=0,slidePaused=false,slideTimer=null,activePost=-1,focusReturn=null;
+let slideIndex=0,slidePaused=false,slideTimer=null,activePost=-1,focusReturn=null,listingHash='#/';
 function slugify(s){return s.toLocaleLowerCase('tr').normalize('NFD').replace(/[\u0300-\u036f]/g,'').replace(/ı/g,'i').replace(/ğ/g,'g').replace(/ş/g,'s').replace(/ç/g,'c').replace(/ö/g,'o').replace(/ü/g,'u').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'')}
 const usedSlugs=new Set();
 data.forEach((p,i)=>{let slug=p.slug||slugify(p.title)||('yazi-'+i);if(usedSlugs.has(slug))slug+='-'+i;usedSlugs.add(slug);p.slug=slug});
@@ -126,10 +126,10 @@ function articleUrl(p){return location.origin+location.pathname+'#/yazi/'+encode
 function create(tag,cls,text){const n=document.createElement(tag);if(cls)n.className=cls;if(text!==undefined)n.textContent=text;return n}
 function addImage(p,cls){const img=create('img',cls);img.src=p.img||p.fallbackImg||'';img.alt=p.title;img.loading='lazy';img.decoding='async';img.addEventListener('error',()=>{if(p.fallbackImg&&img.src!==p.fallbackImg){img.src=p.fallbackImg}else{img.removeAttribute('src');img.alt='Görsel yüklenemedi'}});return img}
 function imageLabel(p){return p.imageKind==='archive_event'||p.imageKind==='archive_venue'?'ARŞİV FOTOĞRAFI':p.imageKind==='editorial_illustration'?'TEMSİLİ GÖRSEL':p.imageKind==='historical_artwork'?'TARİHÎ ESER':''}
-function goToPost(i){if(!data[i])return;focusReturn=document.activeElement;location.hash='/yazi/'+encodeURIComponent(data[i].slug);if(activePost===i)showPost(i)}
-function selectCategory(next){if(!navButtons.some(b=>b.dataset.cat===next))next='TÜMÜ';if(next==='TÜMÜ'){location.hash='/';cat=next;render();window.scrollTo({top:0,behavior:'smooth'})}else{location.hash='/kategori/'+encodeURIComponent(next);cat=next;render();document.getElementById('sectionname').scrollIntoView({block:'start',behavior:'smooth'})}}
+function goToPost(i){if(!data[i])return;if(activePost<0){focusReturn=document.activeElement;listingHash=location.hash.startsWith('#/yazi/')?'#/':(location.hash||'#/')}location.hash='/yazi/'+encodeURIComponent(data[i].slug);if(activePost===i)showPost(i)}
+function selectCategory(next){if(!navButtons.some(b=>b.dataset.cat===next))next='TÜMÜ';if(next==='TÜMÜ'){location.hash='/';cat=next;render();window.scrollTo({top:0,behavior:'smooth'})}else{location.hash='/kategori/'+encodeURIComponent(next);cat=next;render();document.getElementById('category-feature').scrollIntoView({block:'start',behavior:'smooth'})}}
 function openPost(i){goToPost(i)}
-function closePost(){if(location.hash.startsWith('#/yazi/'))location.hash='/';else hidePost()}
+function closePost(){if(location.hash.startsWith('#/yazi/'))location.hash=listingHash||'/';else hidePost()}
 function hidePost(){if(activePost<0)return;activePost=-1;overlay.classList.remove('on');overlay.setAttribute('aria-hidden','true');document.body.style.overflow='';document.title='ATELIER — Art & Visual Culture';if(focusReturn&&focusReturn.isConnected)focusReturn.focus({preventScroll:true});else searchInput.focus({preventScroll:true})}
 function linkify(parent,paragraph){const re=/https?:\/\/[^\s<>]+/g;let last=0;for(const match of paragraph.matchAll(re)){const start=match.index;parent.append(document.createTextNode(paragraph.slice(last,start)));let url=match[0].replace(/[),.;]+$/,'');const a=create('a',null,url);a.href=url;a.target='_blank';a.rel='noopener noreferrer';parent.append(a);last=start+match[0].length;if(url.length!==match[0].length)parent.append(document.createTextNode(match[0].slice(url.length)))}parent.append(document.createTextNode(paragraph.slice(last)))}
 function addExternal(parent,text,url){if(!url||!/^https:\/\//.test(url))return;const a=create('a',null,text);a.href=url;a.target='_blank';a.rel='noopener noreferrer';parent.append(a)}
