@@ -2,6 +2,45 @@
   "schema": 1,
   "items": [
     {
+      "id": "06d16c4e70582e53be52",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "How Cringe Took Over Culture",
+      "url": "https://www.artnews.com/art-in-america/features/cringe-took-over-culture-nathan-fielder-jordan-staffer-marianne-simnett-1234802717/",
+      "published": "2026-10-17T09:00:00+00:00",
+      "summary": "You know cringe when you see it. But what exactly is it?",
+      "discovered": "2026-10-17T09:28:59.758921+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "ead1631c5ee2fd9894db",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "Eight Galleries in India You Should Know",
+      "url": "https://www.artnews.com/list/art-news/market/india-art-galleries-to-know-1234802821/",
+      "published": "2026-10-17T07:00:00+00:00",
+      "summary": "A look at the country’s leading galleries with influential and cutting-edge programs.",
+      "discovered": "2026-10-17T09:28:59.758921+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "5cbcaaec41d2db85ec23",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "Norton Simon Museum Countersues Jewish Federation Over Cranach Diptych, Met Names Danh Võ for Genesis Façade Commission, and More: Morning Links for October 16, 2026",
+      "url": "https://www.artnews.com/art-news/news/morning-links-october-16-norton-simon-museum-1234802810/",
+      "published": "2026-10-16T23:59:51+00:00",
+      "summary": "Here's what we're reading this morning.",
+      "discovered": "2026-10-17T09:28:59.758921+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "5f534458cea754b29650",
       "source": "ARTnews",
       "category": "sanat-basini",

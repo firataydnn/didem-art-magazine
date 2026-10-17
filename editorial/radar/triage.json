@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "count": 42,
+  "count": 45,
   "possible_duplicates": 0,
   "items": [
     {
@@ -9,18 +9,6 @@
       "url": "https://www.artnews.com/art-news/news/art-week-nyc-2026-participating-institutions-1234802608/",
       "source": "ARTnews",
       "published": "2026-10-16T15:05:20+00:00",
-      "priority_score": 9,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "567db77c394593b24756",
-      "title": "Danh Vo and Sandra Mujinga Selected for Met Museum Commissions",
-      "url": "https://hyperallergic.com/danh-vo-and-sandra-mujinga-selected-for-met-museum-commissions/",
-      "source": "Hyperallergic",
-      "published": "2026-10-15T21:48:28+00:00",
       "priority_score": 9,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -57,6 +45,18 @@
       "url": "https://www.artnews.com/art-news/news/norton-simon-museum-countersues-jewish-heirs-looted-cranach-1234802779/",
       "source": "ARTnews",
       "published": "2026-10-16T19:59:46+00:00",
+      "priority_score": 9,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "5cbcaaec41d2db85ec23",
+      "title": "Norton Simon Museum Countersues Jewish Federation Over Cranach Diptych, Met Names Danh Võ for Genesis Façade Commission, and More: Morning Links for October 16, 2026",
+      "url": "https://www.artnews.com/art-news/news/morning-links-october-16-norton-simon-museum-1234802810/",
+      "source": "ARTnews",
+      "published": "2026-10-16T23:59:51+00:00",
       "priority_score": 9,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -148,6 +148,30 @@
       "publication_approved": false
     },
     {
+      "id": "567db77c394593b24756",
+      "title": "Danh Vo and Sandra Mujinga Selected for Met Museum Commissions",
+      "url": "https://hyperallergic.com/danh-vo-and-sandra-mujinga-selected-for-met-museum-commissions/",
+      "source": "Hyperallergic",
+      "published": "2026-10-15T21:48:28+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "ead1631c5ee2fd9894db",
+      "title": "Eight Galleries in India You Should Know",
+      "url": "https://www.artnews.com/list/art-news/market/india-art-galleries-to-know-1234802821/",
+      "source": "ARTnews",
+      "published": "2026-10-17T07:00:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "6b4dc163045293b9a43f",
       "title": "Eight Group Shows to See in New York, From Incendiary Art History to a Lesson in Telenovelas",
       "url": "https://www.artnews.com/list/art-news/news/group-shows-new-york-art-week-nyc-1234802029/",
@@ -177,6 +201,18 @@
       "url": "https://www.artnews.com/art-news/news/francesco-bonami-artistic-director-ges-2-house-of-culture-moscow-1234802581/",
       "source": "ARTnews",
       "published": "2026-10-16T16:03:52+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "06d16c4e70582e53be52",
+      "title": "How Cringe Took Over Culture",
+      "url": "https://www.artnews.com/art-in-america/features/cringe-took-over-culture-nathan-fielder-jordan-staffer-marianne-simnett-1234802717/",
+      "source": "ARTnews",
+      "published": "2026-10-17T09:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -340,18 +376,6 @@
       "publication_approved": false
     },
     {
-      "id": "94b2448cc4e03c2068ec",
-      "title": "221 Camera Obscuras Fill Pneuhaus’ Immersive, Inflatable, Image-Capturing Installation",
-      "url": "https://www.thisiscolossal.com/2026/10/pneuhaus-compound-camera-3-inflatable-installation/",
-      "source": "Colossal",
-      "published": "2026-10-13T23:01:27+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "2a00f02cb755633ebd4e",
       "title": "Ann Toebbe’s Skewed Paintings Transform Architectural Spaces into Cherished Places",
       "url": "https://www.thisiscolossal.com/2026/10/ann-toebbe-mixed-media-paintings/",
@@ -454,6 +478,18 @@
       "source": "Colossal",
       "published": "2026-10-14T17:30:00+00:00",
       "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "94b2448cc4e03c2068ec",
+      "title": "221 Camera Obscuras Fill Pneuhaus’ Immersive, Inflatable, Image-Capturing Installation",
+      "url": "https://www.thisiscolossal.com/2026/10/pneuhaus-compound-camera-3-inflatable-installation/",
+      "source": "Colossal",
+      "published": "2026-10-13T23:01:27+00:00",
+      "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
