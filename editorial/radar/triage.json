@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "count": 45,
+  "count": 47,
   "possible_duplicates": 0,
   "items": [
     {
@@ -160,6 +160,18 @@
       "publication_approved": false
     },
     {
+      "id": "6af72dd84e547795e57b",
+      "title": "Diaries of a Primitive Man",
+      "url": "https://hyperallergic.com/diaries-of-a-primitive-man/",
+      "source": "Hyperallergic",
+      "published": "2026-10-17T10:00:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "ead1631c5ee2fd9894db",
       "title": "Eight Galleries in India You Should Know",
       "url": "https://www.artnews.com/list/art-news/market/india-art-galleries-to-know-1234802821/",
@@ -220,6 +232,18 @@
       "publication_approved": false
     },
     {
+      "id": "45297e075c8ed11655f7",
+      "title": "Ibrahim Mahama’s Most Ambitious Show Yet Is Headed to Paris—But Its Core Is in Ghana",
+      "url": "https://www.artnews.com/art-news/artists/ibrahim-mahama-fondation-cartier-paris-show-1234802619/",
+      "source": "ARTnews",
+      "published": "2026-10-17T10:00:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "c1d5bbfba8ce07f4bc73",
       "title": "Massive King Ramses II Statues Unearthed in Egypt",
       "url": "https://hyperallergic.com/massive-king-ramses-ii-statues-unearthed-in-egypt/",
@@ -268,18 +292,6 @@
       "publication_approved": false
     },
     {
-      "id": "56ba90cd09f32a07209f",
-      "title": "Robin F. Williams Suspends the Allure and Horror of Technology in an Endless Loop",
-      "url": "https://www.thisiscolossal.com/2026/10/robin-f-williams-paintings-act-natural/",
-      "source": "Colossal",
-      "published": "2026-10-16T14:02:18+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "5f534458cea754b29650",
       "title": "Rubaiya Qatar Quadrennial Names More Than 120 Artists for Inaugural Edition",
       "url": "https://www.artnews.com/art-news/news/rubaiya-qatar-2026-inaugural-edition-artist-list-1234802793/",
@@ -321,30 +333,6 @@
       "url": "https://www.artnews.com/art-news/news/huntington-2026-acquisitions-raqib-shaw-robert-indiana-1234802620/",
       "source": "ARTnews",
       "published": "2026-10-16T16:54:34+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "4b80f249741171bec79f",
-      "title": "The School of Art at the University of Arkansas Offers Tuition-Free Graduate Programs",
-      "url": "https://hyperallergic.com/the-school-of-art-at-the-university-of-arkansas-offers-tuition-free-graduate-programs/",
-      "source": "Hyperallergic",
-      "published": "2026-10-16T10:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "af80a7ed96a8aa9054a6",
-      "title": "The “Renegade Housewife” of Pop Art",
-      "url": "https://hyperallergic.com/the-renegade-housewife-of-pop-art/",
-      "source": "Hyperallergic",
-      "published": "2026-10-16T10:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -412,6 +400,18 @@
       "publication_approved": false
     },
     {
+      "id": "56ba90cd09f32a07209f",
+      "title": "Robin F. Williams Suspends the Allure and Horror of Technology in an Endless Loop",
+      "url": "https://www.thisiscolossal.com/2026/10/robin-f-williams-paintings-act-natural/",
+      "source": "Colossal",
+      "published": "2026-10-16T14:02:18+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "36126ea32f0e94d2433d",
       "title": "The 98-Year-Old Pop Art Queen Behind an Iconic Lichtenstein Billboard",
       "url": "https://hyperallergic.com/the-98-year-old-pop-art-queen-behind-an-iconic-lichtenstein-billboard/",
@@ -424,11 +424,35 @@
       "publication_approved": false
     },
     {
+      "id": "4b80f249741171bec79f",
+      "title": "The School of Art at the University of Arkansas Offers Tuition-Free Graduate Programs",
+      "url": "https://hyperallergic.com/the-school-of-art-at-the-university-of-arkansas-offers-tuition-free-graduate-programs/",
+      "source": "Hyperallergic",
+      "published": "2026-10-16T10:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "de5b83cd36646149c608",
       "title": "The Wildlife Photographer of the Year 2026 Winners Showcase Nature’s Power and Vulnerability",
       "url": "https://www.thisiscolossal.com/2026/10/wildlife-photographer-of-the-year-2026-winners/",
       "source": "Colossal",
       "published": "2026-10-15T15:35:07+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "af80a7ed96a8aa9054a6",
+      "title": "The “Renegade Housewife” of Pop Art",
+      "url": "https://hyperallergic.com/the-renegade-housewife-of-pop-art/",
+      "source": "Hyperallergic",
+      "published": "2026-10-16T10:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",

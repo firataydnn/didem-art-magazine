@@ -2,6 +2,32 @@
   "schema": 1,
   "items": [
     {
+      "id": "45297e075c8ed11655f7",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "Ibrahim Mahama’s Most Ambitious Show Yet Is Headed to Paris—But Its Core Is in Ghana",
+      "url": "https://www.artnews.com/art-news/artists/ibrahim-mahama-fondation-cartier-paris-show-1234802619/",
+      "published": "2026-10-17T10:00:00+00:00",
+      "summary": "The Fondation Cartier exhibition is related to Mahama’s larger project of bridging Ghana’s art community and the rest of the world.",
+      "discovered": "2026-10-17T14:16:07.830120+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "6af72dd84e547795e57b",
+      "source": "Hyperallergic",
+      "category": "sanat-basini",
+      "title": "Diaries of a Primitive Man",
+      "url": "https://hyperallergic.com/diaries-of-a-primitive-man/",
+      "published": "2026-10-17T10:00:00+00:00",
+      "summary": "John Yau on Roy Lichtenstein, Megan O’Grady on John Berger, and Paddy Johnson answers the question: Do I need an agent?",
+      "discovered": "2026-10-17T14:16:07.830120+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "06d16c4e70582e53be52",
       "source": "ARTnews",
       "category": "sanat-basini",
