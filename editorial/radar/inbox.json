@@ -2,6 +2,19 @@
   "schema": 1,
   "items": [
     {
+      "id": "8da43f6a117d09d61e94",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "The Best Booths at 1-54 London, From 3D-Printed Chairs to Futuristic Visions of Lagos’s Waterfront",
+      "url": "https://www.artnews.com/list/art-news/market/1-54-london-2026-best-booths-1234802855/",
+      "published": "2026-10-17T15:27:18+00:00",
+      "summary": "The 1-54 Contemporary African Art Fair runs through October 18 at Somerset House.",
+      "discovered": "2026-10-17T19:28:57.125471+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "45297e075c8ed11655f7",
       "source": "ARTnews",
       "category": "sanat-basini",
