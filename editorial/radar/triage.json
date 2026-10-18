@@ -52,18 +52,6 @@
       "publication_approved": false
     },
     {
-      "id": "6af72dd84e547795e57b",
-      "title": "Diaries of a Primitive Man",
-      "url": "https://hyperallergic.com/diaries-of-a-primitive-man/",
-      "source": "Hyperallergic",
-      "published": "2026-10-17T10:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "45f516dcd3b10e2cb23f",
       "title": "George Osborne Personally Helped Secure Controversial $6.6 M. British Museum Sponsorship, Emails Show",
       "url": "https://www.artnews.com/art-news/news/eorge-osborne-british-museum-igor-tulchinsky-sponsorship-1234802772/",
@@ -81,18 +69,6 @@
       "url": "https://www.artnews.com/art-news/opinion/frieze-london-fashion-industry-experience-1234802660/",
       "source": "ARTnews",
       "published": "2026-10-16T16:40:37+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "45297e075c8ed11655f7",
-      "title": "Ibrahim Mahama’s Most Ambitious Show Yet Is Headed to Paris—But Its Core Is in Ghana",
-      "url": "https://www.artnews.com/art-news/artists/ibrahim-mahama-fondation-cartier-paris-show-1234802619/",
-      "source": "ARTnews",
-      "published": "2026-10-17T10:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -208,18 +184,6 @@
       "publication_approved": false
     },
     {
-      "id": "496afc6adc506fdd896b",
-      "title": "Asia NOW 2026 Brings Contemporary Asian Art to Paris",
-      "url": "https://hyperallergic.com/asia-now-2026-brings-contemporary-asian-art-to-paris/",
-      "source": "Hyperallergic",
-      "published": "2026-10-15T14:27:51+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "62977e45e637eea7d71f",
       "title": "Brazilian Outpost of Centre Pompidou Pushed Back to 2029",
       "url": "https://www.artnews.com/art-news/news/centre-pompidou-parana-delay-1234802759/",
@@ -237,6 +201,18 @@
       "url": "https://hyperallergic.com/cannupa-hanska-lugers-truth-about-america/",
       "source": "Hyperallergic",
       "published": "2026-10-16T20:59:31+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "6af72dd84e547795e57b",
+      "title": "Diaries of a Primitive Man",
+      "url": "https://hyperallergic.com/diaries-of-a-primitive-man/",
+      "source": "Hyperallergic",
+      "published": "2026-10-17T10:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -297,6 +273,18 @@
       "url": "https://www.artnews.com/art-in-america/features/cringe-took-over-culture-nathan-fielder-jordan-staffer-marianne-simnett-1234802717/",
       "source": "ARTnews",
       "published": "2026-10-17T09:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "45297e075c8ed11655f7",
+      "title": "Ibrahim Mahama’s Most Ambitious Show Yet Is Headed to Paris—But Its Core Is in Ghana",
+      "url": "https://www.artnews.com/art-news/artists/ibrahim-mahama-fondation-cartier-paris-show-1234802619/",
+      "source": "ARTnews",
+      "published": "2026-10-17T10:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -513,6 +501,18 @@
       "url": "https://www.thisiscolossal.com/2026/10/ann-toebbe-mixed-media-paintings/",
       "source": "Colossal",
       "published": "2026-10-14T15:23:46+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "496afc6adc506fdd896b",
+      "title": "Asia NOW 2026 Brings Contemporary Asian Art to Paris",
+      "url": "https://hyperallergic.com/asia-now-2026-brings-contemporary-asian-art-to-paris/",
+      "source": "Hyperallergic",
+      "published": "2026-10-15T14:27:51+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
