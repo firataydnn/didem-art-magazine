@@ -2,6 +2,19 @@
   "schema": 1,
   "items": [
     {
+      "id": "ee9ef74644e7101da84a",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "A Once-in-a-Lifetime Look Into America’s Most-Storied Art Couple",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/jackson-pollock-lee-krasner-met-1234802599/",
+      "published": "2026-10-18T09:00:00+00:00",
+      "summary": "“Krasner and Pollock: Past Continuous” is on view at the Met through January.",
+      "discovered": "2026-10-18T09:42:10.218123+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "8da43f6a117d09d61e94",
       "source": "ARTnews",
       "category": "sanat-basini",
