@@ -16,18 +16,6 @@
       "publication_approved": false
     },
     {
-      "id": "2148ab0dff99af45635e",
-      "title": "Ah, the Many Smells of Frieze London",
-      "url": "https://hyperallergic.com/ah-the-many-smells-of-frieze-london/",
-      "source": "Hyperallergic",
-      "published": "2026-10-15T19:08:04+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "f5c2187e152c49b45135",
       "title": "Art Week NYC Announces 32 Participating Institutions, New Museum Programming for Inaugural Fall Event",
       "url": "https://www.artnews.com/art-news/news/art-week-nyc-2026-participating-institutions-1234802608/",
@@ -100,30 +88,6 @@
       "publication_approved": false
     },
     {
-      "id": "1ac132248ebd100cb9cf",
-      "title": "Rembrandt’s Ancient Obsessions Are Made Anew in Upcoming Met Exhibition",
-      "url": "https://hyperallergic.com/rembrandts-ancient-obsessions-are-made-anew-in-upcoming-met-exhibition/",
-      "source": "Hyperallergic",
-      "published": "2026-10-15T18:29:12+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "8da43f6a117d09d61e94",
-      "title": "The Best Booths at 1-54 London, From 3D-Printed Chairs to Futuristic Visions of Lagos’s Waterfront",
-      "url": "https://www.artnews.com/list/art-news/market/1-54-london-2026-best-booths-1234802855/",
-      "source": "ARTnews",
-      "published": "2026-10-17T15:27:18+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "a7ba527a833b76d997d3",
       "title": "12 Must-Read Books on Textiles and Fiber Art",
       "url": "https://hyperallergic.com/12-must-read-books-on-textiles-and-fiber-art/",
@@ -165,6 +129,18 @@
       "url": "https://www.artnews.com/gallery/art-news/photos/artnews-2026-top-200-collectors-slideshow-1234802680/",
       "source": "ARTnews",
       "published": "2026-10-16T19:57:12+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "2148ab0dff99af45635e",
+      "title": "Ah, the Many Smells of Frieze London",
+      "url": "https://hyperallergic.com/ah-the-many-smells-of-frieze-london/",
+      "source": "Hyperallergic",
+      "published": "2026-10-15T19:08:04+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -292,18 +268,6 @@
       "publication_approved": false
     },
     {
-      "id": "9221183f988870af7849",
-      "title": "Jazmine Hayes Charts Community Displacement, Resilience in Brownsville Art Commission",
-      "url": "https://hyperallergic.com/jazmine-hayes-charts-community-displacement-resilience-in-brownsville-art-commission/",
-      "source": "Hyperallergic",
-      "published": "2026-10-15T15:21:18+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "c1d5bbfba8ce07f4bc73",
       "title": "Massive King Ramses II Statues Unearthed in Egypt",
       "url": "https://hyperallergic.com/massive-king-ramses-ii-statues-unearthed-in-egypt/",
@@ -333,6 +297,18 @@
       "url": "https://www.artnews.com/art-news/news/spain-police-recover-stolen-church-artworks-valladolid-1234802674/",
       "source": "ARTnews",
       "published": "2026-10-16T17:15:01+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "1ac132248ebd100cb9cf",
+      "title": "Rembrandt’s Ancient Obsessions Are Made Anew in Upcoming Met Exhibition",
+      "url": "https://hyperallergic.com/rembrandts-ancient-obsessions-are-made-anew-in-upcoming-met-exhibition/",
+      "source": "Hyperallergic",
+      "published": "2026-10-15T18:29:12+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -400,6 +376,18 @@
       "publication_approved": false
     },
     {
+      "id": "8da43f6a117d09d61e94",
+      "title": "The Best Booths at 1-54 London, From 3D-Printed Chairs to Futuristic Visions of Lagos’s Waterfront",
+      "url": "https://www.artnews.com/list/art-news/market/1-54-london-2026-best-booths-1234802855/",
+      "source": "ARTnews",
+      "published": "2026-10-17T15:27:18+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "9209c1d06972f004efcb",
       "title": "The Huntington’s Newest Acquisitions Include Works by Raqib Shaw, Robert Indiana, and More",
       "url": "https://www.artnews.com/art-news/news/huntington-2026-acquisitions-raqib-shaw-robert-indiana-1234802620/",
@@ -424,18 +412,6 @@
       "publication_approved": false
     },
     {
-      "id": "de5b83cd36646149c608",
-      "title": "The Wildlife Photographer of the Year 2026 Winners Showcase Nature’s Power and Vulnerability",
-      "url": "https://www.thisiscolossal.com/2026/10/wildlife-photographer-of-the-year-2026-winners/",
-      "source": "Colossal",
-      "published": "2026-10-15T15:35:07+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "af80a7ed96a8aa9054a6",
       "title": "The “Renegade Housewife” of Pop Art",
       "url": "https://hyperallergic.com/the-renegade-housewife-of-pop-art/",
@@ -453,18 +429,6 @@
       "url": "https://hyperallergic.com/this-ron-desantis-statue-cant-take-the-heat/",
       "source": "Hyperallergic",
       "published": "2026-10-16T19:53:36+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "708e5cd65b4a63c98b40",
-      "title": "Valerio Adami’s Hot and Cold Art",
-      "url": "https://hyperallergic.com/valerio-adamis-hot-and-cold-art/",
-      "source": "Hyperallergic",
-      "published": "2026-10-15T18:31:38+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -520,11 +484,47 @@
       "publication_approved": false
     },
     {
+      "id": "9221183f988870af7849",
+      "title": "Jazmine Hayes Charts Community Displacement, Resilience in Brownsville Art Commission",
+      "url": "https://hyperallergic.com/jazmine-hayes-charts-community-displacement-resilience-in-brownsville-art-commission/",
+      "source": "Hyperallergic",
+      "published": "2026-10-15T15:21:18+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "d48dcf4bd9a8268f87e0",
       "title": "Meet the Lap Easel, a Portable Companion for Taking Creativity Anywhere",
       "url": "https://www.thisiscolossal.com/2026/10/bill-groot-lap-easel/",
       "source": "Colossal",
       "published": "2026-10-13T14:02:20+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "de5b83cd36646149c608",
+      "title": "The Wildlife Photographer of the Year 2026 Winners Showcase Nature’s Power and Vulnerability",
+      "url": "https://www.thisiscolossal.com/2026/10/wildlife-photographer-of-the-year-2026-winners/",
+      "source": "Colossal",
+      "published": "2026-10-15T15:35:07+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "708e5cd65b4a63c98b40",
+      "title": "Valerio Adami’s Hot and Cold Art",
+      "url": "https://hyperallergic.com/valerio-adamis-hot-and-cold-art/",
+      "source": "Hyperallergic",
+      "published": "2026-10-15T18:31:38+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
