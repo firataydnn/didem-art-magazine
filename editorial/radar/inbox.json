@@ -2,6 +2,32 @@
   "schema": 1,
   "items": [
     {
+      "id": "f7752b190f227091673b",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "Frank Lloyd Wright’s Taliesin West Home in Arizona Temporarily Closes After a Man Dies",
+      "url": "https://www.artnews.com/art-news/news/frank-lloyd-wright-taliesin-west-closes-1234802896/",
+      "published": "2026-10-19T00:08:31+00:00",
+      "summary": "A a man died of a freak accident on the property on Friday during a walking tour.",
+      "discovered": "2026-10-19T10:54:03.645593+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "4e7edecbc452417c2d52",
+      "source": "Hyperallergic",
+      "category": "sanat-basini",
+      "title": "The Buffalo Haunts America",
+      "url": "https://hyperallergic.com/the-buffalo-haunts-america/",
+      "published": "2026-10-19T10:00:00+00:00",
+      "summary": "Hrag Vartanian on Cannupa Hanska Luger, Artavazd Pelechian’s cinema of connections, and a Ron DeSantis statue melts.",
+      "discovered": "2026-10-19T10:54:03.645593+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "ee9ef74644e7101da84a",
       "source": "ARTnews",
       "category": "sanat-basini",

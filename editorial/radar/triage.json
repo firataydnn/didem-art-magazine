@@ -1,20 +1,8 @@
 {
   "schema": 1,
-  "count": 49,
+  "count": 51,
   "possible_duplicates": 0,
   "items": [
-    {
-      "id": "ee9ef74644e7101da84a",
-      "title": "A Once-in-a-Lifetime Look Into America’s Most-Storied Art Couple",
-      "url": "https://www.artnews.com/art-in-america/aia-reviews/jackson-pollock-lee-krasner-met-1234802599/",
-      "source": "ARTnews",
-      "published": "2026-10-18T09:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
     {
       "id": "f5c2187e152c49b45135",
       "title": "Art Week NYC Announces 32 Participating Institutions, New Museum Programming for Inaugural Fall Event",
@@ -28,11 +16,11 @@
       "publication_approved": false
     },
     {
-      "id": "567db77c394593b24756",
-      "title": "Danh Vo and Sandra Mujinga Selected for Met Museum Commissions",
-      "url": "https://hyperallergic.com/danh-vo-and-sandra-mujinga-selected-for-met-museum-commissions/",
-      "source": "Hyperallergic",
-      "published": "2026-10-15T21:48:28+00:00",
+      "id": "f7752b190f227091673b",
+      "title": "Frank Lloyd Wright’s Taliesin West Home in Arizona Temporarily Closes After a Man Dies",
+      "url": "https://www.artnews.com/art-news/news/frank-lloyd-wright-taliesin-west-closes-1234802896/",
+      "source": "ARTnews",
+      "published": "2026-10-19T00:08:31+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -88,11 +76,23 @@
       "publication_approved": false
     },
     {
-      "id": "a7ba527a833b76d997d3",
-      "title": "12 Must-Read Books on Textiles and Fiber Art",
-      "url": "https://hyperallergic.com/12-must-read-books-on-textiles-and-fiber-art/",
+      "id": "4e7edecbc452417c2d52",
+      "title": "The Buffalo Haunts America",
+      "url": "https://hyperallergic.com/the-buffalo-haunts-america/",
       "source": "Hyperallergic",
-      "published": "2026-10-15T21:04:15+00:00",
+      "published": "2026-10-19T10:00:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "ee9ef74644e7101da84a",
+      "title": "A Once-in-a-Lifetime Look Into America’s Most-Storied Art Couple",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/jackson-pollock-lee-krasner-met-1234802599/",
+      "source": "ARTnews",
+      "published": "2026-10-18T09:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -177,6 +177,18 @@
       "url": "https://hyperallergic.com/cannupa-hanska-lugers-truth-about-america/",
       "source": "Hyperallergic",
       "published": "2026-10-16T20:59:31+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "567db77c394593b24756",
+      "title": "Danh Vo and Sandra Mujinga Selected for Met Museum Commissions",
+      "url": "https://hyperallergic.com/danh-vo-and-sandra-mujinga-selected-for-met-museum-commissions/",
+      "source": "Hyperallergic",
+      "published": "2026-10-15T21:48:28+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -364,18 +376,6 @@
       "publication_approved": false
     },
     {
-      "id": "36126ea32f0e94d2433d",
-      "title": "The 98-Year-Old Pop Art Queen Behind an Iconic Lichtenstein Billboard",
-      "url": "https://hyperallergic.com/the-98-year-old-pop-art-queen-behind-an-iconic-lichtenstein-billboard/",
-      "source": "Hyperallergic",
-      "published": "2026-10-15T20:10:18+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "8da43f6a117d09d61e94",
       "title": "The Best Booths at 1-54 London, From 3D-Printed Chairs to Futuristic Visions of Lagos’s Waterfront",
       "url": "https://www.artnews.com/list/art-news/market/1-54-london-2026-best-booths-1234802855/",
@@ -400,30 +400,6 @@
       "publication_approved": false
     },
     {
-      "id": "4b80f249741171bec79f",
-      "title": "The School of Art at the University of Arkansas Offers Tuition-Free Graduate Programs",
-      "url": "https://hyperallergic.com/the-school-of-art-at-the-university-of-arkansas-offers-tuition-free-graduate-programs/",
-      "source": "Hyperallergic",
-      "published": "2026-10-16T10:00:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "af80a7ed96a8aa9054a6",
-      "title": "The “Renegade Housewife” of Pop Art",
-      "url": "https://hyperallergic.com/the-renegade-housewife-of-pop-art/",
-      "source": "Hyperallergic",
-      "published": "2026-10-16T10:00:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "766d196860add85dfa2e",
       "title": "This Ron DeSantis Statue Can’t Take the Heat",
       "url": "https://hyperallergic.com/this-ron-desantis-statue-cant-take-the-heat/",
@@ -436,12 +412,12 @@
       "publication_approved": false
     },
     {
-      "id": "ff8bf68c589eb50fa713",
-      "title": "WPA Murals at Harlem Hospital Restored to Their Original Glory",
-      "url": "https://hyperallergic.com/wpa-murals-at-harlem-hospital-restored-to-their-original-glory/",
+      "id": "a7ba527a833b76d997d3",
+      "title": "12 Must-Read Books on Textiles and Fiber Art",
+      "url": "https://hyperallergic.com/12-must-read-books-on-textiles-and-fiber-art/",
       "source": "Hyperallergic",
-      "published": "2026-10-15T20:58:56+00:00",
-      "priority_score": 5,
+      "published": "2026-10-15T21:04:15+00:00",
+      "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -508,6 +484,30 @@
       "publication_approved": false
     },
     {
+      "id": "36126ea32f0e94d2433d",
+      "title": "The 98-Year-Old Pop Art Queen Behind an Iconic Lichtenstein Billboard",
+      "url": "https://hyperallergic.com/the-98-year-old-pop-art-queen-behind-an-iconic-lichtenstein-billboard/",
+      "source": "Hyperallergic",
+      "published": "2026-10-15T20:10:18+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "4b80f249741171bec79f",
+      "title": "The School of Art at the University of Arkansas Offers Tuition-Free Graduate Programs",
+      "url": "https://hyperallergic.com/the-school-of-art-at-the-university-of-arkansas-offers-tuition-free-graduate-programs/",
+      "source": "Hyperallergic",
+      "published": "2026-10-16T10:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "de5b83cd36646149c608",
       "title": "The Wildlife Photographer of the Year 2026 Winners Showcase Nature’s Power and Vulnerability",
       "url": "https://www.thisiscolossal.com/2026/10/wildlife-photographer-of-the-year-2026-winners/",
@@ -520,11 +520,35 @@
       "publication_approved": false
     },
     {
+      "id": "af80a7ed96a8aa9054a6",
+      "title": "The “Renegade Housewife” of Pop Art",
+      "url": "https://hyperallergic.com/the-renegade-housewife-of-pop-art/",
+      "source": "Hyperallergic",
+      "published": "2026-10-16T10:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "708e5cd65b4a63c98b40",
       "title": "Valerio Adami’s Hot and Cold Art",
       "url": "https://hyperallergic.com/valerio-adamis-hot-and-cold-art/",
       "source": "Hyperallergic",
       "published": "2026-10-15T18:31:38+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "ff8bf68c589eb50fa713",
+      "title": "WPA Murals at Harlem Hospital Restored to Their Original Glory",
+      "url": "https://hyperallergic.com/wpa-murals-at-harlem-hospital-restored-to-their-original-glory/",
+      "source": "Hyperallergic",
+      "published": "2026-10-15T20:58:56+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
