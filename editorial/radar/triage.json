@@ -1,8 +1,32 @@
 {
   "schema": 1,
-  "count": 77,
+  "count": 84,
   "possible_duplicates": 0,
   "items": [
+    {
+      "id": "183f4eeea5e0ee4b9a26",
+      "title": "Jewish Museum in Rural Argentina Stays Open Amid Clash With Local Government, Rare Hilma af Klint Abstract Painting Hits Auction, and More: Morning Links for October 20, 2026",
+      "url": "https://www.artnews.com/art-news/news/villa-dominguez-jewish-museum-open-clash-local-government-1234803039/",
+      "source": "ARTnews",
+      "published": "2026-10-20T14:28:22+00:00",
+      "priority_score": 12,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "dbcae820ac3c37215046",
+      "title": "In Rare Market Moment, Hilma af Klint Painting Comes to Auction in Sweden",
+      "url": "https://www.artnews.com/art-news/news/hilma-af-klint-auction-bukowskis-1234803046/",
+      "source": "ARTnews",
+      "published": "2026-10-20T13:57:23+00:00",
+      "priority_score": 10,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
     {
       "id": "0c976272445d7419c5dd",
       "title": "Amid a Historic Downturn, Art Basel Miami Beach Threatened to Move to Las Vegas",
@@ -21,18 +45,6 @@
       "url": "https://hyperallergic.com/hundreds-protest-in-colombia-after-far-right-president-removes-works-from-national-museum/",
       "source": "Hyperallergic",
       "published": "2026-10-19T21:14:08+00:00",
-      "priority_score": 9,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "a4a4cf3511f15309ae02",
-      "title": "Protesters Block Louvre Following Weekend of Unrest, Art Basel Will Stay in Miami Following City Rent Discount, and More: Morning Links for October 19, 2026",
-      "url": "https://www.artnews.com/art-news/news/protesters-block-louvre-following-weekend-of-riots-1234802907/",
-      "source": "ARTnews",
-      "published": "2026-10-19T13:10:43+00:00",
       "priority_score": 9,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -64,11 +76,23 @@
       "publication_approved": false
     },
     {
-      "id": "0d309fc5e00bbce88959",
-      "title": "An Eva Gonzalès Retrospective Puts the Non-Impressionist Artist Back on the Map",
-      "url": "https://www.artnews.com/art-news/artists/eva-gonzales-retrospective-petit-palais-1234802901/",
+      "id": "16411e08e46ada53e466",
+      "title": "5 Pro Tips For Conserving Your Art Collection",
+      "url": "https://www.artnews.com/list/art-news/opinion/5-pro-tips-for-conservation-art-collection-advice-1234803045/",
       "source": "ARTnews",
-      "published": "2026-10-19T15:14:27+00:00",
+      "published": "2026-10-20T13:32:12+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "d22a15b2dcc9e89dd05f",
+      "title": "Applications Open for the MFA in Studio Art at Maine College of Art & Design",
+      "url": "https://hyperallergic.com/applications-open-for-the-mfa-in-studio-art-at-maine-college-of-art-design/",
+      "source": "Hyperallergic",
+      "published": "2026-10-20T15:35:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -112,11 +136,11 @@
       "publication_approved": false
     },
     {
-      "id": "7dea370edab7537baa46",
-      "title": "Come Face-to-Face with the Lion Nebula in the James Webb Space Telescope’s Portrait",
-      "url": "https://www.thisiscolossal.com/2026/10/nasa-james-webb-space-telescope-lion-nebula/",
-      "source": "Colossal",
-      "published": "2026-10-19T13:39:50+00:00",
+      "id": "197a5eab7a5f42fb4158",
+      "title": "Collector Libbie Mugrabi Faces New Legal Battle Over 1982 Basquiat to Satisfy $2.3 M. Judgment",
+      "url": "https://www.artnews.com/art-news/news/libbie-mugrabi-legal-battle-1982-jean-michel-basquiat-1234802971/",
+      "source": "ARTnews",
+      "published": "2026-10-20T13:45:34+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -129,18 +153,6 @@
       "url": "https://hyperallergic.com/david-reed-went-where-lichtenstein-wouldnt/",
       "source": "Hyperallergic",
       "published": "2026-10-19T20:14:28+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "bc996acb9c639b43e4a2",
-      "title": "Diasporican Abstraction: A Cross-Border Cartography of Puerto Rican Abstraction",
-      "url": "https://hyperallergic.com/diasporican-abstraction-a-cross-border-cartography-of-puerto-rican-abstraction/",
-      "source": "Hyperallergic",
-      "published": "2026-10-19T15:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -189,18 +201,6 @@
       "url": "https://hyperallergic.com/lets-give-a-round-of-a-paws-to-these-tompkins-dog-parade-participants/",
       "source": "Hyperallergic",
       "published": "2026-10-19T18:16:53+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "4d7f6788ba33e1bd0503",
-      "title": "Louvre Blocked as Fallout from a Weekend of Unrest Continues to Shake France",
-      "url": "https://www.artnews.com/art-news/news/louvre-blocked-paris-protests-art-basel-1234802910/",
-      "source": "ARTnews",
-      "published": "2026-10-19T14:25:57+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -268,6 +268,30 @@
       "publication_approved": false
     },
     {
+      "id": "a4a4cf3511f15309ae02",
+      "title": "Protesters Block Louvre Following Weekend of Unrest, Art Basel Will Stay in Miami Following City Rent Discount, and More: Morning Links for October 19, 2026",
+      "url": "https://www.artnews.com/art-news/news/protesters-block-louvre-following-weekend-of-riots-1234802907/",
+      "source": "ARTnews",
+      "published": "2026-10-19T13:10:43+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "603a5556e2ef58a5be85",
+      "title": "Revisit Claes Oldenburg’s Seminal ‘Six Themes’ 50 Years After Its Debut",
+      "url": "https://www.thisiscolossal.com/2026/10/claes-oldenburg-six-themes-sculpture-art-history/",
+      "source": "Colossal",
+      "published": "2026-10-20T15:08:33+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "96e57643e72b3f98b73b",
       "title": "Rithika Merchant Summons Ancient Mythology and Mysticism in ‘The Dreaming Realm’",
       "url": "https://www.thisiscolossal.com/2026/10/rithika-merchant-the-dreaming-realm-paintings/",
@@ -292,11 +316,11 @@
       "publication_approved": false
     },
     {
-      "id": "084dec8cc8344e5b67ec",
-      "title": "Smiles Meyer Queers “The Last Supper”",
-      "url": "https://hyperallergic.com/smiles-meyer-queers-the-last-supper/",
+      "id": "4c1213741f680a9ea288",
+      "title": "This Iranian Documentary Wasn’t Meant to Begin This Way",
+      "url": "https://hyperallergic.com/this-iranian-documentary-wasnt-meant-to-begin-this-way/",
       "source": "Hyperallergic",
-      "published": "2026-10-19T14:30:40+00:00",
+      "published": "2026-10-19T15:54:20+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -304,11 +328,11 @@
       "publication_approved": false
     },
     {
-      "id": "4c1213741f680a9ea288",
-      "title": "This Iranian Documentary Wasn’t Meant to Begin This Way",
-      "url": "https://hyperallergic.com/this-iranian-documentary-wasnt-meant-to-begin-this-way/",
+      "id": "45c765f3965f9118b6b8",
+      "title": "To Be Alone With Your Thoughts in '70s New York",
+      "url": "https://hyperallergic.com/to-be-alone-with-your-thoughts-in-70s-new-york/",
       "source": "Hyperallergic",
-      "published": "2026-10-19T15:54:20+00:00",
+      "published": "2026-10-20T15:37:54+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -340,6 +364,18 @@
       "publication_approved": false
     },
     {
+      "id": "0d309fc5e00bbce88959",
+      "title": "An Eva Gonzalès Retrospective Puts the Non-Impressionist Artist Back on the Map",
+      "url": "https://www.artnews.com/art-news/artists/eva-gonzales-retrospective-petit-palais-1234802901/",
+      "source": "ARTnews",
+      "published": "2026-10-19T15:14:27+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "f5c2187e152c49b45135",
       "title": "Art Week NYC Announces 32 Participating Institutions, New Museum Programming for Inaugural Fall Event",
       "url": "https://www.artnews.com/art-news/news/art-week-nyc-2026-participating-institutions-1234802608/",
@@ -352,11 +388,35 @@
       "publication_approved": false
     },
     {
+      "id": "7dea370edab7537baa46",
+      "title": "Come Face-to-Face with the Lion Nebula in the James Webb Space Telescope’s Portrait",
+      "url": "https://www.thisiscolossal.com/2026/10/nasa-james-webb-space-telescope-lion-nebula/",
+      "source": "Colossal",
+      "published": "2026-10-19T13:39:50+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "567db77c394593b24756",
       "title": "Danh Vo and Sandra Mujinga Selected for Met Museum Commissions",
       "url": "https://hyperallergic.com/danh-vo-and-sandra-mujinga-selected-for-met-museum-commissions/",
       "source": "Hyperallergic",
       "published": "2026-10-15T21:48:28+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "bc996acb9c639b43e4a2",
+      "title": "Diasporican Abstraction: A Cross-Border Cartography of Puerto Rican Abstraction",
+      "url": "https://hyperallergic.com/diasporican-abstraction-a-cross-border-cartography-of-puerto-rican-abstraction/",
+      "source": "Hyperallergic",
+      "published": "2026-10-19T15:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -400,6 +460,18 @@
       "publication_approved": false
     },
     {
+      "id": "4d7f6788ba33e1bd0503",
+      "title": "Louvre Blocked as Fallout from a Weekend of Unrest Continues to Shake France",
+      "url": "https://www.artnews.com/art-news/news/louvre-blocked-paris-protests-art-basel-1234802910/",
+      "source": "ARTnews",
+      "published": "2026-10-19T14:25:57+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "c2c77d491cef41c631cb",
       "title": "Norton Simon Museum Countersues Jewish Dealer’s Heirs Over Looted Cranach Painting, Extending a Decades-Long Fight",
       "url": "https://www.artnews.com/art-news/news/norton-simon-museum-countersues-jewish-heirs-looted-cranach-1234802779/",
@@ -436,11 +508,11 @@
       "publication_approved": false
     },
     {
-      "id": "8da43f6a117d09d61e94",
-      "title": "The Best Booths at 1-54 London, From 3D-Printed Chairs to Futuristic Visions of Lagos’s Waterfront",
-      "url": "https://www.artnews.com/list/art-news/market/1-54-london-2026-best-booths-1234802855/",
-      "source": "ARTnews",
-      "published": "2026-10-17T15:27:18+00:00",
+      "id": "084dec8cc8344e5b67ec",
+      "title": "Smiles Meyer Queers “The Last Supper”",
+      "url": "https://hyperallergic.com/smiles-meyer-queers-the-last-supper/",
+      "source": "Hyperallergic",
+      "published": "2026-10-19T14:30:40+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -688,18 +760,6 @@
       "publication_approved": false
     },
     {
-      "id": "d48dcf4bd9a8268f87e0",
-      "title": "Meet the Lap Easel, a Portable Companion for Taking Creativity Anywhere",
-      "url": "https://www.thisiscolossal.com/2026/10/bill-groot-lap-easel/",
-      "source": "Colossal",
-      "published": "2026-10-13T14:02:20+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "fd65790b088bcb62572e",
       "title": "Miami Art Dealer Sentenced to Nearly Four Years in Prison for Selling Fake Warhols",
       "url": "https://www.artnews.com/art-news/news/miami-art-dealer-sentenced-prison-warhol-1234802732/",
@@ -777,6 +837,18 @@
       "url": "https://hyperallergic.com/the-98-year-old-pop-art-queen-behind-an-iconic-lichtenstein-billboard/",
       "source": "Hyperallergic",
       "published": "2026-10-15T20:10:18+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "8da43f6a117d09d61e94",
+      "title": "The Best Booths at 1-54 London, From 3D-Printed Chairs to Futuristic Visions of Lagos’s Waterfront",
+      "url": "https://www.artnews.com/list/art-news/market/1-54-london-2026-best-booths-1234802855/",
+      "source": "ARTnews",
+      "published": "2026-10-17T15:27:18+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -909,6 +981,18 @@
       "url": "https://www.thisiscolossal.com/2026/10/jonathan-knight-exhale-seascape-photographs/",
       "source": "Colossal",
       "published": "2026-10-09T17:50:08+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "d48dcf4bd9a8268f87e0",
+      "title": "Meet the Lap Easel, a Portable Companion for Taking Creativity Anywhere",
+      "url": "https://www.thisiscolossal.com/2026/10/bill-groot-lap-easel/",
+      "source": "Colossal",
+      "published": "2026-10-13T14:02:20+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
