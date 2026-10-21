@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "count": 118,
+  "count": 131,
   "possible_duplicates": 0,
   "items": [
     {
@@ -28,6 +28,42 @@
       "publication_approved": false
     },
     {
+      "id": "b27bb4514494dc10871d",
+      "title": "Chanel Becomes Lead Sponsor of Hong Kong’s M+ Museum in Expanded Three-Year Deal",
+      "url": "https://www.artnews.com/art-news/news/chanel-m-plus-hong-kong-museum-lead-partner-1234803225/",
+      "source": "ARTnews",
+      "published": "2026-10-21T16:18:06+00:00",
+      "priority_score": 9,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "363fadf04bb1cd87b5b2",
+      "title": "Condemning Violent Protestors, Alicja Kwade to Remove Art Basel Paris Public Sculpture Early",
+      "url": "https://www.artnews.com/art-news/news/protestors-alicja-kwade-remove-art-basel-paris-sculpture-1234803329/",
+      "source": "ARTnews",
+      "published": "2026-10-21T20:28:37+00:00",
+      "priority_score": 9,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "8660d8d8cd08e37d1a34",
+      "title": "Dozens of Sculptures Dot Bondi Beach in the 2026 Sculpture by the Sea Exhibition",
+      "url": "https://www.thisiscolossal.com/2026/10/bondi-beach-sculpture-by-the-sea-exhibition-2026/",
+      "source": "Colossal",
+      "published": "2026-10-21T18:21:45+00:00",
+      "priority_score": 9,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "8fab26d132295d71c41a",
       "title": "Environmental Group Unveils Melting Statue of Florida Gov., New Beatles Museum Announced for Liverpool, V&A Unionized Staff to Strike Again, and More: Morning Links for October 21, 2026",
       "url": "https://www.artnews.com/art-news/news/environmental-group-unveils-melting-statue-of-florida-gov-1234803186/",
@@ -40,11 +76,11 @@
       "publication_approved": false
     },
     {
-      "id": "1172ae97c1c2c1fd62b9",
-      "title": "National Museum of Korea Director Apologizes for Misattribution of a Work on Display",
-      "url": "https://www.artnews.com/art-news/news/national-museum-of-korea-director-private-collection-1234802510/",
+      "id": "3303f55483eb8a0cfec4",
+      "title": "The Best Works at Art Basel Paris’s Public Program, From a Crowd of TV Screens to a Flock of Plush Animals",
+      "url": "https://www.artnews.com/list/art-news/market/art-basel-paris-2026-public-program-best-works-1234803248/",
       "source": "ARTnews",
-      "published": "2026-10-20T20:01:31+00:00",
+      "published": "2026-10-21T16:05:56+00:00",
       "priority_score": 9,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -52,11 +88,11 @@
       "publication_approved": false
     },
     {
-      "id": "98c39dbf197d71427eb7",
-      "title": "V&A Museum Staff Set to Strike Across All Four London Sites",
-      "url": "https://hyperallergic.com/v-a-museum-staff-set-to-strike-across-all-four-london-sites/",
-      "source": "Hyperallergic",
-      "published": "2026-10-20T19:27:24+00:00",
+      "id": "973e68252e4226ce42c3",
+      "title": "What’s Selling at Art Basel Paris? Reported Sales Top Out at $10 M. for a Richter and a Baselitz",
+      "url": "https://www.artnews.com/art-news/market/art-basel-paris-2026-sales-gerhard-richter-georg-baselitz-1234803317/",
+      "source": "ARTnews",
+      "published": "2026-10-21T20:22:49+00:00",
       "priority_score": 9,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -112,6 +148,18 @@
       "publication_approved": false
     },
     {
+      "id": "4a76426b60b920d39482",
+      "title": "Artists John Akomfrah, Ben Rivers, and Dozens Others Defend Sally Rooney in Open Letter",
+      "url": "https://www.artnews.com/art-news/news/artists-john-akomfrah-ben-rivers-defend-sally-rooney-open-letter-1234803220/",
+      "source": "ARTnews",
+      "published": "2026-10-21T16:32:45+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "5e06ca9da39da9ff097e",
       "title": "Basquiat’s Long-Unseen Riff on Leonardo da Vinci to Lead Christie’s 21st Century Evening Sale with $30 M. Estimate",
       "url": "https://www.artnews.com/art-news/news/jean-michel-basquiat-leonardo-da-vinci-christies-21st-century-evening-sale-1234803167/",
@@ -124,47 +172,11 @@
       "publication_approved": false
     },
     {
-      "id": "7d99954411f8ee3864bb",
-      "title": "Bathing With the Nymphs",
-      "url": "https://hyperallergic.com/bathing-with-the-nymphs/",
-      "source": "Hyperallergic",
-      "published": "2026-10-20T20:29:53+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "9a726c11583298ea4778",
       "title": "Can AI Help Identify the Sitters in Historical Portraits?",
       "url": "https://www.artnews.com/art-news/news/can-ai-help-identify-sitters-in-centuries-old-portraits-1234803090/",
       "source": "ARTnews",
       "published": "2026-10-21T09:30:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "3eb6983ddda17518c5a8",
-      "title": "Dear Art World, We Can Tell When You’re Using AI",
-      "url": "https://hyperallergic.com/dear-art-world-we-can-tell-when-youre-using-ai/",
-      "source": "Hyperallergic",
-      "published": "2026-10-20T20:40:08+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "f69204c02637baaef5e4",
-      "title": "Donors Are Secretly Trying to Save the Kennedy Center’s Artworks from ‘Destruction’ or Disposal Amid Trump Takeover",
-      "url": "https://www.artnews.com/art-news/news/donors-are-secretly-trying-to-save-the-kennedy-centers-artworks-from-destruction-or-disposal-amid-trump-takeover-1234803103/",
-      "source": "ARTnews",
-      "published": "2026-10-20T17:45:51+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -196,30 +208,6 @@
       "publication_approved": false
     },
     {
-      "id": "21a0d0112f9f5a837e8d",
-      "title": "Experts Call for Indigenous Artifacts in Canadian Tycoon’s Collection to Be Repatriated",
-      "url": "https://www.artnews.com/art-news/news/john-risley-indigenous-artifacts-repatriation-dispute-1234803085/",
-      "source": "ARTnews",
-      "published": "2026-10-20T16:01:22+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "0350f0f98cab906f3803",
-      "title": "Five Essential Books About Pop Art",
-      "url": "https://www.artnews.com/list/art-in-america/columns/syllabus-pop-art-essential-books-1234802925/",
-      "source": "ARTnews",
-      "published": "2026-10-20T17:37:59+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "7856725b248ba182e915",
       "title": "Hundreds Protest in Colombia After Far-Right President Removes Works From National Museum",
       "url": "https://hyperallergic.com/hundreds-protest-in-colombia-after-far-right-president-removes-works-from-national-museum/",
@@ -244,11 +232,11 @@
       "publication_approved": false
     },
     {
-      "id": "c801f846925a78c5277b",
-      "title": "James Gibson’s Cultural and Spiritual Legacy Lives on in His Sculptures",
-      "url": "https://www.artnews.com/art-news/sponsored-content/james-gibson-cultural-spiritual-legacy-livessculptures-1234799650/",
-      "source": "ARTnews",
-      "published": "2026-10-20T18:00:00+00:00",
+      "id": "4a8f471ada17658253f6",
+      "title": "Is Germany's Far-Right AfD Co-Opting Joseph Beuys?",
+      "url": "https://hyperallergic.com/is-germanys-far-right-afd-co-opting-joseph-beuys/",
+      "source": "Hyperallergic",
+      "published": "2026-10-21T20:21:40+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -261,18 +249,6 @@
       "url": "https://www.artnews.com/art-news/market/jeff-koons-talks-ai-100-m-modigliani-in-paris-industry-moves-1234803224/",
       "source": "ARTnews",
       "published": "2026-10-21T15:13:44+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "051730e6e6647d8bf2fa",
-      "title": "Jenny Holzer on Paris Protests: ‘It’s Gruesome That Kids Have to Fight for a Better Education’",
-      "url": "https://www.artnews.com/art-news/news/jenny-holzer-paris-protests-1234803095/",
-      "source": "ARTnews",
-      "published": "2026-10-20T17:56:19+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -304,11 +280,35 @@
       "publication_approved": false
     },
     {
+      "id": "b93f559155e1b7d3f1dc",
+      "title": "Man Killed by Falling Debris at Frank Lloyd Wright’s Arizona Home",
+      "url": "https://hyperallergic.com/man-killed-by-falling-debris-at-frank-lloyd-wrights-arizona-home/",
+      "source": "Hyperallergic",
+      "published": "2026-10-21T18:48:30+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "d749887bfa32ac08896a",
       "title": "MassArt Graduate Assistantships Provide Hands-On Experience to Launch Your Career",
       "url": "https://hyperallergic.com/massart-graduate-assistantships-provide-hands-on-experience-to-launch-your-career/",
       "source": "Hyperallergic",
       "published": "2026-10-21T15:00:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "8ae60237d8b4eb3fae70",
+      "title": "Melting Ron DeSantis Statue Makes a Point About Climate Change in Florida",
+      "url": "https://www.artnews.com/art-news/news/melting-ron-desantis-statue-florida-climate-change-1234803285/",
+      "source": "ARTnews",
+      "published": "2026-10-21T16:41:04+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -328,11 +328,23 @@
       "publication_approved": false
     },
     {
-      "id": "1f2cff17d10ede9f2094",
-      "title": "New York’s Canada Gallery Faced Threat of Dissolution After Backer’s Lawsuits, Court Documents Show",
-      "url": "https://www.artnews.com/art-news/news/canada-gallery-lawsuits-partners-leave-1234802943/",
+      "id": "1172ae97c1c2c1fd62b9",
+      "title": "National Museum of Korea Director Apologizes for Misattribution of a Work on Display",
+      "url": "https://www.artnews.com/art-news/news/national-museum-of-korea-director-private-collection-1234802510/",
       "source": "ARTnews",
-      "published": "2026-10-20T16:14:42+00:00",
+      "published": "2026-10-20T20:01:31+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "17d0ac2fdec7991be553",
+      "title": "Peter Nagy, Artist and Gallerist Who Shaped Two Art Scenes, Dies at 66",
+      "url": "https://hyperallergic.com/peter-nagy-artist-and-gallerist-who-shaped-two-art-scenes-dies-at-66/",
+      "source": "Hyperallergic",
+      "published": "2026-10-21T17:47:25+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -364,6 +376,18 @@
       "publication_approved": false
     },
     {
+      "id": "35ec445742874547974b",
+      "title": "Provincetown’s Fine Arts Work Center to Launch Native Artist Residency with Walker Youngbird Foundation",
+      "url": "https://www.artnews.com/art-news/news/fine-arts-work-center-walker-youngbird-native-artist-residency-provincetown-1234803190/",
+      "source": "ARTnews",
+      "published": "2026-10-21T16:00:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "f216924268013d53444d",
       "title": "Rosana Paulino’s Pantheon of Black Plant Goddesses Arrives in Paris",
       "url": "https://www.artnews.com/art-news/artists/rosana-paulino-mendes-wood-dm-paris-exhibition-1234803173/",
@@ -376,11 +400,11 @@
       "publication_approved": false
     },
     {
-      "id": "6ec159997c46cd29d74c",
-      "title": "Sunset Park, Where You Can Still Get an Artist Studio for Under $600",
-      "url": "https://hyperallergic.com/sunset-park-where-you-can-still-get-an-artist-studio-for-under-600/",
+      "id": "3ca4a5d69895cfde970e",
+      "title": "Spirits Against the Patriarchy",
+      "url": "https://hyperallergic.com/spirits-against-the-patriarchy/",
       "source": "Hyperallergic",
-      "published": "2026-10-20T19:40:11+00:00",
+      "published": "2026-10-21T20:32:21+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -400,18 +424,6 @@
       "publication_approved": false
     },
     {
-      "id": "606d20c13f3dfdd25d90",
-      "title": "The MIT Professors Bedazzling Security Cameras to Highlight Campus Surveillance",
-      "url": "https://hyperallergic.com/the-mit-professors-bedazzling-security-cameras-to-highlight-campus-surveillance/",
-      "source": "Hyperallergic",
-      "published": "2026-10-20T17:48:36+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "8fbe062fee5a6bbf0376",
       "title": "Theaster Gates Returned a David Drake Jar to His Descendants—It’s Now on View at a Virginia HBCU",
       "url": "https://www.artnews.com/art-news/news/theaster-gates-david-drake-jar-virginia-hampton-university-1234803134/",
@@ -424,11 +436,23 @@
       "publication_approved": false
     },
     {
-      "id": "8232b9f0981a6f452e8b",
-      "title": "What’s Up with Elizabeth Holmes’s Weird Norman Rockwell–Inspired Background on X?",
-      "url": "https://www.artnews.com/art-news/news/elizabeth-holmes-x-you-can-see-everything-norman-rockwell-1234803094/",
+      "id": "98c39dbf197d71427eb7",
+      "title": "V&A Museum Staff Set to Strike Across All Four London Sites",
+      "url": "https://hyperallergic.com/v-a-museum-staff-set-to-strike-across-all-four-london-sites/",
+      "source": "Hyperallergic",
+      "published": "2026-10-20T19:27:24+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "26d00002fd84783a891b",
+      "title": "V&A Workers to Strike at All Four Sites Over Pay, Conditions",
+      "url": "https://www.artnews.com/art-news/news/va-workers-to-strike-at-all-four-sites-over-pay-conditions-1234803233/",
       "source": "ARTnews",
-      "published": "2026-10-20T17:32:00+00:00",
+      "published": "2026-10-21T17:04:46+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -465,18 +489,6 @@
       "url": "https://www.thisiscolossal.com/2026/10/alvaro-urbano-metal-sculptures-casa-cueva-helen/",
       "source": "Colossal",
       "published": "2026-10-20T22:15:39+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "c1f2d49e2de3c35446bb",
-      "title": "‘The Department of Objects’ Brings the Charm of Sleep-Away Camp to Chicago",
-      "url": "https://www.thisiscolossal.com/2026/10/the-department-of-objects-joy-machine/",
-      "source": "Colossal",
-      "published": "2026-10-20T19:07:36+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -568,6 +580,18 @@
       "publication_approved": false
     },
     {
+      "id": "7d99954411f8ee3864bb",
+      "title": "Bathing With the Nymphs",
+      "url": "https://hyperallergic.com/bathing-with-the-nymphs/",
+      "source": "Hyperallergic",
+      "published": "2026-10-20T20:29:53+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "78a8f206720356abd066",
       "title": "Bayeux Tapestry Display to Change Upon Return to Normandy Next Year",
       "url": "https://www.artnews.com/art-news/news/bayeux-tapestry-new-display-return-normandy-1234803001/",
@@ -640,11 +664,59 @@
       "publication_approved": false
     },
     {
+      "id": "3eb6983ddda17518c5a8",
+      "title": "Dear Art World, We Can Tell When You’re Using AI",
+      "url": "https://hyperallergic.com/dear-art-world-we-can-tell-when-youre-using-ai/",
+      "source": "Hyperallergic",
+      "published": "2026-10-20T20:40:08+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "bc996acb9c639b43e4a2",
       "title": "Diasporican Abstraction: A Cross-Border Cartography of Puerto Rican Abstraction",
       "url": "https://hyperallergic.com/diasporican-abstraction-a-cross-border-cartography-of-puerto-rican-abstraction/",
       "source": "Hyperallergic",
       "published": "2026-10-19T15:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "f69204c02637baaef5e4",
+      "title": "Donors Are Secretly Trying to Save the Kennedy Center’s Artworks from ‘Destruction’ or Disposal Amid Trump Takeover",
+      "url": "https://www.artnews.com/art-news/news/donors-are-secretly-trying-to-save-the-kennedy-centers-artworks-from-destruction-or-disposal-amid-trump-takeover-1234803103/",
+      "source": "ARTnews",
+      "published": "2026-10-20T17:45:51+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "21a0d0112f9f5a837e8d",
+      "title": "Experts Call for Indigenous Artifacts in Canadian Tycoon’s Collection to Be Repatriated",
+      "url": "https://www.artnews.com/art-news/news/john-risley-indigenous-artifacts-repatriation-dispute-1234803085/",
+      "source": "ARTnews",
+      "published": "2026-10-20T16:01:22+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "0350f0f98cab906f3803",
+      "title": "Five Essential Books About Pop Art",
+      "url": "https://www.artnews.com/list/art-in-america/columns/syllabus-pop-art-essential-books-1234802925/",
+      "source": "ARTnews",
+      "published": "2026-10-20T17:37:59+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -724,6 +796,30 @@
       "publication_approved": false
     },
     {
+      "id": "c801f846925a78c5277b",
+      "title": "James Gibson’s Cultural and Spiritual Legacy Lives on in His Sculptures",
+      "url": "https://www.artnews.com/art-news/sponsored-content/james-gibson-cultural-spiritual-legacy-livessculptures-1234799650/",
+      "source": "ARTnews",
+      "published": "2026-10-20T18:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "051730e6e6647d8bf2fa",
+      "title": "Jenny Holzer on Paris Protests: ‘It’s Gruesome That Kids Have to Fight for a Better Education’",
+      "url": "https://www.artnews.com/art-news/news/jenny-holzer-paris-protests-1234803095/",
+      "source": "ARTnews",
+      "published": "2026-10-20T17:56:19+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "3df9ebaea299becbf33b",
       "title": "Let’s Give a Round of A-Paws to These Tompkins Dog Parade Participants",
       "url": "https://hyperallergic.com/lets-give-a-round-of-a-paws-to-these-tompkins-dog-parade-participants/",
@@ -741,6 +837,18 @@
       "url": "https://www.artnews.com/art-news/news/louvre-blocked-paris-protests-art-basel-1234802910/",
       "source": "ARTnews",
       "published": "2026-10-19T14:25:57+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "1f2cff17d10ede9f2094",
+      "title": "New York’s Canada Gallery Faced Threat of Dissolution After Backer’s Lawsuits, Court Documents Show",
+      "url": "https://www.artnews.com/art-news/news/canada-gallery-lawsuits-partners-leave-1234802943/",
+      "source": "ARTnews",
+      "published": "2026-10-20T16:14:42+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -892,11 +1000,35 @@
       "publication_approved": false
     },
     {
+      "id": "6ec159997c46cd29d74c",
+      "title": "Sunset Park, Where You Can Still Get an Artist Studio for Under $600",
+      "url": "https://hyperallergic.com/sunset-park-where-you-can-still-get-an-artist-studio-for-under-600/",
+      "source": "Hyperallergic",
+      "published": "2026-10-20T19:40:11+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "4e7edecbc452417c2d52",
       "title": "The Buffalo Haunts America",
       "url": "https://hyperallergic.com/the-buffalo-haunts-america/",
       "source": "Hyperallergic",
       "published": "2026-10-19T10:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "606d20c13f3dfdd25d90",
+      "title": "The MIT Professors Bedazzling Security Cameras to Highlight Campus Surveillance",
+      "url": "https://hyperallergic.com/the-mit-professors-bedazzling-security-cameras-to-highlight-campus-surveillance/",
+      "source": "Hyperallergic",
+      "published": "2026-10-20T17:48:36+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -921,6 +1053,30 @@
       "url": "https://hyperallergic.com/to-be-alone-with-your-thoughts-in-70s-new-york/",
       "source": "Hyperallergic",
       "published": "2026-10-20T15:37:54+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "8232b9f0981a6f452e8b",
+      "title": "What’s Up with Elizabeth Holmes’s Weird Norman Rockwell–Inspired Background on X?",
+      "url": "https://www.artnews.com/art-news/news/elizabeth-holmes-x-you-can-see-everything-norman-rockwell-1234803094/",
+      "source": "ARTnews",
+      "published": "2026-10-20T17:32:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "c1f2d49e2de3c35446bb",
+      "title": "‘The Department of Objects’ Brings the Charm of Sleep-Away Camp to Chicago",
+      "url": "https://www.thisiscolossal.com/2026/10/the-department-of-objects-joy-machine/",
+      "source": "Colossal",
+      "published": "2026-10-20T19:07:36+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1324,30 +1480,6 @@
       "publication_approved": false
     },
     {
-      "id": "1f2120bef1de58e5e649",
-      "title": "Welcome to the ‘Uncanny Valley,’ the Haas Brothers’ Fantastic and Cheeky Universe",
-      "url": "https://www.thisiscolossal.com/2026/10/haas-brothers-uncanny-valley-austin-exhibition/",
-      "source": "Colossal",
-      "published": "2026-10-14T19:37:26+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "12b5cb7d8777a9d537c9",
-      "title": "‘Radiant Geometries’ Illuminates Teachings and Technologies in the Indigenous Americas",
-      "url": "https://www.thisiscolossal.com/2026/10/radiant-geometries-moody-center-indigenous-art/",
-      "source": "Colossal",
-      "published": "2026-10-14T17:30:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "94b2448cc4e03c2068ec",
       "title": "221 Camera Obscuras Fill Pneuhaus’ Immersive, Inflatable, Image-Capturing Installation",
       "url": "https://www.thisiscolossal.com/2026/10/pneuhaus-compound-camera-3-inflatable-installation/",
@@ -1408,11 +1540,35 @@
       "publication_approved": false
     },
     {
+      "id": "1f2120bef1de58e5e649",
+      "title": "Welcome to the ‘Uncanny Valley,’ the Haas Brothers’ Fantastic and Cheeky Universe",
+      "url": "https://www.thisiscolossal.com/2026/10/haas-brothers-uncanny-valley-austin-exhibition/",
+      "source": "Colossal",
+      "published": "2026-10-14T19:37:26+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "c3b3111a49a161442714",
       "title": "‘Arcana Borealis’ Summons the Power of Spirituality and Artist Communities",
       "url": "https://www.thisiscolossal.com/2026/10/arcana-borealis-modern-art-spirituality-esotercism-women-artists/",
       "source": "Colossal",
       "published": "2026-10-13T16:25:56+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "12b5cb7d8777a9d537c9",
+      "title": "‘Radiant Geometries’ Illuminates Teachings and Technologies in the Indigenous Americas",
+      "url": "https://www.thisiscolossal.com/2026/10/radiant-geometries-moody-center-indigenous-art/",
+      "source": "Colossal",
+      "published": "2026-10-14T17:30:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
