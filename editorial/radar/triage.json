@@ -1,20 +1,8 @@
 {
   "schema": 1,
-  "count": 131,
+  "count": 138,
   "possible_duplicates": 0,
   "items": [
-    {
-      "id": "499d4d6cd437bbdcec5c",
-      "title": "Art Basel Paris Opens Avant Première with ‘Good Energy,’ a Smattering of Sales, and One $100 M. Work",
-      "url": "https://www.artnews.com/art-news/market/art-basel-paris-avant-premiere-2026-sales-1234803150/",
-      "source": "ARTnews",
-      "published": "2026-10-20T21:04:49+00:00",
-      "priority_score": 11,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
     {
       "id": "183f4eeea5e0ee4b9a26",
       "title": "Jewish Museum in Rural Argentina Stays Open Amid Clash With Local Government, Rare Hilma af Klint Abstract Painting Hits Auction, and More: Morning Links for October 20, 2026",
@@ -22,6 +10,18 @@
       "source": "ARTnews",
       "published": "2026-10-20T14:28:22+00:00",
       "priority_score": 10,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "499d4d6cd437bbdcec5c",
+      "title": "Art Basel Paris Opens Avant Première with ‘Good Energy,’ a Smattering of Sales, and One $100 M. Work",
+      "url": "https://www.artnews.com/art-news/market/art-basel-paris-avant-premiere-2026-sales-1234803150/",
+      "source": "ARTnews",
+      "published": "2026-10-20T21:04:49+00:00",
+      "priority_score": 9,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -69,6 +69,18 @@
       "url": "https://www.artnews.com/art-news/news/environmental-group-unveils-melting-statue-of-florida-gov-1234803186/",
       "source": "ARTnews",
       "published": "2026-10-21T13:26:00+00:00",
+      "priority_score": 9,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "d1d80d7e68c6b81bb76d",
+      "title": "The Best Booths at Art Basel Paris, From Tar Paintings to a Falling Knife",
+      "url": "https://www.artnews.com/list/art-news/market/art-basel-paris-2026-best-booths-1234803335/",
+      "source": "ARTnews",
+      "published": "2026-10-22T04:30:00+00:00",
       "priority_score": 9,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -172,18 +184,6 @@
       "publication_approved": false
     },
     {
-      "id": "9a726c11583298ea4778",
-      "title": "Can AI Help Identify the Sitters in Historical Portraits?",
-      "url": "https://www.artnews.com/art-news/news/can-ai-help-identify-sitters-in-centuries-old-portraits-1234803090/",
-      "source": "ARTnews",
-      "published": "2026-10-21T09:30:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "0730f57ce461ae9fb73d",
       "title": "Düsseldorf Galleries Sign Open Letter Against Far-Right Political Party’s Attempts to ‘Co-Opt’ Joseph Beuys",
       "url": "https://www.artnews.com/art-news/news/dusseldorf-galleries-letter-afd-joseph-beuys-1234803192/",
@@ -201,6 +201,42 @@
       "url": "https://www.artnews.com/art-news/news/paris-fondation-louis-vuitton-show-broad-collection-1234803223/",
       "source": "ARTnews",
       "published": "2026-10-21T15:23:01+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "8d50cde29717e72a39b2",
+      "title": "Elisa Nuyten’s Vega Foundation Is Quietly Reshaping the World of Moving-Image Art",
+      "url": "https://www.artnews.com/art-news/news/elisa-nuyten-vega-foundation-moving-image-art-1234802992/",
+      "source": "ARTnews",
+      "published": "2026-10-22T09:00:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "740b80ac4f2558946713",
+      "title": "Florentina Holzinger Is Closing Out ‘Seaworld Venice’ With a ‘Final Dinner’ Made From Bodily Waste",
+      "url": "https://www.artnews.com/art-news/news/florentina-holzinger-seaworld-venice-final-dinner-1234803314/",
+      "source": "ARTnews",
+      "published": "2026-10-21T20:44:10+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "a4883541399f59440f17",
+      "title": "French Students Take to the Monuments",
+      "url": "https://hyperallergic.com/french-students-take-to-the-monuments/",
+      "source": "Hyperallergic",
+      "published": "2026-10-22T10:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -249,18 +285,6 @@
       "url": "https://www.artnews.com/art-news/market/jeff-koons-talks-ai-100-m-modigliani-in-paris-industry-moves-1234803224/",
       "source": "ARTnews",
       "published": "2026-10-21T15:13:44+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "c2059c3bd0e9ab6649f5",
-      "title": "Live From the Lavender Lake",
-      "url": "https://hyperallergic.com/live-from-the-lavender-lake/",
-      "source": "Hyperallergic",
-      "published": "2026-10-20T21:54:15+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -340,6 +364,18 @@
       "publication_approved": false
     },
     {
+      "id": "1e02300325661a7bcb6a",
+      "title": "New York Public Library Gets Over 250 Kiki Smith Prints, a Gift from the Artist’s Sister Seton Smith",
+      "url": "https://www.artnews.com/art-news/news/new-york-public-library-kiki-smith-prints-gift-seton-smith-1234803245/",
+      "source": "ARTnews",
+      "published": "2026-10-22T09:00:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "17d0ac2fdec7991be553",
       "title": "Peter Nagy, Artist and Gallerist Who Shaped Two Art Scenes, Dies at 66",
       "url": "https://hyperallergic.com/peter-nagy-artist-and-gallerist-who-shaped-two-art-scenes-dies-at-66/",
@@ -388,18 +424,6 @@
       "publication_approved": false
     },
     {
-      "id": "f216924268013d53444d",
-      "title": "Rosana Paulino’s Pantheon of Black Plant Goddesses Arrives in Paris",
-      "url": "https://www.artnews.com/art-news/artists/rosana-paulino-mendes-wood-dm-paris-exhibition-1234803173/",
-      "source": "ARTnews",
-      "published": "2026-10-21T07:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "3ca4a5d69895cfde970e",
       "title": "Spirits Against the Patriarchy",
       "url": "https://hyperallergic.com/spirits-against-the-patriarchy/",
@@ -412,11 +436,23 @@
       "publication_approved": false
     },
     {
-      "id": "ae535fd89eabb73b1405",
-      "title": "The Art World Has an AI Problem",
-      "url": "https://hyperallergic.com/the-art-world-has-an-ai-problem/",
+      "id": "ab3e0d06ca408177bc11",
+      "title": "The French Student Protesters Subverting Monuments Like It's May 68",
+      "url": "https://hyperallergic.com/the-french-student-protesters-subverting-monuments-like-its-may-68/",
       "source": "Hyperallergic",
-      "published": "2026-10-21T10:00:00+00:00",
+      "published": "2026-10-21T21:20:43+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "9474ca6304a281bddd4e",
+      "title": "The Rise and Fall of My Wikipedia Page",
+      "url": "https://hyperallergic.com/the-rise-and-fall-of-my-wikipedia-page/",
+      "source": "Hyperallergic",
+      "published": "2026-10-21T20:56:25+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -477,18 +513,6 @@
       "url": "https://www.artnews.com/art-news/news/zohran-mamdani-studio-museum-in-harlem-taylor-simmons-1234802962/",
       "source": "ARTnews",
       "published": "2026-10-19T17:52:47+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "1f8e2200584176d2bb6a",
-      "title": "Álvaro Urbano Honors the Lost Specimens of Mexico City’s Iconic Casa Cueva",
-      "url": "https://www.thisiscolossal.com/2026/10/alvaro-urbano-metal-sculptures-casa-cueva-helen/",
-      "source": "Colossal",
-      "published": "2026-10-20T22:15:39+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -616,6 +640,18 @@
       "publication_approved": false
     },
     {
+      "id": "9a726c11583298ea4778",
+      "title": "Can AI Help Identify the Sitters in Historical Portraits?",
+      "url": "https://www.artnews.com/art-news/news/can-ai-help-identify-sitters-in-centuries-old-portraits-1234803090/",
+      "source": "ARTnews",
+      "published": "2026-10-21T09:30:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "197a5eab7a5f42fb4158",
       "title": "Collector Libbie Mugrabi Faces New Legal Battle Over 1982 Basquiat to Satisfy $2.3 M. Judgment",
       "url": "https://www.artnews.com/art-news/news/libbie-mugrabi-legal-battle-1982-jean-michel-basquiat-1234802971/",
@@ -736,18 +772,6 @@
       "publication_approved": false
     },
     {
-      "id": "f7752b190f227091673b",
-      "title": "Frank Lloyd Wright’s Taliesin West Home in Arizona Temporarily Closes After a Man Dies",
-      "url": "https://www.artnews.com/art-news/news/frank-lloyd-wright-taliesin-west-closes-1234802896/",
-      "source": "ARTnews",
-      "published": "2026-10-19T00:08:31+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "45f516dcd3b10e2cb23f",
       "title": "George Osborne Personally Helped Secure Controversial $6.6 M. British Museum Sponsorship, Emails Show",
       "url": "https://www.artnews.com/art-news/news/eorge-osborne-british-museum-igor-tulchinsky-sponsorship-1234802772/",
@@ -825,6 +849,18 @@
       "url": "https://hyperallergic.com/lets-give-a-round-of-a-paws-to-these-tompkins-dog-parade-participants/",
       "source": "Hyperallergic",
       "published": "2026-10-19T18:16:53+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "c2059c3bd0e9ab6649f5",
+      "title": "Live From the Lavender Lake",
+      "url": "https://hyperallergic.com/live-from-the-lavender-lake/",
+      "source": "Hyperallergic",
+      "published": "2026-10-20T21:54:15+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -988,6 +1024,18 @@
       "publication_approved": false
     },
     {
+      "id": "f216924268013d53444d",
+      "title": "Rosana Paulino’s Pantheon of Black Plant Goddesses Arrives in Paris",
+      "url": "https://www.artnews.com/art-news/artists/rosana-paulino-mendes-wood-dm-paris-exhibition-1234803173/",
+      "source": "ARTnews",
+      "published": "2026-10-21T07:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "084dec8cc8344e5b67ec",
       "title": "Smiles Meyer Queers “The Last Supper”",
       "url": "https://hyperallergic.com/smiles-meyer-queers-the-last-supper/",
@@ -1012,11 +1060,11 @@
       "publication_approved": false
     },
     {
-      "id": "4e7edecbc452417c2d52",
-      "title": "The Buffalo Haunts America",
-      "url": "https://hyperallergic.com/the-buffalo-haunts-america/",
+      "id": "ae535fd89eabb73b1405",
+      "title": "The Art World Has an AI Problem",
+      "url": "https://hyperallergic.com/the-art-world-has-an-ai-problem/",
       "source": "Hyperallergic",
-      "published": "2026-10-19T10:00:00+00:00",
+      "published": "2026-10-21T10:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1065,6 +1113,18 @@
       "url": "https://www.artnews.com/art-news/news/elizabeth-holmes-x-you-can-see-everything-norman-rockwell-1234803094/",
       "source": "ARTnews",
       "published": "2026-10-20T17:32:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "1f8e2200584176d2bb6a",
+      "title": "Álvaro Urbano Honors the Lost Specimens of Mexico City’s Iconic Casa Cueva",
+      "url": "https://www.thisiscolossal.com/2026/10/alvaro-urbano-metal-sculptures-casa-cueva-helen/",
+      "source": "Colossal",
+      "published": "2026-10-20T22:15:39+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1252,6 +1312,18 @@
       "publication_approved": false
     },
     {
+      "id": "f7752b190f227091673b",
+      "title": "Frank Lloyd Wright’s Taliesin West Home in Arizona Temporarily Closes After a Man Dies",
+      "url": "https://www.artnews.com/art-news/news/frank-lloyd-wright-taliesin-west-closes-1234802896/",
+      "source": "ARTnews",
+      "published": "2026-10-19T00:08:31+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "06d16c4e70582e53be52",
       "title": "How Cringe Took Over Culture",
       "url": "https://www.artnews.com/art-in-america/features/cringe-took-over-culture-nathan-fielder-jordan-staffer-marianne-simnett-1234802717/",
@@ -1389,6 +1461,18 @@
       "url": "https://www.artnews.com/list/art-news/market/1-54-london-2026-best-booths-1234802855/",
       "source": "ARTnews",
       "published": "2026-10-17T15:27:18+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "4e7edecbc452417c2d52",
+      "title": "The Buffalo Haunts America",
+      "url": "https://hyperallergic.com/the-buffalo-haunts-america/",
+      "source": "Hyperallergic",
+      "published": "2026-10-19T10:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
