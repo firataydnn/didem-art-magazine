@@ -1,8 +1,20 @@
 {
   "schema": 1,
-  "count": 160,
+  "count": 168,
   "possible_duplicates": 0,
   "items": [
+    {
+      "id": "b56d5afb7c05b0825413",
+      "title": "Monet Painting Sells for $56.2 M., Setting French Auction Record at Sotheby’s Paris",
+      "url": "https://www.artnews.com/art-news/market/claude-monet-iris-french-auction-record-sothebys-paris-1234803611/",
+      "source": "ARTnews",
+      "published": "2026-10-22T21:13:42+00:00",
+      "priority_score": 12,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
     {
       "id": "a98a8466fd12cc273f57",
       "title": "Weekend Protests in Paris Raise Question of Early Art Basel Closure, $34.3 M. Marble Roman Torso Breaks Auction Records, and More: Morning Links for October 22, 2026",
@@ -100,6 +112,30 @@
       "publication_approved": false
     },
     {
+      "id": "f37251054cdb260b4edd",
+      "title": "As Art Basel Paris Shutters for Weekend Protests, Satellite Fairs Keep Their Doors Open",
+      "url": "https://www.artnews.com/art-news/news/art-basel-paris-closing-early-satellite-fairs-ope-1234803619/",
+      "source": "ARTnews",
+      "published": "2026-10-22T23:43:30+00:00",
+      "priority_score": 9,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "402e25e12e8205cadbe9",
+      "title": "Au Revoir, Art Basel Paris",
+      "url": "https://hyperallergic.com/au-revoir-art-basel-paris/",
+      "source": "Hyperallergic",
+      "published": "2026-10-23T10:00:00+00:00",
+      "priority_score": 9,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "b78d6463009e6adf4419",
       "title": "Dealers Scramble to Get Works Out of Paris After Surprise Art Basel Announcement",
       "url": "https://www.artnews.com/art-news/market/art-basel-paris-closure-protests-dealers-respond-1234803592/",
@@ -136,11 +172,11 @@
       "publication_approved": false
     },
     {
-      "id": "d1d80d7e68c6b81bb76d",
-      "title": "The Best Booths at Art Basel Paris, From Tar Paintings to a Falling Knife",
-      "url": "https://www.artnews.com/list/art-news/market/art-basel-paris-2026-best-booths-1234803335/",
-      "source": "ARTnews",
-      "published": "2026-10-22T04:30:00+00:00",
+      "id": "d3fccb0ec711b42a9a29",
+      "title": "Studio Museum Announces New Artists-in-Residence",
+      "url": "https://hyperallergic.com/studio-museum-announces-new-artists-in-residence/",
+      "source": "Hyperallergic",
+      "published": "2026-10-22T22:08:23+00:00",
       "priority_score": 9,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -220,47 +256,11 @@
       "publication_approved": false
     },
     {
-      "id": "8d50cde29717e72a39b2",
-      "title": "Elisa Nuyten’s Vega Foundation Is Quietly Reshaping the World of Moving-Image Art",
-      "url": "https://www.artnews.com/art-news/news/elisa-nuyten-vega-foundation-moving-image-art-1234802992/",
-      "source": "ARTnews",
-      "published": "2026-10-22T09:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "8fab26d132295d71c41a",
       "title": "Environmental Group Unveils Melting Statue of Florida Gov., New Beatles Museum Announced for Liverpool, V&A Unionized Staff to Strike Again, and More: Morning Links for October 21, 2026",
       "url": "https://www.artnews.com/art-news/news/environmental-group-unveils-melting-statue-of-florida-gov-1234803186/",
       "source": "ARTnews",
       "published": "2026-10-21T13:26:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "740b80ac4f2558946713",
-      "title": "Florentina Holzinger Is Closing Out ‘Seaworld Venice’ With a ‘Final Dinner’ Made From Bodily Waste",
-      "url": "https://www.artnews.com/art-news/news/florentina-holzinger-seaworld-venice-final-dinner-1234803314/",
-      "source": "ARTnews",
-      "published": "2026-10-21T20:44:10+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "a4883541399f59440f17",
-      "title": "French Students Take to the Monuments",
-      "url": "https://hyperallergic.com/french-students-take-to-the-monuments/",
-      "source": "Hyperallergic",
-      "published": "2026-10-22T10:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -280,11 +280,11 @@
       "publication_approved": false
     },
     {
-      "id": "7856725b248ba182e915",
-      "title": "Hundreds Protest in Colombia After Far-Right President Removes Works From National Museum",
-      "url": "https://hyperallergic.com/hundreds-protest-in-colombia-after-far-right-president-removes-works-from-national-museum/",
-      "source": "Hyperallergic",
-      "published": "2026-10-19T21:14:08+00:00",
+      "id": "a56aa682d4e5e1ea766f",
+      "title": "How Did ‘American Gothic’ Become So Iconic? This Art Historian Spent Five Decades Investigating.",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/american-gothic-wanda-corn-iconic-midwest-grant-wood-1234803480/",
+      "source": "ARTnews",
+      "published": "2026-10-23T09:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -309,6 +309,30 @@
       "url": "https://www.artnews.com/art-news/news/kid-cudi-jean-michel-basquiat-film-1234803534/",
       "source": "ARTnews",
       "published": "2026-10-22T15:47:47+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "3f1d6a61b5601a94cb31",
+      "title": "Louvre Among Major Paris Museums to Shutter During Saturday Protests",
+      "url": "https://hyperallergic.com/louvre-among-major-paris-museums-to-shutter-during-saturday-protests/",
+      "source": "Hyperallergic",
+      "published": "2026-10-22T20:39:26+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "9e0684e8649ca6551d4f",
+      "title": "Louvre Heist Suspect Denied Release As Investigators Unravel Tangled Testimonies",
+      "url": "https://www.artnews.com/art-news/news/louvre-heist-suspect-denied-release-as-investigators-unravel-tangled-testimonies-1234803583/",
+      "source": "ARTnews",
+      "published": "2026-10-22T21:32:38+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -352,18 +376,6 @@
       "publication_approved": false
     },
     {
-      "id": "1e02300325661a7bcb6a",
-      "title": "New York Public Library Gets Over 250 Kiki Smith Prints, a Gift from the Artist’s Sister Seton Smith",
-      "url": "https://www.artnews.com/art-news/news/new-york-public-library-kiki-smith-prints-gift-seton-smith-1234803245/",
-      "source": "ARTnews",
-      "published": "2026-10-22T09:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "b86a45f206144c8b76e2",
       "title": "Questions Raised Over Maintenance of Frank Lloyd Wright’s Taliesin West Home After Death",
       "url": "https://www.artnews.com/art-news/news/frank-lloyd-wright-taliesin-west-home-raises-scrutiny-1234803559/",
@@ -388,6 +400,18 @@
       "publication_approved": false
     },
     {
+      "id": "d1d80d7e68c6b81bb76d",
+      "title": "The Best Booths at Art Basel Paris, From Tar Paintings to a Falling Knife",
+      "url": "https://www.artnews.com/list/art-news/market/art-basel-paris-2026-best-booths-1234803335/",
+      "source": "ARTnews",
+      "published": "2026-10-22T04:30:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "3303f55483eb8a0cfec4",
       "title": "The Best Works at Art Basel Paris’s Public Program, From a Crowd of TV Screens to a Flock of Plush Animals",
       "url": "https://www.artnews.com/list/art-news/market/art-basel-paris-2026-public-program-best-works-1234803248/",
@@ -405,30 +429,6 @@
       "url": "https://hyperallergic.com/the-cathedral-of-learning-is-pittsburghs-secular-temple/",
       "source": "Hyperallergic",
       "published": "2026-10-22T17:58:11+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "ab3e0d06ca408177bc11",
-      "title": "The French Student Protesters Subverting Monuments Like It's May 68",
-      "url": "https://hyperallergic.com/the-french-student-protesters-subverting-monuments-like-its-may-68/",
-      "source": "Hyperallergic",
-      "published": "2026-10-21T21:20:43+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "9474ca6304a281bddd4e",
-      "title": "The Rise and Fall of My Wikipedia Page",
-      "url": "https://hyperallergic.com/the-rise-and-fall-of-my-wikipedia-page/",
-      "source": "Hyperallergic",
-      "published": "2026-10-21T20:56:25+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -496,6 +496,18 @@
       "publication_approved": false
     },
     {
+      "id": "6bc464ba12334f6f0873",
+      "title": "When Does a Woman Artist Reach Her \"Prime\"?",
+      "url": "https://hyperallergic.com/when-does-a-woman-artist-reach-her-prime/",
+      "source": "Hyperallergic",
+      "published": "2026-10-22T21:23:40+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "60b0b1627192a9bf1e61",
       "title": "With Her Miu Miu Commission in Paris, Filmmaker Alice Diop Offers a Much-Needed Space for Healing",
       "url": "https://www.artnews.com/art-news/artists/alice-diop-miu-miu-commission-interview-1234803570/",
@@ -549,18 +561,6 @@
       "url": "https://hyperallergic.com/applications-open-for-the-mfa-in-studio-art-at-maine-college-of-art-design/",
       "source": "Hyperallergic",
       "published": "2026-10-20T15:35:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "014d6acd6463f8004259",
-      "title": "Art Books on Needles and Threads",
-      "url": "https://hyperallergic.com/art-books-on-needles-and-threads/",
-      "source": "Hyperallergic",
-      "published": "2026-10-19T22:14:33+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -640,18 +640,6 @@
       "publication_approved": false
     },
     {
-      "id": "567db77c394593b24756",
-      "title": "Danh Vo and Sandra Mujinga Selected for Met Museum Commissions",
-      "url": "https://hyperallergic.com/danh-vo-and-sandra-mujinga-selected-for-met-museum-commissions/",
-      "source": "Hyperallergic",
-      "published": "2026-10-15T21:48:28+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "3eb6983ddda17518c5a8",
       "title": "Dear Art World, We Can Tell When You’re Using AI",
       "url": "https://hyperallergic.com/dear-art-world-we-can-tell-when-youre-using-ai/",
@@ -700,6 +688,18 @@
       "publication_approved": false
     },
     {
+      "id": "8d50cde29717e72a39b2",
+      "title": "Elisa Nuyten’s Vega Foundation Is Quietly Reshaping the World of Moving-Image Art",
+      "url": "https://www.artnews.com/art-news/news/elisa-nuyten-vega-foundation-moving-image-art-1234802992/",
+      "source": "ARTnews",
+      "published": "2026-10-22T09:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "21a0d0112f9f5a837e8d",
       "title": "Experts Call for Indigenous Artifacts in Canadian Tycoon’s Collection to Be Repatriated",
       "url": "https://www.artnews.com/art-news/news/john-risley-indigenous-artifacts-repatriation-dispute-1234803085/",
@@ -724,11 +724,23 @@
       "publication_approved": false
     },
     {
-      "id": "ca0ef1abe62986812e46",
-      "title": "Fondation Louis Vuitton Reunites Hundreds of Masterpieces Once Owned by One France’s Most Important, Though Now Forgotten, Collectors",
-      "url": "https://www.artnews.com/art-news/news/fondation-louis-vuitton-gustave-fayet-exhibition-1234803022/",
+      "id": "740b80ac4f2558946713",
+      "title": "Florentina Holzinger Is Closing Out ‘Seaworld Venice’ With a ‘Final Dinner’ Made From Bodily Waste",
+      "url": "https://www.artnews.com/art-news/news/florentina-holzinger-seaworld-venice-final-dinner-1234803314/",
       "source": "ARTnews",
-      "published": "2026-10-20T06:00:00+00:00",
+      "published": "2026-10-21T20:44:10+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "a4883541399f59440f17",
+      "title": "French Students Take to the Monuments",
+      "url": "https://hyperallergic.com/french-students-take-to-the-monuments/",
+      "source": "Hyperallergic",
+      "published": "2026-10-22T10:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -753,6 +765,18 @@
       "url": "https://www.artnews.com/art-news/opinion/frieze-london-fashion-industry-experience-1234802660/",
       "source": "ARTnews",
       "published": "2026-10-16T16:40:37+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "7856725b248ba182e915",
+      "title": "Hundreds Protest in Colombia After Far-Right President Removes Works From National Museum",
+      "url": "https://hyperallergic.com/hundreds-protest-in-colombia-after-far-right-president-removes-works-from-national-museum/",
+      "source": "Hyperallergic",
+      "published": "2026-10-19T21:14:08+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -892,6 +916,18 @@
       "publication_approved": false
     },
     {
+      "id": "1e02300325661a7bcb6a",
+      "title": "New York Public Library Gets Over 250 Kiki Smith Prints, a Gift from the Artist’s Sister Seton Smith",
+      "url": "https://www.artnews.com/art-news/news/new-york-public-library-kiki-smith-prints-gift-seton-smith-1234803245/",
+      "source": "ARTnews",
+      "published": "2026-10-22T09:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "1f2cff17d10ede9f2094",
       "title": "New York’s Canada Gallery Faced Threat of Dissolution After Backer’s Lawsuits, Court Documents Show",
       "url": "https://www.artnews.com/art-news/news/canada-gallery-lawsuits-partners-leave-1234802943/",
@@ -921,18 +957,6 @@
       "url": "https://www.artnews.com/art-news/news/morning-links-october-16-norton-simon-museum-1234802810/",
       "source": "ARTnews",
       "published": "2026-10-16T23:59:51+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "6cc6ab3f0cf40c314dad",
-      "title": "Paris Students Shut Down the Louvre",
-      "url": "https://hyperallergic.com/paris-students-shut-down-the-louvre/",
-      "source": "Hyperallergic",
-      "published": "2026-10-20T10:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1048,11 +1072,35 @@
       "publication_approved": false
     },
     {
+      "id": "ab3e0d06ca408177bc11",
+      "title": "The French Student Protesters Subverting Monuments Like It's May 68",
+      "url": "https://hyperallergic.com/the-french-student-protesters-subverting-monuments-like-its-may-68/",
+      "source": "Hyperallergic",
+      "published": "2026-10-21T21:20:43+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "606d20c13f3dfdd25d90",
       "title": "The MIT Professors Bedazzling Security Cameras to Highlight Campus Surveillance",
       "url": "https://hyperallergic.com/the-mit-professors-bedazzling-security-cameras-to-highlight-campus-surveillance/",
       "source": "Hyperallergic",
       "published": "2026-10-20T17:48:36+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "9474ca6304a281bddd4e",
+      "title": "The Rise and Fall of My Wikipedia Page",
+      "url": "https://hyperallergic.com/the-rise-and-fall-of-my-wikipedia-page/",
+      "source": "Hyperallergic",
+      "published": "2026-10-21T20:56:25+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1168,18 +1216,6 @@
       "publication_approved": false
     },
     {
-      "id": "a7ba527a833b76d997d3",
-      "title": "12 Must-Read Books on Textiles and Fiber Art",
-      "url": "https://hyperallergic.com/12-must-read-books-on-textiles-and-fiber-art/",
-      "source": "Hyperallergic",
-      "published": "2026-10-15T21:04:15+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "ee9ef74644e7101da84a",
       "title": "A Once-in-a-Lifetime Look Into America’s Most-Storied Art Couple",
       "url": "https://www.artnews.com/art-in-america/aia-reviews/jackson-pollock-lee-krasner-met-1234802599/",
@@ -1245,6 +1281,18 @@
       "url": "https://www.artnews.com/art-news/artists/eva-gonzales-retrospective-petit-palais-1234802901/",
       "source": "ARTnews",
       "published": "2026-10-19T15:14:27+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "014d6acd6463f8004259",
+      "title": "Art Books on Needles and Threads",
+      "url": "https://hyperallergic.com/art-books-on-needles-and-threads/",
+      "source": "Hyperallergic",
+      "published": "2026-10-19T22:14:33+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1324,6 +1372,18 @@
       "publication_approved": false
     },
     {
+      "id": "567db77c394593b24756",
+      "title": "Danh Vo and Sandra Mujinga Selected for Met Museum Commissions",
+      "url": "https://hyperallergic.com/danh-vo-and-sandra-mujinga-selected-for-met-museum-commissions/",
+      "source": "Hyperallergic",
+      "published": "2026-10-15T21:48:28+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "a31d8dcfc4314f7c54be",
       "title": "David Reed Went Where Lichtenstein Wouldn’t",
       "url": "https://hyperallergic.com/david-reed-went-where-lichtenstein-wouldnt/",
@@ -1389,6 +1449,18 @@
       "url": "https://hyperallergic.com/faith-and-its-contradictions-in-9-temples-to-heaven/",
       "source": "Hyperallergic",
       "published": "2026-10-16T17:44:17+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "ca0ef1abe62986812e46",
+      "title": "Fondation Louis Vuitton Reunites Hundreds of Masterpieces Once Owned by One France’s Most Important, Though Now Forgotten, Collectors",
+      "url": "https://www.artnews.com/art-news/news/fondation-louis-vuitton-gustave-fayet-exhibition-1234803022/",
+      "source": "ARTnews",
+      "published": "2026-10-20T06:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1533,6 +1605,18 @@
       "url": "https://hyperallergic.com/paris-students-block-louvre-entrance-forcing-closure/",
       "source": "Hyperallergic",
       "published": "2026-10-19T16:22:59+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "6cc6ab3f0cf40c314dad",
+      "title": "Paris Students Shut Down the Louvre",
+      "url": "https://hyperallergic.com/paris-students-shut-down-the-louvre/",
+      "source": "Hyperallergic",
+      "published": "2026-10-20T10:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1708,30 +1792,6 @@
       "publication_approved": false
     },
     {
-      "id": "4b80f249741171bec79f",
-      "title": "The School of Art at the University of Arkansas Offers Tuition-Free Graduate Programs",
-      "url": "https://hyperallergic.com/the-school-of-art-at-the-university-of-arkansas-offers-tuition-free-graduate-programs/",
-      "source": "Hyperallergic",
-      "published": "2026-10-16T10:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "af80a7ed96a8aa9054a6",
-      "title": "The “Renegade Housewife” of Pop Art",
-      "url": "https://hyperallergic.com/the-renegade-housewife-of-pop-art/",
-      "source": "Hyperallergic",
-      "published": "2026-10-16T10:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "4c1213741f680a9ea288",
       "title": "This Iranian Documentary Wasn’t Meant to Begin This Way",
       "url": "https://hyperallergic.com/this-iranian-documentary-wasnt-meant-to-begin-this-way/",
@@ -1756,12 +1816,12 @@
       "publication_approved": false
     },
     {
-      "id": "ff8bf68c589eb50fa713",
-      "title": "WPA Murals at Harlem Hospital Restored to Their Original Glory",
-      "url": "https://hyperallergic.com/wpa-murals-at-harlem-hospital-restored-to-their-original-glory/",
+      "id": "a7ba527a833b76d997d3",
+      "title": "12 Must-Read Books on Textiles and Fiber Art",
+      "url": "https://hyperallergic.com/12-must-read-books-on-textiles-and-fiber-art/",
       "source": "Hyperallergic",
-      "published": "2026-10-15T20:58:56+00:00",
-      "priority_score": 3,
+      "published": "2026-10-15T21:04:15+00:00",
+      "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -1864,6 +1924,18 @@
       "publication_approved": false
     },
     {
+      "id": "4b80f249741171bec79f",
+      "title": "The School of Art at the University of Arkansas Offers Tuition-Free Graduate Programs",
+      "url": "https://hyperallergic.com/the-school-of-art-at-the-university-of-arkansas-offers-tuition-free-graduate-programs/",
+      "source": "Hyperallergic",
+      "published": "2026-10-16T10:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "de5b83cd36646149c608",
       "title": "The Wildlife Photographer of the Year 2026 Winners Showcase Nature’s Power and Vulnerability",
       "url": "https://www.thisiscolossal.com/2026/10/wildlife-photographer-of-the-year-2026-winners/",
@@ -1876,11 +1948,35 @@
       "publication_approved": false
     },
     {
+      "id": "af80a7ed96a8aa9054a6",
+      "title": "The “Renegade Housewife” of Pop Art",
+      "url": "https://hyperallergic.com/the-renegade-housewife-of-pop-art/",
+      "source": "Hyperallergic",
+      "published": "2026-10-16T10:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "708e5cd65b4a63c98b40",
       "title": "Valerio Adami’s Hot and Cold Art",
       "url": "https://hyperallergic.com/valerio-adamis-hot-and-cold-art/",
       "source": "Hyperallergic",
       "published": "2026-10-15T18:31:38+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "ff8bf68c589eb50fa713",
+      "title": "WPA Murals at Harlem Hospital Restored to Their Original Glory",
+      "url": "https://hyperallergic.com/wpa-murals-at-harlem-hospital-restored-to-their-original-glory/",
+      "source": "Hyperallergic",
+      "published": "2026-10-15T20:58:56+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
