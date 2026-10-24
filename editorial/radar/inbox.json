@@ -2,6 +2,32 @@
   "schema": 1,
   "items": [
     {
+      "id": "bb8eac5bc6a4529250f9",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "In a Historic Blunder, Wu-Tang Clan Sold an Album as a Unique Artwork—A New Doc Tells the Story of an Architect of the Sale",
+      "url": "https://www.artnews.com/art-news/reviews/wu-tang-clan-sold-album-artwork-once-upon-time-shaolin-film-1234803666/",
+      "published": "2026-10-24T13:22:00+00:00",
+      "summary": "Unfortunately, the architect of the project doesn’t prove a compelling presence on screen.",
+      "discovered": "2026-10-24T14:38:23.403741+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "4df5f498fc3a5503b6ec",
+      "source": "Hyperallergic",
+      "category": "sanat-basini",
+      "title": "This Is Class War",
+      "url": "https://hyperallergic.com/this-is-class-war/",
+      "published": "2026-10-24T10:00:00+00:00",
+      "summary": "The latest on the student protests in France, the art world’s AI problem, one-on-one with Rosana Paulino, and Beer With a Painter featuring Melissa Brown.",
+      "discovered": "2026-10-24T14:38:23.403741+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "56154681d52c7d2e2884",
       "source": "ARTnews",
       "category": "sanat-basini",

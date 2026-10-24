@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "count": 184,
+  "count": 186,
   "possible_duplicates": 0,
   "items": [
     {
@@ -34,18 +34,6 @@
       "source": "ARTnews",
       "published": "2026-10-22T12:28:42+00:00",
       "priority_score": 10,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "402e25e12e8205cadbe9",
-      "title": "Au Revoir, Art Basel Paris",
-      "url": "https://hyperallergic.com/au-revoir-art-basel-paris/",
-      "source": "Hyperallergic",
-      "published": "2026-10-23T10:00:00+00:00",
-      "priority_score": 9,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -208,6 +196,18 @@
       "publication_approved": false
     },
     {
+      "id": "402e25e12e8205cadbe9",
+      "title": "Au Revoir, Art Basel Paris",
+      "url": "https://hyperallergic.com/au-revoir-art-basel-paris/",
+      "source": "Hyperallergic",
+      "published": "2026-10-23T10:00:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "b27bb4514494dc10871d",
       "title": "Chanel Becomes Lead Sponsor of Hong Kong’s M+ Museum in Expanded Three-Year Deal",
       "url": "https://www.artnews.com/art-news/news/chanel-m-plus-hong-kong-museum-lead-partner-1234803225/",
@@ -256,18 +256,6 @@
       "publication_approved": false
     },
     {
-      "id": "8fab26d132295d71c41a",
-      "title": "Environmental Group Unveils Melting Statue of Florida Gov., New Beatles Museum Announced for Liverpool, V&A Unionized Staff to Strike Again, and More: Morning Links for October 21, 2026",
-      "url": "https://www.artnews.com/art-news/news/environmental-group-unveils-melting-statue-of-florida-gov-1234803186/",
-      "source": "ARTnews",
-      "published": "2026-10-21T13:26:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "37a73e1885590c10a5e5",
       "title": "Glasgow Museum Removes Mummified Head ‘as a Mark of Respect,’ Prompting Conservative Backlash",
       "url": "https://www.artnews.com/art-news/news/scottish-museum-removes-mummified-egyptian-head-backlash-1234803528/",
@@ -292,6 +280,18 @@
       "publication_approved": false
     },
     {
+      "id": "bb8eac5bc6a4529250f9",
+      "title": "In a Historic Blunder, Wu-Tang Clan Sold an Album as a Unique Artwork—A New Doc Tells the Story of an Architect of the Sale",
+      "url": "https://www.artnews.com/art-news/reviews/wu-tang-clan-sold-album-artwork-once-upon-time-shaolin-film-1234803666/",
+      "source": "ARTnews",
+      "published": "2026-10-24T13:22:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "a13e604baed62dd309e5",
       "title": "Kid Cudi to Write, Direct, and Star as Basquiat in New Biopic",
       "url": "https://hyperallergic.com/kid-cudi-to-write-direct-and-star-as-basquiat-in-new-biopic/",
@@ -309,18 +309,6 @@
       "url": "https://www.artnews.com/art-news/news/monument-to-iwo-jima-flag-raising-near-quantico-vandalized-1234803717/",
       "source": "ARTnews",
       "published": "2026-10-23T19:53:20+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "17d771202ac8d6e6152a",
-      "title": "More Paris Museums Announce Closures Ahead of Saturday Protests, Winner of Marcel Duchamp Prize Announced, and More: Morning Links for October 23, 2026",
-      "url": "https://www.artnews.com/art-news/news/more-paris-museums-announce-closures-saturday-protests-1234803634/",
-      "source": "ARTnews",
-      "published": "2026-10-23T13:04:31+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -376,18 +364,6 @@
       "publication_approved": false
     },
     {
-      "id": "44c2df5aebf4fd42c4d6",
-      "title": "Skirball Cultural Center presents “The 1960s — A Generation on Fire: Judy Baca’s Great Wall of Los Angeles”",
-      "url": "https://hyperallergic.com/skirball-cultural-center-presents-the-1960s-a-generation-on-fire-judy-bacas-great-wall-of-los-angeles/",
-      "source": "Hyperallergic",
-      "published": "2026-10-23T14:30:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "d3fccb0ec711b42a9a29",
       "title": "Studio Museum Announces New Artists-in-Residence",
       "url": "https://hyperallergic.com/studio-museum-announces-new-artists-in-residence/",
@@ -429,6 +405,18 @@
       "url": "https://hyperallergic.com/the-war-on-art-is-repeating-itself/",
       "source": "Hyperallergic",
       "published": "2026-10-23T19:24:34+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "4df5f498fc3a5503b6ec",
+      "title": "This Is Class War",
+      "url": "https://hyperallergic.com/this-is-class-war/",
+      "source": "Hyperallergic",
+      "published": "2026-10-24T10:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -532,30 +520,6 @@
       "publication_approved": false
     },
     {
-      "id": "5e06ca9da39da9ff097e",
-      "title": "Basquiat’s Long-Unseen Riff on Leonardo da Vinci to Lead Christie’s 21st Century Evening Sale with $30 M. Estimate",
-      "url": "https://www.artnews.com/art-news/news/jean-michel-basquiat-leonardo-da-vinci-christies-21st-century-evening-sale-1234803167/",
-      "source": "ARTnews",
-      "published": "2026-10-21T13:57:13+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "0730f57ce461ae9fb73d",
-      "title": "Düsseldorf Galleries Sign Open Letter Against Far-Right Political Party’s Attempts to ‘Co-Opt’ Joseph Beuys",
-      "url": "https://www.artnews.com/art-news/news/dusseldorf-galleries-letter-afd-joseph-beuys-1234803192/",
-      "source": "ARTnews",
-      "published": "2026-10-21T13:56:32+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "8629f86677a0bebe0493",
       "title": "Eli in Paris: The Fondation Louis Vuitton Will Mount a Giant Show of the Broad Collection Next Year",
       "url": "https://www.artnews.com/art-news/news/paris-fondation-louis-vuitton-show-broad-collection-1234803223/",
@@ -573,6 +537,18 @@
       "url": "https://www.artnews.com/art-news/news/elisa-nuyten-vega-foundation-moving-image-art-1234802992/",
       "source": "ARTnews",
       "published": "2026-10-22T09:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "8fab26d132295d71c41a",
+      "title": "Environmental Group Unveils Melting Statue of Florida Gov., New Beatles Museum Announced for Liverpool, V&A Unionized Staff to Strike Again, and More: Morning Links for October 21, 2026",
+      "url": "https://www.artnews.com/art-news/news/environmental-group-unveils-melting-statue-of-florida-gov-1234803186/",
+      "source": "ARTnews",
+      "published": "2026-10-21T13:26:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -784,6 +760,18 @@
       "publication_approved": false
     },
     {
+      "id": "17d771202ac8d6e6152a",
+      "title": "More Paris Museums Announce Closures Ahead of Saturday Protests, Winner of Marcel Duchamp Prize Announced, and More: Morning Links for October 23, 2026",
+      "url": "https://www.artnews.com/art-news/news/more-paris-museums-announce-closures-saturday-protests-1234803634/",
+      "source": "ARTnews",
+      "published": "2026-10-23T13:04:31+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "b6902443985608eea03e",
       "title": "Mystery Skeleton in Roman Sarcophagus Beneath Westminster Abbey May Be a Medieval Abbot, Study Says",
       "url": "https://www.artnews.com/art-news/news/skeleton-roman-sarcophagus-westminster-abbey-study-1234803556/",
@@ -904,11 +892,11 @@
       "publication_approved": false
     },
     {
-      "id": "3ca4a5d69895cfde970e",
-      "title": "Spirits Against the Patriarchy",
-      "url": "https://hyperallergic.com/spirits-against-the-patriarchy/",
+      "id": "44c2df5aebf4fd42c4d6",
+      "title": "Skirball Cultural Center presents “The 1960s — A Generation on Fire: Judy Baca’s Great Wall of Los Angeles”",
+      "url": "https://hyperallergic.com/skirball-cultural-center-presents-the-1960s-a-generation-on-fire-judy-bacas-great-wall-of-los-angeles/",
       "source": "Hyperallergic",
-      "published": "2026-10-21T20:32:21+00:00",
+      "published": "2026-10-23T14:30:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -916,11 +904,11 @@
       "publication_approved": false
     },
     {
-      "id": "ae535fd89eabb73b1405",
-      "title": "The Art World Has an AI Problem",
-      "url": "https://hyperallergic.com/the-art-world-has-an-ai-problem/",
+      "id": "3ca4a5d69895cfde970e",
+      "title": "Spirits Against the Patriarchy",
+      "url": "https://hyperallergic.com/spirits-against-the-patriarchy/",
       "source": "Hyperallergic",
-      "published": "2026-10-21T10:00:00+00:00",
+      "published": "2026-10-21T20:32:21+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -957,18 +945,6 @@
       "url": "https://hyperallergic.com/the-rise-and-fall-of-my-wikipedia-page/",
       "source": "Hyperallergic",
       "published": "2026-10-21T20:56:25+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "8fbe062fee5a6bbf0376",
-      "title": "Theaster Gates Returned a David Drake Jar to His Descendants—It’s Now on View at a Virginia HBCU",
-      "url": "https://www.artnews.com/art-news/news/theaster-gates-david-drake-jar-virginia-hampton-university-1234803134/",
-      "source": "ARTnews",
-      "published": "2026-10-21T13:47:42+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1053,18 +1029,6 @@
       "url": "https://www.artnews.com/art-news/artists/alice-diop-miu-miu-commission-interview-1234803570/",
       "source": "ARTnews",
       "published": "2026-10-22T17:58:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "c6c6a75d37ee029be3cf",
-      "title": "Youthful Edward Hopper Oil Paintings Revealed to Be Copies of Other Artists’ Work",
-      "url": "https://www.artnews.com/art-news/news/edward-hopper-oil-paintings-copies-1234803144/",
-      "source": "ARTnews",
-      "published": "2026-10-21T14:02:47+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1180,6 +1144,18 @@
       "publication_approved": false
     },
     {
+      "id": "5e06ca9da39da9ff097e",
+      "title": "Basquiat’s Long-Unseen Riff on Leonardo da Vinci to Lead Christie’s 21st Century Evening Sale with $30 M. Estimate",
+      "url": "https://www.artnews.com/art-news/news/jean-michel-basquiat-leonardo-da-vinci-christies-21st-century-evening-sale-1234803167/",
+      "source": "ARTnews",
+      "published": "2026-10-21T13:57:13+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "7d99954411f8ee3864bb",
       "title": "Bathing With the Nymphs",
       "url": "https://hyperallergic.com/bathing-with-the-nymphs/",
@@ -1288,18 +1264,6 @@
       "publication_approved": false
     },
     {
-      "id": "6af72dd84e547795e57b",
-      "title": "Diaries of a Primitive Man",
-      "url": "https://hyperallergic.com/diaries-of-a-primitive-man/",
-      "source": "Hyperallergic",
-      "published": "2026-10-17T10:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "bc996acb9c639b43e4a2",
       "title": "Diasporican Abstraction: A Cross-Border Cartography of Puerto Rican Abstraction",
       "url": "https://hyperallergic.com/diasporican-abstraction-a-cross-border-cartography-of-puerto-rican-abstraction/",
@@ -1317,6 +1281,18 @@
       "url": "https://www.artnews.com/art-news/news/donors-are-secretly-trying-to-save-the-kennedy-centers-artworks-from-destruction-or-disposal-amid-trump-takeover-1234803103/",
       "source": "ARTnews",
       "published": "2026-10-20T17:45:51+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "0730f57ce461ae9fb73d",
+      "title": "Düsseldorf Galleries Sign Open Letter Against Far-Right Political Party’s Attempts to ‘Co-Opt’ Joseph Beuys",
+      "url": "https://www.artnews.com/art-news/news/dusseldorf-galleries-letter-afd-joseph-beuys-1234803192/",
+      "source": "ARTnews",
+      "published": "2026-10-21T13:56:32+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1401,18 +1377,6 @@
       "url": "https://www.artnews.com/art-news/opinion/frieze-london-fashion-industry-experience-1234802660/",
       "source": "ARTnews",
       "published": "2026-10-16T16:40:37+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "45297e075c8ed11655f7",
-      "title": "Ibrahim Mahama’s Most Ambitious Show Yet Is Headed to Paris—But Its Core Is in Ghana",
-      "url": "https://www.artnews.com/art-news/artists/ibrahim-mahama-fondation-cartier-paris-show-1234802619/",
-      "source": "ARTnews",
-      "published": "2026-10-17T10:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1672,6 +1636,18 @@
       "publication_approved": false
     },
     {
+      "id": "ae535fd89eabb73b1405",
+      "title": "The Art World Has an AI Problem",
+      "url": "https://hyperallergic.com/the-art-world-has-an-ai-problem/",
+      "source": "Hyperallergic",
+      "published": "2026-10-21T10:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "8da43f6a117d09d61e94",
       "title": "The Best Booths at 1-54 London, From 3D-Printed Chairs to Futuristic Visions of Lagos’s Waterfront",
       "url": "https://www.artnews.com/list/art-news/market/1-54-london-2026-best-booths-1234802855/",
@@ -1708,6 +1684,18 @@
       "publication_approved": false
     },
     {
+      "id": "8fbe062fee5a6bbf0376",
+      "title": "Theaster Gates Returned a David Drake Jar to His Descendants—It’s Now on View at a Virginia HBCU",
+      "url": "https://www.artnews.com/art-news/news/theaster-gates-david-drake-jar-virginia-hampton-university-1234803134/",
+      "source": "ARTnews",
+      "published": "2026-10-21T13:47:42+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "4c1213741f680a9ea288",
       "title": "This Iranian Documentary Wasn’t Meant to Begin This Way",
       "url": "https://hyperallergic.com/this-iranian-documentary-wasnt-meant-to-begin-this-way/",
@@ -1737,6 +1725,18 @@
       "url": "https://www.artnews.com/art-news/news/elizabeth-holmes-x-you-can-see-everything-norman-rockwell-1234803094/",
       "source": "ARTnews",
       "published": "2026-10-20T17:32:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "c6c6a75d37ee029be3cf",
+      "title": "Youthful Edward Hopper Oil Paintings Revealed to Be Copies of Other Artists’ Work",
+      "url": "https://www.artnews.com/art-news/news/edward-hopper-oil-paintings-copies-1234803144/",
+      "source": "ARTnews",
+      "published": "2026-10-21T14:02:47+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1888,6 +1888,18 @@
       "publication_approved": false
     },
     {
+      "id": "6af72dd84e547795e57b",
+      "title": "Diaries of a Primitive Man",
+      "url": "https://hyperallergic.com/diaries-of-a-primitive-man/",
+      "source": "Hyperallergic",
+      "published": "2026-10-17T10:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "ead1631c5ee2fd9894db",
       "title": "Eight Galleries in India You Should Know",
       "url": "https://www.artnews.com/list/art-news/market/india-art-galleries-to-know-1234802821/",
@@ -1941,6 +1953,18 @@
       "url": "https://www.artnews.com/art-in-america/features/cringe-took-over-culture-nathan-fielder-jordan-staffer-marianne-simnett-1234802717/",
       "source": "ARTnews",
       "published": "2026-10-17T09:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "45297e075c8ed11655f7",
+      "title": "Ibrahim Mahama’s Most Ambitious Show Yet Is Headed to Paris—But Its Core Is in Ghana",
+      "url": "https://www.artnews.com/art-news/artists/ibrahim-mahama-fondation-cartier-paris-show-1234802619/",
+      "source": "ARTnews",
+      "published": "2026-10-17T10:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
