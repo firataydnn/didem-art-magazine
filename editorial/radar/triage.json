@@ -9,7 +9,7 @@
       "url": "https://www.artnews.com/art-news/market/claude-monet-iris-french-auction-record-sothebys-paris-1234803611/",
       "source": "ARTnews",
       "published": "2026-10-22T21:13:42+00:00",
-      "priority_score": 12,
+      "priority_score": 10,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -34,30 +34,6 @@
       "source": "ARTnews",
       "published": "2026-10-22T12:28:42+00:00",
       "priority_score": 10,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "499d4d6cd437bbdcec5c",
-      "title": "Art Basel Paris Opens Avant Première with ‘Good Energy,’ a Smattering of Sales, and One $100 M. Work",
-      "url": "https://www.artnews.com/art-news/market/art-basel-paris-avant-premiere-2026-sales-1234803150/",
-      "source": "ARTnews",
-      "published": "2026-10-20T21:04:49+00:00",
-      "priority_score": 9,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "f37251054cdb260b4edd",
-      "title": "As Art Basel Paris Shutters for Weekend Protests, Satellite Fairs Keep Their Doors Open",
-      "url": "https://www.artnews.com/art-news/news/art-basel-paris-closing-early-satellite-fairs-ope-1234803619/",
-      "source": "ARTnews",
-      "published": "2026-10-22T23:43:30+00:00",
-      "priority_score": 9,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -105,18 +81,6 @@
       "url": "https://www.artnews.com/art-news/news/monet-milwaukee-art-museum-mfa-st-petersburgs-world-series-wager-1234803724/",
       "source": "ARTnews",
       "published": "2026-10-23T19:55:53+00:00",
-      "priority_score": 9,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "d3fccb0ec711b42a9a29",
-      "title": "Studio Museum Announces New Artists-in-Residence",
-      "url": "https://hyperallergic.com/studio-museum-announces-new-artists-in-residence/",
-      "source": "Hyperallergic",
-      "published": "2026-10-22T22:08:23+00:00",
       "priority_score": 9,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -184,6 +148,18 @@
       "publication_approved": false
     },
     {
+      "id": "499d4d6cd437bbdcec5c",
+      "title": "Art Basel Paris Opens Avant Première with ‘Good Energy,’ a Smattering of Sales, and One $100 M. Work",
+      "url": "https://www.artnews.com/art-news/market/art-basel-paris-avant-premiere-2026-sales-1234803150/",
+      "source": "ARTnews",
+      "published": "2026-10-20T21:04:49+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "a72419d49f1daa1153a0",
       "title": "Art Basel Paris and Fondation Louis Vuitton to Close on Saturday Ahead of Protests",
       "url": "https://www.artnews.com/art-news/news/art-basel-paris-fondation-louis-vuitton-close-protests-1234803494/",
@@ -213,6 +189,18 @@
       "url": "https://www.artnews.com/art-news/artists/2026-prix-marcel-duchamp-france-brognon-rollin-1234803685/",
       "source": "ARTnews",
       "published": "2026-10-23T18:32:09+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "f37251054cdb260b4edd",
+      "title": "As Art Basel Paris Shutters for Weekend Protests, Satellite Fairs Keep Their Doors Open",
+      "url": "https://www.artnews.com/art-news/news/art-basel-paris-closing-early-satellite-fairs-ope-1234803619/",
+      "source": "ARTnews",
+      "published": "2026-10-22T23:43:30+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -304,47 +292,11 @@
       "publication_approved": false
     },
     {
-      "id": "a56aa682d4e5e1ea766f",
-      "title": "How Did ‘American Gothic’ Become So Iconic? This Art Historian Spent Five Decades Investigating.",
-      "url": "https://www.artnews.com/art-in-america/aia-reviews/american-gothic-wanda-corn-iconic-midwest-grant-wood-1234803480/",
-      "source": "ARTnews",
-      "published": "2026-10-23T09:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "a13e604baed62dd309e5",
       "title": "Kid Cudi to Write, Direct, and Star as Basquiat in New Biopic",
       "url": "https://hyperallergic.com/kid-cudi-to-write-direct-and-star-as-basquiat-in-new-biopic/",
       "source": "Hyperallergic",
       "published": "2026-10-23T19:14:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "3f1d6a61b5601a94cb31",
-      "title": "Louvre Among Major Paris Museums to Shutter During Saturday Protests",
-      "url": "https://hyperallergic.com/louvre-among-major-paris-museums-to-shutter-during-saturday-protests/",
-      "source": "Hyperallergic",
-      "published": "2026-10-22T20:39:26+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "9e0684e8649ca6551d4f",
-      "title": "Louvre Heist Suspect Denied Release As Investigators Unravel Tangled Testimonies",
-      "url": "https://www.artnews.com/art-news/news/louvre-heist-suspect-denied-release-as-investigators-unravel-tangled-testimonies-1234803583/",
-      "source": "ARTnews",
-      "published": "2026-10-22T21:32:38+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -436,6 +388,18 @@
       "publication_approved": false
     },
     {
+      "id": "d3fccb0ec711b42a9a29",
+      "title": "Studio Museum Announces New Artists-in-Residence",
+      "url": "https://hyperallergic.com/studio-museum-announces-new-artists-in-residence/",
+      "source": "Hyperallergic",
+      "published": "2026-10-22T22:08:23+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "d1d80d7e68c6b81bb76d",
       "title": "The Best Booths at Art Basel Paris, From Tar Paintings to a Falling Knife",
       "url": "https://www.artnews.com/list/art-news/market/art-basel-paris-2026-best-booths-1234803335/",
@@ -477,18 +441,6 @@
       "url": "https://www.artnews.com/art-news/market/art-basel-paris-2026-sales-gerhard-richter-georg-baselitz-1234803317/",
       "source": "ARTnews",
       "published": "2026-10-21T20:22:49+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "6bc464ba12334f6f0873",
-      "title": "When Does a Woman Artist Reach Her \"Prime\"?",
-      "url": "https://hyperallergic.com/when-does-a-woman-artist-reach-her-prime/",
-      "source": "Hyperallergic",
-      "published": "2026-10-22T21:23:40+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -592,30 +544,6 @@
       "publication_approved": false
     },
     {
-      "id": "9a726c11583298ea4778",
-      "title": "Can AI Help Identify the Sitters in Historical Portraits?",
-      "url": "https://www.artnews.com/art-news/news/can-ai-help-identify-sitters-in-centuries-old-portraits-1234803090/",
-      "source": "ARTnews",
-      "published": "2026-10-21T09:30:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "3eb6983ddda17518c5a8",
-      "title": "Dear Art World, We Can Tell When You’re Using AI",
-      "url": "https://hyperallergic.com/dear-art-world-we-can-tell-when-youre-using-ai/",
-      "source": "Hyperallergic",
-      "published": "2026-10-20T20:40:08+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "0730f57ce461ae9fb73d",
       "title": "Düsseldorf Galleries Sign Open Letter Against Far-Right Political Party’s Attempts to ‘Co-Opt’ Joseph Beuys",
       "url": "https://www.artnews.com/art-news/news/dusseldorf-galleries-letter-afd-joseph-beuys-1234803192/",
@@ -681,6 +609,18 @@
       "url": "https://www.artnews.com/art-news/news/globe-dwight-eisenhower-broken-1234803551/",
       "source": "ARTnews",
       "published": "2026-10-22T16:58:39+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "a56aa682d4e5e1ea766f",
+      "title": "How Did ‘American Gothic’ Become So Iconic? This Art Historian Spent Five Decades Investigating.",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/american-gothic-wanda-corn-iconic-midwest-grant-wood-1234803480/",
+      "source": "ARTnews",
+      "published": "2026-10-23T09:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -760,11 +700,11 @@
       "publication_approved": false
     },
     {
-      "id": "c2059c3bd0e9ab6649f5",
-      "title": "Live From the Lavender Lake",
-      "url": "https://hyperallergic.com/live-from-the-lavender-lake/",
-      "source": "Hyperallergic",
-      "published": "2026-10-20T21:54:15+00:00",
+      "id": "8bf04d5a3e4a256427a5",
+      "title": "London’s National Gallery to Exhibit 40 Works, From Rembrandt to René Magritte",
+      "url": "https://www.artnews.com/art-news/news/london-national-gallery-rembrandt-magritte-tax-schemes-1234803214/",
+      "source": "ARTnews",
+      "published": "2026-10-21T15:12:13+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -772,11 +712,23 @@
       "publication_approved": false
     },
     {
-      "id": "8bf04d5a3e4a256427a5",
-      "title": "London’s National Gallery to Exhibit 40 Works, From Rembrandt to René Magritte",
-      "url": "https://www.artnews.com/art-news/news/london-national-gallery-rembrandt-magritte-tax-schemes-1234803214/",
+      "id": "3f1d6a61b5601a94cb31",
+      "title": "Louvre Among Major Paris Museums to Shutter During Saturday Protests",
+      "url": "https://hyperallergic.com/louvre-among-major-paris-museums-to-shutter-during-saturday-protests/",
+      "source": "Hyperallergic",
+      "published": "2026-10-22T20:39:26+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "9e0684e8649ca6551d4f",
+      "title": "Louvre Heist Suspect Denied Release As Investigators Unravel Tangled Testimonies",
+      "url": "https://www.artnews.com/art-news/news/louvre-heist-suspect-denied-release-as-investigators-unravel-tangled-testimonies-1234803583/",
       "source": "ARTnews",
-      "published": "2026-10-21T15:12:13+00:00",
+      "published": "2026-10-22T21:32:38+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -880,18 +832,6 @@
       "publication_approved": false
     },
     {
-      "id": "5cbcaaec41d2db85ec23",
-      "title": "Norton Simon Museum Countersues Jewish Federation Over Cranach Diptych, Met Names Danh Võ for Genesis Façade Commission, and More: Morning Links for October 16, 2026",
-      "url": "https://www.artnews.com/art-news/news/morning-links-october-16-norton-simon-museum-1234802810/",
-      "source": "ARTnews",
-      "published": "2026-10-16T23:59:51+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "17d0ac2fdec7991be553",
       "title": "Peter Nagy, Artist and Gallerist Who Shaped Two Art Scenes, Dies at 66",
       "url": "https://hyperallergic.com/peter-nagy-artist-and-gallerist-who-shaped-two-art-scenes-dies-at-66/",
@@ -957,18 +897,6 @@
       "url": "https://www.artnews.com/art-news/news/new-plan-national-mall-tidal-basin-trump-garden-heroes-1234803533/",
       "source": "ARTnews",
       "published": "2026-10-22T16:01:23+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "f216924268013d53444d",
-      "title": "Rosana Paulino’s Pantheon of Black Plant Goddesses Arrives in Paris",
-      "url": "https://www.artnews.com/art-news/artists/rosana-paulino-mendes-wood-dm-paris-exhibition-1234803173/",
-      "source": "ARTnews",
-      "published": "2026-10-21T07:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1108,6 +1036,18 @@
       "publication_approved": false
     },
     {
+      "id": "6bc464ba12334f6f0873",
+      "title": "When Does a Woman Artist Reach Her \"Prime\"?",
+      "url": "https://hyperallergic.com/when-does-a-woman-artist-reach-her-prime/",
+      "source": "Hyperallergic",
+      "published": "2026-10-22T21:23:40+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "60b0b1627192a9bf1e61",
       "title": "With Her Miu Miu Commission in Paris, Filmmaker Alice Diop Offers a Much-Needed Space for Healing",
       "url": "https://www.artnews.com/art-news/artists/alice-diop-miu-miu-commission-interview-1234803570/",
@@ -1137,18 +1077,6 @@
       "url": "https://www.artnews.com/art-news/news/zohran-mamdani-studio-museum-in-harlem-taylor-simmons-1234802962/",
       "source": "ARTnews",
       "published": "2026-10-19T17:52:47+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "1f8e2200584176d2bb6a",
-      "title": "Álvaro Urbano Honors the Lost Specimens of Mexico City’s Iconic Casa Cueva",
-      "url": "https://www.thisiscolossal.com/2026/10/alvaro-urbano-metal-sculptures-casa-cueva-helen/",
-      "source": "Colossal",
-      "published": "2026-10-20T22:15:39+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1252,18 +1180,6 @@
       "publication_approved": false
     },
     {
-      "id": "7efb7f5fbbf5f5aeea23",
-      "title": "Artavazd Pelechian’s Distant Connections",
-      "url": "https://hyperallergic.com/artavazd-pelechians-distant-connections/",
-      "source": "Hyperallergic",
-      "published": "2026-10-16T20:38:30+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "7d99954411f8ee3864bb",
       "title": "Bathing With the Nymphs",
       "url": "https://hyperallergic.com/bathing-with-the-nymphs/",
@@ -1300,11 +1216,11 @@
       "publication_approved": false
     },
     {
-      "id": "37c82a366b2b60f5718d",
-      "title": "Cannupa Hanska Luger’s Truth About America",
-      "url": "https://hyperallergic.com/cannupa-hanska-lugers-truth-about-america/",
-      "source": "Hyperallergic",
-      "published": "2026-10-16T20:59:31+00:00",
+      "id": "9a726c11583298ea4778",
+      "title": "Can AI Help Identify the Sitters in Historical Portraits?",
+      "url": "https://www.artnews.com/art-news/news/can-ai-help-identify-sitters-in-centuries-old-portraits-1234803090/",
+      "source": "ARTnews",
+      "published": "2026-10-21T09:30:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1360,6 +1276,18 @@
       "publication_approved": false
     },
     {
+      "id": "3eb6983ddda17518c5a8",
+      "title": "Dear Art World, We Can Tell When You’re Using AI",
+      "url": "https://hyperallergic.com/dear-art-world-we-can-tell-when-youre-using-ai/",
+      "source": "Hyperallergic",
+      "published": "2026-10-20T20:40:08+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "6af72dd84e547795e57b",
       "title": "Diaries of a Primitive Man",
       "url": "https://hyperallergic.com/diaries-of-a-primitive-man/",
@@ -1389,18 +1317,6 @@
       "url": "https://www.artnews.com/art-news/news/donors-are-secretly-trying-to-save-the-kennedy-centers-artworks-from-destruction-or-disposal-amid-trump-takeover-1234803103/",
       "source": "ARTnews",
       "published": "2026-10-20T17:45:51+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "ead1631c5ee2fd9894db",
-      "title": "Eight Galleries in India You Should Know",
-      "url": "https://www.artnews.com/list/art-news/market/india-art-galleries-to-know-1234802821/",
-      "source": "ARTnews",
-      "published": "2026-10-17T07:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1492,18 +1408,6 @@
       "publication_approved": false
     },
     {
-      "id": "06d16c4e70582e53be52",
-      "title": "How Cringe Took Over Culture",
-      "url": "https://www.artnews.com/art-in-america/features/cringe-took-over-culture-nathan-fielder-jordan-staffer-marianne-simnett-1234802717/",
-      "source": "ARTnews",
-      "published": "2026-10-17T09:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "45297e075c8ed11655f7",
       "title": "Ibrahim Mahama’s Most Ambitious Show Yet Is Headed to Paris—But Its Core Is in Ghana",
       "url": "https://www.artnews.com/art-news/artists/ibrahim-mahama-fondation-cartier-paris-show-1234802619/",
@@ -1564,6 +1468,18 @@
       "publication_approved": false
     },
     {
+      "id": "c2059c3bd0e9ab6649f5",
+      "title": "Live From the Lavender Lake",
+      "url": "https://hyperallergic.com/live-from-the-lavender-lake/",
+      "source": "Hyperallergic",
+      "published": "2026-10-20T21:54:15+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "4d7f6788ba33e1bd0503",
       "title": "Louvre Blocked as Fallout from a Weekend of Unrest Continues to Shake France",
       "url": "https://www.artnews.com/art-news/news/louvre-blocked-paris-protests-art-basel-1234802910/",
@@ -1605,6 +1521,18 @@
       "url": "https://www.artnews.com/art-news/news/norton-simon-museum-countersues-jewish-heirs-looted-cranach-1234802779/",
       "source": "ARTnews",
       "published": "2026-10-16T19:59:46+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "5cbcaaec41d2db85ec23",
+      "title": "Norton Simon Museum Countersues Jewish Federation Over Cranach Diptych, Met Names Danh Võ for Genesis Façade Commission, and More: Morning Links for October 16, 2026",
+      "url": "https://www.artnews.com/art-news/news/morning-links-october-16-norton-simon-museum-1234802810/",
+      "source": "ARTnews",
+      "published": "2026-10-16T23:59:51+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1708,11 +1636,11 @@
       "publication_approved": false
     },
     {
-      "id": "5f534458cea754b29650",
-      "title": "Rubaiya Qatar Quadrennial Names More Than 120 Artists for Inaugural Edition",
-      "url": "https://www.artnews.com/art-news/news/rubaiya-qatar-2026-inaugural-edition-artist-list-1234802793/",
+      "id": "f216924268013d53444d",
+      "title": "Rosana Paulino’s Pantheon of Black Plant Goddesses Arrives in Paris",
+      "url": "https://www.artnews.com/art-news/artists/rosana-paulino-mendes-wood-dm-paris-exhibition-1234803173/",
       "source": "ARTnews",
-      "published": "2026-10-16T21:21:51+00:00",
+      "published": "2026-10-21T07:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1816,6 +1744,18 @@
       "publication_approved": false
     },
     {
+      "id": "1f8e2200584176d2bb6a",
+      "title": "Álvaro Urbano Honors the Lost Specimens of Mexico City’s Iconic Casa Cueva",
+      "url": "https://www.thisiscolossal.com/2026/10/alvaro-urbano-metal-sculptures-casa-cueva-helen/",
+      "source": "Colossal",
+      "published": "2026-10-20T22:15:39+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "c1f2d49e2de3c35446bb",
       "title": "‘The Department of Objects’ Brings the Charm of Sleep-Away Camp to Chicago",
       "url": "https://www.thisiscolossal.com/2026/10/the-department-of-objects-joy-machine/",
@@ -1900,6 +1840,18 @@
       "publication_approved": false
     },
     {
+      "id": "7efb7f5fbbf5f5aeea23",
+      "title": "Artavazd Pelechian’s Distant Connections",
+      "url": "https://hyperallergic.com/artavazd-pelechians-distant-connections/",
+      "source": "Hyperallergic",
+      "published": "2026-10-16T20:38:30+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "496afc6adc506fdd896b",
       "title": "Asia NOW 2026 Brings Contemporary Asian Art to Paris",
       "url": "https://hyperallergic.com/asia-now-2026-brings-contemporary-asian-art-to-paris/",
@@ -1917,6 +1869,30 @@
       "url": "https://www.artnews.com/art-news/news/centre-pompidou-parana-delay-1234802759/",
       "source": "ARTnews",
       "published": "2026-10-16T18:17:55+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "37c82a366b2b60f5718d",
+      "title": "Cannupa Hanska Luger’s Truth About America",
+      "url": "https://hyperallergic.com/cannupa-hanska-lugers-truth-about-america/",
+      "source": "Hyperallergic",
+      "published": "2026-10-16T20:59:31+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "ead1631c5ee2fd9894db",
+      "title": "Eight Galleries in India You Should Know",
+      "url": "https://www.artnews.com/list/art-news/market/india-art-galleries-to-know-1234802821/",
+      "source": "ARTnews",
+      "published": "2026-10-17T07:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1953,6 +1929,18 @@
       "url": "https://www.artnews.com/art-news/news/francesco-bonami-artistic-director-ges-2-house-of-culture-moscow-1234802581/",
       "source": "ARTnews",
       "published": "2026-10-16T16:03:52+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "06d16c4e70582e53be52",
+      "title": "How Cringe Took Over Culture",
+      "url": "https://www.artnews.com/art-in-america/features/cringe-took-over-culture-nathan-fielder-jordan-staffer-marianne-simnett-1234802717/",
+      "source": "ARTnews",
+      "published": "2026-10-17T09:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2037,6 +2025,18 @@
       "url": "https://www.thisiscolossal.com/2026/10/robin-f-williams-paintings-act-natural/",
       "source": "Colossal",
       "published": "2026-10-16T14:02:18+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "5f534458cea754b29650",
+      "title": "Rubaiya Qatar Quadrennial Names More Than 120 Artists for Inaugural Edition",
+      "url": "https://www.artnews.com/art-news/news/rubaiya-qatar-2026-inaugural-edition-artist-list-1234802793/",
+      "source": "ARTnews",
+      "published": "2026-10-16T21:21:51+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
