@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "count": 186,
+  "count": 188,
   "possible_duplicates": 0,
   "items": [
     {
@@ -22,18 +22,6 @@
       "source": "ARTnews",
       "published": "2026-10-22T12:28:42+00:00",
       "priority_score": 10,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "56154681d52c7d2e2884",
-      "title": "Prized Monet Paintings at the Center of Milwaukee Art Museum and MFA St. Petersburg’s World Series Wager",
-      "url": "https://www.artnews.com/art-news/news/monet-milwaukee-art-museum-mfa-st-petersburgs-world-series-wager-1234803724/",
-      "source": "ARTnews",
-      "published": "2026-10-23T19:55:53+00:00",
-      "priority_score": 9,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -136,6 +124,18 @@
       "publication_approved": false
     },
     {
+      "id": "f48db1bc2728cfd7069e",
+      "title": "Artists Take to the Streets Amid Massive Protests in France",
+      "url": "https://hyperallergic.com/artists-take-to-the-streets-amid-massive-protests-in-france/",
+      "source": "Hyperallergic",
+      "published": "2026-10-24T19:48:53+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "f37251054cdb260b4edd",
       "title": "As Art Basel Paris Shutters for Weekend Protests, Satellite Fairs Keep Their Doors Open",
       "url": "https://www.artnews.com/art-news/news/art-basel-paris-closing-early-satellite-fairs-ope-1234803619/",
@@ -172,18 +172,6 @@
       "publication_approved": false
     },
     {
-      "id": "363fadf04bb1cd87b5b2",
-      "title": "Condemning Violent Protestors, Alicja Kwade to Remove Art Basel Paris Public Sculpture Early",
-      "url": "https://www.artnews.com/art-news/news/protestors-alicja-kwade-remove-art-basel-paris-sculpture-1234803329/",
-      "source": "ARTnews",
-      "published": "2026-10-21T20:28:37+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "b78d6463009e6adf4419",
       "title": "Dealers Scramble to Get Works Out of Paris After Surprise Art Basel Announcement",
       "url": "https://www.artnews.com/art-news/market/art-basel-paris-closure-protests-dealers-respond-1234803592/",
@@ -201,18 +189,6 @@
       "url": "https://www.artnews.com/art-news/news/scottish-museum-removes-mummified-egyptian-head-backlash-1234803528/",
       "source": "ARTnews",
       "published": "2026-10-22T15:54:37+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "b543f4940f001a1199e6",
-      "title": "How Art Can Deliver Justice for Refugees",
-      "url": "https://hyperallergic.com/how-art-can-deliver-justice-for-refugees/",
-      "source": "Hyperallergic",
-      "published": "2026-10-23T19:50:12+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -244,23 +220,11 @@
       "publication_approved": false
     },
     {
-      "id": "56892adc530900a97181",
-      "title": "Monument to Iwo Jima Flag-Raising Near Quantico Vandalized",
-      "url": "https://www.artnews.com/art-news/news/monument-to-iwo-jima-flag-raising-near-quantico-vandalized-1234803717/",
+      "id": "56154681d52c7d2e2884",
+      "title": "Prized Monet Paintings at the Center of Milwaukee Art Museum and MFA St. Petersburg’s World Series Wager",
+      "url": "https://www.artnews.com/art-news/news/monet-milwaukee-art-museum-mfa-st-petersburgs-world-series-wager-1234803724/",
       "source": "ARTnews",
-      "published": "2026-10-23T19:53:20+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "643074d149e690168b56",
-      "title": "Portrait of a Paris Art Week on Fire",
-      "url": "https://hyperallergic.com/portrait-of-a-paris-art-week-on-fire/",
-      "source": "Hyperallergic",
-      "published": "2026-10-23T19:56:12+00:00",
+      "published": "2026-10-23T19:55:53+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -292,18 +256,6 @@
       "publication_approved": false
     },
     {
-      "id": "d1d80d7e68c6b81bb76d",
-      "title": "The Best Booths at Art Basel Paris, From Tar Paintings to a Falling Knife",
-      "url": "https://www.artnews.com/list/art-news/market/art-basel-paris-2026-best-booths-1234803335/",
-      "source": "ARTnews",
-      "published": "2026-10-22T04:30:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "4df5f498fc3a5503b6ec",
       "title": "This Is Class War",
       "url": "https://hyperallergic.com/this-is-class-war/",
@@ -316,11 +268,11 @@
       "publication_approved": false
     },
     {
-      "id": "973e68252e4226ce42c3",
-      "title": "What’s Selling at Art Basel Paris? Reported Sales Top Out at $10 M. for a Richter and a Baselitz",
-      "url": "https://www.artnews.com/art-news/market/art-basel-paris-2026-sales-gerhard-richter-georg-baselitz-1234803317/",
+      "id": "7c9106d70322973a0166",
+      "title": "Walid Raad’s Way of Working Is Inspired by the Mirrors in Vampire Movies",
+      "url": "https://www.artnews.com/art-in-america/features/walid-raad-icons-venice-biennale-paula-cooper-1234803667/",
       "source": "ARTnews",
-      "published": "2026-10-21T20:22:49+00:00",
+      "published": "2026-10-25T09:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -412,6 +364,18 @@
       "publication_approved": false
     },
     {
+      "id": "363fadf04bb1cd87b5b2",
+      "title": "Condemning Violent Protestors, Alicja Kwade to Remove Art Basel Paris Public Sculpture Early",
+      "url": "https://www.artnews.com/art-news/news/protestors-alicja-kwade-remove-art-basel-paris-sculpture-1234803329/",
+      "source": "ARTnews",
+      "published": "2026-10-21T20:28:37+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "8660d8d8cd08e37d1a34",
       "title": "Dozens of Sculptures Dot Bondi Beach in the 2026 Sculpture by the Sea Exhibition",
       "url": "https://www.thisiscolossal.com/2026/10/bondi-beach-sculpture-by-the-sea-exhibition-2026/",
@@ -424,35 +388,11 @@
       "publication_approved": false
     },
     {
-      "id": "8d50cde29717e72a39b2",
-      "title": "Elisa Nuyten’s Vega Foundation Is Quietly Reshaping the World of Moving-Image Art",
-      "url": "https://www.artnews.com/art-news/news/elisa-nuyten-vega-foundation-moving-image-art-1234802992/",
-      "source": "ARTnews",
-      "published": "2026-10-22T09:00:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "8fab26d132295d71c41a",
       "title": "Environmental Group Unveils Melting Statue of Florida Gov., New Beatles Museum Announced for Liverpool, V&A Unionized Staff to Strike Again, and More: Morning Links for October 21, 2026",
       "url": "https://www.artnews.com/art-news/news/environmental-group-unveils-melting-statue-of-florida-gov-1234803186/",
       "source": "ARTnews",
       "published": "2026-10-21T13:26:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "740b80ac4f2558946713",
-      "title": "Florentina Holzinger Is Closing Out ‘Seaworld Venice’ With a ‘Final Dinner’ Made From Bodily Waste",
-      "url": "https://www.artnews.com/art-news/news/florentina-holzinger-seaworld-venice-final-dinner-1234803314/",
-      "source": "ARTnews",
-      "published": "2026-10-21T20:44:10+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -477,6 +417,18 @@
       "url": "https://www.artnews.com/art-news/news/globe-dwight-eisenhower-broken-1234803551/",
       "source": "ARTnews",
       "published": "2026-10-22T16:58:39+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "b543f4940f001a1199e6",
+      "title": "How Art Can Deliver Justice for Refugees",
+      "url": "https://hyperallergic.com/how-art-can-deliver-justice-for-refugees/",
+      "source": "Hyperallergic",
+      "published": "2026-10-23T19:50:12+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -513,18 +465,6 @@
       "url": "https://www.thisiscolossal.com/2026/10/ibrahim-said-shaping-time-ceramic-sculptures/",
       "source": "Colossal",
       "published": "2026-10-22T14:12:43+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "4a8f471ada17658253f6",
-      "title": "Is Germany's Far-Right AfD Co-Opting Joseph Beuys?",
-      "url": "https://hyperallergic.com/is-germanys-far-right-afd-co-opting-joseph-beuys/",
-      "source": "Hyperallergic",
-      "published": "2026-10-21T20:21:40+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -592,6 +532,18 @@
       "publication_approved": false
     },
     {
+      "id": "56892adc530900a97181",
+      "title": "Monument to Iwo Jima Flag-Raising Near Quantico Vandalized",
+      "url": "https://www.artnews.com/art-news/news/monument-to-iwo-jima-flag-raising-near-quantico-vandalized-1234803717/",
+      "source": "ARTnews",
+      "published": "2026-10-23T19:53:20+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "17d771202ac8d6e6152a",
       "title": "More Paris Museums Announce Closures Ahead of Saturday Protests, Winner of Marcel Duchamp Prize Announced, and More: Morning Links for October 23, 2026",
       "url": "https://www.artnews.com/art-news/news/more-paris-museums-announce-closures-saturday-protests-1234803634/",
@@ -628,11 +580,11 @@
       "publication_approved": false
     },
     {
-      "id": "1e02300325661a7bcb6a",
-      "title": "New York Public Library Gets Over 250 Kiki Smith Prints, a Gift from the Artist’s Sister Seton Smith",
-      "url": "https://www.artnews.com/art-news/news/new-york-public-library-kiki-smith-prints-gift-seton-smith-1234803245/",
+      "id": "d3d32f678cb93b4580b7",
+      "title": "Paul Stankard, Renowned Glass Paperweight Artist, Dead at 83",
+      "url": "https://www.artnews.com/art-news/news/paul-stankard-dead-glass-paperweight-artist-1234803701/",
       "source": "ARTnews",
-      "published": "2026-10-22T09:00:00+00:00",
+      "published": "2026-10-23T18:13:17+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -640,11 +592,11 @@
       "publication_approved": false
     },
     {
-      "id": "d3d32f678cb93b4580b7",
-      "title": "Paul Stankard, Renowned Glass Paperweight Artist, Dead at 83",
-      "url": "https://www.artnews.com/art-news/news/paul-stankard-dead-glass-paperweight-artist-1234803701/",
-      "source": "ARTnews",
-      "published": "2026-10-23T18:13:17+00:00",
+      "id": "643074d149e690168b56",
+      "title": "Portrait of a Paris Art Week on Fire",
+      "url": "https://hyperallergic.com/portrait-of-a-paris-art-week-on-fire/",
+      "source": "Hyperallergic",
+      "published": "2026-10-23T19:56:12+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -724,11 +676,11 @@
       "publication_approved": false
     },
     {
-      "id": "3ca4a5d69895cfde970e",
-      "title": "Spirits Against the Patriarchy",
-      "url": "https://hyperallergic.com/spirits-against-the-patriarchy/",
-      "source": "Hyperallergic",
-      "published": "2026-10-21T20:32:21+00:00",
+      "id": "d1d80d7e68c6b81bb76d",
+      "title": "The Best Booths at Art Basel Paris, From Tar Paintings to a Falling Knife",
+      "url": "https://www.artnews.com/list/art-news/market/art-basel-paris-2026-best-booths-1234803335/",
+      "source": "ARTnews",
+      "published": "2026-10-22T04:30:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -753,30 +705,6 @@
       "url": "https://hyperallergic.com/the-cathedral-of-learning-is-pittsburghs-secular-temple/",
       "source": "Hyperallergic",
       "published": "2026-10-22T17:58:11+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "ab3e0d06ca408177bc11",
-      "title": "The French Student Protesters Subverting Monuments Like It's May 68",
-      "url": "https://hyperallergic.com/the-french-student-protesters-subverting-monuments-like-its-may-68/",
-      "source": "Hyperallergic",
-      "published": "2026-10-21T21:20:43+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "9474ca6304a281bddd4e",
-      "title": "The Rise and Fall of My Wikipedia Page",
-      "url": "https://hyperallergic.com/the-rise-and-fall-of-my-wikipedia-page/",
-      "source": "Hyperallergic",
-      "published": "2026-10-21T20:56:25+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -837,6 +765,18 @@
       "url": "https://www.thisiscolossal.com/2026/10/wangari-mathenge-remembering-paintings-kenya-1960s/",
       "source": "Colossal",
       "published": "2026-10-22T19:12:03+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "973e68252e4226ce42c3",
+      "title": "What’s Selling at Art Basel Paris? Reported Sales Top Out at $10 M. for a Richter and a Baselitz",
+      "url": "https://www.artnews.com/art-news/market/art-basel-paris-2026-sales-gerhard-richter-georg-baselitz-1234803317/",
+      "source": "ARTnews",
+      "published": "2026-10-21T20:22:49+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -909,18 +849,6 @@
       "url": "https://www.thisiscolossal.com/2026/10/colorado-i25-wildlife-crossing/",
       "source": "Colossal",
       "published": "2026-10-21T15:32:34+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "ee9ef74644e7101da84a",
-      "title": "A Once-in-a-Lifetime Look Into America’s Most-Storied Art Couple",
-      "url": "https://www.artnews.com/art-in-america/aia-reviews/jackson-pollock-lee-krasner-met-1234802599/",
-      "source": "ARTnews",
-      "published": "2026-10-18T09:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1168,6 +1096,18 @@
       "publication_approved": false
     },
     {
+      "id": "8d50cde29717e72a39b2",
+      "title": "Elisa Nuyten’s Vega Foundation Is Quietly Reshaping the World of Moving-Image Art",
+      "url": "https://www.artnews.com/art-news/news/elisa-nuyten-vega-foundation-moving-image-art-1234802992/",
+      "source": "ARTnews",
+      "published": "2026-10-22T09:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "21a0d0112f9f5a837e8d",
       "title": "Experts Call for Indigenous Artifacts in Canadian Tycoon’s Collection to Be Repatriated",
       "url": "https://www.artnews.com/art-news/news/john-risley-indigenous-artifacts-repatriation-dispute-1234803085/",
@@ -1185,6 +1125,18 @@
       "url": "https://www.artnews.com/list/art-in-america/columns/syllabus-pop-art-essential-books-1234802925/",
       "source": "ARTnews",
       "published": "2026-10-20T17:37:59+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "740b80ac4f2558946713",
+      "title": "Florentina Holzinger Is Closing Out ‘Seaworld Venice’ With a ‘Final Dinner’ Made From Bodily Waste",
+      "url": "https://www.artnews.com/art-news/news/florentina-holzinger-seaworld-venice-final-dinner-1234803314/",
+      "source": "ARTnews",
+      "published": "2026-10-21T20:44:10+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1269,6 +1221,18 @@
       "url": "https://www.thisiscolossal.com/2026/10/aeolus-studio-drift-light-glass-installation/",
       "source": "Colossal",
       "published": "2026-10-19T16:01:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "4a8f471ada17658253f6",
+      "title": "Is Germany's Far-Right AfD Co-Opting Joseph Beuys?",
+      "url": "https://hyperallergic.com/is-germanys-far-right-afd-co-opting-joseph-beuys/",
+      "source": "Hyperallergic",
+      "published": "2026-10-21T20:21:40+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1401,6 +1365,18 @@
       "url": "https://www.artnews.com/art-news/news/nfl-color-field-jammie-holmes-paris-1234803226/",
       "source": "ARTnews",
       "published": "2026-10-21T15:58:03+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "1e02300325661a7bcb6a",
+      "title": "New York Public Library Gets Over 250 Kiki Smith Prints, a Gift from the Artist’s Sister Seton Smith",
+      "url": "https://www.artnews.com/art-news/news/new-york-public-library-kiki-smith-prints-gift-seton-smith-1234803245/",
+      "source": "ARTnews",
+      "published": "2026-10-22T09:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1600,6 +1576,18 @@
       "publication_approved": false
     },
     {
+      "id": "3ca4a5d69895cfde970e",
+      "title": "Spirits Against the Patriarchy",
+      "url": "https://hyperallergic.com/spirits-against-the-patriarchy/",
+      "source": "Hyperallergic",
+      "published": "2026-10-21T20:32:21+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "6ec159997c46cd29d74c",
       "title": "Sunset Park, Where You Can Still Get an Artist Studio for Under $600",
       "url": "https://hyperallergic.com/sunset-park-where-you-can-still-get-an-artist-studio-for-under-600/",
@@ -1636,11 +1624,35 @@
       "publication_approved": false
     },
     {
+      "id": "ab3e0d06ca408177bc11",
+      "title": "The French Student Protesters Subverting Monuments Like It's May 68",
+      "url": "https://hyperallergic.com/the-french-student-protesters-subverting-monuments-like-its-may-68/",
+      "source": "Hyperallergic",
+      "published": "2026-10-21T21:20:43+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "606d20c13f3dfdd25d90",
       "title": "The MIT Professors Bedazzling Security Cameras to Highlight Campus Surveillance",
       "url": "https://hyperallergic.com/the-mit-professors-bedazzling-security-cameras-to-highlight-campus-surveillance/",
       "source": "Hyperallergic",
       "published": "2026-10-20T17:48:36+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "9474ca6304a281bddd4e",
+      "title": "The Rise and Fall of My Wikipedia Page",
+      "url": "https://hyperallergic.com/the-rise-and-fall-of-my-wikipedia-page/",
+      "source": "Hyperallergic",
+      "published": "2026-10-21T20:56:25+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1773,6 +1785,18 @@
       "url": "https://www.thisiscolossal.com/2026/10/pneuhaus-compound-camera-3-inflatable-installation/",
       "source": "Colossal",
       "published": "2026-10-13T23:01:27+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "ee9ef74644e7101da84a",
+      "title": "A Once-in-a-Lifetime Look Into America’s Most-Storied Art Couple",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/jackson-pollock-lee-krasner-met-1234802599/",
+      "source": "ARTnews",
+      "published": "2026-10-18T09:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",

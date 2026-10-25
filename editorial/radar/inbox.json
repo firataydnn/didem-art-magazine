@@ -2,6 +2,32 @@
   "schema": 1,
   "items": [
     {
+      "id": "7c9106d70322973a0166",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "Walid Raad’s Way of Working Is Inspired by the Mirrors in Vampire Movies",
+      "url": "https://www.artnews.com/art-in-america/features/walid-raad-icons-venice-biennale-paula-cooper-1234803667/",
+      "published": "2026-10-25T09:00:00+00:00",
+      "summary": "His work in the Venice Biennale and elsewhere turns history’s absences into artworks.",
+      "discovered": "2026-10-25T09:53:36.447265+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "f48db1bc2728cfd7069e",
+      "source": "Hyperallergic",
+      "category": "sanat-basini",
+      "title": "Artists Take to the Streets Amid Massive Protests in France",
+      "url": "https://hyperallergic.com/artists-take-to-the-streets-amid-massive-protests-in-france/",
+      "published": "2026-10-24T19:48:53+00:00",
+      "summary": "Tens of thousands gathered at Porte d’Italie in Paris for a march led in part by culture-sector coalitions demanding a better life for artists.",
+      "discovered": "2026-10-25T09:53:36.447265+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "bb8eac5bc6a4529250f9",
       "source": "ARTnews",
       "category": "sanat-basini",
