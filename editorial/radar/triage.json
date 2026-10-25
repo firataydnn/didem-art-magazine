@@ -136,30 +136,6 @@
       "publication_approved": false
     },
     {
-      "id": "b78d6463009e6adf4419",
-      "title": "Dealers Scramble to Get Works Out of Paris After Surprise Art Basel Announcement",
-      "url": "https://www.artnews.com/art-news/market/art-basel-paris-closure-protests-dealers-respond-1234803592/",
-      "source": "ARTnews",
-      "published": "2026-10-22T18:37:45+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "37a73e1885590c10a5e5",
-      "title": "Glasgow Museum Removes Mummified Head ‘as a Mark of Respect,’ Prompting Conservative Backlash",
-      "url": "https://www.artnews.com/art-news/news/scottish-museum-removes-mummified-egyptian-head-backlash-1234803528/",
-      "source": "ARTnews",
-      "published": "2026-10-22T15:54:37+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "fc018f4570e7b3cae848",
       "title": "Louvre, Picasso Museum, Musée d’Orsay Will Close Saturday In Anticipation of Hard-Left Groups Targeting Public Buildings, Says Interior Minister",
       "url": "https://www.artnews.com/art-news/news/louvre-picasso-museum-musee-dorsay-will-close-saturday-paris-protests-1234803645/",
@@ -177,18 +153,6 @@
       "url": "https://www.artnews.com/art-news/news/monet-milwaukee-art-museum-mfa-st-petersburgs-world-series-wager-1234803724/",
       "source": "ARTnews",
       "published": "2026-10-23T19:55:53+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "06647d9db3c70abc7788",
-      "title": "Shuttering Early, Art Basel Paris Also Removes Public Sculptures",
-      "url": "https://hyperallergic.com/shuttering-early-art-basel-paris-also-removes-public-sculptures/",
-      "source": "Hyperallergic",
-      "published": "2026-10-22T18:03:47+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -268,18 +232,6 @@
       "publication_approved": false
     },
     {
-      "id": "132161c56d886cd8d7b8",
-      "title": "Apply Now for Fully Funded Interdisciplinary MFA Program",
-      "url": "https://hyperallergic.com/apply-now-for-fully-funded-interdisciplinary-mfa-program/",
-      "source": "Hyperallergic",
-      "published": "2026-10-22T15:13:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "09bc36179b37fb60ef3e",
       "title": "Art Basel Paris Undergoes Lockdown Ahead of Opening",
       "url": "https://hyperallergic.com/art-basel-paris-undergoes-lockdown-ahead-of-opening/",
@@ -352,6 +304,18 @@
       "publication_approved": false
     },
     {
+      "id": "b78d6463009e6adf4419",
+      "title": "Dealers Scramble to Get Works Out of Paris After Surprise Art Basel Announcement",
+      "url": "https://www.artnews.com/art-news/market/art-basel-paris-closure-protests-dealers-respond-1234803592/",
+      "source": "ARTnews",
+      "published": "2026-10-22T18:37:45+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "8660d8d8cd08e37d1a34",
       "title": "Dozens of Sculptures Dot Bondi Beach in the 2026 Sculpture by the Sea Exhibition",
       "url": "https://www.thisiscolossal.com/2026/10/bondi-beach-sculpture-by-the-sea-exhibition-2026/",
@@ -376,11 +340,11 @@
       "publication_approved": false
     },
     {
-      "id": "2acb18fbd8377cedfecc",
-      "title": "Historic Globe Used by Dwight D. Eisenhower Broken by Pete Hegseth’s Staff",
-      "url": "https://www.artnews.com/art-news/news/globe-dwight-eisenhower-broken-1234803551/",
+      "id": "37a73e1885590c10a5e5",
+      "title": "Glasgow Museum Removes Mummified Head ‘as a Mark of Respect,’ Prompting Conservative Backlash",
+      "url": "https://www.artnews.com/art-news/news/scottish-museum-removes-mummified-egyptian-head-backlash-1234803528/",
       "source": "ARTnews",
-      "published": "2026-10-22T16:58:39+00:00",
+      "published": "2026-10-22T15:54:37+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -429,18 +393,6 @@
       "url": "https://www.artnews.com/art-news/reviews/wu-tang-clan-sold-album-artwork-once-upon-time-shaolin-film-1234803666/",
       "source": "ARTnews",
       "published": "2026-10-24T13:22:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "b78e683f3de561d7b7ae",
-      "title": "Kid Cudi to Play Basquiat in ‘JEAN,’ Biopic He’ll Also Write and Direct",
-      "url": "https://www.artnews.com/art-news/news/kid-cudi-jean-michel-basquiat-film-1234803534/",
-      "source": "ARTnews",
-      "published": "2026-10-22T15:47:47+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -520,18 +472,6 @@
       "publication_approved": false
     },
     {
-      "id": "b6902443985608eea03e",
-      "title": "Mystery Skeleton in Roman Sarcophagus Beneath Westminster Abbey May Be a Medieval Abbot, Study Says",
-      "url": "https://www.artnews.com/art-news/news/skeleton-roman-sarcophagus-westminster-abbey-study-1234803556/",
-      "source": "ARTnews",
-      "published": "2026-10-22T18:56:19+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "1172ae97c1c2c1fd62b9",
       "title": "National Museum of Korea Director Apologizes for Misattribution of a Work on Display",
       "url": "https://www.artnews.com/art-news/news/national-museum-of-korea-director-private-collection-1234802510/",
@@ -592,35 +532,23 @@
       "publication_approved": false
     },
     {
-      "id": "b86a45f206144c8b76e2",
-      "title": "Questions Raised Over Maintenance of Frank Lloyd Wright’s Taliesin West Home After Death",
-      "url": "https://www.artnews.com/art-news/news/frank-lloyd-wright-taliesin-west-home-raises-scrutiny-1234803559/",
-      "source": "ARTnews",
-      "published": "2026-10-22T18:13:39+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "6de467baa7b6b4623b9c",
-      "title": "Revised Tidal Basin Plans Scrutinized as Potential Backdoor for Trump’s Controversial Garden of American Heroes",
-      "url": "https://www.artnews.com/art-news/news/new-plan-national-mall-tidal-basin-trump-garden-heroes-1234803533/",
-      "source": "ARTnews",
-      "published": "2026-10-22T16:01:23+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "7a2abcd16acdc6c14315",
       "title": "Scientists Contest Dating of Van Gogh’s \"The Starry Night\"",
       "url": "https://hyperallergic.com/scientists-contest-dating-of-van-goghs-the-starry-night/",
       "source": "Hyperallergic",
       "published": "2026-10-23T16:55:26+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "06647d9db3c70abc7788",
+      "title": "Shuttering Early, Art Basel Paris Also Removes Public Sculptures",
+      "url": "https://hyperallergic.com/shuttering-early-art-basel-paris-also-removes-public-sculptures/",
+      "source": "Hyperallergic",
+      "published": "2026-10-22T18:03:47+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -664,18 +592,6 @@
       "publication_approved": false
     },
     {
-      "id": "9a93ea3b55b8aba8deaf",
-      "title": "The Cathedral of Learning Is Pittsburgh’s Secular Temple",
-      "url": "https://hyperallergic.com/the-cathedral-of-learning-is-pittsburghs-secular-temple/",
-      "source": "Hyperallergic",
-      "published": "2026-10-22T17:58:11+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "4be589d077c20a21ce14",
       "title": "The War on Art Is Repeating Itself",
       "url": "https://hyperallergic.com/the-war-on-art-is-repeating-itself/",
@@ -693,18 +609,6 @@
       "url": "https://hyperallergic.com/this-is-class-war/",
       "source": "Hyperallergic",
       "published": "2026-10-24T10:00:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "eae2992d3cd8900b5ead",
-      "title": "Three Paul Cézanne Paintings Pulled From Sotheby’s Schlumberger Evening Sale",
-      "url": "https://www.artnews.com/art-news/news/cezanne-paintings-pulled-from-sothebys-schlumberger-sale-1234803564/",
-      "source": "ARTnews",
-      "published": "2026-10-22T17:17:58+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -736,18 +640,6 @@
       "publication_approved": false
     },
     {
-      "id": "e0ce85d9ce2217ce12f0",
-      "title": "Wangari Mathenge’s Vibrant Paintings Tap into Kenya’s Paradigm Shift in the 1960s",
-      "url": "https://www.thisiscolossal.com/2026/10/wangari-mathenge-remembering-paintings-kenya-1960s/",
-      "source": "Colossal",
-      "published": "2026-10-22T19:12:03+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "973e68252e4226ce42c3",
       "title": "What’s Selling at Art Basel Paris? Reported Sales Top Out at $10 M. for a Richter and a Baselitz",
       "url": "https://www.artnews.com/art-news/market/art-basel-paris-2026-sales-gerhard-richter-georg-baselitz-1234803317/",
@@ -765,18 +657,6 @@
       "url": "https://hyperallergic.com/when-does-a-woman-artist-reach-her-prime/",
       "source": "Hyperallergic",
       "published": "2026-10-22T21:23:40+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "60b0b1627192a9bf1e61",
-      "title": "With Her Miu Miu Commission in Paris, Filmmaker Alice Diop Offers a Much-Needed Space for Healing",
-      "url": "https://www.artnews.com/art-news/artists/alice-diop-miu-miu-commission-interview-1234803570/",
-      "source": "ARTnews",
-      "published": "2026-10-22T17:58:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -861,6 +741,18 @@
       "url": "https://hyperallergic.com/applications-open-for-the-mfa-in-studio-art-at-maine-college-of-art-design/",
       "source": "Hyperallergic",
       "published": "2026-10-20T15:35:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "132161c56d886cd8d7b8",
+      "title": "Apply Now for Fully Funded Interdisciplinary MFA Program",
+      "url": "https://hyperallergic.com/apply-now-for-fully-funded-interdisciplinary-mfa-program/",
+      "source": "Hyperallergic",
+      "published": "2026-10-22T15:13:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1192,6 +1084,18 @@
       "publication_approved": false
     },
     {
+      "id": "2acb18fbd8377cedfecc",
+      "title": "Historic Globe Used by Dwight D. Eisenhower Broken by Pete Hegseth’s Staff",
+      "url": "https://www.artnews.com/art-news/news/globe-dwight-eisenhower-broken-1234803551/",
+      "source": "ARTnews",
+      "published": "2026-10-22T16:58:39+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "2aef3ff1c378cf1376be",
       "title": "Ibrahim Said Nods to Ancient Islamic and Egyptian Pottery Traditions in ‘Shaping Time’",
       "url": "https://www.thisiscolossal.com/2026/10/ibrahim-said-shaping-time-ceramic-sculptures/",
@@ -1276,6 +1180,18 @@
       "publication_approved": false
     },
     {
+      "id": "b78e683f3de561d7b7ae",
+      "title": "Kid Cudi to Play Basquiat in ‘JEAN,’ Biopic He’ll Also Write and Direct",
+      "url": "https://www.artnews.com/art-news/news/kid-cudi-jean-michel-basquiat-film-1234803534/",
+      "source": "ARTnews",
+      "published": "2026-10-22T15:47:47+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "3df9ebaea299becbf33b",
       "title": "Let’s Give a Round of A-Paws to These Tompkins Dog Parade Participants",
       "url": "https://hyperallergic.com/lets-give-a-round-of-a-paws-to-these-tompkins-dog-parade-participants/",
@@ -1353,6 +1269,18 @@
       "url": "https://www.artnews.com/art-news/news/melting-ron-desantis-statue-florida-climate-change-1234803285/",
       "source": "ARTnews",
       "published": "2026-10-21T16:41:04+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "b6902443985608eea03e",
+      "title": "Mystery Skeleton in Roman Sarcophagus Beneath Westminster Abbey May Be a Medieval Abbot, Study Says",
+      "url": "https://www.artnews.com/art-news/news/skeleton-roman-sarcophagus-westminster-abbey-study-1234803556/",
+      "source": "ARTnews",
+      "published": "2026-10-22T18:56:19+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1504,11 +1432,35 @@
       "publication_approved": false
     },
     {
+      "id": "b86a45f206144c8b76e2",
+      "title": "Questions Raised Over Maintenance of Frank Lloyd Wright’s Taliesin West Home After Death",
+      "url": "https://www.artnews.com/art-news/news/frank-lloyd-wright-taliesin-west-home-raises-scrutiny-1234803559/",
+      "source": "ARTnews",
+      "published": "2026-10-22T18:13:39+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "1ac132248ebd100cb9cf",
       "title": "Rembrandt’s Ancient Obsessions Are Made Anew in Upcoming Met Exhibition",
       "url": "https://hyperallergic.com/rembrandts-ancient-obsessions-are-made-anew-in-upcoming-met-exhibition/",
       "source": "Hyperallergic",
       "published": "2026-10-15T18:29:12+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "6de467baa7b6b4623b9c",
+      "title": "Revised Tidal Basin Plans Scrutinized as Potential Backdoor for Trump’s Controversial Garden of American Heroes",
+      "url": "https://www.artnews.com/art-news/news/new-plan-national-mall-tidal-basin-trump-garden-heroes-1234803533/",
+      "source": "ARTnews",
+      "published": "2026-10-22T16:01:23+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1624,6 +1576,18 @@
       "publication_approved": false
     },
     {
+      "id": "9a93ea3b55b8aba8deaf",
+      "title": "The Cathedral of Learning Is Pittsburgh’s Secular Temple",
+      "url": "https://hyperallergic.com/the-cathedral-of-learning-is-pittsburghs-secular-temple/",
+      "source": "Hyperallergic",
+      "published": "2026-10-22T17:58:11+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "ab3e0d06ca408177bc11",
       "title": "The French Student Protesters Subverting Monuments Like It's May 68",
       "url": "https://hyperallergic.com/the-french-student-protesters-subverting-monuments-like-its-may-68/",
@@ -1684,6 +1648,18 @@
       "publication_approved": false
     },
     {
+      "id": "eae2992d3cd8900b5ead",
+      "title": "Three Paul Cézanne Paintings Pulled From Sotheby’s Schlumberger Evening Sale",
+      "url": "https://www.artnews.com/art-news/news/cezanne-paintings-pulled-from-sothebys-schlumberger-sale-1234803564/",
+      "source": "ARTnews",
+      "published": "2026-10-22T17:17:58+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "45c765f3965f9118b6b8",
       "title": "To Be Alone With Your Thoughts in '70s New York",
       "url": "https://hyperallergic.com/to-be-alone-with-your-thoughts-in-70s-new-york/",
@@ -1708,11 +1684,35 @@
       "publication_approved": false
     },
     {
+      "id": "e0ce85d9ce2217ce12f0",
+      "title": "Wangari Mathenge’s Vibrant Paintings Tap into Kenya’s Paradigm Shift in the 1960s",
+      "url": "https://www.thisiscolossal.com/2026/10/wangari-mathenge-remembering-paintings-kenya-1960s/",
+      "source": "Colossal",
+      "published": "2026-10-22T19:12:03+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "8232b9f0981a6f452e8b",
       "title": "What’s Up with Elizabeth Holmes’s Weird Norman Rockwell–Inspired Background on X?",
       "url": "https://www.artnews.com/art-news/news/elizabeth-holmes-x-you-can-see-everything-norman-rockwell-1234803094/",
       "source": "ARTnews",
       "published": "2026-10-20T17:32:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "60b0b1627192a9bf1e61",
+      "title": "With Her Miu Miu Commission in Paris, Filmmaker Alice Diop Offers a Much-Needed Space for Healing",
+      "url": "https://www.artnews.com/art-news/artists/alice-diop-miu-miu-commission-interview-1234803570/",
+      "source": "ARTnews",
+      "published": "2026-10-22T17:58:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
