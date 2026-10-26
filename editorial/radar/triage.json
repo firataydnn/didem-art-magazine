@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "count": 191,
+  "count": 199,
   "possible_duplicates": 0,
   "items": [
     {
@@ -9,6 +9,18 @@
       "url": "https://www.artnews.com/art-news/market/christies-blockbuster-klimt-landscape-80m-guaranteed-1234803727/",
       "source": "ARTnews",
       "published": "2026-10-26T10:00:00+00:00",
+      "priority_score": 10,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "d5311bb9d2277d9dd1a1",
+      "title": "Sotheby’s Deepens Abu Dhabi Relationship With Inaugural Fine Art Auction in December",
+      "url": "https://www.artnews.com/art-news/market/sothebys-abu-dhabi-fine-art-auction-warhol-monet-1234803739/",
+      "source": "ARTnews",
+      "published": "2026-10-26T13:08:54+00:00",
       "priority_score": 10,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -76,6 +88,18 @@
       "publication_approved": false
     },
     {
+      "id": "43f2499f1cf9e2b74cef",
+      "title": "An Abbey in France Discovered Previously Unknown Wall Sketches by Odilon Redon",
+      "url": "https://www.artnews.com/art-news/news/abbaye-de-fontfroide-rediscovered-odilon-redon-sketches-1234803456/",
+      "source": "ARTnews",
+      "published": "2026-10-26T12:45:17+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "499d4d6cd437bbdcec5c",
       "title": "Art Basel Paris Opens Avant Première with ‘Good Energy,’ a Smattering of Sales, and One $100 M. Work",
       "url": "https://www.artnews.com/art-news/market/art-basel-paris-avant-premiere-2026-sales-1234803150/",
@@ -88,11 +112,11 @@
       "publication_approved": false
     },
     {
-      "id": "fcb9c6b45a257a6e7d97",
-      "title": "Comcast Cofounder Gives $20 M. to Philadelphia Museum of Art, One of its Largest Gifts, To Greatly Expand Education Spaces",
-      "url": "https://www.artnews.com/art-news/news/comcast-cofounder-20m-philadelphia-museum-art-education-1234803636/",
+      "id": "66bb87b202178bf88d79",
+      "title": "Former Presidents Obama, Clinton Mock Trump’s White House Interiors With Comparisons to ‘Saddam Hussein’ and ‘Liberace’s Bathroom’",
+      "url": "https://www.artnews.com/art-news/news/obama-clinton-mock-trump-white-house-interiors-1234803754/",
       "source": "ARTnews",
-      "published": "2026-10-23T15:15:00+00:00",
+      "published": "2026-10-26T13:14:03+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -105,6 +129,30 @@
       "url": "https://hyperallergic.com/from-paris-in-solidarity/",
       "source": "Hyperallergic",
       "published": "2026-10-26T10:00:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "bf99151e6f3712a1a783",
+      "title": "Indian Artist Jogen Chowdhury Has Died, $80 M. Klimt Heads to Christie’s, and More: Morning Links for October 26, 2026",
+      "url": "https://www.artnews.com/art-news/news/indian-artist-jogen-chowdhury-has-died-1234803769/",
+      "source": "ARTnews",
+      "published": "2026-10-26T13:35:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "ef0b04d70deccab8680c",
+      "title": "Italian Carabinieri Are Training Professionals Across Africa to Stop Antiquities Trafficking",
+      "url": "https://www.artnews.com/art-news/news/italy-carabinieri-train-africa-stop-antiquities-trafficking-1234803780/",
+      "source": "ARTnews",
+      "published": "2026-10-26T17:05:56+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -136,6 +184,42 @@
       "publication_approved": false
     },
     {
+      "id": "9490e7d2e5426f2e80c9",
+      "title": "Scott Kahn Invokes Dreams and Liminality in Atmospheric Landscape Paintings",
+      "url": "https://www.thisiscolossal.com/2026/10/scott-kahn-silent-night-landscape-paintings/",
+      "source": "Colossal",
+      "published": "2026-10-26T16:00:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "73fae9ce5b5d46032036",
+      "title": "The Artist Who Dined Among Lions",
+      "url": "https://hyperallergic.com/the-artist-who-dined-among-lions/",
+      "source": "Hyperallergic",
+      "published": "2026-10-26T16:16:22+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "90a453acba60f4a0db1e",
+      "title": "Wish You Were Here! Rose Sanderson’s Witty Postcards Conjure a Strange Reality",
+      "url": "https://www.thisiscolossal.com/2026/10/rose-sanderson-vintage-postcard-paintings/",
+      "source": "Colossal",
+      "published": "2026-10-26T14:20:41+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "eed9cfaf2922df49d371",
       "title": "Barbara Hepworth Sculpture Sells for $8.3 M., Leading Christie’s London Auction",
       "url": "https://www.artnews.com/art-news/news/barbara-hepworth-sculpture-auction-record-christies-london-1234803600/",
@@ -154,30 +238,6 @@
       "source": "ARTnews",
       "published": "2026-10-20T13:57:23+00:00",
       "priority_score": 6,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "511038e9430d5ecda0e3",
-      "title": "A View From the Easel: Gerardo Rosales",
-      "url": "https://hyperallergic.com/a-view-from-the-easel-360/",
-      "source": "Hyperallergic",
-      "published": "2026-10-23T15:15:24+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "0c976272445d7419c5dd",
-      "title": "Amid a Historic Downturn, Art Basel Miami Beach Threatened to Move to Las Vegas",
-      "url": "https://www.artnews.com/art-news/news/art-basel-miami-beach-fair-threatened-move-las-vegas-1234802944/",
-      "source": "ARTnews",
-      "published": "2026-10-19T16:30:28+00:00",
-      "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -297,6 +357,18 @@
       "url": "https://www.artnews.com/art-news/news/chanel-m-plus-hong-kong-museum-lead-partner-1234803225/",
       "source": "ARTnews",
       "published": "2026-10-21T16:18:06+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "fcb9c6b45a257a6e7d97",
+      "title": "Comcast Cofounder Gives $20 M. to Philadelphia Museum of Art, One of its Largest Gifts, To Greatly Expand Education Spaces",
+      "url": "https://www.artnews.com/art-news/news/comcast-cofounder-20m-philadelphia-museum-art-education-1234803636/",
+      "source": "ARTnews",
+      "published": "2026-10-23T15:15:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -424,18 +496,6 @@
       "publication_approved": false
     },
     {
-      "id": "17d771202ac8d6e6152a",
-      "title": "More Paris Museums Announce Closures Ahead of Saturday Protests, Winner of Marcel Duchamp Prize Announced, and More: Morning Links for October 23, 2026",
-      "url": "https://www.artnews.com/art-news/news/more-paris-museums-announce-closures-saturday-protests-1234803634/",
-      "source": "ARTnews",
-      "published": "2026-10-23T13:04:31+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "1172ae97c1c2c1fd62b9",
       "title": "National Museum of Korea Director Apologizes for Misattribution of a Work on Display",
       "url": "https://www.artnews.com/art-news/news/national-museum-of-korea-director-private-collection-1234802510/",
@@ -472,18 +532,6 @@
       "publication_approved": false
     },
     {
-      "id": "a4a4cf3511f15309ae02",
-      "title": "Protesters Block Louvre Following Weekend of Unrest, Art Basel Will Stay in Miami Following City Rent Discount, and More: Morning Links for October 19, 2026",
-      "url": "https://www.artnews.com/art-news/news/protesters-block-louvre-following-weekend-of-riots-1234802907/",
-      "source": "ARTnews",
-      "published": "2026-10-19T13:10:43+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "ca122e56f6eee4c45668",
       "title": "Protests Erupt Over Removal of LGBTQ and Feminist Objects at National Museum of Colombia",
       "url": "https://www.artnews.com/art-news/news/national-museum-of-colombia-protests-1234802997/",
@@ -496,35 +544,11 @@
       "publication_approved": false
     },
     {
-      "id": "7a2abcd16acdc6c14315",
-      "title": "Scientists Contest Dating of Van Gogh’s \"The Starry Night\"",
-      "url": "https://hyperallergic.com/scientists-contest-dating-of-van-goghs-the-starry-night/",
-      "source": "Hyperallergic",
-      "published": "2026-10-23T16:55:26+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "06647d9db3c70abc7788",
       "title": "Shuttering Early, Art Basel Paris Also Removes Public Sculptures",
       "url": "https://hyperallergic.com/shuttering-early-art-basel-paris-also-removes-public-sculptures/",
       "source": "Hyperallergic",
       "published": "2026-10-22T18:03:47+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "44c2df5aebf4fd42c4d6",
-      "title": "Skirball Cultural Center presents “The 1960s — A Generation on Fire: Judy Baca’s Great Wall of Los Angeles”",
-      "url": "https://hyperallergic.com/skirball-cultural-center-presents-the-1960s-a-generation-on-fire-judy-bacas-great-wall-of-los-angeles/",
-      "source": "Hyperallergic",
-      "published": "2026-10-23T14:30:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -640,18 +664,6 @@
       "publication_approved": false
     },
     {
-      "id": "e7f9f1e77feed21a63a0",
-      "title": "‘Street Photography Africa’ is a Colorful and Energetic Survey Across the Continent",
-      "url": "https://www.thisiscolossal.com/2026/10/street-photography-africa-book/",
-      "source": "Colossal",
-      "published": "2026-10-23T15:15:23+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "16411e08e46ada53e466",
       "title": "5 Pro Tips For Conserving Your Art Collection",
       "url": "https://www.artnews.com/list/art-news/opinion/5-pro-tips-for-conservation-art-collection-advice-1234803045/",
@@ -676,6 +688,18 @@
       "publication_approved": false
     },
     {
+      "id": "511038e9430d5ecda0e3",
+      "title": "A View From the Easel: Gerardo Rosales",
+      "url": "https://hyperallergic.com/a-view-from-the-easel-360/",
+      "source": "Hyperallergic",
+      "published": "2026-10-23T15:15:24+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "2148ab0dff99af45635e",
       "title": "Ah, the Many Smells of Frieze London",
       "url": "https://hyperallergic.com/ah-the-many-smells-of-frieze-london/",
@@ -688,11 +712,11 @@
       "publication_approved": false
     },
     {
-      "id": "0d309fc5e00bbce88959",
-      "title": "An Eva Gonzalès Retrospective Puts the Non-Impressionist Artist Back on the Map",
-      "url": "https://www.artnews.com/art-news/artists/eva-gonzales-retrospective-petit-palais-1234802901/",
+      "id": "0c976272445d7419c5dd",
+      "title": "Amid a Historic Downturn, Art Basel Miami Beach Threatened to Move to Las Vegas",
+      "url": "https://www.artnews.com/art-news/news/art-basel-miami-beach-fair-threatened-move-las-vegas-1234802944/",
       "source": "ARTnews",
-      "published": "2026-10-19T15:14:27+00:00",
+      "published": "2026-10-19T16:30:28+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -832,18 +856,6 @@
       "publication_approved": false
     },
     {
-      "id": "7dea370edab7537baa46",
-      "title": "Come Face-to-Face with the Lion Nebula in the James Webb Space Telescope’s Portrait",
-      "url": "https://www.thisiscolossal.com/2026/10/nasa-james-webb-space-telescope-lion-nebula/",
-      "source": "Colossal",
-      "published": "2026-10-19T13:39:50+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "567db77c394593b24756",
       "title": "Danh Vo and Sandra Mujinga Selected for Met Museum Commissions",
       "url": "https://hyperallergic.com/danh-vo-and-sandra-mujinga-selected-for-met-museum-commissions/",
@@ -873,18 +885,6 @@
       "url": "https://hyperallergic.com/dear-art-world-we-can-tell-when-youre-using-ai/",
       "source": "Hyperallergic",
       "published": "2026-10-20T20:40:08+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "bc996acb9c639b43e4a2",
-      "title": "Diasporican Abstraction: A Cross-Border Cartography of Puerto Rican Abstraction",
-      "url": "https://hyperallergic.com/diasporican-abstraction-a-cross-border-cartography-of-puerto-rican-abstraction/",
-      "source": "Hyperallergic",
-      "published": "2026-10-19T15:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1084,18 +1084,6 @@
       "publication_approved": false
     },
     {
-      "id": "704f457057fabd82a05c",
-      "title": "In ‘Aeolus,’ DRIFT Suspends Illuminated Glass Rods in a Sculpture of the Wind",
-      "url": "https://www.thisiscolossal.com/2026/10/aeolus-studio-drift-light-glass-installation/",
-      "source": "Colossal",
-      "published": "2026-10-19T16:01:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "4a8f471ada17658253f6",
       "title": "Is Germany's Far-Right AfD Co-Opting Joseph Beuys?",
       "url": "https://hyperallergic.com/is-germanys-far-right-afd-co-opting-joseph-beuys/",
@@ -1204,18 +1192,6 @@
       "publication_approved": false
     },
     {
-      "id": "4d7f6788ba33e1bd0503",
-      "title": "Louvre Blocked as Fallout from a Weekend of Unrest Continues to Shake France",
-      "url": "https://www.artnews.com/art-news/news/louvre-blocked-paris-protests-art-basel-1234802910/",
-      "source": "ARTnews",
-      "published": "2026-10-19T14:25:57+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "9e0684e8649ca6551d4f",
       "title": "Louvre Heist Suspect Denied Release As Investigators Unravel Tangled Testimonies",
       "url": "https://www.artnews.com/art-news/news/louvre-heist-suspect-denied-release-as-investigators-unravel-tangled-testimonies-1234803583/",
@@ -1269,6 +1245,18 @@
       "url": "https://www.artnews.com/art-news/news/melting-ron-desantis-statue-florida-climate-change-1234803285/",
       "source": "ARTnews",
       "published": "2026-10-21T16:41:04+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "17d771202ac8d6e6152a",
+      "title": "More Paris Museums Announce Closures Ahead of Saturday Protests, Winner of Marcel Duchamp Prize Announced, and More: Morning Links for October 23, 2026",
+      "url": "https://www.artnews.com/art-news/news/more-paris-museums-announce-closures-saturday-protests-1234803634/",
+      "source": "ARTnews",
+      "published": "2026-10-23T13:04:31+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1360,35 +1348,11 @@
       "publication_approved": false
     },
     {
-      "id": "6a40e7956a2b6c1bcf40",
-      "title": "Paris Students Block Louvre Entrance, Forcing Closure",
-      "url": "https://hyperallergic.com/paris-students-block-louvre-entrance-forcing-closure/",
-      "source": "Hyperallergic",
-      "published": "2026-10-19T16:22:59+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "6cc6ab3f0cf40c314dad",
       "title": "Paris Students Shut Down the Louvre",
       "url": "https://hyperallergic.com/paris-students-shut-down-the-louvre/",
       "source": "Hyperallergic",
       "published": "2026-10-20T10:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "b78e9a44437a6c4c9a7b",
-      "title": "Patrick Graham, Cathy Wilkes Win Inaugural Bacon Awards",
-      "url": "https://www.artnews.com/art-news/news/cathy-wilkes-patrick-graham-win-inaugural-bacon-awards-1234802953/",
-      "source": "ARTnews",
-      "published": "2026-10-19T17:17:57+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1413,6 +1377,18 @@
       "url": "https://www.artnews.com/art-news/news/prairie-chicago-gallery-closes-1234802996/",
       "source": "ARTnews",
       "published": "2026-10-19T20:02:19+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "a4a4cf3511f15309ae02",
+      "title": "Protesters Block Louvre Following Weekend of Unrest, Art Basel Will Stay in Miami Following City Rent Discount, and More: Morning Links for October 19, 2026",
+      "url": "https://www.artnews.com/art-news/news/protesters-block-louvre-following-weekend-of-riots-1234802907/",
+      "source": "ARTnews",
+      "published": "2026-10-19T13:10:43+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1492,18 +1468,6 @@
       "publication_approved": false
     },
     {
-      "id": "06345e3fdfb0b6fc88f7",
-      "title": "Rosana Paulino Reads the Archive Against Those Who Made It",
-      "url": "https://hyperallergic.com/rosana-paulino-reads-the-archive-against-those-who-made-it/",
-      "source": "Hyperallergic",
-      "published": "2026-10-19T16:15:51+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "f216924268013d53444d",
       "title": "Rosana Paulino’s Pantheon of Black Plant Goddesses Arrives in Paris",
       "url": "https://www.artnews.com/art-news/artists/rosana-paulino-mendes-wood-dm-paris-exhibition-1234803173/",
@@ -1516,11 +1480,23 @@
       "publication_approved": false
     },
     {
-      "id": "084dec8cc8344e5b67ec",
-      "title": "Smiles Meyer Queers “The Last Supper”",
-      "url": "https://hyperallergic.com/smiles-meyer-queers-the-last-supper/",
+      "id": "7a2abcd16acdc6c14315",
+      "title": "Scientists Contest Dating of Van Gogh’s \"The Starry Night\"",
+      "url": "https://hyperallergic.com/scientists-contest-dating-of-van-goghs-the-starry-night/",
       "source": "Hyperallergic",
-      "published": "2026-10-19T14:30:40+00:00",
+      "published": "2026-10-23T16:55:26+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "44c2df5aebf4fd42c4d6",
+      "title": "Skirball Cultural Center presents “The 1960s — A Generation on Fire: Judy Baca’s Great Wall of Los Angeles”",
+      "url": "https://hyperallergic.com/skirball-cultural-center-presents-the-1960s-a-generation-on-fire-judy-bacas-great-wall-of-los-angeles/",
+      "source": "Hyperallergic",
+      "published": "2026-10-23T14:30:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1617,18 +1593,6 @@
       "url": "https://www.artnews.com/art-news/news/theaster-gates-david-drake-jar-virginia-hampton-university-1234803134/",
       "source": "ARTnews",
       "published": "2026-10-21T13:47:42+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "4c1213741f680a9ea288",
-      "title": "This Iranian Documentary Wasn’t Meant to Begin This Way",
-      "url": "https://hyperallergic.com/this-iranian-documentary-wasnt-meant-to-begin-this-way/",
-      "source": "Hyperallergic",
-      "published": "2026-10-19T15:54:20+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1756,6 +1720,18 @@
       "publication_approved": false
     },
     {
+      "id": "e7f9f1e77feed21a63a0",
+      "title": "‘Street Photography Africa’ is a Colorful and Energetic Survey Across the Continent",
+      "url": "https://www.thisiscolossal.com/2026/10/street-photography-africa-book/",
+      "source": "Colossal",
+      "published": "2026-10-23T15:15:23+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "c1f2d49e2de3c35446bb",
       "title": "‘The Department of Objects’ Brings the Charm of Sleep-Away Camp to Chicago",
       "url": "https://www.thisiscolossal.com/2026/10/the-department-of-objects-joy-machine/",
@@ -1852,6 +1828,18 @@
       "publication_approved": false
     },
     {
+      "id": "0d309fc5e00bbce88959",
+      "title": "An Eva Gonzalès Retrospective Puts the Non-Impressionist Artist Back on the Map",
+      "url": "https://www.artnews.com/art-news/artists/eva-gonzales-retrospective-petit-palais-1234802901/",
+      "source": "ARTnews",
+      "published": "2026-10-19T15:14:27+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "2a00f02cb755633ebd4e",
       "title": "Ann Toebbe’s Skewed Paintings Transform Architectural Spaces into Cherished Places",
       "url": "https://www.thisiscolossal.com/2026/10/ann-toebbe-mixed-media-paintings/",
@@ -1912,11 +1900,35 @@
       "publication_approved": false
     },
     {
+      "id": "7dea370edab7537baa46",
+      "title": "Come Face-to-Face with the Lion Nebula in the James Webb Space Telescope’s Portrait",
+      "url": "https://www.thisiscolossal.com/2026/10/nasa-james-webb-space-telescope-lion-nebula/",
+      "source": "Colossal",
+      "published": "2026-10-19T13:39:50+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "6af72dd84e547795e57b",
       "title": "Diaries of a Primitive Man",
       "url": "https://hyperallergic.com/diaries-of-a-primitive-man/",
       "source": "Hyperallergic",
       "published": "2026-10-17T10:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "bc996acb9c639b43e4a2",
+      "title": "Diasporican Abstraction: A Cross-Border Cartography of Puerto Rican Abstraction",
+      "url": "https://hyperallergic.com/diasporican-abstraction-a-cross-border-cartography-of-puerto-rican-abstraction/",
+      "source": "Hyperallergic",
+      "published": "2026-10-19T15:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2008,6 +2020,18 @@
       "publication_approved": false
     },
     {
+      "id": "704f457057fabd82a05c",
+      "title": "In ‘Aeolus,’ DRIFT Suspends Illuminated Glass Rods in a Sculpture of the Wind",
+      "url": "https://www.thisiscolossal.com/2026/10/aeolus-studio-drift-light-glass-installation/",
+      "source": "Colossal",
+      "published": "2026-10-19T16:01:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "9221183f988870af7849",
       "title": "Jazmine Hayes Charts Community Displacement, Resilience in Brownsville Art Commission",
       "url": "https://hyperallergic.com/jazmine-hayes-charts-community-displacement-resilience-in-brownsville-art-commission/",
@@ -2025,6 +2049,18 @@
       "url": "https://www.thisiscolossal.com/2026/10/jonathan-knight-exhale-seascape-photographs/",
       "source": "Colossal",
       "published": "2026-10-09T17:50:08+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "4d7f6788ba33e1bd0503",
+      "title": "Louvre Blocked as Fallout from a Weekend of Unrest Continues to Shake France",
+      "url": "https://www.artnews.com/art-news/news/louvre-blocked-paris-protests-art-basel-1234802910/",
+      "source": "ARTnews",
+      "published": "2026-10-19T14:25:57+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2068,6 +2104,30 @@
       "publication_approved": false
     },
     {
+      "id": "6a40e7956a2b6c1bcf40",
+      "title": "Paris Students Block Louvre Entrance, Forcing Closure",
+      "url": "https://hyperallergic.com/paris-students-block-louvre-entrance-forcing-closure/",
+      "source": "Hyperallergic",
+      "published": "2026-10-19T16:22:59+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "b78e9a44437a6c4c9a7b",
+      "title": "Patrick Graham, Cathy Wilkes Win Inaugural Bacon Awards",
+      "url": "https://www.artnews.com/art-news/news/cathy-wilkes-patrick-graham-win-inaugural-bacon-awards-1234802953/",
+      "source": "ARTnews",
+      "published": "2026-10-19T17:17:57+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "715eb6f17f6704ccb245",
       "title": "Police Recover Three Religious Artworks Stolen From Spanish Churches",
       "url": "https://www.artnews.com/art-news/news/spain-police-recover-stolen-church-artworks-valladolid-1234802674/",
@@ -2092,11 +2152,35 @@
       "publication_approved": false
     },
     {
+      "id": "06345e3fdfb0b6fc88f7",
+      "title": "Rosana Paulino Reads the Archive Against Those Who Made It",
+      "url": "https://hyperallergic.com/rosana-paulino-reads-the-archive-against-those-who-made-it/",
+      "source": "Hyperallergic",
+      "published": "2026-10-19T16:15:51+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "5f534458cea754b29650",
       "title": "Rubaiya Qatar Quadrennial Names More Than 120 Artists for Inaugural Edition",
       "url": "https://www.artnews.com/art-news/news/rubaiya-qatar-2026-inaugural-edition-artist-list-1234802793/",
       "source": "ARTnews",
       "published": "2026-10-16T21:21:51+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "084dec8cc8344e5b67ec",
+      "title": "Smiles Meyer Queers “The Last Supper”",
+      "url": "https://hyperallergic.com/smiles-meyer-queers-the-last-supper/",
+      "source": "Hyperallergic",
+      "published": "2026-10-19T14:30:40+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2217,6 +2301,18 @@
       "url": "https://hyperallergic.com/the-renegade-housewife-of-pop-art/",
       "source": "Hyperallergic",
       "published": "2026-10-16T10:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "4c1213741f680a9ea288",
+      "title": "This Iranian Documentary Wasn’t Meant to Begin This Way",
+      "url": "https://hyperallergic.com/this-iranian-documentary-wasnt-meant-to-begin-this-way/",
+      "source": "Hyperallergic",
+      "published": "2026-10-19T15:54:20+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
