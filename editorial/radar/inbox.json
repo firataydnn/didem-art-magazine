@@ -2,6 +2,58 @@
   "schema": 1,
   "items": [
     {
+      "id": "850a8257f2dd7ac71725",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "2,500-Year-Old Mesoamerican Observatory Discovered in Sierra Norte Mountains of Mexico",
+      "url": "https://www.artnews.com/art-news/news/mesoamerican-observatory-discovered-sierra-norte-mountains-mexico-1234804059/",
+      "published": "2026-10-27T21:27:49+00:00",
+      "summary": "The structure is part of the Teteles de Ávila Castillo archaeological site.",
+      "discovered": "2026-10-28T11:25:21.973250+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "65cf98666f303396b5db",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "A Painting Owned by Dutch Jewish Collector Once Hung in Hitler’s Home, New Research Finds",
+      "url": "https://www.artnews.com/art-news/news/german-painting-hung-hitler-home-restitution-claim-1234804050/",
+      "published": "2026-10-27T21:26:33+00:00",
+      "summary": "Carl Gottlieb Peschel’s Joseph Sold by His Brothers (1831) was owned by Bob Nijkerk before it was taken to Germany.",
+      "discovered": "2026-10-28T11:25:21.973250+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "95c2ad04133cfe7d77f1",
+      "source": "Hyperallergic",
+      "category": "sanat-basini",
+      "title": "Remembering Ursula von Rydingsvard",
+      "url": "https://hyperallergic.com/remembering-ursula-von-rydingsvard/",
+      "published": "2026-10-28T10:00:00+00:00",
+      "summary": "The monumental sculptor dies at 84; plus, how an artist snuck his own work into The Met, and a dispute over watercolors of Roma victims of the Holocaust.",
+      "discovered": "2026-10-28T11:25:21.973250+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "96a45dcf246e75ef2344",
+      "source": "Hyperallergic",
+      "category": "sanat-basini",
+      "title": "The Artsiest Halloween Party in Town",
+      "url": "https://hyperallergic.com/the-artsiest-halloween-party-in-town/",
+      "published": "2026-10-27T21:40:00+00:00",
+      "summary": "Hyperallergic’s spirited soirée, a bone to pick with “Costume Art” at The Met, and what’s a woman artist’s “prime” in the art world?",
+      "discovered": "2026-10-28T11:25:21.973250+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "c52c8bc6169f7ee1193c",
       "source": "ARTnews",
       "category": "sanat-basini",
