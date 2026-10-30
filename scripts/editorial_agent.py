@@ -2,6 +2,8 @@
 """Editorial radar triage. AI drafts are NOT publication approvals or rights clearances."""
 import datetime as dt
 import json, os, pathlib, re, urllib.request
+from html.parser import HTMLParser
+from urllib.parse import urlparse
 
 ROOT=pathlib.Path(__file__).resolve().parents[1]
 FEED=ROOT/"data/world-art-radar.json"
@@ -60,10 +62,38 @@ def near_duplicate(a,b):
  if ca and cb and ca!=cb:return False
  aa,bb=tokens(a["title"]),tokens(b["title"])
  return bool(aa and bb and len(aa&bb)>=3 and len(aa&bb)/len(aa|bb)>=0.28)
+class DescriptionParser(HTMLParser):
+ def __init__(self):
+  super().__init__();self.description=""
+ def handle_starttag(self,tag,attrs):
+  if tag.lower()!="meta" or self.description:return
+  a=dict(attrs)
+  name=(a.get("name") or a.get("property") or "").lower()
+  if name in ("description","og:description","twitter:description"):
+   self.description=re.sub(r"\s+"," ",a.get("content","")).strip()[:700]
+
+def source_preview(url):
+ """Publisher's short page description for internal review only; never copied into public articles."""
+ host=urlparse(url).hostname or ""
+ domains=("theartnewspaper.com","artnews.com","artforum.com","artnet.com",
+  "hyperallergic.com","monopol-magazin.de","moussemagazine.it","ocula.com",
+  "moma.org","culturetype.com")
+ if not any(host==domain or host.endswith("."+domain) for domain in domains):return ""
+ try:
+  req=urllib.request.Request(url,headers={"User-Agent":"ATELIER-Art-Radar/1.0","Accept":"text/html"})
+  with urllib.request.urlopen(req,timeout=8) as resp:
+   typ=resp.headers.get("Content-Type","").lower()
+   if "text/html" not in typ:return ""
+   raw=resp.read(150000)
+  p=DescriptionParser();p.feed(raw.decode("utf-8","replace"))
+  return p.description
+ except Exception:return ""
+
 def ai_review(item,key):
  meta={k:item.get(k) for k in ("title","source","published_at","url")}
- prompt=("You are a conservative Turkish art journalism research assistant. Using ONLY the headline "
- "and metadata below, return a JSON object with headline_tr, summary_tr (one short sentence "
+ meta["publisher_page_description"]=source_preview(item["url"])
+ prompt=("You are a conservative Turkish art journalism research assistant. Using ONLY the publisher headline, "
+ "its own short metadata description if available, and attribution below, return a JSON object with headline_tr, summary_tr (one short sentence "
  "attributed to the source, no extra claims), category, image_relevance, fact_risks. "
  "This is an UNAPPROVED draft. Never assume copyright or editorial permission. "
  "If an image is provided, judge apparent topic match only, not authenticity or rights. Metadata: "
