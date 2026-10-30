@@ -1,22 +1,9 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-30T20:15:47.739Z",
-  "source_generated_at": "2026-10-30T19:17:05.847888+00:00",
+  "generated_at": "2026-10-30T20:16:32.818893+00:00",
+  "source_generated_at": "2026-10-30T20:16:16.540091+00:00",
   "notice": "Kulis aday bağlantıları. Metin, iddia, alıntı ve fotoğraf henüz ATELIER tarafından doğrulanmadı. Otomatik haber yayınlamaz.",
   "items": [
-    {
-      "title": "London’s Must-See Art Destinations, From the National Gallery to the Fourth Plinth",
-      "url": "https://news.artnet.com/art-world/london-guide-bloomberg-connects-2828406",
-      "source": "Artnet",
-      "published_at": "2026-10-30T13:19:13+00:00",
-      "category": "GALERİ KULİSİ",
-      "priority": 12,
-      "editorial_status": "source_link_requires_review",
-      "source_verified": false,
-      "article_approved": false,
-      "image_rights": "not_cleared",
-      "note": "Publisher headline only. Not an independently checked art gossip report."
-    },
     {
       "title": "A Gallery Known for Modern Masters Spotlights a More Discreet Painter",
       "url": "https://news.artnet.com/art-world/jean-pierre-cassigneul-galerie-de-linstitut-2828688",
@@ -49,19 +36,6 @@
       "source": "ARTnews",
       "published_at": "2026-10-29T19:42:27+00:00",
       "category": "KOLEKSİYONERLER",
-      "priority": 11,
-      "editorial_status": "source_link_requires_review",
-      "source_verified": false,
-      "article_approved": false,
-      "image_rights": "not_cleared",
-      "note": "Publisher headline only. Not an independently checked art gossip report."
-    },
-    {
-      "title": "Largest ever Piero della Francesca exhibition to open at London’s National Gallery",
-      "url": "https://www.theartnewspaper.com/2026/10/29/london-national-gallery-to-host-largest-ever-exhibition-devoted-to-renaissance-master-piero-della-francesca",
-      "source": "The Art Newspaper",
-      "published_at": "2026-10-29T13:00:02+00:00",
-      "category": "GALERİ KULİSİ",
       "priority": 11,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
