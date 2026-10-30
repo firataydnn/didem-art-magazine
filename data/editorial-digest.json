@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-30T18:53:46.156015+00:00",
-  "source_generated_at": "2026-10-30T18:53:35.189166+00:00",
+  "generated_at": "2026-10-30T19:01:56.346126+00:00",
+  "source_generated_at": "2026-10-30T19:01:37.882816+00:00",
   "input_count": 100,
   "curated_link_count": 92,
   "possible_duplicate_count": 8,
@@ -41,12 +41,13 @@
   ],
   "categories": {
     "KURUMLAR": 8,
-    "TARTIŞMALAR": 7,
+    "TARTIŞMALAR": 6,
     "SERGİLER": 9,
-    "DÜNYA": 47,
+    "DÜNYA": 43,
     "SANATÇILAR": 12,
+    "TÜRKİYE": 7,
     "PİYASA": 6,
-    "KOLEKSİYON": 3
+    "KOLEKSİYON": 1
   },
   "ai": {
     "configured": false,
@@ -62,7 +63,7 @@
       "category": "KURUMLAR",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T16:56:59+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -73,7 +74,8 @@
         "sector_change"
       ],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Documenta 16 Adds Four New Curators",
@@ -82,7 +84,7 @@
       "category": "KURUMLAR",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T14:43:48+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -93,7 +95,8 @@
         "sector_change"
       ],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Louvre Signs Deal with Unions, Ending Threat of Continued Strikes",
@@ -102,7 +105,7 @@
       "category": "TARTIŞMALAR",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T13:10:53+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -113,7 +116,8 @@
         "sector_change"
       ],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "The Met Museum and Vacheron Constantin Unveil Artworks Produced Through New Residency",
@@ -122,7 +126,7 @@
       "category": "KURUMLAR",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T15:44:13+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -132,7 +136,8 @@
         "major_institution"
       ],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Ukraine Charges a Russian General in Absentia Over the Missile Strike That Destroyed the Skovoroda Museum",
@@ -141,7 +146,7 @@
       "category": "TARTIŞMALAR",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T18:43:48+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -151,7 +156,8 @@
         "sector_change"
       ],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "U.S. Pavilion at Venice Biennale Is $1 M. Short, and Its Sculptures May Be Stuck in Italy",
@@ -160,7 +166,7 @@
       "category": "SERGİLER",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T21:37:11+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -170,7 +176,8 @@
         "major_institution"
       ],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "AI Monolith Anthropic Supports New Commissions at Seoul’s Centre Pompidou",
@@ -179,7 +186,7 @@
       "category": "KURUMLAR",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T00:44:52+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://files.ocula.com/ri/0a/0a22d3f4-ea83-4fec-9a95-d6daeb4d055b/1080/720/ai-monolith-anthropic-supports-new-commissions-at-seouls-centre-pompidou.jpg",
@@ -189,7 +196,8 @@
         "major_institution"
       ],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "Ebony L. Haynes Named Senior Director at Marian Goodman in Leadership Shakeup",
@@ -198,7 +206,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T22:26:21+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -208,7 +216,8 @@
         "sector_change"
       ],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Largest ever Piero della Francesca exhibition to open at London’s National Gallery",
@@ -217,7 +226,7 @@
       "category": "SERGİLER",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T13:00:02+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://cdn.sanity.io/images/cxgd3urn/production/392a903e3cbb6ac645c1e85eba0048a232723a92-2357x2376.jpg?w=140",
@@ -227,7 +236,8 @@
         "major_institution"
       ],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "Will Art Basel Compensate Galleries for Closing Early in Paris?",
@@ -236,7 +246,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T20:20:22+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -246,7 +256,8 @@
         "major_institution"
       ],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Hell Takes the Form of State Repression in 1971’s “The Devils”",
@@ -255,7 +266,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T17:36:58+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/GettyImages-2278301183.jpg",
@@ -265,7 +276,8 @@
         "major_institution"
       ],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "Celebrated photographer Pipo Nguyen-duy and his wife murdered by his son, according to police",
@@ -274,7 +286,7 @@
       "category": "SANATÇILAR",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T18:20:22+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://cdn.sanity.io/images/cxgd3urn/production/396756764b9f556c3091d3ed9e61c76c8684c420-2000x1334.jpg?w=140",
@@ -282,7 +294,8 @@
       "score": 14,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "Seven Sculpture Shows to See in New York, From Modernist Masterpieces to Contemporary Anti-Monuments",
@@ -291,7 +304,7 @@
       "category": "SERGİLER",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T18:10:32+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -299,7 +312,8 @@
       "score": 14,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Italian Police Used AI to Identify $200 M. Worth of Stolen Art and Antiquities",
@@ -308,7 +322,7 @@
       "category": "TARTIŞMALAR",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T18:08:35+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -316,7 +330,8 @@
       "score": 14,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "HEIDEGGER AND HEELS: ANNA UDDENBERG’S HIGH FEMMES",
@@ -325,7 +340,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T17:49:20+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -333,7 +348,8 @@
       "score": 14,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Hirshhorn Opens Redesigned Sculpture Garden",
@@ -342,7 +358,7 @@
       "category": "SERGİLER",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T16:47:41+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -350,7 +366,8 @@
       "score": 14,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Underappreciated artists from the Chelsea Hotel are finally getting their due",
@@ -359,7 +376,7 @@
       "category": "SANATÇILAR",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T16:23:18+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://cdn.sanity.io/images/cxgd3urn/production/66d65943659aa7ca91b5a606f9fd1c97013b16a2-1468x2157.jpg?w=140",
@@ -367,7 +384,28 @@
       "score": 14,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
+    },
+    {
+      "title": "Anime takviminde 2027: Takibe aldığımız 12 dizi",
+      "url": "https://bantmag.com/2027-anime-dizileri/",
+      "source": "Bant Mag",
+      "category": "TÜRKİYE",
+      "category_status": "provisional_keyword",
+      "published_at": "2026-10-30T13:27:00+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
+      "image_status": "not_verified",
+      "editorial_status": "source_link_only",
+      "candidate_image_url": null,
+      "first_seen_at": "2026-10-30T19:01:37.882816+00:00",
+      "score": 14,
+      "ranking_reasons": [
+        "turkey_editorial_priority"
+      ],
+      "fact_check": "needs_independent_review",
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Kim Kardashian’s First Auction Purchase Was a Monet Painting Because of the Film ‘Clueless’",
@@ -386,7 +424,8 @@
         "market"
       ],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Documenta Sixteen gibt erweitertes kuratorisches Team bekannt",
@@ -395,7 +434,7 @@
       "category": "KURUMLAR",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T14:40:44+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -405,7 +444,8 @@
         "major_institution"
       ],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Rudi Fuchs, influential Dutch curator and former director of Amsterdam’s Stedelijk Museum, dies aged 84",
@@ -414,7 +454,7 @@
       "category": "SANATÇILAR",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T11:27:20+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://cdn.sanity.io/images/cxgd3urn/production/6f083d4c91bd881c605e8de4234a6d733f929120-1200x1058.avif?w=460",
@@ -424,26 +464,8 @@
         "sector_change"
       ],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
-    },
-    {
-      "title": "An Epstein Survivor’s Message for MoMA",
-      "url": "https://hyperallergic.com/an-epstein-survivors-message-for-moma/",
-      "source": "Hyperallergic",
-      "category": "KURUMLAR",
-      "category_status": "provisional_keyword",
-      "published_at": "2026-10-29T10:00:00+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
-      "image_status": "not_verified",
-      "editorial_status": "source_link_only",
-      "candidate_image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/moma1200.jpg",
-      "first_seen_at": "2026-10-30T18:22:28.966201+00:00",
-      "score": 14,
-      "ranking_reasons": [
-        "major_institution"
-      ],
-      "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "New book charts American artist’s lifelong devotion to the South Seas",
@@ -452,7 +474,7 @@
       "category": "SANATÇILAR",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T15:09:10+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://cdn.sanity.io/images/cxgd3urn/production/0db23b3383378fca8b0677ebd17bda81e93dda57-614x429.jpg?w=140",
@@ -460,7 +482,8 @@
       "score": 13,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "New book explores how Ukraine’s artists are shaping the memory of war",
@@ -469,7 +492,7 @@
       "category": "SANATÇILAR",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T15:08:42+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://cdn.sanity.io/images/cxgd3urn/production/3866d20846b4fcb7c3b23891d5640f0661a5f650-614x972.jpg?w=140",
@@ -477,7 +500,8 @@
       "score": 13,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "Visual war and the underwater secrets of the Inca",
@@ -486,7 +510,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T15:00:55+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://cdn.sanity.io/images/cxgd3urn/production/335c5b4de5df4d21a831a955953cf3f8b896fa0a-727x945.jpg?w=140",
@@ -494,7 +518,8 @@
       "score": 13,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "The name of a 3,500-year-old Egyptian dog depicted in a tomb painting has been revealed—and it has a unique link to the god Anubis",
@@ -503,7 +528,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T14:43:26+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://cdn.sanity.io/images/cxgd3urn/production/4acc12e454af355ee5846aab9a988efb39ca945b-1200x900.jpg?w=140",
@@ -511,7 +536,8 @@
       "score": 13,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "Southern Methodist University to Host Dallas Art Fair in 2027",
@@ -520,7 +546,7 @@
       "category": "PİYASA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T14:26:25+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -528,7 +554,8 @@
       "score": 13,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Vietnamese-American Photographer and Oberlin Professor Pipo Nguyen-duy Found Dead at 64",
@@ -537,7 +564,7 @@
       "category": "SANATÇILAR",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T13:59:48+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -545,7 +572,8 @@
       "score": 13,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Chris Ofili brings story of Laure—the Black model painted by Manet—in from the margins at Turin exhibition",
@@ -554,7 +582,7 @@
       "category": "SERGİLER",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T12:30:56+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://cdn.sanity.io/images/cxgd3urn/production/09b71fe324b4b9a909d61d33688266ec8d2f0d88-6158x8213.jpg?rect=400,180,5357,7776&w=140",
@@ -562,7 +590,8 @@
       "score": 13,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "Behind a Van Gogh picture: the stories revealed on the reverse",
@@ -571,7 +600,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T11:00:00+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://cdn.sanity.io/images/cxgd3urn/production/2ebd564d034a304b7f93ac7305bb756e55387682-4000x4000.jpg?w=140",
@@ -579,7 +608,28 @@
       "score": 13,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
+    },
+    {
+      "title": "An Epstein Survivor’s Message for MoMA",
+      "url": "https://hyperallergic.com/an-epstein-survivors-message-for-moma/",
+      "source": "Hyperallergic",
+      "category": "KURUMLAR",
+      "category_status": "provisional_keyword",
+      "published_at": "2026-10-29T10:00:00+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
+      "image_status": "not_verified",
+      "editorial_status": "source_link_only",
+      "candidate_image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/moma1200.jpg",
+      "first_seen_at": "2026-10-30T18:22:28.966201+00:00",
+      "score": 13,
+      "ranking_reasons": [
+        "major_institution"
+      ],
+      "fact_check": "needs_independent_review",
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "Mysterious Leonora Carrington Painting Resurfaces After 70 Years in Hiding",
@@ -588,7 +638,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T16:35:32+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -596,7 +646,8 @@
       "score": 12,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "In South Carolina, Artistic Freedom Is on the Ballot This November",
@@ -605,7 +656,7 @@
       "category": "SANATÇILAR",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T16:13:00+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/GettyImages-2208165797-1.jpg",
@@ -613,7 +664,8 @@
       "score": 12,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "Restoration of Brutalist tower in France offers critical lessons in working with concrete heritage",
@@ -622,7 +674,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T09:00:00+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://cdn.sanity.io/images/cxgd3urn/production/921d7fbaab31cbc73115c8491f0b026cc9805bf1-1555x2332.jpg?rect=0,106,1555,1826&w=140",
@@ -630,7 +682,8 @@
       "score": 12,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "A Retrospective Introduces Francis Picabia to a New Generation—with Funhouse Mirrors and a Peep Show",
@@ -639,7 +692,7 @@
       "category": "SERGİLER",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T09:00:00+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -647,7 +700,8 @@
       "score": 12,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "In Postwar Rural France, Alexander Calder Found Respite from Pressures of Fame and a Chance to Dream Big",
@@ -656,7 +710,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T09:00:00+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -664,7 +718,8 @@
       "score": 12,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Surprise! US Pavilion Needs More Cash to Ship Works Home",
@@ -673,7 +728,7 @@
       "category": "SERGİLER",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T15:42:05+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/us-pavilion1.jpg",
@@ -681,7 +736,8 @@
       "score": 11,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "A View From the Easel: Anna Pajak",
@@ -690,7 +746,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T14:47:50+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/anna-pajak-outside.jpeg",
@@ -698,7 +754,8 @@
       "score": 11,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "Wohin am Wochenende?",
@@ -707,7 +764,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T14:22:00+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -715,7 +772,8 @@
       "score": 11,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "\"Jede Kunst beginnt mit einem Fehler\"",
@@ -724,7 +782,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T13:56:43+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -732,7 +790,8 @@
       "score": 11,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Was wäre die Kunst ohne Waldi?",
@@ -741,7 +800,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T13:46:00+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -749,7 +808,8 @@
       "score": 11,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "London’s Must-See Art Destinations, From the National Gallery to the Fourth Plinth",
@@ -758,7 +818,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T13:19:13+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -769,7 +829,8 @@
         "non_breaking_format"
       ],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Ibrahim Mahama bekommt Bode-Preis 2026",
@@ -778,7 +839,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T12:03:31+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -786,7 +847,8 @@
       "score": 11,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Pauline Karpidas’s Jewelry Collection Dazzled Warhol. Now It’s Up for Sale",
@@ -795,7 +857,7 @@
       "category": "PİYASA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T12:00:25+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -803,7 +865,8 @@
       "score": 11,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Man denkt nur mit der Mütze gut",
@@ -812,7 +875,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T10:36:36+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -820,7 +883,8 @@
       "score": 11,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Are Black Cats Modernity’s Icons?",
@@ -829,15 +893,16 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T10:00:00+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/GettyImages-1450429873.jpg",
       "first_seen_at": "2026-10-30T18:22:28.966201+00:00",
-      "score": 11,
+      "score": 10,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "Missglückte Postkarten aus Neapel",
@@ -846,7 +911,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T06:22:00+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -854,7 +919,8 @@
       "score": 10,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Which Rembrandt Would You Get Tattooed Onto Your Body?",
@@ -863,7 +929,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T06:00:08+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -871,7 +937,8 @@
       "score": 10,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Ursula von Rydingsvard, Whose Massive Wood Totems Brought Warmth to Minimalism, Dead at 84",
@@ -880,7 +947,7 @@
       "category": "SANATÇILAR",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T21:37:59+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -888,7 +955,8 @@
       "score": 10,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Ballot Question Offers to Make Philadelphia’s Arts and Culture Office Permanent",
@@ -897,7 +965,7 @@
       "category": "TARTIŞMALAR",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T21:30:12+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -905,7 +973,8 @@
       "score": 10,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "The World Monuments Fund Triples Its Endowment",
@@ -914,7 +983,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T19:04:52+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -922,7 +991,8 @@
       "score": 10,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "New York’s Socrates Sculpture Park rebuilds for resilience and expands",
@@ -931,7 +1001,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T19:00:09+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://cdn.sanity.io/images/cxgd3urn/production/0c8e823c818c947ff067dc1809dbb78bc20c9655-3483x2335.jpg?w=140",
@@ -939,7 +1009,8 @@
       "score": 10,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "Dallas Art Fair scores new venue at football training facility",
@@ -948,7 +1019,7 @@
       "category": "PİYASA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T17:30:00+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://cdn.sanity.io/images/cxgd3urn/production/929c0fa9f1d8c9fa6fb301ca34ea7510d9cbc40e-5464x3640.jpg?w=140",
@@ -956,7 +1027,8 @@
       "score": 10,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "Hegseth and Mullin Claim Trump’s Arch Is a “National Defense Opportunity”",
@@ -965,7 +1037,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T16:06:13+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -973,7 +1045,68 @@
       "score": 10,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
+    },
+    {
+      "title": "Yeraltının doğusunda: Doğa Sultan ile Antipode üzerine",
+      "url": "https://bantmag.com/antipode-roportaj/",
+      "source": "Bant Mag",
+      "category": "TÜRKİYE",
+      "category_status": "provisional_keyword",
+      "published_at": "2026-10-29T15:03:00+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
+      "image_status": "not_verified",
+      "editorial_status": "source_link_only",
+      "candidate_image_url": null,
+      "first_seen_at": "2026-10-30T19:01:37.882816+00:00",
+      "score": 10,
+      "ranking_reasons": [
+        "turkey_editorial_priority"
+      ],
+      "fact_check": "needs_independent_review",
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
+    },
+    {
+      "title": "30 Ekim – 5 Kasım etkinlik rehberi",
+      "url": "https://bantmag.com/30-ekim-5-kasim-etkinlik-rehberi/",
+      "source": "Bant Mag",
+      "category": "TÜRKİYE",
+      "category_status": "provisional_keyword",
+      "published_at": "2026-10-29T12:27:00+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
+      "image_status": "not_verified",
+      "editorial_status": "source_link_only",
+      "candidate_image_url": null,
+      "first_seen_at": "2026-10-30T19:01:37.882816+00:00",
+      "score": 10,
+      "ranking_reasons": [
+        "turkey_editorial_priority"
+      ],
+      "fact_check": "needs_independent_review",
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
+    },
+    {
+      "title": "Naber müzik gündemi?",
+      "url": "https://bantmag.com/naber-muzik-gundemi-29-10-26/",
+      "source": "Bant Mag",
+      "category": "TÜRKİYE",
+      "category_status": "provisional_keyword",
+      "published_at": "2026-10-29T10:57:00+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
+      "image_status": "not_verified",
+      "editorial_status": "source_link_only",
+      "candidate_image_url": null,
+      "first_seen_at": "2026-10-30T19:01:37.882816+00:00",
+      "score": 10,
+      "ranking_reasons": [
+        "turkey_editorial_priority"
+      ],
+      "fact_check": "needs_independent_review",
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "New Getty grant initiative supports museums’ accessibility and engagement efforts",
@@ -982,7 +1115,7 @@
       "category": "KURUMLAR",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-28T13:00:00+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://cdn.sanity.io/images/cxgd3urn/production/ecb26f41637e4f9c4b1372cc4b7324646350800b-2000x1333.jpg?w=140",
@@ -992,7 +1125,8 @@
         "sector_change"
       ],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "As protests in Georgia intensify again, a new private museum puts focus on the country’s artists",
@@ -1001,7 +1135,7 @@
       "category": "SANATÇILAR",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T15:05:31+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://cdn.sanity.io/images/cxgd3urn/production/421bc4328ac28617b1eb0cf6448c1cdd518fcb09-3000x1688.jpg?w=140",
@@ -1009,7 +1143,8 @@
       "score": 9,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "Photography as sculpture and an 800-page photobook on the Russia-Ukraine war: Deutsche Börse Prize nominees announced",
@@ -1018,7 +1153,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T13:02:00+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://cdn.sanity.io/images/cxgd3urn/production/ac73903c637d18908c526431b887e46f60da1714-2362x3543.jpg?w=140",
@@ -1026,7 +1161,8 @@
       "score": 9,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "UK art market growth lags behind competitors, new report finds",
@@ -1035,7 +1171,7 @@
       "category": "PİYASA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-28T12:24:09+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://cdn.sanity.io/images/cxgd3urn/production/2d3cc051f2b267e21d128f9e59be6a1b2e294708-2060x1376.png?w=140",
@@ -1045,45 +1181,8 @@
         "market"
       ],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
-    },
-    {
-      "title": "Art Basel Qatar releases 2027 exhibitor list as renewed threat of war looms over Gulf",
-      "url": "https://www.theartnewspaper.com/2026/10/27/art-basel-qatar-releases-2027-exhibitor-list-as-renewed-threat-of-war-looms-over-gulf",
-      "source": "The Art Newspaper",
-      "category": "DÜNYA",
-      "category_status": "provisional_keyword",
-      "published_at": "2026-10-27T12:48:59+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
-      "image_status": "not_verified",
-      "editorial_status": "source_link_only",
-      "candidate_image_url": "https://cdn.sanity.io/images/cxgd3urn/production/c8f945830a35e8a22ca774c7dd35035937dc5ccc-2480x1653.jpg?w=140",
-      "first_seen_at": "2026-10-30T18:22:28.966201+00:00",
-      "score": 9,
-      "ranking_reasons": [
-        "major_institution"
-      ],
-      "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
-    },
-    {
-      "title": "Fake or Fortune art historian donates major Anglo-Indian art collection to Tate",
-      "url": "https://www.theartnewspaper.com/2026/10/27/fake-or-fortune-art-historian-donates-major-anglo-indian-art-collection-to-tate",
-      "source": "The Art Newspaper",
-      "category": "KOLEKSİYON",
-      "category_status": "provisional_keyword",
-      "published_at": "2026-10-27T11:56:49+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
-      "image_status": "not_verified",
-      "editorial_status": "source_link_only",
-      "candidate_image_url": "https://cdn.sanity.io/images/cxgd3urn/production/e830377342c1bb43b63f32825a829e6417017aa8-1511x2500.jpg?rect=0,114,1511,1688&w=140",
-      "first_seen_at": "2026-10-30T18:22:28.966201+00:00",
-      "score": 9,
-      "ranking_reasons": [
-        "major_institution"
-      ],
-      "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "A Gallery Known for Modern Masters Spotlights a More Discreet Painter",
@@ -1092,7 +1191,7 @@
       "category": "SANATÇILAR",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T21:32:02+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -1100,7 +1199,8 @@
       "score": 8,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "How Édouard Manet's Black Cat Became a Symbol of Modernity",
@@ -1109,7 +1209,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T20:36:39+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/GettyImages-584663406.jpg",
@@ -1117,7 +1217,8 @@
       "score": 8,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "Inside the U.K. Books of Three Mega-Galleries",
@@ -1126,7 +1227,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T19:23:33+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -1134,7 +1235,8 @@
       "score": 8,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Why Do Horror Films Have Such a Hold on Our Imaginations?",
@@ -1143,7 +1245,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T18:53:57+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/horro2.jpg",
@@ -1151,7 +1253,8 @@
       "score": 8,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "Before AI There Was the Octopus",
@@ -1160,7 +1263,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T17:06:36+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/260929_PW_Install_043.jpg",
@@ -1168,7 +1271,8 @@
       "score": 8,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "‘There’s so much of Scotland in them’: cuts to Edinburgh College of Art craft degrees spark backlash",
@@ -1177,7 +1281,7 @@
       "category": "TARTIŞMALAR",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T08:45:34+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://cdn.sanity.io/images/cxgd3urn/production/5e6c6cc8803fdf37a7b2564f721f0a2f910ebc1f-9308x4677.jpg?w=140",
@@ -1185,7 +1289,8 @@
       "score": 8,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "Edward Hopper biography, Kvareli Foundation in Georgia, Marisa Merz in Turin—podcast",
@@ -1194,7 +1299,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-30T18:00:44+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://cdn.sanity.io/images/cxgd3urn/production/5f6afabc88719822ee0dbe1e4febabe813515f99-788x1206.jpg?w=140",
@@ -1204,7 +1309,8 @@
         "non_breaking_format"
       ],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "ARTPOWER’s New Platform Helps Artists Build Financial Confidence",
@@ -1213,7 +1319,7 @@
       "category": "SANATÇILAR",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T15:15:00+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": "https://storage.ghost.io/c/51/f8/51f871d8-b6be-4a73-b958-0ca4fff0110a/content/images/2026/10/bawj-5-3.jpg",
@@ -1221,7 +1327,8 @@
       "score": 7,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "image_candidate_only"
     },
     {
       "title": "Lieber nicht bauen als falsch bauen",
@@ -1230,7 +1337,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T15:00:00+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -1238,7 +1345,8 @@
       "score": 7,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     },
     {
       "title": "Klassik Stiftung erhält Schenkung aus Künstlernachlass",
@@ -1247,7 +1355,7 @@
       "category": "DÜNYA",
       "category_status": "provisional_keyword",
       "published_at": "2026-10-29T14:33:48+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
+      "fetched_at": "2026-10-30T19:01:37.882816+00:00",
       "image_status": "not_verified",
       "editorial_status": "source_link_only",
       "candidate_image_url": null,
@@ -1255,43 +1363,8 @@
       "score": 7,
       "ranking_reasons": [],
       "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
-    },
-    {
-      "title": "Bibliotheken in Dresden und Berlin geben NS-Raubgut zurück",
-      "url": "https://www.monopol-magazin.de/bibliotheken-dresden-und-berlin-geben-ns-raubgut-zurueck",
-      "source": "Monopol",
-      "category": "DÜNYA",
-      "category_status": "provisional_keyword",
-      "published_at": "2026-10-29T13:46:40+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
-      "image_status": "not_verified",
-      "editorial_status": "source_link_only",
-      "candidate_image_url": null,
-      "first_seen_at": "2026-10-30T18:43:29.348515+00:00",
-      "score": 7,
-      "ranking_reasons": [],
-      "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
-    },
-    {
-      "title": "Museum acquisitions round-up: a Joan Jonas dance performance and a squirrelly readymade",
-      "url": "https://www.theartnewspaper.com/2026/10/26/museum-acquisitions-round-up-a-joan-jonas-dance-performance-and-a-17th-century-dutch-artists-drawing-book",
-      "source": "The Art Newspaper",
-      "category": "KOLEKSİYON",
-      "category_status": "provisional_keyword",
-      "published_at": "2026-10-26T12:51:46+00:00",
-      "fetched_at": "2026-10-30T18:53:35.189166+00:00",
-      "image_status": "not_verified",
-      "editorial_status": "source_link_only",
-      "candidate_image_url": "https://cdn.sanity.io/images/cxgd3urn/production/dfd6475be93a266e492f7f74cc0a1b356a4d4954-1152x1728.jpg?w=140",
-      "first_seen_at": "2026-10-30T18:22:28.966201+00:00",
-      "score": 7,
-      "ranking_reasons": [
-        "sector_change"
-      ],
-      "fact_check": "needs_independent_review",
-      "image_rights": "not_verified"
+      "image_rights": "not_verified",
+      "visual_review": "not_run"
     }
   ]
 }
