@@ -9,17 +9,25 @@ OUT=ROOT/"data/editorial-digest.json"
 STOP=set("the and for with from that this into are was have will new art arts artist artists gallery galleries museum museums exhibition exhibitions of in to on at a an by as".split())
 CATS=[
  ("TÜRKİYE",("turkey","turkish","istanbul","ankara","izmir","türkiye")),
- ("TARTIŞMALAR",("protest","lawsuit","restitution","censor","strike","ballot","looted","stolen","unions","cuts","police","funding crisis")),
+ ("SANATÇILAR",("photographer","artist","painter","sculptor","obituary","dies","dead at")),
+ ("TARTIŞMALAR",("protest","lawsuit","restitution","censor","strike","ballot","looted","stolen","unions","cuts","funding crisis")),
  ("PİYASA",("auction","sotheby","christie","sale","sold","record price","art market","jewelry","fair")),
  ("KOLEKSİYON",("acquisition","donation","collection","bequest","gift","holdings")),
  ("SERGİLER",("exhibition","retrospective","biennial","triennial","pavilion","sculpture garden","sculpture show")),
- ("SANATÇILAR",("artist","painter","sculptor","photographer","obituary","dies","dead at")),
+ ("KURUMLAR",("museum","moma","pompidou","louvre","documenta","guggenheim","gallery director","curator","cultural alliance")),
 ]
 HIGH=("moma","pompidou","tate","louvre","met museum","guggenheim","documenta","venice biennale","art basel","national gallery")
 IMPACT=("alliance","acquires","acquisition","donation","restitution","curator","director","grant","lawsuit","agreement","strike")
 LOW=("sponsored","offers a","advertisement","must-see","things to do","own a piece","round up","podcast","halloween","guide","best of")
 def tokens(s):
- return {t for t in re.findall(r"[a-z0-9]{3,}",s.lower()) if t not in STOP}
+ words=[]
+ for t in re.findall(r"[a-z0-9]{3,}",s.lower()):
+  if t in STOP:continue
+  if t.startswith("curator"):t="curator"
+  if t.startswith("sculptur"):t="sculpture"
+  if t.startswith("redesign"):t="redesign"
+  words.append(t)
+ return set(words)
 def classify(title,default):
  s=title.lower()
  return next((c for c,terms in CATS if any(x in s for x in terms)),default if default!="DÜNYA" else "DÜNYA")
@@ -38,7 +46,7 @@ def near_duplicate(a,b):
  da=dt.datetime.fromisoformat(a["published_at"]);db=dt.datetime.fromisoformat(b["published_at"])
  if abs((da-db).total_seconds())>72*3600:return False
  aa,bb=tokens(a["title"]),tokens(b["title"])
- return bool(aa and bb and len(aa&bb)>=3 and len(aa&bb)/len(aa|bb)>=0.54)
+ return bool(aa and bb and len(aa&bb)>=3 and len(aa&bb)/len(aa|bb)>=0.28)
 def ai_review(item,key):
  meta={k:item.get(k) for k in ("title","source","published_at","url")}
  prompt=("You are a conservative Turkish art journalism research assistant. Using ONLY the headline "
