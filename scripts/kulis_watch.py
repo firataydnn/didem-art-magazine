@@ -17,11 +17,12 @@ RULES=[
  ("FUAR KORİDORU",("art basel","frieze","fair","fairs","booth","pavilion","refund","compensat","cancelled","closing early")),
  ("SANAT & GÜÇ",("market","donation","funding","lawsuit","settlement","legal battle","leadership","controversy","museum board","institutional","deal","residency")),
 ]
-SKIP=("murder","killed","dead body","sexual assault","rape","suicide","domestic","police charge")
+SKIP=("murder","killed","dead body","sexual assault","rape","suicide","domestic","police charge","must-see","destinations","gallery guide","things to see","shows to see","exhibition to open","seven shows","weekly roundup")
 PREFER=("art basel","sotheby","christie","gallery","kardashian","collector","auction","gagosian","frieze","koons")
 def route(title):
  t=title.casefold()
  if any(word in t for word in SKIP):return None
+ if "national gallery" in t and not any(w in t for w in ("director","resign","auction","sale","funding","lawsuit")):return None
  for category,words in RULES:
   if any(word in t for word in words):return category
  return None
