@@ -28,6 +28,20 @@ def date(s):
  except Exception:
   try:return dt.datetime.fromisoformat(s.replace("Z","+00:00")).astimezone(dt.timezone.utc).isoformat()
   except Exception:return None
+def classify(title, source, fallback):
+ """Transparent provisional routing, not an AI editorial verdict."""
+ t=title.casefold()
+ groups=[
+  ("PİYASA",("auction","sotheby","christie","sale","sold","record price","art market","müzayede")),
+  ("SERGİLER",("exhibition","retrospective","biennial","triennial","museum show","sergi")),
+  ("KOLEKSİYON",("acquisition","donation","collection","bequest","gift to museum")),
+  ("SANATÇILAR",("artist","painter","sculptor","photographer","sanatçı")),
+  ("TARTIŞMALAR",("protest","lawsuit","restitution","censorship","controversy","looted")),
+ ]
+ for category,terms in groups:
+  if any(term in t for term in terms):return category
+ return fallback
+
 def main():
  now=dt.datetime.now(dt.timezone.utc)
  existing={}
@@ -58,7 +72,7 @@ def main():
     if urlparse(link).hostname is None:continue
     key=link.split("#")[0]
     previous=existing.get(key,{})
-    items.append({"title":title[:220],"url":key,"source":name,"category":category,
+    items.append({"title":title[:220],"url":key,"source":name,"category":classify(title,name,category),"category_status":"provisional_keyword",
       "published_at":published,"fetched_at":now.isoformat(),"image_status":"not_verified",
       "editorial_status":"source_link_only","first_seen_at":previous.get("first_seen_at",now.isoformat())})
     count+=1
