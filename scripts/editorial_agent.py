@@ -116,6 +116,23 @@ def ai_review(item,key):
          "suggested_category":parsed.get("category"),"image_relevance":parsed.get("image_relevance","unclear"),
          "fact_risks":parsed.get("fact_risks",[]),"review_status":"ai_draft_unverified",
          "image_license":"not_verified"}
+def choose_display_leads(leads, limit=70):
+ """Keep high-priority global stories while reserving space for Turkish visual art reporting."""
+ editorial_turkey=[x for x in leads if x.get("category")=="TÜRKİYE" and x.get("source") in ("Argonotlar","ArtDog Istanbul")]
+ output=[];used=set()
+ reserved_positions=(4,9,15,25,35,45)
+ turkey_iter=iter(editorial_turkey[:len(reserved_positions)])
+ global_iter=iter(leads)
+ for i in range(limit):
+  if i in reserved_positions:
+   special=next(turkey_iter,None)
+   if special and special["url"] not in used:
+    output.append(special);used.add(special["url"]);continue
+  next_normal=next((x for x in global_iter if x["url"] not in used),None)
+  if next_normal is None:break
+  output.append(next_normal);used.add(next_normal["url"])
+ return output
+
 def main():
  feed=json.loads(FEED.read_text())
  now=dt.datetime.now(dt.timezone.utc)
@@ -126,6 +143,7 @@ def main():
  items=[]
  for x in feed.get("items",[]):
   if not all(isinstance(x.get(k),str) for k in ("title","url","published_at","source")):continue
+  if x.get("source")=="Bant Mag":continue
   if not x["url"].startswith("https://"):continue
   try:points,reasons=rank(x,now)
   except ValueError:continue
@@ -157,7 +175,7 @@ def main():
   "possible_duplicates":duplicates,"categories":counts,
   "ai":{"configured":bool(key),"new_drafts":done,"errors":errors},
   "notice":"Ranked source links and unapproved research drafts only. Images are not licensed.",
-  "items":leads[:70]}
+  "items":choose_display_leads(leads,70)}
  OUT.parent.mkdir(exist_ok=True)
  OUT.write_text(json.dumps(result,ensure_ascii=False,indent=2)+"\n")
  print(json.dumps({"input":len(items),"curated":len(leads),"duplicates":len(duplicates),"ai_drafts":done,"ai_errors":errors},ensure_ascii=False))
