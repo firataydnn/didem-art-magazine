@@ -17,6 +17,7 @@ SOURCES=[
  ("Sotheby's","https://www.sothebys.com/en/about/services/press","GLOBAL","public"),
  ("Christie's","https://press.christies.com/section/press-releases/?lang=eng","GLOBAL","public"),
  ("İstanbul Modern","https://www.istanbulmodern.org/basin-bultenleri","TÜRKİYE","public"),
+ ("SAHA Derneği","https://www.saha.org.tr/bultenler/","TÜRKİYE","public"),
  ("La Biennale di Venezia","https://www.labiennale.org/en/news","ITALY","public"),
  ("Tate","https://www.tate.org.uk/press/press-releases","UK","public"),
 ]
