@@ -1,0 +1,394 @@
+{
+  "schema": 1,
+  "generated_at": "2026-10-30T18:53:40.850847+00:00",
+  "notice": "Primary source page monitoring only. Page changes are not verified publication events. Restricted press rooms must not be bypassed.",
+  "sources": [
+    {
+      "name": "Art Basel",
+      "url": "https://www.artbasel.com/press/releases",
+      "region": "GLOBAL",
+      "access": "public",
+      "status": "reachable",
+      "candidates": [
+        {
+          "title": "Read Full Press Release",
+          "url": "https://www.artbasel.com/stories/art-basel-unveils-exhibitors-for-its-2027-qatar-edition",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Read Full Press Release",
+          "url": "https://www.artbasel.com/stories/art-basel-and-live-nation-present-god-hates-space-by-gener8ion",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Read Full Press Release",
+          "url": "https://www.artbasel.com/stories/the-art-basel-and-ubs-survey-of-global-collecting-2026",
+          "status": "institutional_page_link_unverified_date"
+        }
+      ],
+      "page_title": "Press Releases | Art Baselundefined undefinedundefined undefinedMiami Lighthouse ADA ComplianceMiami Lighthouse ADA ComplianceUBS "
+    },
+    {
+      "name": "Frieze Press",
+      "url": "https://www.frieze.com/press",
+      "region": "GLOBAL",
+      "access": "registration_required",
+      "status": "failed",
+      "candidates": [],
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "MoMA Press",
+      "url": "https://press.moma.org/news-intro/",
+      "region": "USA",
+      "access": "public",
+      "status": "reachable",
+      "candidates": [
+        {
+          "title": "MoMA’s 18th Annual Film Benefit, Presented by CHANEL, To Honor Steven Spielberg on November 12",
+          "url": "https://press.moma.org/news/momas-18th-annual-film-benefit-presented-by-chanel-to-honor-steven-spielberg-on-november-12/",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "MoMA PS1 to Become New York City’s Largest Free Museum in 2026, Made Possible by Gift from Sonya Yu Celebrating 50th Anniversary",
+          "url": "https://press.moma.org/news/moma-ps1-to-become-new-york-citys-largest-free-museum-in-2026-made-possible-by-gift-from-sonya-yu-celebrating-50th-anniversary/",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "MoMA, Centre Pompidou, and M+ Announce Unprecedented Cultural Alliance",
+          "url": "https://press.moma.org/news/culturalalliance/",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Ann Temkin to Step Down in January 2027 as Marie-Josée and Henry Kravis Chief Curator of Painting and Sculpture",
+          "url": "https://press.moma.org/news/ann-temkin/",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Tina M. Campt Announced as the 2026–27 MoMA Scholar in Residence",
+          "url": "https://press.moma.org/news/202627scholarinresidence/",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Chef DeVonn Francis to Open New Café at MoMA PS1 This Fall",
+          "url": "https://press.moma.org/news/chef-devonn-francis-to-open-new-cafe-at-moma-ps1-this-fall/",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Makeda Best Appointed MoMA’s Next Ehrenkranz Chief Curator of Photography",
+          "url": "https://press.moma.org/news/makeda-best/",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "The Museum of Modern Art Appoints Evangelos Kotsioris as Director of the Emilio Ambasz Institute for the Joint Study of the Built and the Natural Environment",
+          "url": "https://press.moma.org/news/the-museum-of-modern-art-appoints-evangelos-kotsioris-as-director-of-the-emilio-ambasz-institute-for-the-joint-study-of-the-built-and-the-natural-environment/",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "MoMA Marks the Nation’s 250th Anniversary with a Dynamic Summer Program and Membership to Celebrate Community and Creativity",
+          "url": "https://press.moma.org/news/moma-america-250th-anniversary/",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "MoMA PS1 Announces 50th Anniversary Programs",
+          "url": "https://press.moma.org/news/moma-ps1-announces-50th-anniversary-programs/",
+          "status": "institutional_page_link_unverified_date"
+        }
+      ],
+      "page_title": "News"
+    },
+    {
+      "name": "Centre Pompidou",
+      "url": "https://www.centrepompidou.fr/fr/offre-aux-professionnels/espace-presse",
+      "region": "FRANCE",
+      "access": "public",
+      "status": "reachable",
+      "candidates": [
+        {
+          "title": "Les chefs-d'œuvre",
+          "url": "https://www.centrepompidou.fr/fr/collection/les-chefs-doeuvre",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Histoire du Mnam/Cci",
+          "url": "https://www.centrepompidou.fr/fr/collection/histoire-du-musee-national-dart-moderne-centre-de-creation-industrielle",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Les secteurs de collection",
+          "url": "https://www.centrepompidou.fr/fr/collection/les-secteurs-de-collection",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "La Bibliothèque Kandinsky",
+          "url": "https://www.centrepompidou.fr/fr/collection/la-bibliotheque-kandinsky",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "AWARE: Archives of Women Artists, Research & Exhibitions",
+          "url": "https://www.centrepompidou.fr/fr/offre-aux-professionnels/recherche/aware",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Œuvres de la collection",
+          "url": "https://www.centrepompidou.fr/fr/recherche/oeuvres?display=Grid",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "English Press Area",
+          "url": "https://www.centrepompidou.fr/en/offer-to-professionals/press-area",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Institutionnel Le Centre Pompidou, le MoMA et M+ annoncent une alliance culturelle inédite 30 octobre 2026 Homg Kong Communiqué de presse",
+          "url": "https://www.centrepompidou.fr/fr/offre-aux-professionnels/espace-presse/cultural-alliance",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Institutionnel Inscription au titre des monuments historiques 28 octobre 2026 Communiqué de presse",
+          "url": "https://www.centrepompidou.fr/fr/offre-aux-professionnels/espace-presse/inscription-du-centre-pompikdou-au-titre-des-monuments-historiques",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Avant-première Prélude! 3 week-ends de découverte 17 – 18 oct. 24 – 25 oct. 31 oct. – 1 er nov. 2026 Centre Pompidou Francilien - fabrique de l'Art Communiqué d",
+          "url": "https://www.centrepompidou.fr/fr/offre-aux-professionnels/espace-presse/prelude-3-week-ends-de-decouverte",
+          "status": "institutional_page_link_unverified_date"
+        }
+      ],
+      "page_title": "Espace presse - Centre Pompidou"
+    },
+    {
+      "name": "Hirshhorn / Smithsonian",
+      "url": "https://hirshhorn.si.edu/explore/press-releases/",
+      "region": "USA",
+      "access": "public",
+      "status": "failed",
+      "candidates": [],
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "name": "documenta",
+      "url": "https://documenta.de/en/news",
+      "region": "GERMANY",
+      "access": "public",
+      "status": "reachable",
+      "candidates": [
+        {
+          "title": "documenta Announcement of D16's Extended Curatorial Team Press",
+          "url": "https://documenta.de/en/news/d16-gibt-erweitertes-kuratorisches-team-bekannt",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "documenta documenta archiv Rudi Fuchs (1942–2026)",
+          "url": "https://documenta.de/en/news/rudi-fuchs-1942-2026",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "documenta documenta archiv Denys Zacharopoulos (1952–2026)",
+          "url": "https://documenta.de/en/news/denys-zacharopoulos-1952-2026",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "documenta DOCUMENTA SIXTEEN takes shape Press",
+          "url": "https://documenta.de/en/news/documenta-16-nimmt-gestalt-an",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "documenta documenta archiv Fabrizio Plessi (1940–2026)",
+          "url": "https://documenta.de/en/news/fabrizio-plessi-1940-2026",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "documenta archiv Goethe-Fellowship 2026: Alexandra Zidariu",
+          "url": "https://documenta.de/en/news/goethe-fellowship-2026-alexandra-zidariu",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "documenta archiv Goethe-Fellowship 2026: Anaclara Talento Acosta",
+          "url": "https://documenta.de/en/news/goethe-fellowship-2026-anaclara-talento-acosta",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "documenta documenta archiv Rune Mields (1935–2026)",
+          "url": "https://documenta.de/en/news/rune-mields-1935-2026",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "documenta From Fashion Department Store to an Office Complex",
+          "url": "https://documenta.de/en/news/modekaufhaus-zum-buerokomplex",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Fridericianum documenta Taking a break from the heat at Fridericianum — free admission for everyone on the last weekend in June",
+          "url": "https://documenta.de/en/news/hitzefrei-im-fridericianum",
+          "status": "institutional_page_link_unverified_date"
+        }
+      ],
+      "page_title": "News | documenta"
+    },
+    {
+      "name": "Sotheby's",
+      "url": "https://www.sothebys.com/en/about/services/press",
+      "region": "GLOBAL",
+      "access": "public",
+      "status": "reachable",
+      "candidates": [
+        {
+          "title": "Type: story Category: Press Release Sotheby's Presents the Jewelry Collection of Art World Grande Dame Pauline Karpidas",
+          "url": "https://www.sothebys.com/articles/sothebys-presents-the-jewelry-collection-of-art-world-grande-dame-pauline-karpidas",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Type: story Category: Press Release Sotheby's New Dubai Gallery Opens on 10 Year UAE Anniversary",
+          "url": "https://www.sothebys.com/articles/sothebys-new-dubai-gallery-opens-on-10-year-uae-anniversary",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Type: story Category: Press Release $47.3M Result for \"Jodi\" The Nano at Sotheby's - *Second Highest Price For Dinosaur at Auction*",
+          "url": "https://www.sothebys.com/en/articles/47-3m-result-for-jodi-the-nano-at-sothebys-second-highest-price-for-dinosaur-at-auction",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Type: story Category: Press Release Sotheby's Collectors' Week Returns to Abu Dhabi, With a Fine Art Auction First",
+          "url": "https://www.sothebys.com/articles/sothebys-collectors-week-returns-to-abu-dhabi-with-a-fine-art-auction-first",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Type: story Category: Press Release Sotheby's Paris Achieves Its Highest Total for a Marquee Sale Series: €137.7M / $154.6M",
+          "url": "https://www.sothebys.com/articles/sothebys-paris-achieves-its-highest-total-for-a-marquee-sale-series-137-7m-154-6m",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Type: story Category: Press Release $34 Million Record-Breaking Roman Torso leads White-Glove Magnum Opus Auction at Sotheby's New York",
+          "url": "https://www.sothebys.com/articles/34-million-record-breaking-roman-torso-leads-white-glove-magnum-opus-auction-at-sothebys-new-york",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Type: story Category: Press Release Schlumberger Collection Becomes Most Valuable Sale of Fine Art Ever Staged at Sotheby's Paris",
+          "url": "https://www.sothebys.com/articles/schlumberger-collection-becomes-most-valuable-sale-of-fine-art-ever-staged-at-sothebys-paris",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Type: story Category: Press Release Rare Collection of 'Original Owner' Patek Philippe Watches to be Offered this December",
+          "url": "https://www.sothebys.com/articles/rare-collection-of-original-owner-patek-philippe-watches-to-be-offered-this-december",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Type: story Category: Press Release Founding Documents Including Washington's Gift to John Jay to Be Offered This December",
+          "url": "https://www.sothebys.com/articles/founding-documents-including-washingtons-gift-to-john-jay-to-be-offered-this-december",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Type: story Category: Press Release Pablo Picasso’s Heroic Years, Masterpieces from a Prestigious European Family",
+          "url": "https://www.sothebys.com/articles/pablo-picassos-heroic-years-masterpieces-from-a-prestigious-european-family",
+          "status": "institutional_page_link_unverified_date"
+        }
+      ],
+      "page_title": "Press | Art Sales, Auctions and Evaluations | Sotheby'sChevron"
+    },
+    {
+      "name": "Christie's",
+      "url": "https://press.christies.com/section/press-releases/?lang=eng",
+      "region": "GLOBAL",
+      "access": "public",
+      "status": "reachable",
+      "candidates": [
+        {
+          "title": "If you need any assistance with registering, please contact us",
+          "url": "https://press.christies.com/section/press-team/?lang=eng",
+          "status": "institutional_page_link_unverified_date"
+        }
+      ],
+      "page_title": "Christie's Press Releases | Latest Auction News"
+    },
+    {
+      "name": "İstanbul Modern",
+      "url": "https://www.istanbulmodern.org/basin-bultenleri",
+      "region": "TÜRKİYE",
+      "access": "public",
+      "status": "reachable",
+      "candidates": [],
+      "page_title": "İstanbul Modern Basın Bültenleri"
+    },
+    {
+      "name": "La Biennale di Venezia",
+      "url": "https://www.labiennale.org/en/news",
+      "region": "ITALY",
+      "access": "public",
+      "status": "reachable",
+      "candidates": [
+        {
+          "title": "Exhibitions and activities",
+          "url": "https://www.labiennale.org/en/asac/exhibitions-and-activities",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Virtual Exhibitions",
+          "url": "https://www.labiennale.org/en/asac/virtual-exhibitiions",
+          "status": "institutional_page_link_unverified_date"
+        }
+      ],
+      "page_title": "News"
+    },
+    {
+      "name": "Tate",
+      "url": "https://www.tate.org.uk/press/press-releases",
+      "region": "UK",
+      "access": "public",
+      "status": "reachable",
+      "candidates": [
+        {
+          "title": "Exhibitions And Displays",
+          "url": "https://www.tate.org.uk/whats-on?date_range=from_now&event_type=display&event_type=exhibition&source=nav",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Exhibition Frida: The Making of an Icon Tate Modern Until 3 Jan 2027 FREE FOR MEMBERS",
+          "url": "https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Exhibition Julio Le Parc: Light. Colour. Action. Tate Modern Until 3 May 2027 FREE FOR MEMBERS",
+          "url": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Unique collection of historic Anglo-Indian artworks gifted to Tate by Charles Greig",
+          "url": "https://www.tate.org.uk/press/press-releases/tate-acquires-new-works-for-the-unique-collection-of-historic-anglo-indian-artworks-gifted-to-tate-by-charles-greig",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Wilhelmina Barns-Graham at Tate St Ives: 24 October 2026 – 3 May 2027",
+          "url": "https://www.tate.org.uk/press/press-releases/wilhelmina-barns-graham-at-tate-st-ives",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Tate acquires new works for the national collection at Frieze London and Frieze Masters",
+          "url": "https://www.tate.org.uk/press/press-releases/tate-acquires-new-works-for-the-national-collection-at-frieze-london-and-frieze-masters",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Light and Magic: The Birth of Art Photography: 14 October 2026 - 21 February 2027",
+          "url": "https://www.tate.org.uk/press/press-releases/light-and-magic-october-press-release",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Hyundai Commission: Tarek Atoui: Hold",
+          "url": "https://www.tate.org.uk/press/press-releases/hyundai-commission-tarek-atoui-hold",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "The 90 s : Art and Fashion: 8 October 2026 - 14 February 2027",
+          "url": "https://www.tate.org.uk/press/press-releases/the-90s-art-and-fashion-open",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Gözde İlkin: Those Who Remember Their Births: 10 October 2026 – 17 January 2027",
+          "url": "https://www.tate.org.uk/press/press-releases/g%C3%B6zde-ilkin-those-who-remember-their-births",
+          "status": "institutional_page_link_unverified_date"
+        }
+      ],
+      "page_title": "Press releases | Tate"
+    }
+  ]
+}
