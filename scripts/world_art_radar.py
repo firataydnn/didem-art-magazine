@@ -16,6 +16,9 @@ SOURCES=[
  ("Monopol","https://www.monopol-magazin.de/rss.xml","DÜNYA"),
  ("Mousse Magazine","https://moussemagazine.it/feed/","DÜNYA"),
  ("Ocula","https://ocula.com/magazine/feed/","DÜNYA"),
+ ("Argonotlar","https://argonotlar.com/feed/","TÜRKİYE"),
+ ("ArtDog Istanbul","https://artdogistanbul.com/feed/","TÜRKİYE"),
+ ("Bant Mag","https://bantmag.com/feed/","TÜRKİYE"),
 ]
 def clean(s):
  s=re.sub(r"<[^>]*>"," ",html.unescape(s or ""))
@@ -34,6 +37,7 @@ def date(s):
   except Exception:return None
 def classify(title, source, fallback):
  """Transparent provisional routing, not an AI editorial verdict."""
+ if fallback=="TÜRKİYE":return "TÜRKİYE"
  t=title.casefold()
  groups=[
   ("PİYASA",("auction","sotheby","christie","sale","sold","record price","art market","müzayede")),
@@ -55,6 +59,12 @@ def image_candidate(entry):
    if url.startswith("https://") and (tag=="thumbnail" or mime.startswith("image/") or any(url.lower().split("?")[0].endswith("."+ext) for ext in ("jpg","jpeg","png","webp"))):
     return url[:500]
  return None
+
+def source_domain_matches(source_url, article_url):
+ """Prevent an RSS entry from redirecting the newspaper to an unrelated host."""
+ feed_host=(urlparse(source_url).hostname or "").lower().removeprefix("www.")
+ article_host=(urlparse(article_url).hostname or "").lower().removeprefix("www.")
+ return bool(feed_host and article_host and (article_host==feed_host or article_host.endswith("."+feed_host)))
 
 def main():
  now=dt.datetime.now(dt.timezone.utc)
@@ -83,7 +93,7 @@ def main():
     if not title or not link.startswith("https://") or not published:continue
     when=dt.datetime.fromisoformat(published)
     if when>now+dt.timedelta(hours=2) or when<now-dt.timedelta(days=7):continue
-    if urlparse(link).hostname is None:continue
+    if not source_domain_matches(url,link):continue
     key=link.split("#")[0]
     previous=existing.get(key,{})
     items.append({"title":title[:220],"url":key,"source":name,"category":classify(title,name,category),"category_status":"provisional_keyword",
@@ -103,8 +113,8 @@ def main():
   key=item["url"]
   if key not in unique or item["fetched_at"]>unique[key]["fetched_at"]:unique[key]=item
  sorted_items=sorted(unique.values(),key=lambda x:x["published_at"],reverse=True)[:100]
- if not any(x["state"]=="ok" for x in status):
-  raise RuntimeError("All source feeds failed; refusing to replace radar data with an empty result")
+ if not any(x["state"]=="ok" and x["count"]>0 for x in status):
+  raise RuntimeError("No source produced a current dated story; retaining the last known good radar data")
  OUT.parent.mkdir(exist_ok=True)
  OUT.write_text(json.dumps({"schema":1,"generated_at":now.isoformat(),"notice":"Source links, not independently verified editorial articles. Images are not licensed.","sources":status,"items":sorted_items},ensure_ascii=False,indent=2)+"\n")
  print(json.dumps({"items":len(sorted_items),"sources":status},ensure_ascii=False))
