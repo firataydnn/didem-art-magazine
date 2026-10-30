@@ -18,7 +18,6 @@ SOURCES=[
  ("Ocula","https://ocula.com/magazine/feed/","DÜNYA"),
  ("Argonotlar","https://argonotlar.com/feed/","TÜRKİYE"),
  ("ArtDog Istanbul","https://artdogistanbul.com/feed/","TÜRKİYE"),
- ("Bant Mag","https://bantmag.com/feed/","TÜRKİYE"),
 ]
 def clean(s):
  s=re.sub(r"<[^>]*>"," ",html.unescape(s or ""))
@@ -104,9 +103,10 @@ def main():
    status.append({"source":name,"state":"ok","count":count})
   except Exception as e:
    status.append({"source":name,"state":"failed","reason":str(e)[:180]})
+ active_sources={name for name,_,_ in SOURCES}
  for item in existing.values():
   try:
-   if dt.datetime.fromisoformat(item["published_at"])>=now-dt.timedelta(days=7):items.append(item)
+   if item.get("source") in active_sources and dt.datetime.fromisoformat(item["published_at"])>=now-dt.timedelta(days=7):items.append(item)
   except Exception:pass
  unique={}
  for item in items:
