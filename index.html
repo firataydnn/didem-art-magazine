@@ -250,30 +250,4 @@ async function connectApprovedNewspaperData(){
 }
 connectApprovedNewspaperData();
 showSlide(0);syncRoute();resetSlideTimer();
-</script><script>
-/* Source radar: links only, never silently promoted to approved articles. */
-(async function(){
- try{
-  const response=await fetch('./data/world-art-radar.json',{cache:'no-store'});
-  if(!response.ok)return;
-  const feed=await response.json();
-  if(!Array.isArray(feed.items)||!feed.items.length)return;
-  const main=document.querySelector('.main');if(!main)return;
-  const section=document.createElement('section');section.id='dunya-sanat-radari';
-  section.style.cssText='margin:50px 0;padding:28px 0;border-top:2px solid currentColor';
-  const h=document.createElement('h2');h.textContent='Dünya Sanat Radarı';h.style.cssText='font-size:clamp(32px,5vw,56px);font-weight:normal;margin:0 0 8px';
-  const note=document.createElement('p');note.textContent='Uluslararası kaynaklardan güncel bağlantılar · Editoryal inceleme bekleyen kaynak başlıkları · Görseller kullanılmaz';note.style.cssText='font:13px/1.6 Arial,sans-serif;margin:0 0 24px';
-  const grid=document.createElement('div');grid.style.cssText='display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,260px),1fr));gap:20px';
-  for(const item of feed.items.slice(0,18)){
-   if(typeof item.title!=='string'||typeof item.url!=='string'||!item.url.startsWith('https://'))continue;
-   const card=document.createElement('article');card.style.cssText='border-top:1px solid #c7c1b6;padding:15px 0';
-   const meta=document.createElement('p');meta.style.cssText='font:11px Arial,sans-serif;letter-spacing:.5px;color:#7d4538';
-   meta.textContent=(item.source||'Kaynak')+' · '+(item.category||'SANAT')+' · '+(item.published_at||'').slice(0,10);
-   const link=document.createElement('a');link.href=item.url;link.target='_blank';link.rel='noopener noreferrer nofollow';
-   link.textContent=item.title;link.style.cssText='display:block;font-size:23px;line-height:1.2';
-   card.append(meta,link);grid.append(card);
-  }
-  section.append(h,note,grid);main.append(section);
- }catch(e){console.warn('World art radar unavailable',e)}
-})();
-</script><script src="assets/art-magazine-visuals.js" defer></script></body></html>
+</script><script src="assets/editorial-radar.js" defer></script><script src="assets/art-magazine-visuals.js" defer></script></body></html>
