@@ -12,6 +12,10 @@ SOURCES=[
  ("Frieze","https://www.frieze.com/feed","SERGİLER"),
  ("Hyperallergic","https://hyperallergic.com/feed/","DÜNYA"),
  ("Culture Type","https://www.culturetype.com/feed/","SANATÇILAR"),
+ ("MoMA Press","https://press.moma.org/feed/","SERGİLER"),
+ ("Monopol","https://www.monopol-magazin.de/rss.xml","DÜNYA"),
+ ("Mousse Magazine","https://moussemagazine.it/feed/","DÜNYA"),
+ ("Ocula","https://ocula.com/magazine/feed/","DÜNYA"),
 ]
 def clean(s):
  s=re.sub(r"<[^>]*>"," ",html.unescape(s or ""))
@@ -41,6 +45,16 @@ def classify(title, source, fallback):
  for category,terms in groups:
   if any(term in t for term in terms):return category
  return fallback
+
+def image_candidate(entry):
+ for el in entry.iter():
+  tag=el.tag.split("}")[-1].lower()
+  if tag in ("thumbnail","content","enclosure"):
+   url=el.attrib.get("url","")
+   mime=el.attrib.get("type","")
+   if url.startswith("https://") and (tag=="thumbnail" or mime.startswith("image/") or any(url.lower().split("?")[0].endswith("."+ext) for ext in ("jpg","jpeg","png","webp"))):
+    return url[:500]
+ return None
 
 def main():
  now=dt.datetime.now(dt.timezone.utc)
@@ -74,7 +88,8 @@ def main():
     previous=existing.get(key,{})
     items.append({"title":title[:220],"url":key,"source":name,"category":classify(title,name,category),"category_status":"provisional_keyword",
       "published_at":published,"fetched_at":now.isoformat(),"image_status":"not_verified",
-      "editorial_status":"source_link_only","first_seen_at":previous.get("first_seen_at",now.isoformat())})
+      "editorial_status":"source_link_only","candidate_image_url":image_candidate(entry),
+      "first_seen_at":previous.get("first_seen_at",now.isoformat())})
     count+=1
    status.append({"source":name,"state":"ok","count":count})
   except Exception as e:
