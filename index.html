@@ -234,11 +234,15 @@ async function connectApprovedNewspaperData(){
     if(!Array.isArray(feed.stories))return;
     const existing=new Set(data.map(p=>p.slug));
     for(const story of feed.stories){
-      if(!story.approved_at||!story.image||!story.image_credit||!story.body||story.body.length<500||existing.has(story.slug))continue;
+      if(!story||typeof story!=='object'||typeof story.slug!=='string'||!/^[-a-z0-9]{3,120}$/.test(story.slug)||existing.has(story.slug))continue;
+      if(typeof story.title!=='string'||story.title.trim().length<8||typeof story.body!=='string'||story.body.trim().length<500)continue;
+      if(typeof story.approved_at!=='string'||!/^\d{4}-\d{2}-\d{2}T/.test(story.approved_at)||!Number.isFinite(Date.parse(story.approved_at))||Date.parse(story.approved_at)>Date.now())continue;
+      if(typeof story.image!=='string'||!(/^(https:\/\/|assets\/images\/)/.test(story.image))||typeof story.image_credit!=='string'||!story.image_credit.trim())continue;
+      if(typeof story.source_url!=='string'||!/^https:\/\/[^\s]+$/.test(story.source_url))continue;
       data.push({cat:story.category||'GÜNCEL',author:'ATELIER Editörlüğü',title:story.title,
         dek:story.body.slice(0,180).replace(/\\s+/g,' ').trim()+'…',
         body:story.body,img:story.image,imageCredit:story.image_credit,
-        slug:story.slug,source:'Editoryal onaylı içerik'});
+        slug:story.slug,source:story.source_url});
       existing.add(story.slug);
     }
     render();
