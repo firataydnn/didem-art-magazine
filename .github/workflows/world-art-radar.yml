@@ -8,6 +8,7 @@ on:
       - 'scripts/world_art_radar.py'
       - 'scripts/editorial_agent.py'
       - 'tests/test_editorial_agent.py'
+      - 'scripts/official_press_watch.py'
       - '.github/workflows/world-art-radar.yml'
 permissions:
   contents: write
@@ -24,6 +25,8 @@ jobs:
         run: python3 -m unittest discover -s tests -v
       - name: Fetch attributed source links
         run: python3 scripts/world_art_radar.py
+      - name: Check primary institutional press sources
+        run: python3 scripts/official_press_watch.py
       - name: Rank stories and prepare editorial research briefs
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
@@ -33,5 +36,5 @@ jobs:
         run: |
           git config user.name "atelier-radar[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/world-art-radar.json data/editorial-digest.json
+          git add data/world-art-radar.json data/editorial-digest.json data/official-source-watch.json
           git diff --cached --quiet || (git commit -m "Update world art radar source links" && git push)
