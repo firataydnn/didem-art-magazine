@@ -23,7 +23,7 @@ IMPACT=("alliance","acquires","acquisition","donation","restitution","curator","
 LOW=("sponsored","offers a","advertisement","must-see","things to do","own a piece","round up","podcast","halloween","guide","best of")
 def tokens(s):
  words=[]
- for t in re.findall(r"[^\\W_]{3,}",s.lower(),re.UNICODE):
+ for t in re.findall(r"[^\W_]{3,}",s.lower(),re.UNICODE):
   if t in STOP:continue
   if t.startswith("curator"):t="curator"
   if t.startswith("sculptur"):t="sculpture"
