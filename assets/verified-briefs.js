@@ -6,11 +6,12 @@
   if(!response.ok)return;
   const feed=await response.json();
   if(!Array.isArray(feed.items))return;
+  const threshold=new Date(Date.now()-7*24*60*60*1000).toISOString().slice(0,10);
   const valid=feed.items.filter(item=>
    typeof item.title==="string"&&typeof item.summary==="string"&&
    typeof item.source_url==="string"&&item.source_url.startsWith("https://")&&
    item.type==="source_checked_editorial_brief"&&
-   item.source_date>="2026-10-27"
+   item.source_date>=threshold
   );
   if(!valid.length)return;
   const main=document.querySelector(".main");if(!main)return;
