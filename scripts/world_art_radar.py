@@ -74,6 +74,8 @@ def main():
   key=item["url"]
   if key not in unique or item["fetched_at"]>unique[key]["fetched_at"]:unique[key]=item
  sorted_items=sorted(unique.values(),key=lambda x:x["published_at"],reverse=True)[:100]
+ if not any(x["state"]=="ok" for x in status):
+  raise RuntimeError("All source feeds failed; refusing to replace radar data with an empty result")
  OUT.parent.mkdir(exist_ok=True)
  OUT.write_text(json.dumps({"schema":1,"generated_at":now.isoformat(),"notice":"Source links, not independently verified editorial articles. Images are not licensed.","sources":status,"items":sorted_items},ensure_ascii=False,indent=2)+"\n")
  print(json.dumps({"items":len(sorted_items),"sources":status},ensure_ascii=False))
