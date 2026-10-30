@@ -34,7 +34,7 @@
   const grid=document.createElement("div");
   grid.style.cssText="display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,265px),1fr));gap:27px 24px;padding-top:25px";
   const items=feed.items.filter(item=>item&&typeof item.title==="string"&&typeof item.url==="string"&&/^https:\/\/[^/\s]+\//.test(item.url)&&item.source);
-  const allowed=["DÜNYA","SERGİLER","PİYASA","KOLEKSİYON","SANATÇILAR","TARTIŞMALAR","TÜRKİYE"];
+  const allowed=["DÜNYA","SERGİLER","KURUMLAR","PİYASA","KOLEKSİYON","SANATÇILAR","TARTIŞMALAR","TÜRKİYE"];
   const categories=["TÜMÜ",...allowed.filter(c=>items.some(x=>x.category===c))];
   let selected="TÜMÜ";
   function render(){
