@@ -7,17 +7,21 @@ on:
     paths:
       - 'scripts/world_art_radar.py'
       - 'scripts/editorial_agent.py'
+      - 'tests/test_editorial_agent.py'
       - '.github/workflows/world-art-radar.yml'
 permissions:
   contents: write
 jobs:
   radar:
     runs-on: ubuntu-latest
+    timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Editorial safety regression tests
+        run: python3 -m unittest discover -s tests -v
       - name: Fetch attributed source links
         run: python3 scripts/world_art_radar.py
       - name: Rank stories and prepare editorial research briefs
