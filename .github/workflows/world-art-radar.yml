@@ -10,6 +10,9 @@ on:
       - 'tests/test_editorial_agent.py'
       - 'scripts/official_press_watch.py'
       - '.github/workflows/world-art-radar.yml'
+concurrency:
+  group: atelier-world-art-radar-main
+  cancel-in-progress: false
 permissions:
   contents: write
 jobs:
@@ -37,4 +40,18 @@ jobs:
           git config user.name "atelier-radar[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/world-art-radar.json data/editorial-digest.json data/official-source-watch.json
-          git diff --cached --quiet || (git commit -m "Update world art radar source links" && git push)
+          if git diff --cached --quiet; then
+            echo "No source changes"; exit 0
+          fi
+          git commit -m "Update world art radar source links"
+          for attempt in 1 2 3; do
+            git fetch origin main
+            git rebase origin/main
+            if git push origin HEAD:main; then
+              echo "Radar data pushed successfully"; exit 0
+            fi
+            echo "Remote moved during push; retrying ($attempt/3)"
+            sleep 2
+          done
+          echo "Unable to push radar data after retries" >&2
+          exit 1
