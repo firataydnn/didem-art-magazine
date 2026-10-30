@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "count": 293,
+  "count": 298,
   "possible_duplicates": 0,
   "items": [
     {
@@ -100,6 +100,18 @@
       "publication_approved": false
     },
     {
+      "id": "cc0384993e48bfe5ab35",
+      "title": "A Retrospective Introduces Francis Picabia to a New Generation—with Funhouse Mirrors and a Peep Show",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/francis-picabia-retrospective-palazzo-reale-milan-anne-berest-1234804213/",
+      "source": "ARTnews",
+      "published": "2026-10-30T09:00:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "b19eb22f1681fd5db25f",
       "title": "A Women’s HBCU Will Sell a Record-Smashing Aaron Douglas Painting of Harriet Tubman to Support Women’s Health Programs",
       "url": "https://www.artnews.com/art-news/market/hbcu-sell-record-aaron-douglas-painting-harriet-tubman-1234803892/",
@@ -124,23 +136,11 @@
       "publication_approved": false
     },
     {
-      "id": "c129ae1c822c152c908c",
-      "title": "An Epstein Survivor’s Message for MoMA",
-      "url": "https://hyperallergic.com/an-epstein-survivors-message-for-moma/",
+      "id": "9587701f60e6175bb929",
+      "title": "Are Black Cats Modernity’s Icons?",
+      "url": "https://hyperallergic.com/are-black-cats-modernitys-icons/",
       "source": "Hyperallergic",
-      "published": "2026-10-29T10:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "b3a8faba88564f797b9e",
-      "title": "Art Basel Qatar Returns for Second Edition With 82 Galleries Under Artistic Direction of Wassan Al-Khudhairi, Aims to ‘Deepen Collector Relationships’",
-      "url": "https://www.artnews.com/art-news/market/art-basel-qatar-2027-doha-wassan-al-khudhairi-1234803254/",
-      "source": "ARTnews",
-      "published": "2026-10-27T11:00:00+00:00",
+      "published": "2026-10-30T10:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -153,18 +153,6 @@
       "url": "https://hyperallergic.com/artist-sneaks-his-work-into-the-met-museum/",
       "source": "Hyperallergic",
       "published": "2026-10-27T21:11:20+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "7e707fcd72a0c1acddc0",
-      "title": "At 96, Surrealist Painter Cossette Zeno Is Finally Having Her Moment",
-      "url": "https://www.artnews.com/art-news/artists/cossette-zeno-surrealist-painter-1234804106/",
-      "source": "ARTnews",
-      "published": "2026-10-29T09:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -268,6 +256,18 @@
       "publication_approved": false
     },
     {
+      "id": "a9cbb4b582c52279e037",
+      "title": "In Postwar Rural France, Alexander Calder Found Respite from Pressures of Fame and a Chance to Dream Big",
+      "url": "https://www.artnews.com/art-news/news/alexander-calder-exhibition-hauser-and-wirth-paris-1234804262/",
+      "source": "ARTnews",
+      "published": "2026-10-30T09:00:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "721d94d49ac7911e43ad",
       "title": "In a New Video, Mayor Mamdani Touts the Met Museum as an Early Voting Site",
       "url": "https://www.artnews.com/art-news/news/nyc-mayor-mamdani-met-museum-early-voting-site-1234803965/",
@@ -292,6 +292,18 @@
       "publication_approved": false
     },
     {
+      "id": "b9e32e11c5c35b0ec4b1",
+      "title": "MoMA, Centre Pompidou, and M+ Will Treat Their Holdings as One Collection in Unprecedented Alliance",
+      "url": "https://www.artnews.com/art-news/news/moma-centre-pompidou-m-plus-alliance-shared-collection-1234804101/",
+      "source": "ARTnews",
+      "published": "2026-10-30T03:15:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "e2c4190ee649035ecf22",
       "title": "Naomi Beckwith Adds Four to Documenta 16’s Curatorial Team, Including Artist Raven Chacon",
       "url": "https://www.artnews.com/art-news/news/documenta-16-curatorial-team-expansion-raven-chacon-1234804205/",
@@ -304,11 +316,11 @@
       "publication_approved": false
     },
     {
-      "id": "047178d2c4e31db3084e",
-      "title": "Opinion: As Federal Support for Culture Falls, We Need a New Generation of Giving",
-      "url": "https://www.artnews.com/art-news/opinion/opinion-new-generation-of-giving-1234804081/",
-      "source": "ARTnews",
-      "published": "2026-10-29T09:00:00+00:00",
+      "id": "bcb2364103baaf02e72a",
+      "title": "November 2026 Opportunities: Open Calls, Residencies, and Grants for Artists",
+      "url": "https://www.thisiscolossal.com/2026/10/november-2026-opportunities-open-calls-residencies-and-grants-for-artists/",
+      "source": "Colossal",
+      "published": "2026-10-29T22:46:33+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -381,18 +393,6 @@
       "url": "https://hyperallergic.com/why-do-horror-films-have-such-a-hold-on-our-imaginations/",
       "source": "Hyperallergic",
       "published": "2026-10-29T18:53:57+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "bdf7c19b79bb2909eef8",
-      "title": "World Monuments Fund Raises $62 M., Tripling Its Endowment Ahead of Schedule",
-      "url": "https://www.artnews.com/art-news/news/world-monuments-fund-62-million-endowment-campaign-1234804137/",
-      "source": "ARTnews",
-      "published": "2026-10-29T00:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -532,6 +532,18 @@
       "publication_approved": false
     },
     {
+      "id": "c129ae1c822c152c908c",
+      "title": "An Epstein Survivor’s Message for MoMA",
+      "url": "https://hyperallergic.com/an-epstein-survivors-message-for-moma/",
+      "source": "Hyperallergic",
+      "published": "2026-10-29T10:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "499d4d6cd437bbdcec5c",
       "title": "Art Basel Paris Opens Avant Première with ‘Good Energy,’ a Smattering of Sales, and One $100 M. Work",
       "url": "https://www.artnews.com/art-news/market/art-basel-paris-avant-premiere-2026-sales-1234803150/",
@@ -544,11 +556,11 @@
       "publication_approved": false
     },
     {
-      "id": "f37251054cdb260b4edd",
-      "title": "As Art Basel Paris Shutters for Weekend Protests, Satellite Fairs Keep Their Doors Open",
-      "url": "https://www.artnews.com/art-news/news/art-basel-paris-closing-early-satellite-fairs-ope-1234803619/",
+      "id": "b3a8faba88564f797b9e",
+      "title": "Art Basel Qatar Returns for Second Edition With 82 Galleries Under Artistic Direction of Wassan Al-Khudhairi, Aims to ‘Deepen Collector Relationships’",
+      "url": "https://www.artnews.com/art-news/market/art-basel-qatar-2027-doha-wassan-al-khudhairi-1234803254/",
       "source": "ARTnews",
-      "published": "2026-10-22T23:43:30+00:00",
+      "published": "2026-10-27T11:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -556,11 +568,11 @@
       "publication_approved": false
     },
     {
-      "id": "402e25e12e8205cadbe9",
-      "title": "Au Revoir, Art Basel Paris",
-      "url": "https://hyperallergic.com/au-revoir-art-basel-paris/",
-      "source": "Hyperallergic",
-      "published": "2026-10-23T10:00:00+00:00",
+      "id": "7e707fcd72a0c1acddc0",
+      "title": "At 96, Surrealist Painter Cossette Zeno Is Finally Having Her Moment",
+      "url": "https://www.artnews.com/art-news/artists/cossette-zeno-surrealist-painter-1234804106/",
+      "source": "ARTnews",
+      "published": "2026-10-29T09:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -700,18 +712,6 @@
       "publication_approved": false
     },
     {
-      "id": "63c3455273656fc9fe47",
-      "title": "Jogen Chowdhury, ‘Towering Pillar’ of Indian Modern Art, Has Died at 87",
-      "url": "https://www.artnews.com/art-news/news/jogen-chowdhury-indian-modernist-dead-1234803869/",
-      "source": "ARTnews",
-      "published": "2026-10-26T22:04:10+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "02a46f90e4951cf8ec57",
       "title": "LA Artist Snuck His Own Drawing onto the Met’s Walls and Filmed It",
       "url": "https://www.artnews.com/art-news/news/artist-snuck-drawing-onto-met-wall-1234804124/",
@@ -772,18 +772,6 @@
       "publication_approved": false
     },
     {
-      "id": "bbda616cb11f5b1cd51d",
-      "title": "Lula Victory Memes That Make Us All Want to Be Brazilian",
-      "url": "https://hyperallergic.com/lula-victory-memes-that-make-us-all-want-to-be-brazilian/",
-      "source": "Hyperallergic",
-      "published": "2026-10-26T21:56:28+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "4db5cc12121ef50a870e",
       "title": "MSCHF Cofounder Lukas Bentel Leaves Viral Art Collective to Pursue Solo Work",
       "url": "https://www.artnews.com/art-news/news/mschf-cofounder-lukas-bentel-leaves-artist-collective-1234804144/",
@@ -813,6 +801,18 @@
       "url": "https://www.artnews.com/art-news/news/uk-art-market-growth-slower-competitors-outsider-1234804072/",
       "source": "ARTnews",
       "published": "2026-10-28T13:20:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "047178d2c4e31db3084e",
+      "title": "Opinion: As Federal Support for Culture Falls, We Need a New Generation of Giving",
+      "url": "https://www.artnews.com/art-news/opinion/opinion-new-generation-of-giving-1234804081/",
+      "source": "ARTnews",
+      "published": "2026-10-29T09:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -964,18 +964,6 @@
       "publication_approved": false
     },
     {
-      "id": "d3fccb0ec711b42a9a29",
-      "title": "Studio Museum Announces New Artists-in-Residence",
-      "url": "https://hyperallergic.com/studio-museum-announces-new-artists-in-residence/",
-      "source": "Hyperallergic",
-      "published": "2026-10-22T22:08:23+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "defeff380bf0b1256aa7",
       "title": "Studying Contemporary Art at Sotheby's Institute",
       "url": "https://hyperallergic.com/studying-contemporary-art-at-sothebys-institute/",
@@ -1017,18 +1005,6 @@
       "url": "https://hyperallergic.com/the-artsiest-halloween-party-in-town/",
       "source": "Hyperallergic",
       "published": "2026-10-27T21:40:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "8058c54cb627ff1dcadc",
-      "title": "The Gospel According to Paul Pfeiffer",
-      "url": "https://hyperallergic.com/the-gospel-according-to-paul-pfeiffer/",
-      "source": "Hyperallergic",
-      "published": "2026-10-27T10:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1113,6 +1089,18 @@
       "url": "https://www.artnews.com/art-news/market/agnes-gund-collection-christies-auction-vija-celmins-1234804088/",
       "source": "ARTnews",
       "published": "2026-10-28T16:15:53+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "bdf7c19b79bb2909eef8",
+      "title": "World Monuments Fund Raises $62 M., Tripling Its Endowment Ahead of Schedule",
+      "url": "https://www.artnews.com/art-news/news/world-monuments-fund-62-million-endowment-campaign-1234804137/",
+      "source": "ARTnews",
+      "published": "2026-10-29T00:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1312,11 +1300,35 @@
       "publication_approved": false
     },
     {
+      "id": "f37251054cdb260b4edd",
+      "title": "As Art Basel Paris Shutters for Weekend Protests, Satellite Fairs Keep Their Doors Open",
+      "url": "https://www.artnews.com/art-news/news/art-basel-paris-closing-early-satellite-fairs-ope-1234803619/",
+      "source": "ARTnews",
+      "published": "2026-10-22T23:43:30+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "f7fcd4f0694dc5900382",
       "title": "At 60, a Legendary LA Print Workshop Still Urges Us to Pay Attention",
       "url": "https://hyperallergic.com/at-60-a-legendary-la-print-workshop-still-urges-us-to-pay-attention/",
       "source": "Hyperallergic",
       "published": "2026-10-26T21:32:26+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "402e25e12e8205cadbe9",
+      "title": "Au Revoir, Art Basel Paris",
+      "url": "https://hyperallergic.com/au-revoir-art-basel-paris/",
+      "source": "Hyperallergic",
+      "published": "2026-10-23T10:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1516,18 +1528,6 @@
       "publication_approved": false
     },
     {
-      "id": "a56aa682d4e5e1ea766f",
-      "title": "How Did ‘American Gothic’ Become So Iconic? This Art Historian Spent Five Decades Investigating.",
-      "url": "https://www.artnews.com/art-in-america/aia-reviews/american-gothic-wanda-corn-iconic-midwest-grant-wood-1234803480/",
-      "source": "ARTnews",
-      "published": "2026-10-23T09:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "7856725b248ba182e915",
       "title": "Hundreds Protest in Colombia After Far-Right President Removes Works From National Museum",
       "url": "https://hyperallergic.com/hundreds-protest-in-colombia-after-far-right-president-removes-works-from-national-museum/",
@@ -1576,6 +1576,18 @@
       "publication_approved": false
     },
     {
+      "id": "63c3455273656fc9fe47",
+      "title": "Jogen Chowdhury, ‘Towering Pillar’ of Indian Modern Art, Has Died at 87",
+      "url": "https://www.artnews.com/art-news/news/jogen-chowdhury-indian-modernist-dead-1234803869/",
+      "source": "ARTnews",
+      "published": "2026-10-26T22:04:10+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "65b1576afbfb0e316325",
       "title": "John Dilg’s Down-to-Earth Reverence",
       "url": "https://hyperallergic.com/john-dilgs-down-to-earth-reverence/",
@@ -1593,6 +1605,18 @@
       "url": "https://hyperallergic.com/kid-cudi-to-write-direct-and-star-as-basquiat-in-new-biopic/",
       "source": "Hyperallergic",
       "published": "2026-10-23T19:14:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "bbda616cb11f5b1cd51d",
+      "title": "Lula Victory Memes That Make Us All Want to Be Brazilian",
+      "url": "https://hyperallergic.com/lula-victory-memes-that-make-us-all-want-to-be-brazilian/",
+      "source": "Hyperallergic",
+      "published": "2026-10-26T21:56:28+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1816,6 +1840,18 @@
       "publication_approved": false
     },
     {
+      "id": "d3fccb0ec711b42a9a29",
+      "title": "Studio Museum Announces New Artists-in-Residence",
+      "url": "https://hyperallergic.com/studio-museum-announces-new-artists-in-residence/",
+      "source": "Hyperallergic",
+      "published": "2026-10-22T22:08:23+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "73fae9ce5b5d46032036",
       "title": "The Artist Who Dined Among Lions",
       "url": "https://hyperallergic.com/the-artist-who-dined-among-lions/",
@@ -1845,6 +1881,18 @@
       "url": "https://www.artnews.com/list/art-news/market/art-basel-paris-2026-public-program-best-works-1234803248/",
       "source": "ARTnews",
       "published": "2026-10-21T16:05:56+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "8058c54cb627ff1dcadc",
+      "title": "The Gospel According to Paul Pfeiffer",
+      "url": "https://hyperallergic.com/the-gospel-according-to-paul-pfeiffer/",
+      "source": "Hyperallergic",
+      "published": "2026-10-27T10:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2529,6 +2577,18 @@
       "url": "https://www.artnews.com/art-in-america/features/cringe-took-over-culture-nathan-fielder-jordan-staffer-marianne-simnett-1234802717/",
       "source": "ARTnews",
       "published": "2026-10-17T09:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "a56aa682d4e5e1ea766f",
+      "title": "How Did ‘American Gothic’ Become So Iconic? This Art Historian Spent Five Decades Investigating.",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/american-gothic-wanda-corn-iconic-midwest-grant-wood-1234803480/",
+      "source": "ARTnews",
+      "published": "2026-10-23T09:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
