@@ -42,9 +42,22 @@ def rank(x,now):
  if any(x in title for x in LOW):pts-=7;reasons.append("non_breaking_format")
  if x["source"] in ("The Art Newspaper","ARTnews","Artforum"):pts+=2
  return pts,reasons
+def event_class(title):
+ t=title.lower()
+ groups=[
+  ("garden",("sculpture garden","sculpture park")),
+  ("alliance",("alliance","partnership","residency","collaboration")),
+  ("staff",("curator","curatorial","director","appointed","team members","joins","leadership")),
+  ("death",("dead","dies","murder","killed","obituary")),
+  ("exhibition",("exhibition","retrospective","art show")),
+  ("labour",("unions","strike","workers agreement")),
+ ]
+ return next((c for c,words in groups if any(w in t for w in words)),None)
 def near_duplicate(a,b):
  da=dt.datetime.fromisoformat(a["published_at"]);db=dt.datetime.fromisoformat(b["published_at"])
  if abs((da-db).total_seconds())>72*3600:return False
+ ca,cb=event_class(a["title"]),event_class(b["title"])
+ if ca and cb and ca!=cb:return False
  aa,bb=tokens(a["title"]),tokens(b["title"])
  return bool(aa and bb and len(aa&bb)>=3 and len(aa&bb)/len(aa|bb)>=0.28)
 def ai_review(item,key):
