@@ -225,13 +225,13 @@ document.getElementById('slide-next').addEventListener('click',()=>{showSlide(sl
 document.getElementById('slide-pause').addEventListener('click',()=>{slidePaused=!slidePaused;document.getElementById('slide-pause').textContent=slidePaused?'▶':'Ⅱ';document.getElementById('slide-pause').setAttribute('aria-label',slidePaused?'Otomatik geçişi başlat':'Otomatik geçişi durdur');resetSlideTimer()});
 function resetSlideTimer(){clearInterval(slideTimer);if(!slidePaused&&!window.matchMedia('(prefers-reduced-motion: reduce)').matches)slideTimer=setInterval(()=>{if(!document.hidden&&activePost<0)showSlide(slideIndex+1)},6500)}
 // Newspaper data connection: approved records only; never display raw RSS leads.
-// The 750-article launch gate prevents incomplete editorial feeds appearing here.
+// Only individually approved stories with required editorial fields may appear here.
 async function connectApprovedNewspaperData(){
   try{
     const response=await fetch('./data/approved-stories.json',{cache:'no-store'});
     if(!response.ok)return;
     const feed=await response.json();
-    if(!Array.isArray(feed.stories)||feed.stories.length<750)return;
+    if(!Array.isArray(feed.stories))return;
     const existing=new Set(data.map(p=>p.slug));
     for(const story of feed.stories){
       if(!story.approved_at||!story.image||!story.image_credit||!story.body||story.body.length<500||existing.has(story.slug))continue;
