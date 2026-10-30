@@ -7,6 +7,7 @@ on:
     paths:
       - 'scripts/world_art_radar.py'
       - 'scripts/editorial_agent.py'
+      - 'scripts/kulis_watch.py'
       - 'tests/test_editorial_agent.py'
       - 'scripts/official_press_watch.py'
       - '.github/workflows/world-art-radar.yml'
@@ -35,11 +36,13 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           ATELIER_AI_MAX_ITEMS: '8'
         run: python3 scripts/editorial_agent.py
+      - name: Stage unverified KULIS source leads
+        run: python3 scripts/kulis_watch.py
       - name: Commit refreshed radar data
         run: |
           git config user.name "atelier-radar[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/world-art-radar.json data/editorial-digest.json data/official-source-watch.json
+          git add data/world-art-radar.json data/editorial-digest.json data/official-source-watch.json data/kulis-leads.json
           if git diff --cached --quiet; then
             echo "No source changes"; exit 0
           fi
