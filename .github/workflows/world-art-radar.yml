@@ -3,6 +3,10 @@ on:
   schedule:
     - cron: '17 */4 * * *'
   workflow_dispatch:
+  push:
+    paths:
+      - 'scripts/world_art_radar.py'
+      - '.github/workflows/world-art-radar.yml'
 permissions:
   contents: write
 jobs:
