@@ -112,7 +112,7 @@ def main():
  for item in items:
   key=item["url"]
   if key not in unique or item["fetched_at"]>unique[key]["fetched_at"]:unique[key]=item
- sorted_items=sorted(unique.values(),key=lambda x:x["published_at"],reverse=True)[:100]
+ sorted_items=sorted(unique.values(),key=lambda x:x["published_at"],reverse=True)[:180]
  if not any(x["state"]=="ok" and x["count"]>0 for x in status):
   raise RuntimeError("No source produced a current dated story; retaining the last known good radar data")
  OUT.parent.mkdir(exist_ok=True)
