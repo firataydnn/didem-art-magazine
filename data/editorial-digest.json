@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-30T18:51:24.086981+00:00",
+  "generated_at": "2026-10-30T18:52:33.734Z",
   "source_generated_at": "2026-10-30T18:51:17.341432+00:00",
   "input_count": 100,
   "curated_link_count": 92,
@@ -53,7 +53,7 @@
     "new_drafts": 0,
     "errors": 0
   },
-  "notice": "Ranked source links and unapproved research drafts only. Images are not licensed.",
+  "notice": "Ranked source links only. Images are not licensed. AI summaries are not approved articles.",
   "items": [
     {
       "title": "Centre Pompidou, MoMA, And M+ Announce New Cultural Alliance",
