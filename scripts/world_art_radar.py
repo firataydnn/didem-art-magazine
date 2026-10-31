@@ -18,6 +18,10 @@ SOURCES=[
  ("Ocula","https://ocula.com/magazine/feed/","DÜNYA"),
  ("Argonotlar","https://argonotlar.com/feed/","TÜRKİYE"),
  ("ArtDog Istanbul","https://artdogistanbul.com/feed/","TÜRKİYE"),
+ ("Sanatatak","https://www.sanatatak.com/feed/","TÜRKİYE"),
+ ("Studio International","https://www.studiointernational.com/index.php/rss/","DÜNYA"),
+ ("ArtAsiaPacific","https://artasiapacific.com/rss","DÜNYA"),
+ ("Designboom Art","https://www.designboom.com/art/feed/","SERGİLER"),
 ]
 def clean(s):
  s=re.sub(r"<[^>]*>"," ",html.unescape(s or ""))
@@ -90,6 +94,9 @@ def main():
        link=el.attrib["href"];break
     published=date(child(entry,{"pubdate","published","updated","date"}))
     if not title or not link.startswith("https://") or not published:continue
+    if name=="Sanatatak" and not any(word in title.casefold() for word in (
+      "sanat","sergi","heykel","resim","galeri","müze","mimar","koleksiyon","fotoğraf","bienal","art ","lee ufan"
+    )):continue
     when=dt.datetime.fromisoformat(published)
     if when>now+dt.timedelta(hours=2) or when<now-dt.timedelta(days=7):continue
     if not source_domain_matches(url,link):continue
