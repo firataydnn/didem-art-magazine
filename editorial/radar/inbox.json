@@ -2,6 +2,45 @@
   "schema": 1,
   "items": [
     {
+      "id": "4aa51c335dda4749ff32",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "In Reply to Senators’ Amicus Briefs, Austria, Albertina, and Leopold Museum Double Down on Unconstitutionality of HEAR Act",
+      "url": "https://www.artnews.com/art-news/news/austria-albertina-leopold-senator-amicus-brief-response-1234804373/",
+      "published": "2026-10-31T03:25:07+00:00",
+      "summary": "Senators Blumenthal and Cornyn submitted their briefs in support of the HEAR Act in September.",
+      "discovered": "2026-10-31T10:58:21.159961+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "cdde8c6da61cdb26f470",
+      "source": "Hyperallergic",
+      "category": "sanat-basini",
+      "title": "To Live Is to Believe",
+      "url": "https://hyperallergic.com/to-live-is-to-believe/",
+      "published": "2026-10-31T10:00:00+00:00",
+      "summary": "Remembering Ursula von Rydingsvard, an Epstein survivor’s message for MoMA, interviews with Paul Pfeiffer and Layli Long Soldier, and the best costumes of our artsy Halloween party.",
+      "discovered": "2026-10-31T10:58:21.159961+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "b5c7bcbeab5848351a02",
+      "source": "Hyperallergic",
+      "category": "sanat-basini",
+      "title": "The Greatest Art Costumes From Hyperallergic's Halloween Party",
+      "url": "https://hyperallergic.com/the-greatest-art-costumes-from-hyperallergics-halloween-party-2026/",
+      "published": "2026-10-30T22:37:24+00:00",
+      "summary": "From “Las Dos Fridas” to a walking Eva Hesse sculpture, Hyperallergic members, readers, friends, and artists brought the spirit of the season to our second annual costume contest.",
+      "discovered": "2026-10-31T10:58:21.159961+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "d64a067103ef3177b0b2",
       "source": "ARTnews",
       "category": "sanat-basini",

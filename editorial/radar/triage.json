@@ -1,15 +1,15 @@
 {
   "schema": 1,
-  "count": 314,
+  "count": 317,
   "possible_duplicates": 0,
   "items": [
     {
-      "id": "f518c2c40dbd6b371331",
-      "title": "U.S. Pavilion at Venice Biennale Is $1 M. Short, and Its Sculptures May Be Stuck in Italy",
-      "url": "https://www.artnews.com/art-news/news/u-s-pavilion-venice-biennale-1-million-short-alma-allen-1234804285/",
+      "id": "4aa51c335dda4749ff32",
+      "title": "In Reply to Senators’ Amicus Briefs, Austria, Albertina, and Leopold Museum Double Down on Unconstitutionality of HEAR Act",
+      "url": "https://www.artnews.com/art-news/news/austria-albertina-leopold-senator-amicus-brief-response-1234804373/",
       "source": "ARTnews",
-      "published": "2026-10-29T21:37:11+00:00",
-      "priority_score": 10,
+      "published": "2026-10-31T03:25:07+00:00",
+      "priority_score": 9,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -64,6 +64,18 @@
       "publication_approved": false
     },
     {
+      "id": "f518c2c40dbd6b371331",
+      "title": "U.S. Pavilion at Venice Biennale Is $1 M. Short, and Its Sculptures May Be Stuck in Italy",
+      "url": "https://www.artnews.com/art-news/news/u-s-pavilion-venice-biennale-1-million-short-alma-allen-1234804285/",
+      "source": "ARTnews",
+      "published": "2026-10-29T21:37:11+00:00",
+      "priority_score": 8,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "5342713535646794445b",
       "title": "10 Years Later, Magenta Plains Is Still Embracing the Unexpected",
       "url": "https://hyperallergic.com/10-years-later-magenta-plains-is-still-embracing-the-unexpected/",
@@ -100,18 +112,6 @@
       "publication_approved": false
     },
     {
-      "id": "cc0384993e48bfe5ab35",
-      "title": "A Retrospective Introduces Francis Picabia to a New Generation—with Funhouse Mirrors and a Peep Show",
-      "url": "https://www.artnews.com/art-in-america/aia-reviews/francis-picabia-retrospective-palazzo-reale-milan-anne-berest-1234804213/",
-      "source": "ARTnews",
-      "published": "2026-10-30T09:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "9c908fb2930a03ac3c04",
       "title": "A View From the Easel: Anna Pajak",
       "url": "https://hyperallergic.com/a-view-from-the-easel-anna-pajak/",
@@ -136,18 +136,6 @@
       "publication_approved": false
     },
     {
-      "id": "9587701f60e6175bb929",
-      "title": "Are Black Cats Modernity’s Icons?",
-      "url": "https://hyperallergic.com/are-black-cats-modernitys-icons/",
-      "source": "Hyperallergic",
-      "published": "2026-10-30T10:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "60933e264f2a26953dbe",
       "title": "Art Dealer Family the Nahmads Are the Consignors Behind $80 M. Kandinsky Set to Break a Record at Christie’s",
       "url": "https://www.artnews.com/art-news/market/nahmads-wassily-kandinsky-christies-consignor-1234804168/",
@@ -165,18 +153,6 @@
       "url": "https://hyperallergic.com/discover-marcel-duchamp-at-the-philadelphia-museum-of-art/",
       "source": "Hyperallergic",
       "published": "2026-10-28T15:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "a9cbb4b582c52279e037",
-      "title": "In Postwar Rural France, Alexander Calder Found Respite from Pressures of Fame and a Chance to Dream Big",
-      "url": "https://www.artnews.com/art-news/news/alexander-calder-exhibition-hauser-and-wirth-paris-1234804262/",
-      "source": "ARTnews",
-      "published": "2026-10-30T09:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -244,30 +220,6 @@
       "publication_approved": false
     },
     {
-      "id": "b9e32e11c5c35b0ec4b1",
-      "title": "MoMA, Centre Pompidou, and M+ Will Treat Their Holdings as One Collection in Unprecedented Alliance",
-      "url": "https://www.artnews.com/art-news/news/moma-centre-pompidou-m-plus-alliance-shared-collection-1234804101/",
-      "source": "ARTnews",
-      "published": "2026-10-30T03:15:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "bcb2364103baaf02e72a",
-      "title": "November 2026 Opportunities: Open Calls, Residencies, and Grants for Artists",
-      "url": "https://www.thisiscolossal.com/2026/10/november-2026-opportunities-open-calls-residencies-and-grants-for-artists/",
-      "source": "Colossal",
-      "published": "2026-10-29T22:46:33+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "b9e1c33a20ead6db12e9",
       "title": "Otis College of Art and Design in LA Offers a Two-Year MFA Fine Arts Degree Program",
       "url": "https://hyperallergic.com/otis-college-of-art-and-design-in-la-offers-a-two-year-mfa-degree-program/",
@@ -328,11 +280,35 @@
       "publication_approved": false
     },
     {
+      "id": "b5c7bcbeab5848351a02",
+      "title": "The Greatest Art Costumes From Hyperallergic's Halloween Party",
+      "url": "https://hyperallergic.com/the-greatest-art-costumes-from-hyperallergics-halloween-party-2026/",
+      "source": "Hyperallergic",
+      "published": "2026-10-30T22:37:24+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "e034d6bfbf7ef8fa1e18",
       "title": "Timothy Boomer Captures the Uncanny World of Insect Galls",
       "url": "https://www.thisiscolossal.com/2026/10/timothy-boomer-photographs-plant-galls/",
       "source": "Colossal",
       "published": "2026-10-30T18:46:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "cdde8c6da61cdb26f470",
+      "title": "To Live Is to Believe",
+      "url": "https://hyperallergic.com/to-live-is-to-believe/",
+      "source": "Hyperallergic",
+      "published": "2026-10-31T10:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -460,6 +436,18 @@
       "publication_approved": false
     },
     {
+      "id": "cc0384993e48bfe5ab35",
+      "title": "A Retrospective Introduces Francis Picabia to a New Generation—with Funhouse Mirrors and a Peep Show",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/francis-picabia-retrospective-palazzo-reale-milan-anne-berest-1234804213/",
+      "source": "ARTnews",
+      "published": "2026-10-30T09:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "b19eb22f1681fd5db25f",
       "title": "A Women’s HBCU Will Sell a Record-Smashing Aaron Douglas Painting of Harriet Tubman to Support Women’s Health Programs",
       "url": "https://www.artnews.com/art-news/market/hbcu-sell-record-aaron-douglas-painting-harriet-tubman-1234803892/",
@@ -489,6 +477,18 @@
       "url": "https://hyperallergic.com/an-epstein-survivors-message-for-moma/",
       "source": "Hyperallergic",
       "published": "2026-10-29T10:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "9587701f60e6175bb929",
+      "title": "Are Black Cats Modernity’s Icons?",
+      "url": "https://hyperallergic.com/are-black-cats-modernitys-icons/",
+      "source": "Hyperallergic",
+      "published": "2026-10-30T10:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -664,6 +664,18 @@
       "publication_approved": false
     },
     {
+      "id": "a9cbb4b582c52279e037",
+      "title": "In Postwar Rural France, Alexander Calder Found Respite from Pressures of Fame and a Chance to Dream Big",
+      "url": "https://www.artnews.com/art-news/news/alexander-calder-exhibition-hauser-and-wirth-paris-1234804262/",
+      "source": "ARTnews",
+      "published": "2026-10-30T09:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "721d94d49ac7911e43ad",
       "title": "In a New Video, Mayor Mamdani Touts the Met Museum as an Early Voting Site",
       "url": "https://www.artnews.com/art-news/news/nyc-mayor-mamdani-met-museum-early-voting-site-1234803965/",
@@ -748,6 +760,18 @@
       "publication_approved": false
     },
     {
+      "id": "b9e32e11c5c35b0ec4b1",
+      "title": "MoMA, Centre Pompidou, and M+ Will Treat Their Holdings as One Collection in Unprecedented Alliance",
+      "url": "https://www.artnews.com/art-news/news/moma-centre-pompidou-m-plus-alliance-shared-collection-1234804101/",
+      "source": "ARTnews",
+      "published": "2026-10-30T03:15:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "e2c4190ee649035ecf22",
       "title": "Naomi Beckwith Adds Four to Documenta 16’s Curatorial Team, Including Artist Raven Chacon",
       "url": "https://www.artnews.com/art-news/news/documenta-16-curatorial-team-expansion-raven-chacon-1234804205/",
@@ -765,6 +789,18 @@
       "url": "https://www.artnews.com/art-news/news/uk-art-market-growth-slower-competitors-outsider-1234804072/",
       "source": "ARTnews",
       "published": "2026-10-28T13:20:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "bcb2364103baaf02e72a",
+      "title": "November 2026 Opportunities: Open Calls, Residencies, and Grants for Artists",
+      "url": "https://www.thisiscolossal.com/2026/10/november-2026-opportunities-open-calls-residencies-and-grants-for-artists/",
+      "source": "Colossal",
+      "published": "2026-10-29T22:46:33+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -832,18 +868,6 @@
       "publication_approved": false
     },
     {
-      "id": "95c2ad04133cfe7d77f1",
-      "title": "Remembering Ursula von Rydingsvard",
-      "url": "https://hyperallergic.com/remembering-ursula-von-rydingsvard/",
-      "source": "Hyperallergic",
-      "published": "2026-10-28T10:00:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "7f474d5b9396b84777de",
       "title": "San Francisco’s Galleries Explore Alternative Routes for Survival",
       "url": "https://hyperallergic.com/san-franciscos-galleries-explore-alternative-routes-for-survival/",
@@ -897,18 +921,6 @@
       "url": "https://www.artnews.com/art-news/opinion/art-basel-paris-closure-global-art-fair-risks-1234804133/",
       "source": "ARTnews",
       "published": "2026-10-28T19:36:36+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "96a45dcf246e75ef2344",
-      "title": "The Artsiest Halloween Party in Town",
-      "url": "https://hyperallergic.com/the-artsiest-halloween-party-in-town/",
-      "source": "Hyperallergic",
-      "published": "2026-10-27T21:40:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1792,6 +1804,18 @@
       "publication_approved": false
     },
     {
+      "id": "95c2ad04133cfe7d77f1",
+      "title": "Remembering Ursula von Rydingsvard",
+      "url": "https://hyperallergic.com/remembering-ursula-von-rydingsvard/",
+      "source": "Hyperallergic",
+      "published": "2026-10-28T10:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "a28cadc64aecfbc54407",
       "title": "Researchers Trace Vincent van Gogh’s ‘Starry Night’ to a Specific Dark Sky in 1889",
       "url": "https://www.artnews.com/art-news/news/vincent-van-gogh-starry-night-researchers-dating-1234804043/",
@@ -1888,6 +1912,18 @@
       "publication_approved": false
     },
     {
+      "id": "96a45dcf246e75ef2344",
+      "title": "The Artsiest Halloween Party in Town",
+      "url": "https://hyperallergic.com/the-artsiest-halloween-party-in-town/",
+      "source": "Hyperallergic",
+      "published": "2026-10-27T21:40:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "d1d80d7e68c6b81bb76d",
       "title": "The Best Booths at Art Basel Paris, From Tar Paintings to a Falling Knife",
       "url": "https://www.artnews.com/list/art-news/market/art-basel-paris-2026-best-booths-1234803335/",
@@ -1917,18 +1953,6 @@
       "url": "https://hyperallergic.com/the-gospel-according-to-paul-pfeiffer/",
       "source": "Hyperallergic",
       "published": "2026-10-27T10:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "4df5f498fc3a5503b6ec",
-      "title": "This Is Class War",
-      "url": "https://hyperallergic.com/this-is-class-war/",
-      "source": "Hyperallergic",
-      "published": "2026-10-24T10:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -3537,6 +3561,18 @@
       "url": "https://hyperallergic.com/this-iranian-documentary-wasnt-meant-to-begin-this-way/",
       "source": "Hyperallergic",
       "published": "2026-10-19T15:54:20+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "4df5f498fc3a5503b6ec",
+      "title": "This Is Class War",
+      "url": "https://hyperallergic.com/this-is-class-war/",
+      "source": "Hyperallergic",
+      "published": "2026-10-24T10:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
