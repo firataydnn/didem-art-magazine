@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_at": "2026-10-31T10:56:32.463142+00:00",
-  "source_generated_at": "2026-10-31T10:56:17.670763+00:00",
+  "generated_at": "2026-10-31T10:58:06.300853+00:00",
+  "source_generated_at": "2026-10-31T10:57:47.160948+00:00",
   "notice": "Kulis aday bağlantıları. Metin, iddia, alıntı ve fotoğraf henüz ATELIER tarafından doğrulanmadı. Otomatik haber yayınlamaz.",
   "items": [
     {
@@ -230,6 +230,19 @@
       "url": "https://www.theartnewspaper.com/2026/10/29/rudi-fuchs-influential-dutch-curator-and-former-director-of-amsterdams-stedelijk-museum-dies-aged-84",
       "source": "The Art Newspaper",
       "published_at": "2026-10-29T11:27:20+00:00",
+      "category": "GALERİ KULİSİ",
+      "priority": 8,
+      "editorial_status": "source_link_requires_review",
+      "source_verified": false,
+      "article_approved": false,
+      "image_rights": "not_cleared",
+      "note": "Publisher headline only. Not an independently checked art gossip report."
+    },
+    {
+      "title": "“I Dwell in Possibility” by the Museum of Contemporary Art Ahmedabad and GALLERYSKE",
+      "url": "https://www.artasiapacific.com/shows/i-dwell-in-possibility-by-the-museum-of-contemporary-art-ahmedabad-and-galleryske/",
+      "source": "ArtAsiaPacific",
+      "published_at": "2026-10-29T08:54:00+00:00",
       "category": "GALERİ KULİSİ",
       "priority": 8,
       "editorial_status": "source_link_requires_review",
