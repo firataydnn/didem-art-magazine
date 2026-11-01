@@ -16,18 +16,6 @@
       "publication_approved": false
     },
     {
-      "id": "1b07778fee25b278d403",
-      "title": "Kim Kardashian’s First Auction Purchase Was a Monet Painting Because of the Film ‘Clueless’",
-      "url": "https://www.artnews.com/art-news/news/kim-kardashian-first-auction-purchase-monet-painting-1234804238/",
-      "source": "ARTnews",
-      "published": "2026-10-29T19:42:27+00:00",
-      "priority_score": 8,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "f518c2c40dbd6b371331",
       "title": "U.S. Pavilion at Venice Biennale Is $1 M. Short, and Its Sculptures May Be Stuck in Italy",
       "url": "https://www.artnews.com/art-news/news/u-s-pavilion-venice-biennale-1-million-short-alma-allen-1234804285/",
@@ -40,47 +28,11 @@
       "publication_approved": false
     },
     {
-      "id": "4684634fac27d3c18d39",
-      "title": "After a Museum Explores Homes Destroyed by US-Made Munitions, House Republicans Demand Information on Smithsonian’s Curatorial Process",
-      "url": "https://www.artnews.com/art-news/news/house-republicans-demand-smithsonian-curatorial-process-1234804234/",
-      "source": "ARTnews",
-      "published": "2026-10-29T19:24:13+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "60933e264f2a26953dbe",
-      "title": "Art Dealer Family the Nahmads Are the Consignors Behind $80 M. Kandinsky Set to Break a Record at Christie’s",
-      "url": "https://www.artnews.com/art-news/market/nahmads-wassily-kandinsky-christies-consignor-1234804168/",
-      "source": "ARTnews",
-      "published": "2026-10-29T15:13:46+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "4aa51c335dda4749ff32",
       "title": "In Reply to Senators’ Amicus Briefs, Austria, Albertina, and Leopold Museum Double Down on Unconstitutionality of HEAR Act",
       "url": "https://www.artnews.com/art-news/news/austria-albertina-leopold-senator-amicus-brief-response-1234804373/",
       "source": "ARTnews",
       "published": "2026-10-31T03:25:07+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "8bdb500f2555c574e785",
-      "title": "Suspected Thieves Flee Dresden Museum Complex After Being Spotted by Security Guard",
-      "url": "https://www.artnews.com/art-news/news/dresden-zwinger-museum-attempted-burglary-porcelain-collection-1234804220/",
-      "source": "ARTnews",
-      "published": "2026-10-29T17:39:33+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -153,6 +105,18 @@
       "url": "https://www.artnews.com/art-news/news/villa-dominguez-jewish-museum-open-clash-local-government-1234803039/",
       "source": "ARTnews",
       "published": "2026-10-20T14:28:22+00:00",
+      "priority_score": 6,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "1b07778fee25b278d403",
+      "title": "Kim Kardashian’s First Auction Purchase Was a Monet Painting Because of the Film ‘Clueless’",
+      "url": "https://www.artnews.com/art-news/news/kim-kardashian-first-auction-purchase-monet-painting-1234804238/",
+      "source": "ARTnews",
+      "published": "2026-10-29T19:42:27+00:00",
       "priority_score": 6,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -268,11 +232,11 @@
       "publication_approved": false
     },
     {
-      "id": "50e0e44e166a6d3b1054",
-      "title": "ARTPOWER’s New Platform Helps Artists Build Financial Confidence",
-      "url": "https://hyperallergic.com/artpowers-new-platform-helps-artists-build-financial-confidence/",
-      "source": "Hyperallergic",
-      "published": "2026-10-29T15:15:00+00:00",
+      "id": "4684634fac27d3c18d39",
+      "title": "After a Museum Explores Homes Destroyed by US-Made Munitions, House Republicans Demand Information on Smithsonian’s Curatorial Process",
+      "url": "https://www.artnews.com/art-news/news/house-republicans-demand-smithsonian-curatorial-process-1234804234/",
+      "source": "ARTnews",
+      "published": "2026-10-29T19:24:13+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -316,35 +280,23 @@
       "publication_approved": false
     },
     {
+      "id": "60933e264f2a26953dbe",
+      "title": "Art Dealer Family the Nahmads Are the Consignors Behind $80 M. Kandinsky Set to Break a Record at Christie’s",
+      "url": "https://www.artnews.com/art-news/market/nahmads-wassily-kandinsky-christies-consignor-1234804168/",
+      "source": "ARTnews",
+      "published": "2026-10-29T15:13:46+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "6a43220776093ad4f8b9",
       "title": "Artist Sneaks His Work Into the Met Museum",
       "url": "https://hyperallergic.com/artist-sneaks-his-work-into-the-met-museum/",
       "source": "Hyperallergic",
       "published": "2026-10-27T21:11:20+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "bbfc9d64a070934cdefc",
-      "title": "Before AI There Was the Octopus",
-      "url": "https://hyperallergic.com/before-ai-there-was-the-octopus/",
-      "source": "Hyperallergic",
-      "published": "2026-10-29T17:06:36+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "eb02898f6e2ae3732ff3",
-      "title": "Dallas Art Fair Is Moving to Southern Methodist University in 2027",
-      "url": "https://www.artnews.com/art-news/market/dallas-art-fair-smu-campus-relocation-2027-1234804201/",
-      "source": "ARTnews",
-      "published": "2026-10-29T17:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -376,47 +328,11 @@
       "publication_approved": false
     },
     {
-      "id": "21155bfc90a20827a8ec",
-      "title": "Escape into Gretchen Scherer’s Maximalist Paintings of Palatial, Art-Filled Spaces",
-      "url": "https://www.thisiscolossal.com/2026/10/gretchen-scherer-in-time-paintings-art-history-interiors/",
-      "source": "Colossal",
-      "published": "2026-10-29T17:49:15+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "42cbc69e134a194341c6",
       "title": "Former Stedelijk Museum Director Rudi Fuchs Has Died at 84, V&A Plans Cuts to Academy Program, 100 Years of Marisa Merz, and More: Morning Links for October 27, 2026",
       "url": "https://www.artnews.com/art-news/news/former-stedelijk-museum-director-rudi-fuchs-has-died-at-84-1234803937/",
       "source": "ARTnews",
       "published": "2026-10-27T14:07:22+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "b5db20304c19f52e9b97",
-      "title": "Hell Takes the Form of State Repression in 1971’s “The Devils”",
-      "url": "https://hyperallergic.com/hell-takes-the-form-of-state-repression-in-1971s-the-devils/",
-      "source": "Hyperallergic",
-      "published": "2026-10-29T17:36:58+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "d6b2379d86e26a1948e5",
-      "title": "How Édouard Manet's Black Cat Became a Symbol of Modernity",
-      "url": "https://hyperallergic.com/how-edouard-manets-black-cat-became-a-symbol-of-modernity/",
-      "source": "Hyperallergic",
-      "published": "2026-10-29T20:36:39+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -532,18 +448,6 @@
       "publication_approved": false
     },
     {
-      "id": "e2c4190ee649035ecf22",
-      "title": "Naomi Beckwith Adds Four to Documenta 16’s Curatorial Team, Including Artist Raven Chacon",
-      "url": "https://www.artnews.com/art-news/news/documenta-16-curatorial-team-expansion-raven-chacon-1234804205/",
-      "source": "ARTnews",
-      "published": "2026-10-29T15:58:38+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "bcb2364103baaf02e72a",
       "title": "November 2026 Opportunities: Open Calls, Residencies, and Grants for Artists",
       "url": "https://www.thisiscolossal.com/2026/10/november-2026-opportunities-open-calls-residencies-and-grants-for-artists/",
@@ -561,18 +465,6 @@
       "url": "https://hyperallergic.com/otis-college-of-art-and-design-in-la-offers-a-two-year-mfa-degree-program/",
       "source": "Hyperallergic",
       "published": "2026-10-30T14:45:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "6ee4922d545d93a25c59",
-      "title": "Phillips UK Reports Revenue Drop of 22.3 Percent for 2025, But Claims 2026 Is Major Rebound",
-      "url": "https://www.artnews.com/art-news/market/phillips-reports-revenue-drop-22-3-percent-for-2025-1234804216/",
-      "source": "ARTnews",
-      "published": "2026-10-29T17:44:29+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -616,18 +508,6 @@
       "publication_approved": false
     },
     {
-      "id": "494b6e957b08c31acac8",
-      "title": "Studies Warn of Major Risks to Historic French Heritage Due to Climate Change, Surrealist Painter Cossette Zeno is Having Her Moment, and More: Morning Links for October 29, 2026",
-      "url": "https://www.artnews.com/art-news/news/studies-major-risks-historic-french-heritage-climate-1234804188/",
-      "source": "ARTnews",
-      "published": "2026-10-29T13:44:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "1fc23b053b14fcffc78a",
       "title": "Surprise! US Pavilion Needs More Cash to Ship Works Home",
       "url": "https://hyperallergic.com/surprise-us-pavilion-needs-more-cash-to-ship-works-home/",
@@ -640,11 +520,11 @@
       "publication_approved": false
     },
     {
-      "id": "b5c7bcbeab5848351a02",
-      "title": "The Greatest Art Costumes From Hyperallergic's Halloween Party",
-      "url": "https://hyperallergic.com/the-greatest-art-costumes-from-hyperallergics-halloween-party-2026/",
-      "source": "Hyperallergic",
-      "published": "2026-10-30T22:37:24+00:00",
+      "id": "8bdb500f2555c574e785",
+      "title": "Suspected Thieves Flee Dresden Museum Complex After Being Spotted by Security Guard",
+      "url": "https://www.artnews.com/art-news/news/dresden-zwinger-museum-attempted-burglary-porcelain-collection-1234804220/",
+      "source": "ARTnews",
+      "published": "2026-10-29T17:39:33+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -652,11 +532,11 @@
       "publication_approved": false
     },
     {
-      "id": "6cae2d4533818f9eb9ab",
-      "title": "This Year's Gay Halloween Celebrates Women's Rights and Wrongs",
-      "url": "https://hyperallergic.com/this-years-gay-halloween-celebrates-womens-rights-and-wrongs/",
+      "id": "b5c7bcbeab5848351a02",
+      "title": "The Greatest Art Costumes From Hyperallergic's Halloween Party",
+      "url": "https://hyperallergic.com/the-greatest-art-costumes-from-hyperallergics-halloween-party-2026/",
       "source": "Hyperallergic",
-      "published": "2026-10-29T20:24:57+00:00",
+      "published": "2026-10-30T22:37:24+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -681,18 +561,6 @@
       "url": "https://hyperallergic.com/to-live-is-to-believe/",
       "source": "Hyperallergic",
       "published": "2026-10-31T10:00:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "70dc0962b93434a1f2b6",
-      "title": "Tony Berlant, Artist Known for Cut Metal Collages, Dies at 85",
-      "url": "https://www.artnews.com/art-news/news/tony-berlant-dead-west-coast-pop-artist-1234804219/",
-      "source": "ARTnews",
-      "published": "2026-10-29T17:29:36+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -729,30 +597,6 @@
       "url": "https://www.artnews.com/art-news/news/whitney-museum-nolan-jimbo-associate-curator-1234803826/",
       "source": "ARTnews",
       "published": "2026-10-26T19:22:37+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "0595a0cdcd9845ca1d48",
-      "title": "Why Do Horror Films Have Such a Hold on Our Imaginations?",
-      "url": "https://hyperallergic.com/why-do-horror-films-have-such-a-hold-on-our-imaginations/",
-      "source": "Hyperallergic",
-      "published": "2026-10-29T18:53:57+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "808ab17193e04f3e0315",
-      "title": "‘The Encyclopedia of Movie Cats’ Is an Exhaustive Index of Every Feline to Prowl on Screen",
-      "url": "https://www.thisiscolossal.com/2026/10/the-encyclopedia-of-movie-cats-a24/",
-      "source": "Colossal",
-      "published": "2026-10-29T14:14:38+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -849,6 +693,18 @@
       "url": "https://www.artnews.com/art-news/news/german-painting-hung-hitler-home-restitution-claim-1234804050/",
       "source": "ARTnews",
       "published": "2026-10-27T21:26:33+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "50e0e44e166a6d3b1054",
+      "title": "ARTPOWER’s New Platform Helps Artists Build Financial Confidence",
+      "url": "https://hyperallergic.com/artpowers-new-platform-helps-artists-build-financial-confidence/",
+      "source": "Hyperallergic",
+      "published": "2026-10-29T15:15:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1024,6 +880,18 @@
       "publication_approved": false
     },
     {
+      "id": "bbfc9d64a070934cdefc",
+      "title": "Before AI There Was the Octopus",
+      "url": "https://hyperallergic.com/before-ai-there-was-the-octopus/",
+      "source": "Hyperallergic",
+      "published": "2026-10-29T17:06:36+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "12f314c0fa5635fb980b",
       "title": "Beverly Buchanan at the Raw Edge of Art",
       "url": "https://hyperallergic.com/beverly-buchanan-at-the-raw-edge-of-art/",
@@ -1108,6 +976,18 @@
       "publication_approved": false
     },
     {
+      "id": "eb02898f6e2ae3732ff3",
+      "title": "Dallas Art Fair Is Moving to Southern Methodist University in 2027",
+      "url": "https://www.artnews.com/art-news/market/dallas-art-fair-smu-campus-relocation-2027-1234804201/",
+      "source": "ARTnews",
+      "published": "2026-10-29T17:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "567db77c394593b24756",
       "title": "Danh Vo and Sandra Mujinga Selected for Met Museum Commissions",
       "url": "https://hyperallergic.com/danh-vo-and-sandra-mujinga-selected-for-met-museum-commissions/",
@@ -1173,6 +1053,18 @@
       "url": "https://www.artnews.com/art-news/news/environmental-group-unveils-melting-statue-of-florida-gov-1234803186/",
       "source": "ARTnews",
       "published": "2026-10-21T13:26:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "21155bfc90a20827a8ec",
+      "title": "Escape into Gretchen Scherer’s Maximalist Paintings of Palatial, Art-Filled Spaces",
+      "url": "https://www.thisiscolossal.com/2026/10/gretchen-scherer-in-time-paintings-art-history-interiors/",
+      "source": "Colossal",
+      "published": "2026-10-29T17:49:15+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1288,6 +1180,18 @@
       "publication_approved": false
     },
     {
+      "id": "b5db20304c19f52e9b97",
+      "title": "Hell Takes the Form of State Repression in 1971’s “The Devils”",
+      "url": "https://hyperallergic.com/hell-takes-the-form-of-state-repression-in-1971s-the-devils/",
+      "source": "Hyperallergic",
+      "published": "2026-10-29T17:36:58+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "24966c2abc58b7d355ad",
       "title": "Hillary Clinton Visits Yayoi Kusama Sculptures on Naoshima Island Ahead of 37th Praemium Imperiale Awards Ceremony",
       "url": "https://www.artnews.com/art-news/news/hillary-clinton-yayoi-kusama-naoshima-1234803923/",
@@ -1305,6 +1209,18 @@
       "url": "https://hyperallergic.com/how-mexican-photographers-made-a-nation/",
       "source": "Hyperallergic",
       "published": "2026-10-27T19:57:13+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "d6b2379d86e26a1948e5",
+      "title": "How Édouard Manet's Black Cat Became a Symbol of Modernity",
+      "url": "https://hyperallergic.com/how-edouard-manets-black-cat-became-a-symbol-of-modernity/",
+      "source": "Hyperallergic",
+      "published": "2026-10-29T20:36:39+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1492,6 +1408,18 @@
       "publication_approved": false
     },
     {
+      "id": "e2c4190ee649035ecf22",
+      "title": "Naomi Beckwith Adds Four to Documenta 16’s Curatorial Team, Including Artist Raven Chacon",
+      "url": "https://www.artnews.com/art-news/news/documenta-16-curatorial-team-expansion-raven-chacon-1234804205/",
+      "source": "ARTnews",
+      "published": "2026-10-29T15:58:38+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "18ac5ba704dd6ce25080",
       "title": "Nathan Fielder Is a Performance Artist in Disguise",
       "url": "https://hyperallergic.com/nathan-fielder-is-a-performance-artist-in-disguise/",
@@ -1617,6 +1545,18 @@
       "url": "https://hyperallergic.com/philadelphians-to-vote-on-permanent-arts-and-culture-office-on-election-day/",
       "source": "Hyperallergic",
       "published": "2026-10-28T15:15:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "6ee4922d545d93a25c59",
+      "title": "Phillips UK Reports Revenue Drop of 22.3 Percent for 2025, But Claims 2026 Is Major Rebound",
+      "url": "https://www.artnews.com/art-news/market/phillips-reports-revenue-drop-22-3-percent-for-2025-1234804216/",
+      "source": "ARTnews",
+      "published": "2026-10-29T17:44:29+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1780,6 +1720,18 @@
       "publication_approved": false
     },
     {
+      "id": "494b6e957b08c31acac8",
+      "title": "Studies Warn of Major Risks to Historic French Heritage Due to Climate Change, Surrealist Painter Cossette Zeno is Having Her Moment, and More: Morning Links for October 29, 2026",
+      "url": "https://www.artnews.com/art-news/news/studies-major-risks-historic-french-heritage-climate-1234804188/",
+      "source": "ARTnews",
+      "published": "2026-10-29T13:44:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "d3fccb0ec711b42a9a29",
       "title": "Studio Museum Announces New Artists-in-Residence",
       "url": "https://hyperallergic.com/studio-museum-announces-new-artists-in-residence/",
@@ -1888,6 +1840,18 @@
       "publication_approved": false
     },
     {
+      "id": "6cae2d4533818f9eb9ab",
+      "title": "This Year's Gay Halloween Celebrates Women's Rights and Wrongs",
+      "url": "https://hyperallergic.com/this-years-gay-halloween-celebrates-womens-rights-and-wrongs/",
+      "source": "Hyperallergic",
+      "published": "2026-10-29T20:24:57+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "aeda45dcbaebd662db05",
       "title": "Timeless Totemic Figures by Izumi Kato Coexist in an Otherworldly Aquatic Realm",
       "url": "https://www.thisiscolossal.com/2026/10/izumi-kato-paintings-sculptures/",
@@ -1905,6 +1869,18 @@
       "url": "https://www.thisiscolossal.com/2026/10/tom-hegen-the-mineral-age-photo-book/",
       "source": "Colossal",
       "published": "2026-10-27T17:53:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "70dc0962b93434a1f2b6",
+      "title": "Tony Berlant, Artist Known for Cut Metal Collages, Dies at 85",
+      "url": "https://www.artnews.com/art-news/news/tony-berlant-dead-west-coast-pop-artist-1234804219/",
+      "source": "ARTnews",
+      "published": "2026-10-29T17:29:36+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1996,6 +1972,18 @@
       "publication_approved": false
     },
     {
+      "id": "0595a0cdcd9845ca1d48",
+      "title": "Why Do Horror Films Have Such a Hold on Our Imaginations?",
+      "url": "https://hyperallergic.com/why-do-horror-films-have-such-a-hold-on-our-imaginations/",
+      "source": "Hyperallergic",
+      "published": "2026-10-29T18:53:57+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "90a453acba60f4a0db1e",
       "title": "Wish You Were Here! Rose Sanderson’s Witty Postcards Conjure a Strange Reality",
       "url": "https://www.thisiscolossal.com/2026/10/rose-sanderson-vintage-postcard-paintings/",
@@ -2061,6 +2049,18 @@
       "url": "https://www.artnews.com/art-news/news/desiring-machines-dares-us-to-imagine-a-healthy-relationship-with-technology-1234803816/",
       "source": "ARTnews",
       "published": "2026-10-26T19:30:22+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "808ab17193e04f3e0315",
+      "title": "‘The Encyclopedia of Movie Cats’ Is an Exhaustive Index of Every Feline to Prowl on Screen",
+      "url": "https://www.thisiscolossal.com/2026/10/the-encyclopedia-of-movie-cats-a24/",
+      "source": "Colossal",
+      "published": "2026-10-29T14:14:38+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
