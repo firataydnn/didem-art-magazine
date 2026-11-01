@@ -4,18 +4,6 @@
   "possible_duplicates": 0,
   "items": [
     {
-      "id": "4aa51c335dda4749ff32",
-      "title": "In Reply to Senators’ Amicus Briefs, Austria, Albertina, and Leopold Museum Double Down on Unconstitutionality of HEAR Act",
-      "url": "https://www.artnews.com/art-news/news/austria-albertina-leopold-senator-amicus-brief-response-1234804373/",
-      "source": "ARTnews",
-      "published": "2026-10-31T03:25:07+00:00",
-      "priority_score": 9,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "42d3bdb24a1be2451167",
       "title": "Christie’s First Abu Dhabi Art Auction to Be Accompanied by Exhibition of $60 M.–$80 M. Kandinsky",
       "url": "https://www.artnews.com/art-news/market/christies-first-abu-dhabi-art-auction-kandinsky-exhibition-1234803967/",
@@ -52,18 +40,6 @@
       "publication_approved": false
     },
     {
-      "id": "5342713535646794445b",
-      "title": "10 Years Later, Magenta Plains Is Still Embracing the Unexpected",
-      "url": "https://hyperallergic.com/10-years-later-magenta-plains-is-still-embracing-the-unexpected/",
-      "source": "Hyperallergic",
-      "published": "2026-10-30T21:00:02+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "4684634fac27d3c18d39",
       "title": "After a Museum Explores Homes Destroyed by US-Made Munitions, House Republicans Demand Information on Smithsonian’s Curatorial Process",
       "url": "https://www.artnews.com/art-news/news/house-republicans-demand-smithsonian-curatorial-process-1234804234/",
@@ -88,23 +64,11 @@
       "publication_approved": false
     },
     {
-      "id": "e058eebfed59aef0af33",
-      "title": "MoMA, Centre Pompidou, and M+ Announce Novel Collection Alliance",
-      "url": "https://hyperallergic.com/moma-centre-pompidou-and-m-announce-novel-collection-alliance/",
-      "source": "Hyperallergic",
-      "published": "2026-10-30T20:57:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "8217ae84959b75d5565c",
-      "title": "Pipo Nguyen-duy, Beloved Photography Professor, Murdered at 64",
-      "url": "https://hyperallergic.com/pipo-nguyen-duy-beloved-photography-professor-murdered-at-64/",
-      "source": "Hyperallergic",
-      "published": "2026-10-30T20:51:04+00:00",
+      "id": "4aa51c335dda4749ff32",
+      "title": "In Reply to Senators’ Amicus Briefs, Austria, Albertina, and Leopold Museum Double Down on Unconstitutionality of HEAR Act",
+      "url": "https://www.artnews.com/art-news/news/austria-albertina-leopold-senator-amicus-brief-response-1234804373/",
+      "source": "ARTnews",
+      "published": "2026-10-31T03:25:07+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -124,35 +88,11 @@
       "publication_approved": false
     },
     {
-      "id": "b5c7bcbeab5848351a02",
-      "title": "The Greatest Art Costumes From Hyperallergic's Halloween Party",
-      "url": "https://hyperallergic.com/the-greatest-art-costumes-from-hyperallergics-halloween-party-2026/",
-      "source": "Hyperallergic",
-      "published": "2026-10-30T22:37:24+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "2d45a683c4d45b7b9a4d",
       "title": "The Met Museum and Vacheron Constantin Unveil Artworks Produced Through New Residency",
       "url": "https://www.artnews.com/art-news/news/metropolitan-museum-art-vacheron-constantin-residency-1234804336/",
       "source": "ARTnews",
       "published": "2026-10-30T15:44:13+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "cdde8c6da61cdb26f470",
-      "title": "To Live Is to Believe",
-      "url": "https://hyperallergic.com/to-live-is-to-believe/",
-      "source": "Hyperallergic",
-      "published": "2026-10-31T10:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -256,6 +196,18 @@
       "publication_approved": false
     },
     {
+      "id": "5342713535646794445b",
+      "title": "10 Years Later, Magenta Plains Is Still Embracing the Unexpected",
+      "url": "https://hyperallergic.com/10-years-later-magenta-plains-is-still-embracing-the-unexpected/",
+      "source": "Hyperallergic",
+      "published": "2026-10-30T21:00:02+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "c31585ea9d71ef9eb036",
       "title": "17th-Century Embroidery Meets Hand-Carved Wooden Vessels by Aspen Golann",
       "url": "https://www.thisiscolossal.com/2026/10/aspen-golann-woodworking-embroidery-vessels-sculpture/",
@@ -328,18 +280,6 @@
       "publication_approved": false
     },
     {
-      "id": "c129ae1c822c152c908c",
-      "title": "An Epstein Survivor’s Message for MoMA",
-      "url": "https://hyperallergic.com/an-epstein-survivors-message-for-moma/",
-      "source": "Hyperallergic",
-      "published": "2026-10-29T10:00:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "9587701f60e6175bb929",
       "title": "Are Black Cats Modernity’s Icons?",
       "url": "https://hyperallergic.com/are-black-cats-modernitys-icons/",
@@ -381,18 +321,6 @@
       "url": "https://hyperallergic.com/artist-sneaks-his-work-into-the-met-museum/",
       "source": "Hyperallergic",
       "published": "2026-10-27T21:11:20+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "7e707fcd72a0c1acddc0",
-      "title": "At 96, Surrealist Painter Cossette Zeno Is Finally Having Her Moment",
-      "url": "https://www.artnews.com/art-news/artists/cossette-zeno-surrealist-painter-1234804106/",
-      "source": "ARTnews",
-      "published": "2026-10-29T09:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -580,6 +508,18 @@
       "publication_approved": false
     },
     {
+      "id": "e058eebfed59aef0af33",
+      "title": "MoMA, Centre Pompidou, and M+ Announce Novel Collection Alliance",
+      "url": "https://hyperallergic.com/moma-centre-pompidou-and-m-announce-novel-collection-alliance/",
+      "source": "Hyperallergic",
+      "published": "2026-10-30T20:57:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "b9e32e11c5c35b0ec4b1",
       "title": "MoMA, Centre Pompidou, and M+ Will Treat Their Holdings as One Collection in Unprecedented Alliance",
       "url": "https://www.artnews.com/art-news/news/moma-centre-pompidou-m-plus-alliance-shared-collection-1234804101/",
@@ -616,35 +556,11 @@
       "publication_approved": false
     },
     {
-      "id": "047178d2c4e31db3084e",
-      "title": "Opinion: As Federal Support for Culture Falls, We Need a New Generation of Giving",
-      "url": "https://www.artnews.com/art-news/opinion/opinion-new-generation-of-giving-1234804081/",
-      "source": "ARTnews",
-      "published": "2026-10-29T09:00:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "b9e1c33a20ead6db12e9",
       "title": "Otis College of Art and Design in LA Offers a Two-Year MFA Fine Arts Degree Program",
       "url": "https://hyperallergic.com/otis-college-of-art-and-design-in-la-offers-a-two-year-mfa-degree-program/",
       "source": "Hyperallergic",
       "published": "2026-10-30T14:45:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "1281c2350784430d25cf",
-      "title": "Pace Reports $5.6 M. Loss for International Business, With Glimchers Pledging to Keep It Afloat",
-      "url": "https://www.artnews.com/art-news/market/pace-2025-companies-house-report-loss-1234804143/",
-      "source": "ARTnews",
-      "published": "2026-10-28T20:53:46+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -664,11 +580,11 @@
       "publication_approved": false
     },
     {
-      "id": "258c03e7e536905d0b4f",
-      "title": "Scientists Say They’ve Rediscovered How the Romans Made the British Museum’s Color-Shifting Lycurgus Cup",
-      "url": "https://www.artnews.com/art-news/news/british-museum-roman-color-changing-glass-1234803825/",
-      "source": "ARTnews",
-      "published": "2026-10-26T20:19:17+00:00",
+      "id": "8217ae84959b75d5565c",
+      "title": "Pipo Nguyen-duy, Beloved Photography Professor, Murdered at 64",
+      "url": "https://hyperallergic.com/pipo-nguyen-duy-beloved-photography-professor-murdered-at-64/",
+      "source": "Hyperallergic",
+      "published": "2026-10-30T20:51:04+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -676,11 +592,11 @@
       "publication_approved": false
     },
     {
-      "id": "d1673039581cfc6a827e",
-      "title": "See the Official Trailer for “Dig,” Amy Pohler and Michael Schur’s New Comedy Series",
-      "url": "https://www.artnews.com/art-news/news/amy-pohler-michael-schur-new-comedy-series-dig-trailer-1234804105/",
+      "id": "258c03e7e536905d0b4f",
+      "title": "Scientists Say They’ve Rediscovered How the Romans Made the British Museum’s Color-Shifting Lycurgus Cup",
+      "url": "https://www.artnews.com/art-news/news/british-museum-roman-color-changing-glass-1234803825/",
       "source": "ARTnews",
-      "published": "2026-10-28T21:44:46+00:00",
+      "published": "2026-10-26T20:19:17+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -724,6 +640,18 @@
       "publication_approved": false
     },
     {
+      "id": "b5c7bcbeab5848351a02",
+      "title": "The Greatest Art Costumes From Hyperallergic's Halloween Party",
+      "url": "https://hyperallergic.com/the-greatest-art-costumes-from-hyperallergics-halloween-party-2026/",
+      "source": "Hyperallergic",
+      "published": "2026-10-30T22:37:24+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "6cae2d4533818f9eb9ab",
       "title": "This Year's Gay Halloween Celebrates Women's Rights and Wrongs",
       "url": "https://hyperallergic.com/this-years-gay-halloween-celebrates-womens-rights-and-wrongs/",
@@ -741,6 +669,18 @@
       "url": "https://www.thisiscolossal.com/2026/10/timothy-boomer-photographs-plant-galls/",
       "source": "Colossal",
       "published": "2026-10-30T18:46:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "cdde8c6da61cdb26f470",
+      "title": "To Live Is to Believe",
+      "url": "https://hyperallergic.com/to-live-is-to-believe/",
+      "source": "Hyperallergic",
+      "published": "2026-10-31T10:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -801,18 +741,6 @@
       "url": "https://hyperallergic.com/why-do-horror-films-have-such-a-hold-on-our-imaginations/",
       "source": "Hyperallergic",
       "published": "2026-10-29T18:53:57+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "bdf7c19b79bb2909eef8",
-      "title": "World Monuments Fund Raises $62 M., Tripling Its Endowment Ahead of Schedule",
-      "url": "https://www.artnews.com/art-news/news/world-monuments-fund-62-million-endowment-campaign-1234804137/",
-      "source": "ARTnews",
-      "published": "2026-10-29T00:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -976,6 +904,18 @@
       "publication_approved": false
     },
     {
+      "id": "c129ae1c822c152c908c",
+      "title": "An Epstein Survivor’s Message for MoMA",
+      "url": "https://hyperallergic.com/an-epstein-survivors-message-for-moma/",
+      "source": "Hyperallergic",
+      "published": "2026-10-29T10:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "606427ab1c0d0668aa13",
       "title": "Ancient Torso Statue Sells for $34.3 M. at Sotheby’s, a Record for a Roman Antiquity",
       "url": "https://www.artnews.com/art-news/news/marble-torso-sothebys-roman-antiquity-record-magnum-opus-1234803482/",
@@ -1053,6 +993,18 @@
       "url": "https://hyperallergic.com/at-60-a-legendary-la-print-workshop-still-urges-us-to-pay-attention/",
       "source": "Hyperallergic",
       "published": "2026-10-26T21:32:26+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "7e707fcd72a0c1acddc0",
+      "title": "At 96, Surrealist Painter Cossette Zeno Is Finally Having Her Moment",
+      "url": "https://www.artnews.com/art-news/artists/cossette-zeno-surrealist-painter-1234804106/",
+      "source": "ARTnews",
+      "published": "2026-10-29T09:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1600,6 +1552,18 @@
       "publication_approved": false
     },
     {
+      "id": "047178d2c4e31db3084e",
+      "title": "Opinion: As Federal Support for Culture Falls, We Need a New Generation of Giving",
+      "url": "https://www.artnews.com/art-news/opinion/opinion-new-generation-of-giving-1234804081/",
+      "source": "ARTnews",
+      "published": "2026-10-29T09:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "27c5faa090fc79904898",
       "title": "Outsider Artist Josef Hofer, Whose Developmental Disability Made Him a Target in Nazi-Occupied Austria, Has Died at 80",
       "url": "https://www.artnews.com/art-news/news/outsider-artist-josef-hofer-developmental-disability-target-in-nazi-occupied-austria-has-died-at-80-1234804069/",
@@ -1617,6 +1581,18 @@
       "url": "https://www.artnews.com/art-news/market/pace-gallery-reports-losses-2024-gallery-makes-real-change-1234804003/",
       "source": "ARTnews",
       "published": "2026-10-27T18:21:23+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "1281c2350784430d25cf",
+      "title": "Pace Reports $5.6 M. Loss for International Business, With Glimchers Pledging to Keep It Afloat",
+      "url": "https://www.artnews.com/art-news/market/pace-2025-companies-house-report-loss-1234804143/",
+      "source": "ARTnews",
+      "published": "2026-10-28T20:53:46+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1761,6 +1737,18 @@
       "url": "https://www.thisiscolossal.com/2026/10/scott-kahn-silent-night-landscape-paintings/",
       "source": "Colossal",
       "published": "2026-10-26T16:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "d1673039581cfc6a827e",
+      "title": "See the Official Trailer for “Dig,” Amy Pohler and Michael Schur’s New Comedy Series",
+      "url": "https://www.artnews.com/art-news/news/amy-pohler-michael-schur-new-comedy-series-dig-trailer-1234804105/",
+      "source": "ARTnews",
+      "published": "2026-10-28T21:44:46+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1996,18 +1984,6 @@
       "publication_approved": false
     },
     {
-      "id": "7c9106d70322973a0166",
-      "title": "Walid Raad’s Way of Working Is Inspired by the Mirrors in Vampire Movies",
-      "url": "https://www.artnews.com/art-in-america/features/walid-raad-icons-venice-biennale-paula-cooper-1234803667/",
-      "source": "ARTnews",
-      "published": "2026-10-25T09:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "973e68252e4226ce42c3",
       "title": "What’s Selling at Art Basel Paris? Reported Sales Top Out at $10 M. for a Richter and a Baselitz",
       "url": "https://www.artnews.com/art-news/market/art-basel-paris-2026-sales-gerhard-richter-georg-baselitz-1234803317/",
@@ -2037,6 +2013,18 @@
       "url": "https://www.artnews.com/art-news/market/agnes-gund-collection-christies-auction-vija-celmins-1234804088/",
       "source": "ARTnews",
       "published": "2026-10-28T16:15:53+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "bdf7c19b79bb2909eef8",
+      "title": "World Monuments Fund Raises $62 M., Tripling Its Endowment Ahead of Schedule",
+      "url": "https://www.artnews.com/art-news/news/world-monuments-fund-62-million-endowment-campaign-1234804137/",
+      "source": "ARTnews",
+      "published": "2026-10-29T00:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -3657,6 +3645,18 @@
       "url": "https://hyperallergic.com/wpa-murals-at-harlem-hospital-restored-to-their-original-glory/",
       "source": "Hyperallergic",
       "published": "2026-10-15T20:58:56+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "7c9106d70322973a0166",
+      "title": "Walid Raad’s Way of Working Is Inspired by the Mirrors in Vampire Movies",
+      "url": "https://www.artnews.com/art-in-america/features/walid-raad-icons-venice-biennale-paula-cooper-1234803667/",
+      "source": "ARTnews",
+      "published": "2026-10-25T09:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
