@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-01T22:08:53.799351+00:00",
-  "source_generated_at": "2026-11-01T22:08:15.858125+00:00",
+  "generated_at": "2026-11-02T01:34:09.847193+00:00",
+  "source_generated_at": "2026-11-02T01:33:47.182092+00:00",
   "notice": "Kulis aday bağlantıları. Metin, iddia, alıntı ve fotoğraf henüz ATELIER tarafından doğrulanmadı. Otomatik haber yayınlamaz.",
   "items": [
     {
@@ -75,19 +75,6 @@
       "source": "Monopol",
       "published_at": "2026-10-30T22:00:36+00:00",
       "category": "FUAR KORİDORU",
-      "priority": 8,
-      "editorial_status": "source_link_requires_review",
-      "source_verified": false,
-      "article_approved": false,
-      "image_rights": "not_cleared",
-      "note": "Publisher headline only. Not an independently checked art gossip report."
-    },
-    {
-      "title": "Curator Ebony L Haynes Joins Marian Goodman As Gallery Revamps Leadership",
-      "url": "https://ocula.com/magazine/art-news/curator-ebony-l-haynes-joins-marian-goodman/",
-      "source": "Ocula",
-      "published_at": "2026-10-30T00:51:00+00:00",
-      "category": "GALERİ KULİSİ",
       "priority": 8,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
@@ -213,6 +200,19 @@
       "note": "Publisher headline only. Not an independently checked art gossip report."
     },
     {
+      "title": "Curator Ebony L Haynes Joins Marian Goodman As Gallery Revamps Leadership",
+      "url": "https://ocula.com/magazine/art-news/curator-ebony-l-haynes-joins-marian-goodman/",
+      "source": "Ocula",
+      "published_at": "2026-10-30T00:51:00+00:00",
+      "category": "GALERİ KULİSİ",
+      "priority": 7,
+      "editorial_status": "source_link_requires_review",
+      "source_verified": false,
+      "article_approved": false,
+      "image_rights": "not_cleared",
+      "note": "Publisher headline only. Not an independently checked art gossip report."
+    },
+    {
       "title": "“I Dwell in Possibility” by the Museum of Contemporary Art Ahmedabad and GALLERYSKE",
       "url": "https://www.artasiapacific.com/shows/i-dwell-in-possibility-by-the-museum-of-contemporary-art-ahmedabad-and-galleryske/",
       "source": "ArtAsiaPacific",
@@ -245,19 +245,6 @@
       "published_at": "2026-10-27T12:48:59+00:00",
       "category": "FUAR KORİDORU",
       "priority": 7,
-      "editorial_status": "source_link_requires_review",
-      "source_verified": false,
-      "article_approved": false,
-      "image_rights": "not_cleared",
-      "note": "Publisher headline only. Not an independently checked art gossip report."
-    },
-    {
-      "title": "U.S. Pavilion Sculptures Could Be Stranded Post-Venice Biennale",
-      "url": "https://www.artforum.com/news/u-s-pavilion-sculptures-could-be-stranded-venice-biennale-1234762822/",
-      "source": "Artforum",
-      "published_at": "2026-10-30T22:15:48+00:00",
-      "category": "FUAR KORİDORU",
-      "priority": 6,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
       "article_approved": false,
@@ -330,6 +317,19 @@
       "note": "Publisher headline only. Not an independently checked art gossip report."
     },
     {
+      "title": "U.S. Pavilion Sculptures Could Be Stranded Post-Venice Biennale",
+      "url": "https://www.artforum.com/news/u-s-pavilion-sculptures-could-be-stranded-venice-biennale-1234762822/",
+      "source": "Artforum",
+      "published_at": "2026-10-30T22:15:48+00:00",
+      "category": "FUAR KORİDORU",
+      "priority": 5,
+      "editorial_status": "source_link_requires_review",
+      "source_verified": false,
+      "article_approved": false,
+      "image_rights": "not_cleared",
+      "note": "Publisher headline only. Not an independently checked art gossip report."
+    },
+    {
       "title": "MoMA, Centre Pompidou, and M+ Announce Novel Collection Alliance",
       "url": "https://hyperallergic.com/moma-centre-pompidou-and-m-announce-novel-collection-alliance/",
       "source": "Hyperallergic",
@@ -369,19 +369,6 @@
       "note": "Publisher headline only. Not an independently checked art gossip report."
     },
     {
-      "title": "Ebony L. Haynes Named Senior Director at Marian Goodman in Leadership Shakeup",
-      "url": "https://www.artforum.com/news/ebony-haynes-named-senior-director-at-marian-goodman-1234762714/",
-      "source": "Artforum",
-      "published_at": "2026-10-29T22:26:21+00:00",
-      "category": "GALERİ KULİSİ",
-      "priority": 5,
-      "editorial_status": "source_link_requires_review",
-      "source_verified": false,
-      "article_approved": false,
-      "image_rights": "not_cleared",
-      "note": "Publisher headline only. Not an independently checked art gossip report."
-    },
-    {
       "title": "UK art market growth lags behind competitors, new report finds",
       "url": "https://www.theartnewspaper.com/2026/10/28/british-art-market-growth-lags-behind-competitors-new-report-finds",
       "source": "The Art Newspaper",
@@ -395,11 +382,11 @@
       "note": "Publisher headline only. Not an independently checked art gossip report."
     },
     {
-      "title": "Fake or Fortune art historian donates major Anglo-Indian art collection to Tate",
-      "url": "https://www.theartnewspaper.com/2026/10/27/fake-or-fortune-art-historian-donates-major-anglo-indian-art-collection-to-tate",
-      "source": "The Art Newspaper",
-      "published_at": "2026-10-27T11:56:49+00:00",
-      "category": "KOLEKSİYONERLER",
+      "title": "Ebony L. Haynes Named Senior Director at Marian Goodman in Leadership Shakeup",
+      "url": "https://www.artforum.com/news/ebony-haynes-named-senior-director-at-marian-goodman-1234762714/",
+      "source": "Artforum",
+      "published_at": "2026-10-29T22:26:21+00:00",
+      "category": "GALERİ KULİSİ",
       "priority": 4,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
@@ -408,10 +395,10 @@
       "note": "Publisher headline only. Not an independently checked art gossip report."
     },
     {
-      "title": "Sotheby’s Adds Fine Art to Abu Dhabi Collectors’ Week",
-      "url": "https://ocula.com/magazine/art-news/sothebys-adds-fine-art-to-abu-dhabi-auction/",
-      "source": "Ocula",
-      "published_at": "2026-10-26T00:08:20+00:00",
+      "title": "Fake or Fortune art historian donates major Anglo-Indian art collection to Tate",
+      "url": "https://www.theartnewspaper.com/2026/10/27/fake-or-fortune-art-historian-donates-major-anglo-indian-art-collection-to-tate",
+      "source": "The Art Newspaper",
+      "published_at": "2026-10-27T11:56:49+00:00",
       "category": "KOLEKSİYONERLER",
       "priority": 4,
       "editorial_status": "source_link_requires_review",
