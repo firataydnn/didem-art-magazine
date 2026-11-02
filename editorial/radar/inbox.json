@@ -2,6 +2,19 @@
   "schema": 1,
   "items": [
     {
+      "id": "25bd6d62f340493509c4",
+      "source": "Hyperallergic",
+      "category": "sanat-basini",
+      "title": "Happy Hyperallergic Halloween!",
+      "url": "https://hyperallergic.com/happy-hyperallergic-halloween/",
+      "published": "2026-11-02T11:00:00+00:00",
+      "summary": "The best of our annual costume contest, from Eva Hesse ropes to Saturn devouring his son.",
+      "discovered": "2026-11-02T13:37:52.318422+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "4aa51c335dda4749ff32",
       "source": "ARTnews",
       "category": "sanat-basini",

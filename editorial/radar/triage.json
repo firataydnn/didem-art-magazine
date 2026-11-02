@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "count": 317,
+  "count": 318,
   "possible_duplicates": 0,
   "items": [
     {
@@ -16,12 +16,12 @@
       "publication_approved": false
     },
     {
-      "id": "f518c2c40dbd6b371331",
-      "title": "U.S. Pavilion at Venice Biennale Is $1 M. Short, and Its Sculptures May Be Stuck in Italy",
-      "url": "https://www.artnews.com/art-news/news/u-s-pavilion-venice-biennale-1-million-short-alma-allen-1234804285/",
-      "source": "ARTnews",
-      "published": "2026-10-29T21:37:11+00:00",
-      "priority_score": 8,
+      "id": "25bd6d62f340493509c4",
+      "title": "Happy Hyperallergic Halloween!",
+      "url": "https://hyperallergic.com/happy-hyperallergic-halloween/",
+      "source": "Hyperallergic",
+      "published": "2026-11-02T11:00:00+00:00",
+      "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -69,18 +69,6 @@
       "url": "https://www.artnews.com/art-news/news/nazi-looted-torah-fragment-auction-canceled-israeli-government-intervened-1234803997/",
       "source": "ARTnews",
       "published": "2026-10-27T20:01:49+00:00",
-      "priority_score": 6,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "7dd148d8908d1c85749b",
-      "title": "Christie’s Brings a Blockbuster Klimt Landscape to Auction, Tagged at $80 M. and Guaranteed to Sell",
-      "url": "https://www.artnews.com/art-news/market/christies-blockbuster-klimt-landscape-80m-guaranteed-1234803727/",
-      "source": "ARTnews",
-      "published": "2026-10-26T10:00:00+00:00",
       "priority_score": 6,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -136,11 +124,11 @@
       "publication_approved": false
     },
     {
-      "id": "d5311bb9d2277d9dd1a1",
-      "title": "Sotheby’s Deepens Abu Dhabi Relationship With Inaugural Fine Art Auction in December",
-      "url": "https://www.artnews.com/art-news/market/sothebys-abu-dhabi-fine-art-auction-warhol-monet-1234803739/",
+      "id": "f518c2c40dbd6b371331",
+      "title": "U.S. Pavilion at Venice Biennale Is $1 M. Short, and Its Sculptures May Be Stuck in Italy",
+      "url": "https://www.artnews.com/art-news/news/u-s-pavilion-venice-biennale-1-million-short-alma-allen-1234804285/",
       "source": "ARTnews",
-      "published": "2026-10-26T13:08:54+00:00",
+      "published": "2026-10-29T21:37:11+00:00",
       "priority_score": 6,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -196,18 +184,6 @@
       "publication_approved": false
     },
     {
-      "id": "cc0384993e48bfe5ab35",
-      "title": "A Retrospective Introduces Francis Picabia to a New Generation—with Funhouse Mirrors and a Peep Show",
-      "url": "https://www.artnews.com/art-in-america/aia-reviews/francis-picabia-retrospective-palazzo-reale-milan-anne-berest-1234804213/",
-      "source": "ARTnews",
-      "published": "2026-10-30T09:00:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "9c908fb2930a03ac3c04",
       "title": "A View From the Easel: Anna Pajak",
       "url": "https://hyperallergic.com/a-view-from-the-easel-anna-pajak/",
@@ -237,18 +213,6 @@
       "url": "https://www.artnews.com/art-news/news/house-republicans-demand-smithsonian-curatorial-process-1234804234/",
       "source": "ARTnews",
       "published": "2026-10-29T19:24:13+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "9587701f60e6175bb929",
-      "title": "Are Black Cats Modernity’s Icons?",
-      "url": "https://hyperallergic.com/are-black-cats-modernitys-icons/",
-      "source": "Hyperallergic",
-      "published": "2026-10-30T10:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -316,35 +280,11 @@
       "publication_approved": false
     },
     {
-      "id": "1ef9e2aa8d79b8168f50",
-      "title": "Documenta 16 Names Four New Curatorial Team Members",
-      "url": "https://hyperallergic.com/documenta-16-names-four-new-curatorial-team-members/",
-      "source": "Hyperallergic",
-      "published": "2026-10-29T21:15:06+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "42cbc69e134a194341c6",
       "title": "Former Stedelijk Museum Director Rudi Fuchs Has Died at 84, V&A Plans Cuts to Academy Program, 100 Years of Marisa Merz, and More: Morning Links for October 27, 2026",
       "url": "https://www.artnews.com/art-news/news/former-stedelijk-museum-director-rudi-fuchs-has-died-at-84-1234803937/",
       "source": "ARTnews",
       "published": "2026-10-27T14:07:22+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "a9cbb4b582c52279e037",
-      "title": "In Postwar Rural France, Alexander Calder Found Respite from Pressures of Fame and a Chance to Dream Big",
-      "url": "https://www.artnews.com/art-news/news/alexander-calder-exhibition-hauser-and-wirth-paris-1234804262/",
-      "source": "ARTnews",
-      "published": "2026-10-30T09:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -400,18 +340,6 @@
       "publication_approved": false
     },
     {
-      "id": "4deebc70775d83f622e1",
-      "title": "Louvre Signs Deal with Unions, Ending Threat of Continued Strikes",
-      "url": "https://www.artnews.com/art-news/news/louvre-signs-deal-with-unions-ending-threat-continued-strikes-1234804321/",
-      "source": "ARTnews",
-      "published": "2026-10-30T13:10:53+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "1dc5163217427e7bd3fe",
       "title": "Milwaukee Art Museum Receives $10 M. Gift to Preserve Santiago Calatrava–Designed Building",
       "url": "https://www.artnews.com/art-news/news/milwaukee-art-museum-10-million-gift-quadracci-pavilion-1234803847/",
@@ -429,30 +357,6 @@
       "url": "https://hyperallergic.com/moma-centre-pompidou-and-m-announce-novel-collection-alliance/",
       "source": "Hyperallergic",
       "published": "2026-10-30T20:57:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "b9e32e11c5c35b0ec4b1",
-      "title": "MoMA, Centre Pompidou, and M+ Will Treat Their Holdings as One Collection in Unprecedented Alliance",
-      "url": "https://www.artnews.com/art-news/news/moma-centre-pompidou-m-plus-alliance-shared-collection-1234804101/",
-      "source": "ARTnews",
-      "published": "2026-10-30T03:15:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "bcb2364103baaf02e72a",
-      "title": "November 2026 Opportunities: Open Calls, Residencies, and Grants for Artists",
-      "url": "https://www.thisiscolossal.com/2026/10/november-2026-opportunities-open-calls-residencies-and-grants-for-artists/",
-      "source": "Colossal",
-      "published": "2026-10-29T22:46:33+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -616,11 +520,35 @@
       "publication_approved": false
     },
     {
+      "id": "7dd148d8908d1c85749b",
+      "title": "Christie’s Brings a Blockbuster Klimt Landscape to Auction, Tagged at $80 M. and Guaranteed to Sell",
+      "url": "https://www.artnews.com/art-news/market/christies-blockbuster-klimt-landscape-80m-guaranteed-1234803727/",
+      "source": "ARTnews",
+      "published": "2026-10-26T10:00:00+00:00",
+      "priority_score": 4,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "dbcae820ac3c37215046",
       "title": "In Rare Market Moment, Hilma af Klint Painting Comes to Auction in Sweden",
       "url": "https://www.artnews.com/art-news/news/hilma-af-klint-auction-bukowskis-1234803046/",
       "source": "ARTnews",
       "published": "2026-10-20T13:57:23+00:00",
+      "priority_score": 4,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "d5311bb9d2277d9dd1a1",
+      "title": "Sotheby’s Deepens Abu Dhabi Relationship With Inaugural Fine Art Auction in December",
+      "url": "https://www.artnews.com/art-news/market/sothebys-abu-dhabi-fine-art-auction-warhol-monet-1234803739/",
+      "source": "ARTnews",
+      "published": "2026-10-26T13:08:54+00:00",
       "priority_score": 4,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -664,18 +592,6 @@
       "publication_approved": false
     },
     {
-      "id": "ea0aae41c0e8caf0a8d0",
-      "title": "50 Artworks by Artists Who Lived and Worked in India Gifted to the Tate",
-      "url": "https://www.artnews.com/art-news/news/50-artworks-artists-who-lived-worked-india-gifted-tate-1234803695/",
-      "source": "ARTnews",
-      "published": "2026-10-26T08:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "06848b8e21871df54f61",
       "title": "A Macro Journey Underwater Reveals the Radiant Geometries of Coral",
       "url": "https://www.thisiscolossal.com/2026/10/iteration-coral-reef-film/",
@@ -693,6 +609,18 @@
       "url": "https://www.artnews.com/art-news/news/german-painting-hung-hitler-home-restitution-claim-1234804050/",
       "source": "ARTnews",
       "published": "2026-10-27T21:26:33+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "cc0384993e48bfe5ab35",
+      "title": "A Retrospective Introduces Francis Picabia to a New Generation—with Funhouse Mirrors and a Peep Show",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/francis-picabia-retrospective-palazzo-reale-milan-anne-berest-1234804213/",
+      "source": "ARTnews",
+      "published": "2026-10-30T09:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -748,18 +676,6 @@
       "publication_approved": false
     },
     {
-      "id": "43f2499f1cf9e2b74cef",
-      "title": "An Abbey in France Discovered Previously Unknown Wall Sketches by Odilon Redon",
-      "url": "https://www.artnews.com/art-news/news/abbaye-de-fontfroide-rediscovered-odilon-redon-sketches-1234803456/",
-      "source": "ARTnews",
-      "published": "2026-10-26T12:45:17+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "c129ae1c822c152c908c",
       "title": "An Epstein Survivor’s Message for MoMA",
       "url": "https://hyperallergic.com/an-epstein-survivors-message-for-moma/",
@@ -777,6 +693,18 @@
       "url": "https://www.artnews.com/art-news/news/marble-torso-sothebys-roman-antiquity-record-magnum-opus-1234803482/",
       "source": "ARTnews",
       "published": "2026-10-22T14:50:40+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "9587701f60e6175bb929",
+      "title": "Are Black Cats Modernity’s Icons?",
+      "url": "https://hyperallergic.com/are-black-cats-modernitys-icons/",
+      "source": "Hyperallergic",
+      "published": "2026-10-30T10:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1012,6 +940,18 @@
       "publication_approved": false
     },
     {
+      "id": "1ef9e2aa8d79b8168f50",
+      "title": "Documenta 16 Names Four New Curatorial Team Members",
+      "url": "https://hyperallergic.com/documenta-16-names-four-new-curatorial-team-members/",
+      "source": "Hyperallergic",
+      "published": "2026-10-29T21:15:06+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "8660d8d8cd08e37d1a34",
       "title": "Dozens of Sculptures Dot Bondi Beach in the 2026 Sculpture by the Sea Exhibition",
       "url": "https://www.thisiscolossal.com/2026/10/bondi-beach-sculpture-by-the-sea-exhibition-2026/",
@@ -1072,18 +1012,6 @@
       "publication_approved": false
     },
     {
-      "id": "66bb87b202178bf88d79",
-      "title": "Former Presidents Obama, Clinton Mock Trump’s White House Interiors With Comparisons to ‘Saddam Hussein’ and ‘Liberace’s Bathroom’",
-      "url": "https://www.artnews.com/art-news/news/obama-clinton-mock-trump-white-house-interiors-1234803754/",
-      "source": "ARTnews",
-      "published": "2026-10-26T13:14:03+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "b092e23688d7bce3f99e",
       "title": "Found Object Masks by Romuald Hazoumè Counter Sorrow with Sympathy",
       "url": "https://www.thisiscolossal.com/2026/10/romuald-hazoume-plastic-jug-mask-sculptures/",
@@ -1101,18 +1029,6 @@
       "url": "https://www.artnews.com/art-news/news/friedel-dzubas-black-paintings-nathalie-karg-jules-lazare-1234803815/",
       "source": "ARTnews",
       "published": "2026-10-26T20:23:01+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "570616136c6f746ce6eb",
-      "title": "From Paris, In Solidarity",
-      "url": "https://hyperallergic.com/from-paris-in-solidarity/",
-      "source": "Hyperallergic",
-      "published": "2026-10-26T10:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1252,11 +1168,11 @@
       "publication_approved": false
     },
     {
-      "id": "bf99151e6f3712a1a783",
-      "title": "Indian Artist Jogen Chowdhury Has Died, $80 M. Klimt Heads to Christie’s, and More: Morning Links for October 26, 2026",
-      "url": "https://www.artnews.com/art-news/news/indian-artist-jogen-chowdhury-has-died-1234803769/",
+      "id": "a9cbb4b582c52279e037",
+      "title": "In Postwar Rural France, Alexander Calder Found Respite from Pressures of Fame and a Chance to Dream Big",
+      "url": "https://www.artnews.com/art-news/news/alexander-calder-exhibition-hauser-and-wirth-paris-1234804262/",
       "source": "ARTnews",
-      "published": "2026-10-26T13:35:00+00:00",
+      "published": "2026-10-30T09:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1360,6 +1276,18 @@
       "publication_approved": false
     },
     {
+      "id": "4deebc70775d83f622e1",
+      "title": "Louvre Signs Deal with Unions, Ending Threat of Continued Strikes",
+      "url": "https://www.artnews.com/art-news/news/louvre-signs-deal-with-unions-ending-threat-continued-strikes-1234804321/",
+      "source": "ARTnews",
+      "published": "2026-10-30T13:10:53+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "fc018f4570e7b3cae848",
       "title": "Louvre, Picasso Museum, Musée d’Orsay Will Close Saturday In Anticipation of Hard-Left Groups Targeting Public Buildings, Says Interior Minister",
       "url": "https://www.artnews.com/art-news/news/louvre-picasso-museum-musee-dorsay-will-close-saturday-paris-protests-1234803645/",
@@ -1401,6 +1329,18 @@
       "url": "https://hyperallergic.com/mamdani-votes-early-at-the-met-what-other-nyc-museums-are-polling-sites/",
       "source": "Hyperallergic",
       "published": "2026-10-26T19:11:47+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "b9e32e11c5c35b0ec4b1",
+      "title": "MoMA, Centre Pompidou, and M+ Will Treat Their Holdings as One Collection in Unprecedented Alliance",
+      "url": "https://www.artnews.com/art-news/news/moma-centre-pompidou-m-plus-alliance-shared-collection-1234804101/",
+      "source": "ARTnews",
+      "published": "2026-10-30T03:15:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1473,6 +1413,18 @@
       "url": "https://www.artnews.com/art-news/news/morning-links-october-16-norton-simon-museum-1234802810/",
       "source": "ARTnews",
       "published": "2026-10-16T23:59:51+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "bcb2364103baaf02e72a",
+      "title": "November 2026 Opportunities: Open Calls, Residencies, and Grants for Artists",
+      "url": "https://www.thisiscolossal.com/2026/10/november-2026-opportunities-open-calls-residencies-and-grants-for-artists/",
+      "source": "Colossal",
+      "published": "2026-10-29T22:46:33+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2104,6 +2056,18 @@
       "publication_approved": false
     },
     {
+      "id": "ea0aae41c0e8caf0a8d0",
+      "title": "50 Artworks by Artists Who Lived and Worked in India Gifted to the Tate",
+      "url": "https://www.artnews.com/art-news/news/50-artworks-artists-who-lived-worked-india-gifted-tate-1234803695/",
+      "source": "ARTnews",
+      "published": "2026-10-26T08:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "5aee027960232c701980",
       "title": "A New Wildlife Crossing in Colorado Has Already Cut Vehicle Collisions by 91 Percent",
       "url": "https://www.thisiscolossal.com/2026/10/colorado-i25-wildlife-crossing/",
@@ -2169,6 +2133,18 @@
       "url": "https://www.artnews.com/gallery/art-news/photos/artnews-2026-top-200-collectors-slideshow-1234802680/",
       "source": "ARTnews",
       "published": "2026-10-16T19:57:12+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "43f2499f1cf9e2b74cef",
+      "title": "An Abbey in France Discovered Previously Unknown Wall Sketches by Odilon Redon",
+      "url": "https://www.artnews.com/art-news/news/abbaye-de-fontfroide-rediscovered-odilon-redon-sketches-1234803456/",
+      "source": "ARTnews",
+      "published": "2026-10-26T12:45:17+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2584,6 +2560,18 @@
       "publication_approved": false
     },
     {
+      "id": "66bb87b202178bf88d79",
+      "title": "Former Presidents Obama, Clinton Mock Trump’s White House Interiors With Comparisons to ‘Saddam Hussein’ and ‘Liberace’s Bathroom’",
+      "url": "https://www.artnews.com/art-news/news/obama-clinton-mock-trump-white-house-interiors-1234803754/",
+      "source": "ARTnews",
+      "published": "2026-10-26T13:14:03+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "e561bf5d2e9e2bcaff06",
       "title": "Francesco Bonami Named Artistic Director of Russian Billionaire’s Moscow Art Complex",
       "url": "https://www.artnews.com/art-news/news/francesco-bonami-artistic-director-ges-2-house-of-culture-moscow-1234802581/",
@@ -2613,6 +2601,18 @@
       "url": "https://hyperallergic.com/french-students-take-to-the-monuments/",
       "source": "Hyperallergic",
       "published": "2026-10-22T10:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "570616136c6f746ce6eb",
+      "title": "From Paris, In Solidarity",
+      "url": "https://hyperallergic.com/from-paris-in-solidarity/",
+      "source": "Hyperallergic",
+      "published": "2026-10-26T10:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2733,6 +2733,18 @@
       "url": "https://www.thisiscolossal.com/2026/10/aeolus-studio-drift-light-glass-installation/",
       "source": "Colossal",
       "published": "2026-10-19T16:01:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "bf99151e6f3712a1a783",
+      "title": "Indian Artist Jogen Chowdhury Has Died, $80 M. Klimt Heads to Christie’s, and More: Morning Links for October 26, 2026",
+      "url": "https://www.artnews.com/art-news/news/indian-artist-jogen-chowdhury-has-died-1234803769/",
+      "source": "ARTnews",
+      "published": "2026-10-26T13:35:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
