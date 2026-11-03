@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-03T03:30:04.544066+00:00",
-  "source_generated_at": "2026-11-03T03:29:36.403524+00:00",
+  "generated_at": "2026-11-03T12:00:36.719820+00:00",
+  "source_generated_at": "2026-11-03T12:00:06.596258+00:00",
   "notice": "Kulis aday bağlantıları. Metin, iddia, alıntı ve fotoğraf henüz ATELIER tarafından doğrulanmadı. Otomatik haber yayınlamaz.",
   "items": [
     {
@@ -101,7 +101,7 @@
       "source": "Artnet",
       "published_at": "2026-11-02T09:44:56+00:00",
       "category": "GALERİ KULİSİ",
-      "priority": 12,
+      "priority": 11,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
       "article_approved": false,
@@ -114,7 +114,7 @@
       "source": "The Art Newspaper",
       "published_at": "2026-11-02T09:43:37+00:00",
       "category": "MÜZAYEDE MASASI",
-      "priority": 12,
+      "priority": 11,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
       "article_approved": false,
@@ -161,12 +161,25 @@
       "note": "Publisher headline only. Not an independently checked art gossip report."
     },
     {
+      "title": "Comment | There is cautious optimism surrounding the contemporary art market—but will it last?",
+      "url": "https://www.theartnewspaper.com/2026/11/03/comment-|-there-is-cautious-optimism-surrounding-the-contemporary-art-marketbut-will-it-last",
+      "source": "The Art Newspaper",
+      "published_at": "2026-11-03T09:00:00+00:00",
+      "category": "SANAT & GÜÇ",
+      "priority": 9,
+      "editorial_status": "source_link_requires_review",
+      "source_verified": false,
+      "article_approved": false,
+      "image_rights": "not_cleared",
+      "note": "Publisher headline only. Not an independently checked art gossip report."
+    },
+    {
       "title": "Inside One Couple’s Legendary Pop Art Collection",
       "url": "https://news.artnet.com/art-world/kimiko-john-powers-pop-collection-2829907",
       "source": "Artnet",
       "published_at": "2026-11-02T08:00:00+00:00",
       "category": "KOLEKSİYONERLER",
-      "priority": 9,
+      "priority": 8,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
       "article_approved": false,
@@ -179,32 +192,6 @@
       "source": "ArtAsiaPacific",
       "published_at": "2026-11-01T03:26:39+00:00",
       "category": "KOLEKSİYONERLER",
-      "priority": 8,
-      "editorial_status": "source_link_requires_review",
-      "source_verified": false,
-      "article_approved": false,
-      "image_rights": "not_cleared",
-      "note": "Publisher headline only. Not an independently checked art gossip report."
-    },
-    {
-      "title": "A Gallery Known for Modern Masters Spotlights a More Discreet Painter",
-      "url": "https://news.artnet.com/art-world/jean-pierre-cassigneul-galerie-de-linstitut-2828688",
-      "source": "Artnet",
-      "published_at": "2026-10-29T21:32:02+00:00",
-      "category": "GALERİ KULİSİ",
-      "priority": 8,
-      "editorial_status": "source_link_requires_review",
-      "source_verified": false,
-      "article_approved": false,
-      "image_rights": "not_cleared",
-      "note": "Publisher headline only. Not an independently checked art gossip report."
-    },
-    {
-      "title": "Will Art Basel Compensate Galleries for Closing Early in Paris?",
-      "url": "https://news.artnet.com/market/art-basel-parist-refund-2829024",
-      "source": "Artnet",
-      "published_at": "2026-10-29T20:20:22+00:00",
-      "category": "GALERİ KULİSİ",
       "priority": 8,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
@@ -304,19 +291,6 @@
       "note": "Publisher headline only. Not an independently checked art gossip report."
     },
     {
-      "title": "Pauline Karpidas’s Jewelry Collection Dazzled Warhol. Now It’s Up for Sale",
-      "url": "https://news.artnet.com/market/karpidas-jewelry-collection-2830153",
-      "source": "Artnet",
-      "published_at": "2026-10-30T12:00:25+00:00",
-      "category": "KOLEKSİYONERLER",
-      "priority": 6,
-      "editorial_status": "source_link_requires_review",
-      "source_verified": false,
-      "article_approved": false,
-      "image_rights": "not_cleared",
-      "note": "Publisher headline only. Not an independently checked art gossip report."
-    },
-    {
       "title": "Curator Ebony L Haynes Joins Marian Goodman As Gallery Revamps Leadership",
       "url": "https://ocula.com/magazine/art-news/curator-ebony-l-haynes-joins-marian-goodman/",
       "source": "Ocula",
@@ -356,10 +330,10 @@
       "note": "Publisher headline only. Not an independently checked art gossip report."
     },
     {
-      "title": "MoMA, Centre Pompidou, and M+ Will Treat Their Holdings as One Collection in Unprecedented Alliance",
-      "url": "https://www.artnews.com/art-news/news/moma-centre-pompidou-m-plus-alliance-shared-collection-1234804101/",
-      "source": "ARTnews",
-      "published_at": "2026-10-30T03:15:00+00:00",
+      "title": "Pauline Karpidas’s Jewelry Collection Dazzled Warhol. Now It’s Up for Sale",
+      "url": "https://news.artnet.com/market/karpidas-jewelry-collection-2830153",
+      "source": "Artnet",
+      "published_at": "2026-10-30T12:00:25+00:00",
       "category": "KOLEKSİYONERLER",
       "priority": 5,
       "editorial_status": "source_link_requires_review",
@@ -369,11 +343,11 @@
       "note": "Publisher headline only. Not an independently checked art gossip report."
     },
     {
-      "title": "U.S. Pavilion at Venice Biennale Is $1 M. Short, and Its Sculptures May Be Stuck in Italy",
-      "url": "https://www.artnews.com/art-news/news/u-s-pavilion-venice-biennale-1-million-short-alma-allen-1234804285/",
+      "title": "MoMA, Centre Pompidou, and M+ Will Treat Their Holdings as One Collection in Unprecedented Alliance",
+      "url": "https://www.artnews.com/art-news/news/moma-centre-pompidou-m-plus-alliance-shared-collection-1234804101/",
       "source": "ARTnews",
-      "published_at": "2026-10-29T21:37:11+00:00",
-      "category": "FUAR KORİDORU",
+      "published_at": "2026-10-30T03:15:00+00:00",
+      "category": "KOLEKSİYONERLER",
       "priority": 5,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
