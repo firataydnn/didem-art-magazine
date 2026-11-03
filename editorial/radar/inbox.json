@@ -2,6 +2,45 @@
   "schema": 1,
   "items": [
     {
+      "id": "fecc0d64878ddffccbb2",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "ARTnews and Hublot Host Dinner at New York Headquarters of Kid Super",
+      "url": "https://www.artnews.com/art-in-america/features/artnews-hublot-host-dinner-new-york-headquarters-kid-super-1234804519/",
+      "published": "2026-11-02T23:57:28+00:00",
+      "summary": "On Wednesday night, ARTnews and Hublot hosted a dinner at the New York headquarters of artist and fashion designer Kid Super.",
+      "discovered": "2026-11-03T12:52:04.528116+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "7547d49795a97d18591e",
+      "source": "Hyperallergic",
+      "category": "sanat-basini",
+      "title": "Your Midterm Guide to Voting for the Arts",
+      "url": "https://hyperallergic.com/your-midterm-guide-to-voting-for-the-arts/",
+      "published": "2026-11-03T11:00:00+00:00",
+      "summary": "We rounded up key races and where candidates stand on culture funding, AI, and more.",
+      "discovered": "2026-11-03T12:52:04.528116+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "3d503402028694425ee4",
+      "source": "Hyperallergic",
+      "category": "sanat-basini",
+      "title": "A Midterm Election Guide for Artists and Arts Workers",
+      "url": "https://hyperallergic.com/a-midterm-election-guide-for-artists-and-arts-workers/",
+      "published": "2026-11-02T23:58:09+00:00",
+      "summary": "Issues touching on arts funding, censorship, AI regulation, and more are at stake for the country’s cultural sectors across key Senate, House, and Gubernatorial races.",
+      "discovered": "2026-11-03T12:52:04.528116+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "757b654ea49d004afe8f",
       "source": "ARTnews",
       "category": "sanat-basini",

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "count": 339,
+  "count": 342,
   "possible_duplicates": 0,
   "items": [
     {
@@ -100,6 +100,30 @@
       "publication_approved": false
     },
     {
+      "id": "3d503402028694425ee4",
+      "title": "A Midterm Election Guide for Artists and Arts Workers",
+      "url": "https://hyperallergic.com/a-midterm-election-guide-for-artists-and-arts-workers/",
+      "source": "Hyperallergic",
+      "published": "2026-11-02T23:58:09+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "fecc0d64878ddffccbb2",
+      "title": "ARTnews and Hublot Host Dinner at New York Headquarters of Kid Super",
+      "url": "https://www.artnews.com/art-in-america/features/artnews-hublot-host-dinner-new-york-headquarters-kid-super-1234804519/",
+      "source": "ARTnews",
+      "published": "2026-11-02T23:57:28+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "b26962ae2bd0b3054d0a",
       "title": "Ana Mendieta's Lasting Imprint on Art",
       "url": "https://hyperallergic.com/ana-mendietas-lasting-imprint-on-art/",
@@ -160,18 +184,6 @@
       "publication_approved": false
     },
     {
-      "id": "25bd6d62f340493509c4",
-      "title": "Happy Hyperallergic Halloween!",
-      "url": "https://hyperallergic.com/happy-hyperallergic-halloween/",
-      "source": "Hyperallergic",
-      "published": "2026-11-02T11:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "17651c0e1ba95f1d8dd8",
       "title": "Hard Truths: Should a Jilted Artist Keep Applying for Grants?",
       "url": "https://www.artnews.com/art-in-america/columns/hard-truths-artist-apply-for-grants-1234804414/",
@@ -201,18 +213,6 @@
       "url": "https://www.artnews.com/art-news/news/lawmaker-says-kennedy-center-closure-hide-failure-trump-1234804435/",
       "source": "ARTnews",
       "published": "2026-11-02T18:56:42+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "4aa51c335dda4749ff32",
-      "title": "In Reply to Senators’ Amicus Briefs, Austria, Albertina, and Leopold Museum Double Down on Unconstitutionality of HEAR Act",
-      "url": "https://www.artnews.com/art-news/news/austria-albertina-leopold-senator-amicus-brief-response-1234804373/",
-      "source": "ARTnews",
-      "published": "2026-10-31T03:25:07+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -273,6 +273,18 @@
       "url": "https://www.artnews.com/art-news/news/rembrandt-house-museum-amsterdam-tattoo-event-henk-schiffmacher-1234804486/",
       "source": "ARTnews",
       "published": "2026-11-02T20:25:51+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "7547d49795a97d18591e",
+      "title": "Your Midterm Guide to Voting for the Arts",
+      "url": "https://hyperallergic.com/your-midterm-guide-to-voting-for-the-arts/",
+      "source": "Hyperallergic",
+      "published": "2026-11-03T11:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -412,18 +424,6 @@
       "publication_approved": false
     },
     {
-      "id": "b3a8faba88564f797b9e",
-      "title": "Art Basel Qatar Returns for Second Edition With 82 Galleries Under Artistic Direction of Wassan Al-Khudhairi, Aims to ‘Deepen Collector Relationships’",
-      "url": "https://www.artnews.com/art-news/market/art-basel-qatar-2027-doha-wassan-al-khudhairi-1234803254/",
-      "source": "ARTnews",
-      "published": "2026-10-27T11:00:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "60933e264f2a26953dbe",
       "title": "Art Dealer Family the Nahmads Are the Consignors Behind $80 M. Kandinsky Set to Break a Record at Christie’s",
       "url": "https://www.artnews.com/art-news/market/nahmads-wassily-kandinsky-christies-consignor-1234804168/",
@@ -472,6 +472,30 @@
       "publication_approved": false
     },
     {
+      "id": "25bd6d62f340493509c4",
+      "title": "Happy Hyperallergic Halloween!",
+      "url": "https://hyperallergic.com/happy-hyperallergic-halloween/",
+      "source": "Hyperallergic",
+      "published": "2026-11-02T11:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "4aa51c335dda4749ff32",
+      "title": "In Reply to Senators’ Amicus Briefs, Austria, Albertina, and Leopold Museum Double Down on Unconstitutionality of HEAR Act",
+      "url": "https://www.artnews.com/art-news/news/austria-albertina-leopold-senator-amicus-brief-response-1234804373/",
+      "source": "ARTnews",
+      "published": "2026-10-31T03:25:07+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "721d94d49ac7911e43ad",
       "title": "In a New Video, Mayor Mamdani Touts the Met Museum as an Early Voting Site",
       "url": "https://www.artnews.com/art-news/news/nyc-mayor-mamdani-met-museum-early-voting-site-1234803965/",
@@ -513,18 +537,6 @@
       "url": "https://www.artnews.com/art-news/news/metropolitan-museum-art-vacheron-constantin-residency-1234804336/",
       "source": "ARTnews",
       "published": "2026-10-30T15:44:13+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "cdde8c6da61cdb26f470",
-      "title": "To Live Is to Believe",
-      "url": "https://hyperallergic.com/to-live-is-to-believe/",
-      "source": "Hyperallergic",
-      "published": "2026-10-31T10:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -844,6 +856,18 @@
       "publication_approved": false
     },
     {
+      "id": "b3a8faba88564f797b9e",
+      "title": "Art Basel Qatar Returns for Second Edition With 82 Galleries Under Artistic Direction of Wassan Al-Khudhairi, Aims to ‘Deepen Collector Relationships’",
+      "url": "https://www.artnews.com/art-news/market/art-basel-qatar-2027-doha-wassan-al-khudhairi-1234803254/",
+      "source": "ARTnews",
+      "published": "2026-10-27T11:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "f5c2187e152c49b45135",
       "title": "Art Week NYC Announces 32 Participating Institutions, New Museum Programming for Inaugural Fall Event",
       "url": "https://www.artnews.com/art-news/news/art-week-nyc-2026-participating-institutions-1234802608/",
@@ -1137,18 +1161,6 @@
       "url": "https://hyperallergic.com/hell-takes-the-form-of-state-repression-in-1971s-the-devils/",
       "source": "Hyperallergic",
       "published": "2026-10-29T17:36:58+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "24966c2abc58b7d355ad",
-      "title": "Hillary Clinton Visits Yayoi Kusama Sculptures on Naoshima Island Ahead of 37th Praemium Imperiale Awards Ceremony",
-      "url": "https://www.artnews.com/art-news/news/hillary-clinton-yayoi-kusama-naoshima-1234803923/",
-      "source": "ARTnews",
-      "published": "2026-10-27T12:08:53+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1804,18 +1816,6 @@
       "publication_approved": false
     },
     {
-      "id": "8058c54cb627ff1dcadc",
-      "title": "The Gospel According to Paul Pfeiffer",
-      "url": "https://hyperallergic.com/the-gospel-according-to-paul-pfeiffer/",
-      "source": "Hyperallergic",
-      "published": "2026-10-27T10:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "b5c7bcbeab5848351a02",
       "title": "The Greatest Art Costumes From Hyperallergic's Halloween Party",
       "url": "https://hyperallergic.com/the-greatest-art-costumes-from-hyperallergics-halloween-party-2026/",
@@ -1857,6 +1857,18 @@
       "url": "https://www.thisiscolossal.com/2026/10/timothy-boomer-photographs-plant-galls/",
       "source": "Colossal",
       "published": "2026-10-30T18:46:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "cdde8c6da61cdb26f470",
+      "title": "To Live Is to Believe",
+      "url": "https://hyperallergic.com/to-live-is-to-believe/",
+      "source": "Hyperallergic",
+      "published": "2026-10-31T10:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2709,6 +2721,18 @@
       "url": "https://hyperallergic.com/gowanus-open-studios-turns-30/",
       "source": "Hyperallergic",
       "published": "2026-10-19T20:22:02+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "24966c2abc58b7d355ad",
+      "title": "Hillary Clinton Visits Yayoi Kusama Sculptures on Naoshima Island Ahead of 37th Praemium Imperiale Awards Ceremony",
+      "url": "https://www.artnews.com/art-news/news/hillary-clinton-yayoi-kusama-naoshima-1234803923/",
+      "source": "ARTnews",
+      "published": "2026-10-27T12:08:53+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -3657,6 +3681,18 @@
       "url": "https://hyperallergic.com/the-french-student-protesters-subverting-monuments-like-its-may-68/",
       "source": "Hyperallergic",
       "published": "2026-10-21T21:20:43+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "8058c54cb627ff1dcadc",
+      "title": "The Gospel According to Paul Pfeiffer",
+      "url": "https://hyperallergic.com/the-gospel-according-to-paul-pfeiffer/",
+      "source": "Hyperallergic",
+      "published": "2026-10-27T10:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
