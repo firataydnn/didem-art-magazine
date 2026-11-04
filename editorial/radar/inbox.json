@@ -2,6 +2,32 @@
   "schema": 1,
   "items": [
     {
+      "id": "124c9468e79de8f06fb9",
+      "source": "Hyperallergic",
+      "category": "sanat-basini",
+      "title": "The Art of Showing Up",
+      "url": "https://hyperallergic.com/the-art-of-showing-up/",
+      "published": "2026-11-04T11:00:00+00:00",
+      "summary": "Voting stickers adorn memorials to ICE victims, Jeremy Shaw talks grief and ecstasy, and a portable archive of East LA.",
+      "discovered": "2026-11-04T13:04:19.114808+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "4125d844c14b20f1c7c2",
+      "source": "Colossal",
+      "category": "gorsel-kultur",
+      "title": "Assyria is Far from Ancient in Esther Elia’s Characterizations of Contemporary ‘Diasporic Deities’",
+      "url": "https://www.thisiscolossal.com/2026/11/esther-elia-assyrian-culture-tile-sculptures-paintings/",
+      "published": "2026-11-03T22:25:26+00:00",
+      "summary": "The Albuquerque-based artist explores contemporary Assyrian experience through pattern, fashion, and autobiography. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article Assyria is Far from Ancient in Esther Elia’s Characterizations of Contemporary ‘Diasporic Deities’ appeared first on Colossal .",
+      "discovered": "2026-11-04T13:04:19.114808+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "98c056502c911fac5418",
       "source": "ARTnews",
       "category": "sanat-basini",

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "count": 364,
+  "count": 366,
   "possible_duplicates": 0,
   "items": [
     {
@@ -100,42 +100,6 @@
       "publication_approved": false
     },
     {
-      "id": "6ff968050ff26082e144",
-      "title": "10 Art Books to Curl Up With This November",
-      "url": "https://hyperallergic.com/10-art-books-to-curl-up-with-this-november/",
-      "source": "Hyperallergic",
-      "published": "2026-11-02T23:27:08+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "3d503402028694425ee4",
-      "title": "A Midterm Election Guide for Artists and Arts Workers",
-      "url": "https://hyperallergic.com/a-midterm-election-guide-for-artists-and-arts-workers/",
-      "source": "Hyperallergic",
-      "published": "2026-11-02T23:58:09+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "fecc0d64878ddffccbb2",
-      "title": "ARTnews and Hublot Host Dinner at New York Headquarters of Kid Super",
-      "url": "https://www.artnews.com/art-in-america/features/artnews-hublot-host-dinner-new-york-headquarters-kid-super-1234804519/",
-      "source": "ARTnews",
-      "published": "2026-11-02T23:57:28+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "85022895ef9025729749",
       "title": "Americans Place “I Voted” Stickers on Memorials to ICE Victims",
       "url": "https://hyperallergic.com/americans-place-i-voted-stickers-on-memorials-to-ice-victims/",
@@ -165,6 +129,18 @@
       "url": "https://hyperallergic.com/as-politicians-break-promises-this-public-artwork-keeps-them/",
       "source": "Hyperallergic",
       "published": "2026-11-03T19:50:58+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "4125d844c14b20f1c7c2",
+      "title": "Assyria is Far from Ancient in Esther Elia’s Characterizations of Contemporary ‘Diasporic Deities’",
+      "url": "https://www.thisiscolossal.com/2026/11/esther-elia-assyrian-culture-tile-sculptures-paintings/",
+      "source": "Colossal",
+      "published": "2026-11-03T22:25:26+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -340,18 +316,6 @@
       "publication_approved": false
     },
     {
-      "id": "757b654ea49d004afe8f",
-      "title": "Pace CEO Marc Glimcher Responds to Reports of Financial Losses, Says Gallery Will Open New Location in Europe",
-      "url": "https://www.artnews.com/art-news/news/pace-marc-glimcher-financial-reports-new-europe-location-1234804487/",
-      "source": "ARTnews",
-      "published": "2026-11-02T23:39:37+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "98c056502c911fac5418",
       "title": "Simon Denny Commissioned by New York Magazine to Create Portraits of ‘New AI Elite’ for Power Issue",
       "url": "https://www.artnews.com/art-news/news/simon-denny-ai-portraits-new-york-magazine-power-issue-1234804625/",
@@ -364,11 +328,11 @@
       "publication_approved": false
     },
     {
-      "id": "54a2e6a23c4b59507ee0",
-      "title": "The Indian Pavilion in Venice Asks: What Is Home?",
-      "url": "https://hyperallergic.com/the-indian-pavilion-in-venice-asks-what-is-home/",
+      "id": "124c9468e79de8f06fb9",
+      "title": "The Art of Showing Up",
+      "url": "https://hyperallergic.com/the-art-of-showing-up/",
       "source": "Hyperallergic",
-      "published": "2026-11-03T20:42:01+00:00",
+      "published": "2026-11-04T11:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -376,11 +340,11 @@
       "publication_approved": false
     },
     {
-      "id": "7547d49795a97d18591e",
-      "title": "Your Midterm Guide to Voting for the Arts",
-      "url": "https://hyperallergic.com/your-midterm-guide-to-voting-for-the-arts/",
+      "id": "54a2e6a23c4b59507ee0",
+      "title": "The Indian Pavilion in Venice Asks: What Is Home?",
+      "url": "https://hyperallergic.com/the-indian-pavilion-in-venice-asks-what-is-home/",
       "source": "Hyperallergic",
-      "published": "2026-11-03T11:00:00+00:00",
+      "published": "2026-11-03T20:42:01+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -460,11 +424,47 @@
       "publication_approved": false
     },
     {
+      "id": "6ff968050ff26082e144",
+      "title": "10 Art Books to Curl Up With This November",
+      "url": "https://hyperallergic.com/10-art-books-to-curl-up-with-this-november/",
+      "source": "Hyperallergic",
+      "published": "2026-11-02T23:27:08+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "7efbc8560e976060801c",
       "title": "10 Art Shows to See in Upstate New York This November",
       "url": "https://hyperallergic.com/10-art-shows-to-see-in-upstate-new-york-this-november-2026/",
       "source": "Hyperallergic",
       "published": "2026-11-02T20:34:12+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "3d503402028694425ee4",
+      "title": "A Midterm Election Guide for Artists and Arts Workers",
+      "url": "https://hyperallergic.com/a-midterm-election-guide-for-artists-and-arts-workers/",
+      "source": "Hyperallergic",
+      "published": "2026-11-02T23:58:09+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "fecc0d64878ddffccbb2",
+      "title": "ARTnews and Hublot Host Dinner at New York Headquarters of Kid Super",
+      "url": "https://www.artnews.com/art-in-america/features/artnews-hublot-host-dinner-new-york-headquarters-kid-super-1234804519/",
+      "source": "ARTnews",
+      "published": "2026-11-02T23:57:28+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -676,6 +676,18 @@
       "publication_approved": false
     },
     {
+      "id": "757b654ea49d004afe8f",
+      "title": "Pace CEO Marc Glimcher Responds to Reports of Financial Losses, Says Gallery Will Open New Location in Europe",
+      "url": "https://www.artnews.com/art-news/news/pace-marc-glimcher-financial-reports-new-europe-location-1234804487/",
+      "source": "ARTnews",
+      "published": "2026-11-02T23:39:37+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "a3bb8dce1fbb949d465f",
       "title": "Remembering Dolores Huerta: Artists Barbara Carrasco, Judith F. Baca, Yreina D. Cervántez, and Vincent Valdez Reflect on the Iconic Activist’s Legacy",
       "url": "https://www.artnews.com/list/art-news/artists/dolores-huerta-artist-rememberances-1234804398/",
@@ -741,6 +753,18 @@
       "url": "https://hyperallergic.com/vatican-exhibition-series-centers-fundamentally-human-art-over-ai/",
       "source": "Hyperallergic",
       "published": "2026-10-28T15:45:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "7547d49795a97d18591e",
+      "title": "Your Midterm Guide to Voting for the Arts",
+      "url": "https://hyperallergic.com/your-midterm-guide-to-voting-for-the-arts/",
+      "source": "Hyperallergic",
+      "published": "2026-11-03T11:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1737,18 +1761,6 @@
       "url": "https://hyperallergic.com/rembrandts-ancient-obsessions-are-made-anew-in-upcoming-met-exhibition/",
       "source": "Hyperallergic",
       "published": "2026-10-15T18:29:12+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "95c2ad04133cfe7d77f1",
-      "title": "Remembering Ursula von Rydingsvard",
-      "url": "https://hyperallergic.com/remembering-ursula-von-rydingsvard/",
-      "source": "Hyperallergic",
-      "published": "2026-10-28T10:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -3561,6 +3573,18 @@
       "url": "https://www.artnews.com/art-news/news/schindler-lovell-beach-house-newport-beach-sale-1234803806/",
       "source": "ARTnews",
       "published": "2026-10-26T18:27:29+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "95c2ad04133cfe7d77f1",
+      "title": "Remembering Ursula von Rydingsvard",
+      "url": "https://hyperallergic.com/remembering-ursula-von-rydingsvard/",
+      "source": "Hyperallergic",
+      "published": "2026-10-28T10:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
