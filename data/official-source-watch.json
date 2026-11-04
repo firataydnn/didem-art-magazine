@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-04T09:26:12.262714+00:00",
+  "generated_at": "2026-11-04T18:02:58.123431+00:00",
   "notice": "Primary source page monitoring only. Page changes are not verified publication events. Restricted press rooms must not be bypassed.",
   "sources": [
     {
@@ -234,6 +234,11 @@
       "status": "reachable",
       "candidates": [
         {
+          "title": "Type: story Category: Press Release Château Mouton Rothschild and Sotheby's to Present Landmark Centenary Auction",
+          "url": "https://www.sothebys.com/articles/chateau-mouton-rothschild-and-sothebys-to-present-landmark-centenary-auction",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
           "title": "Type: story Category: Press Release Sotheby's Presents the Jewelry Collection of Art World Grande Dame Pauline Karpidas",
           "url": "https://www.sothebys.com/articles/sothebys-presents-the-jewelry-collection-of-art-world-grande-dame-pauline-karpidas",
           "status": "institutional_page_link_unverified_date"
@@ -276,11 +281,6 @@
         {
           "title": "Type: story Category: Press Release Founding Documents Including Washington's Gift to John Jay to Be Offered This December",
           "url": "https://www.sothebys.com/articles/founding-documents-including-washingtons-gift-to-john-jay-to-be-offered-this-december",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Type: story Category: Press Release Pablo Picasso’s Heroic Years, Masterpieces from a Prestigious European Family",
-          "url": "https://www.sothebys.com/articles/pablo-picassos-heroic-years-masterpieces-from-a-prestigious-european-family",
           "status": "institutional_page_link_unverified_date"
         }
       ],
