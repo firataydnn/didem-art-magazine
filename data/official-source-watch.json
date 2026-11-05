@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-05T16:31:50.456057+00:00",
+  "generated_at": "2026-11-05T23:41:43.258788+00:00",
   "notice": "Primary source page monitoring only. Page changes are not verified publication events. Restricted press rooms must not be bypassed.",
   "sources": [
     {
@@ -234,6 +234,11 @@
       "status": "reachable",
       "candidates": [
         {
+          "title": "Type: story Category: Press Release One of the Earliest Landscapes in Western Art History to Make Auction Debut",
+          "url": "https://www.sothebys.com/articles/one-of-the-earliest-landscapes-in-western-art-history-to-make-auction-debut",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
           "title": "Type: story Category: Press Release A Strong Start for H.H. Sheikh Hamad bin Abdullah Al Thani's Collection at Sotheby's Paris",
           "url": "https://www.sothebys.com/articles/a-strong-start-for-h-h-sheikh-hamad-bin-abdullah-al-thanis-collection-at-sothebys-paris",
           "status": "institutional_page_link_unverified_date"
@@ -276,11 +281,6 @@
         {
           "title": "Type: story Category: Press Release Schlumberger Collection Becomes Most Valuable Sale of Fine Art Ever Staged at Sotheby's Paris",
           "url": "https://www.sothebys.com/articles/schlumberger-collection-becomes-most-valuable-sale-of-fine-art-ever-staged-at-sothebys-paris",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Type: story Category: Press Release Rare Collection of 'Original Owner' Patek Philippe Watches to be Offered this December",
-          "url": "https://www.sothebys.com/articles/rare-collection-of-original-owner-patek-philippe-watches-to-be-offered-this-december",
           "status": "institutional_page_link_unverified_date"
         }
       ],
