@@ -2,6 +2,45 @@
   "schema": 1,
   "items": [
     {
+      "id": "b68acefcdf430381dd5c",
+      "source": "Hyperallergic",
+      "category": "sanat-basini",
+      "title": "Long-Lost Georgia O’Keeffe Landscape Goes to Auction",
+      "url": "https://hyperallergic.com/long-lost-georgia-okeeffe-landscape-goes-to-auction/",
+      "published": "2026-11-05T12:00:00+00:00",
+      "summary": "Her painting “Near Abiquiu, New Mexico I” was stashed in an East Village closet for decades. Now it might sell for up to $3 million.",
+      "discovered": "2026-11-05T13:18:12.977410+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "31d9daf2d05af21f0d21",
+      "source": "Hyperallergic",
+      "category": "sanat-basini",
+      "title": "Doris Salcedo Traces the Shape of Memory",
+      "url": "https://hyperallergic.com/doris-salcedo-traces-the-shape-of-memory/",
+      "published": "2026-11-05T11:00:00+00:00",
+      "summary": "The Colombian artist reflects on the state’s attempts to erase history, and the people’s continued refusal. Also: How should artists decide whether to participate in documenta 16?",
+      "discovered": "2026-11-05T13:18:12.977410+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "3ac69147670a8bafc6e0",
+      "source": "Hyperallergic",
+      "category": "sanat-basini",
+      "title": "Daniel Sikkema Sentenced to Life for Murder of Art Dealer Brent Sikkema",
+      "url": "https://hyperallergic.com/daniel-sikkema-sentenced-to-life-for-murder-of-art-dealer-brent-sikkema/",
+      "published": "2026-11-04T23:36:26+00:00",
+      "summary": "The 56-year-old man is accountable for a \"cold, calculated murder-for-hire plot,\" said US Attorney Jamie McDonald.",
+      "discovered": "2026-11-05T13:18:12.977410+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "ffc2130366a5a3eea8b4",
       "source": "ARTnews",
       "category": "sanat-basini",

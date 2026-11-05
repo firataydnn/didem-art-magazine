@@ -1,8 +1,20 @@
 {
   "schema": 1,
-  "count": 387,
+  "count": 390,
   "possible_duplicates": 0,
   "items": [
+    {
+      "id": "b68acefcdf430381dd5c",
+      "title": "Long-Lost Georgia O’Keeffe Landscape Goes to Auction",
+      "url": "https://hyperallergic.com/long-lost-georgia-okeeffe-landscape-goes-to-auction/",
+      "source": "Hyperallergic",
+      "published": "2026-11-05T12:00:00+00:00",
+      "priority_score": 10,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
     {
       "id": "394649436a7dc0f4c73f",
       "title": "Turkey Uses AI and Other Tech to Claw Back 100 Looted Antiquities from the US",
@@ -148,6 +160,18 @@
       "publication_approved": false
     },
     {
+      "id": "3ac69147670a8bafc6e0",
+      "title": "Daniel Sikkema Sentenced to Life for Murder of Art Dealer Brent Sikkema",
+      "url": "https://hyperallergic.com/daniel-sikkema-sentenced-to-life-for-murder-of-art-dealer-brent-sikkema/",
+      "source": "Hyperallergic",
+      "published": "2026-11-04T23:36:26+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "93936585170f496c35f5",
       "title": "Daniel Sikkema Sentenced to Life in Prison for the Murder of New York Art Dealer Brent Sikkema",
       "url": "https://www.artnews.com/art-news/news/daniel-sikkema-sentenced-life-prison-murder-brent-sikkema-1234804679/",
@@ -165,6 +189,18 @@
       "url": "https://www.artnews.com/art-news/news/d-harding-exhibition-dia-mca-australia-1234804595/",
       "source": "ARTnews",
       "published": "2026-11-03T19:23:32+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "31d9daf2d05af21f0d21",
+      "title": "Doris Salcedo Traces the Shape of Memory",
+      "url": "https://hyperallergic.com/doris-salcedo-traces-the-shape-of-memory/",
+      "source": "Hyperallergic",
+      "published": "2026-11-05T11:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -369,18 +405,6 @@
       "url": "https://hyperallergic.com/so-youve-been-invited-to-documenta-16-heres-our-advice/",
       "source": "Hyperallergic",
       "published": "2026-11-04T20:43:43+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "124c9468e79de8f06fb9",
-      "title": "The Art of Showing Up",
-      "url": "https://hyperallergic.com/the-art-of-showing-up/",
-      "source": "Hyperallergic",
-      "published": "2026-11-04T11:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -712,18 +736,6 @@
       "publication_approved": false
     },
     {
-      "id": "25bd6d62f340493509c4",
-      "title": "Happy Hyperallergic Halloween!",
-      "url": "https://hyperallergic.com/happy-hyperallergic-halloween/",
-      "source": "Hyperallergic",
-      "published": "2026-11-02T11:00:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "17651c0e1ba95f1d8dd8",
       "title": "Hard Truths: Should a Jilted Artist Keep Applying for Grants?",
       "url": "https://www.artnews.com/art-in-america/columns/hard-truths-artist-apply-for-grants-1234804414/",
@@ -933,6 +945,18 @@
       "url": "https://www.artnews.com/art-news/news/rembrandt-house-museum-amsterdam-tattoo-event-henk-schiffmacher-1234804486/",
       "source": "ARTnews",
       "published": "2026-11-02T20:25:51+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "124c9468e79de8f06fb9",
+      "title": "The Art of Showing Up",
+      "url": "https://hyperallergic.com/the-art-of-showing-up/",
+      "source": "Hyperallergic",
+      "published": "2026-11-04T11:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1204,18 +1228,6 @@
       "publication_approved": false
     },
     {
-      "id": "c129ae1c822c152c908c",
-      "title": "An Epstein Survivor’s Message for MoMA",
-      "url": "https://hyperallergic.com/an-epstein-survivors-message-for-moma/",
-      "source": "Hyperallergic",
-      "published": "2026-10-29T10:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "606427ab1c0d0668aa13",
       "title": "Ancient Torso Statue Sells for $34.3 M. at Sotheby’s, a Record for a Roman Antiquity",
       "url": "https://www.artnews.com/art-news/news/marble-torso-sothebys-roman-antiquity-record-magnum-opus-1234803482/",
@@ -1317,18 +1329,6 @@
       "url": "https://www.artnews.com/art-news/news/art-basel-paris-closing-early-satellite-fairs-ope-1234803619/",
       "source": "ARTnews",
       "published": "2026-10-22T23:43:30+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "7e707fcd72a0c1acddc0",
-      "title": "At 96, Surrealist Painter Cossette Zeno Is Finally Having Her Moment",
-      "url": "https://www.artnews.com/art-news/artists/cossette-zeno-surrealist-painter-1234804106/",
-      "source": "ARTnews",
-      "published": "2026-10-29T09:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1521,6 +1521,18 @@
       "url": "https://www.artnews.com/art-news/news/scottish-museum-removes-mummified-egyptian-head-backlash-1234803528/",
       "source": "ARTnews",
       "published": "2026-10-22T15:54:37+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "25bd6d62f340493509c4",
+      "title": "Happy Hyperallergic Halloween!",
+      "url": "https://hyperallergic.com/happy-hyperallergic-halloween/",
+      "source": "Hyperallergic",
+      "published": "2026-11-02T11:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1749,18 +1761,6 @@
       "url": "https://www.thisiscolossal.com/2026/10/november-2026-opportunities-open-calls-residencies-and-grants-for-artists/",
       "source": "Colossal",
       "published": "2026-10-29T22:46:33+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "047178d2c4e31db3084e",
-      "title": "Opinion: As Federal Support for Culture Falls, We Need a New Generation of Giving",
-      "url": "https://www.artnews.com/art-news/opinion/opinion-new-generation-of-giving-1234804081/",
-      "source": "ARTnews",
-      "published": "2026-10-29T09:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2080,18 +2080,6 @@
       "publication_approved": false
     },
     {
-      "id": "bdf7c19b79bb2909eef8",
-      "title": "World Monuments Fund Raises $62 M., Tripling Its Endowment Ahead of Schedule",
-      "url": "https://www.artnews.com/art-news/news/world-monuments-fund-62-million-endowment-campaign-1234804137/",
-      "source": "ARTnews",
-      "published": "2026-10-29T00:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "0b86bd6baec4888abc35",
       "title": "Zohran Mamdani Spends a Birthday to Remember at the Studio Museum in Harlem",
       "url": "https://www.artnews.com/art-news/news/zohran-mamdani-studio-museum-in-harlem-taylor-simmons-1234802962/",
@@ -2296,6 +2284,18 @@
       "publication_approved": false
     },
     {
+      "id": "c129ae1c822c152c908c",
+      "title": "An Epstein Survivor’s Message for MoMA",
+      "url": "https://hyperallergic.com/an-epstein-survivors-message-for-moma/",
+      "source": "Hyperallergic",
+      "published": "2026-10-29T10:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "0d309fc5e00bbce88959",
       "title": "An Eva Gonzalès Retrospective Puts the Non-Impressionist Artist Back on the Map",
       "url": "https://www.artnews.com/art-news/artists/eva-gonzales-retrospective-petit-palais-1234802901/",
@@ -2421,6 +2421,18 @@
       "url": "https://hyperallergic.com/at-60-a-legendary-la-print-workshop-still-urges-us-to-pay-attention/",
       "source": "Hyperallergic",
       "published": "2026-10-26T21:32:26+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "7e707fcd72a0c1acddc0",
+      "title": "At 96, Surrealist Painter Cossette Zeno Is Finally Having Her Moment",
+      "url": "https://www.artnews.com/art-news/artists/cossette-zeno-surrealist-painter-1234804106/",
+      "source": "ARTnews",
+      "published": "2026-10-29T09:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -3556,6 +3568,18 @@
       "publication_approved": false
     },
     {
+      "id": "047178d2c4e31db3084e",
+      "title": "Opinion: As Federal Support for Culture Falls, We Need a New Generation of Giving",
+      "url": "https://www.artnews.com/art-news/opinion/opinion-new-generation-of-giving-1234804081/",
+      "source": "ARTnews",
+      "published": "2026-10-29T09:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "27c5faa090fc79904898",
       "title": "Outsider Artist Josef Hofer, Whose Developmental Disability Made Him a Target in Nazi-Occupied Austria, Has Died at 80",
       "url": "https://www.artnews.com/art-news/news/outsider-artist-josef-hofer-developmental-disability-target-in-nazi-occupied-austria-has-died-at-80-1234804069/",
@@ -4533,6 +4557,18 @@
       "url": "https://www.artnews.com/art-news/market/agnes-gund-collection-christies-auction-vija-celmins-1234804088/",
       "source": "ARTnews",
       "published": "2026-10-28T16:15:53+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "bdf7c19b79bb2909eef8",
+      "title": "World Monuments Fund Raises $62 M., Tripling Its Endowment Ahead of Schedule",
+      "url": "https://www.artnews.com/art-news/news/world-monuments-fund-62-million-endowment-campaign-1234804137/",
+      "source": "ARTnews",
+      "published": "2026-10-29T00:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
