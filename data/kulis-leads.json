@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-04T23:45:22.885348+00:00",
-  "source_generated_at": "2026-11-04T23:44:54.411367+00:00",
+  "generated_at": "2026-11-05T06:57:38.083248+00:00",
+  "source_generated_at": "2026-11-05T06:57:19.316017+00:00",
   "notice": "Kulis aday bağlantıları. Metin, iddia, alıntı ve fotoğraf henüz ATELIER tarafından doğrulanmadı. Otomatik haber yayınlamaz.",
   "items": [
     {
@@ -122,32 +122,6 @@
       "note": "Publisher headline only. Not an independently checked art gossip report."
     },
     {
-      "title": "A Mega-Gallery Wellness Check",
-      "url": "https://news.artnet.com/multimedia/art-market-minute-nov-2-2831054",
-      "source": "Artnet",
-      "published_at": "2026-11-02T09:44:56+00:00",
-      "category": "GALERİ KULİSİ",
-      "priority": 10,
-      "editorial_status": "source_link_requires_review",
-      "source_verified": false,
-      "article_approved": false,
-      "image_rights": "not_cleared",
-      "note": "Publisher headline only. Not an independently checked art gossip report."
-    },
-    {
-      "title": "A Van Gogh hidden away for over 50 years and a vibrant Cezanne harlequin: our pick of the November auctions",
-      "url": "https://www.theartnewspaper.com/2026/11/02/a-van-gogh-hidden-away-for-over-50-years-and-a-vibrant-cezanne-harlequin-our-pick-of-the-november-auctions",
-      "source": "The Art Newspaper",
-      "published_at": "2026-11-02T09:43:37+00:00",
-      "category": "MÜZAYEDE MASASI",
-      "priority": 10,
-      "editorial_status": "source_link_requires_review",
-      "source_verified": false,
-      "article_approved": false,
-      "image_rights": "not_cleared",
-      "note": "Publisher headline only. Not an independently checked art gossip report."
-    },
-    {
       "title": "Five Pieces of Jewelry Calder Made for His Family Head to Bonhams With $300 K. Estimate",
       "url": "https://www.artnews.com/art-news/market/jewelry-alexander-calder-made-family-head-to-bonhams-1234804688/",
       "source": "ARTnews",
@@ -252,19 +226,6 @@
       "note": "Publisher headline only. Not an independently checked art gossip report."
     },
     {
-      "title": "Largest Ever Yoshitomo Nara Artwork to Reach Auction Could Net $15m",
-      "url": "https://ocula.com/magazine/art-news/largest-ever-yoshitomo-nara-auction-15m/",
-      "source": "Ocula",
-      "published_at": "2026-11-03T04:53:45+00:00",
-      "category": "MÜZAYEDE MASASI",
-      "priority": 9,
-      "editorial_status": "source_link_requires_review",
-      "source_verified": false,
-      "article_approved": false,
-      "image_rights": "not_cleared",
-      "note": "Publisher headline only. Not an independently checked art gossip report."
-    },
-    {
       "title": "November Book Bag: from a book about broken art to a collection of Zanele Muholi’s LGBTQ+ portraits",
       "url": "https://www.theartnewspaper.com/2026/11/03/november-book-bag-from-a-book-about-broken-art-to-a-collection-of-zanele-muholis-lgbtq+-portraits",
       "source": "The Art Newspaper",
@@ -296,6 +257,19 @@
       "source": "The Art Newspaper",
       "published_at": "2026-11-03T09:00:00+00:00",
       "category": "SANAT & GÜÇ",
+      "priority": 8,
+      "editorial_status": "source_link_requires_review",
+      "source_verified": false,
+      "article_approved": false,
+      "image_rights": "not_cleared",
+      "note": "Publisher headline only. Not an independently checked art gossip report."
+    },
+    {
+      "title": "Largest Ever Yoshitomo Nara Artwork to Reach Auction Could Net $15m",
+      "url": "https://ocula.com/magazine/art-news/largest-ever-yoshitomo-nara-auction-15m/",
+      "source": "Ocula",
+      "published_at": "2026-11-03T04:53:45+00:00",
+      "category": "MÜZAYEDE MASASI",
       "priority": 8,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
@@ -361,7 +335,7 @@
       "source": "Ocula",
       "published_at": "2026-11-03T00:38:15+00:00",
       "category": "SANAT & GÜÇ",
-      "priority": 6,
+      "priority": 5,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
       "article_approved": false,
