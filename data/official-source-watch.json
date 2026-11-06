@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-06T06:56:57.838970+00:00",
+  "generated_at": "2026-11-06T15:59:15.943761+00:00",
   "notice": "Primary source page monitoring only. Page changes are not verified publication events. Restricted press rooms must not be bypassed.",
   "sources": [
     {
@@ -350,9 +350,60 @@
       "url": "https://www.tate.org.uk/press/press-releases",
       "region": "UK",
       "access": "public",
-      "status": "failed",
-      "candidates": [],
-      "error": "TimeoutError: The read operation timed out"
+      "status": "reachable",
+      "candidates": [
+        {
+          "title": "Exhibitions And Displays",
+          "url": "https://www.tate.org.uk/whats-on?date_range=from_now&event_type=display&event_type=exhibition&source=nav",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Exhibitions Frida: The Making of an Icon Tate Modern Until 3 Jan 2027 FREE FOR MEMBERS",
+          "url": "https://www.tate.org.uk/whats-on/tate-modern/frida-kahlo-the-making-of-an-icon",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Exhibitions Julio Le Parc: Light. Colour. Action. Tate Modern Until 3 May 2027 FREE FOR MEMBERS",
+          "url": "https://www.tate.org.uk/whats-on/tate-modern/julio-le-parc",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Tate announces 2026–27 programme for Hyundai Tate Research Centre: Transnational",
+          "url": "https://www.tate.org.uk/press/press-releases/tate-announces-hyundai-tate-research-centre-transnational-programme",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Unique collection of historic Anglo-Indian artworks gifted to Tate by Charles Greig",
+          "url": "https://www.tate.org.uk/press/press-releases/tate-acquires-new-works-for-the-unique-collection-of-historic-anglo-indian-artworks-gifted-to-tate-by-charles-greig",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Wilhelmina Barns-Graham at Tate St Ives: 24 October 2026 – 3 May 2027",
+          "url": "https://www.tate.org.uk/press/press-releases/wilhelmina-barns-graham-at-tate-st-ives",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Tate acquires new works for the national collection at Frieze London and Frieze Masters",
+          "url": "https://www.tate.org.uk/press/press-releases/tate-acquires-new-works-for-the-national-collection-at-frieze-london-and-frieze-masters",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Light and Magic: The Birth of Art Photography: 14 October 2026 - 21 February 2027",
+          "url": "https://www.tate.org.uk/press/press-releases/light-and-magic-october-press-release",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Hyundai Commission: Tarek Atoui: Hold",
+          "url": "https://www.tate.org.uk/press/press-releases/hyundai-commission-tarek-atoui-hold",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "The 90 s : Art and Fashion: 8 October 2026 - 14 February 2027",
+          "url": "https://www.tate.org.uk/press/press-releases/the-90s-art-and-fashion-open",
+          "status": "institutional_page_link_unverified_date"
+        }
+      ],
+      "page_title": "Press releases | Tate"
     }
   ]
 }
