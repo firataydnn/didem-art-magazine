@@ -2,6 +2,58 @@
   "schema": 1,
   "items": [
     {
+      "id": "e8372d70c925d81c60e5",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "2028 Whitney Biennial to Be Curated by Meg Onli and Zack Winokur",
+      "url": "https://www.artnews.com/art-news/news/2028-whitney-biennial-meg-onli-zack-winokur-curators-1234804890/",
+      "published": "2026-11-06T11:39:16+00:00",
+      "summary": "Onli will curate the Biennial for the second time.",
+      "discovered": "2026-11-06T13:01:26.965153+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "fae56fba8ec0112f571b",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "Here’s How Major Galleries’ UK Operations Performed in 2025",
+      "url": "https://www.artnews.com/list/art-news/market/how-major-galleries-uk-operations-performed-in-1234804441/",
+      "published": "2026-11-06T11:03:00+00:00",
+      "summary": "The art market seesaw is tilting still, ARTnews compared the 2025 accounts of 10 galleries with documents filed with Companies House.",
+      "discovered": "2026-11-06T13:01:26.965153+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "ee146cca670b89f53e4a",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "Tate Britain’s ’90s Show Is All Scene, No Substance",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/tate-britain-90s-art-fashion-edward-enniful-alexander-mcqueen-1234804772/",
+      "published": "2026-11-06T10:00:00+00:00",
+      "summary": "“The 90s: Art and Fashion” is meaningless anti-intellectualism.",
+      "discovered": "2026-11-06T13:01:26.965153+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "4fde97e1c73d15a7d3c3",
+      "source": "Hyperallergic",
+      "category": "sanat-basini",
+      "title": "Met Gala’s New Theme Is So Basic",
+      "url": "https://hyperallergic.com/met-galas-new-theme-is-so-basic/",
+      "published": "2026-11-06T11:00:00+00:00",
+      "summary": "Brancusi at MoMA, trouble at Pace, a rediscovered Georgia O'Keeffe painting, and The Met presents the biggest rescission indicator yet.",
+      "discovered": "2026-11-06T13:01:26.965153+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "183f0c989166b2f7fb91",
       "source": "ARTnews",
       "category": "sanat-basini",
