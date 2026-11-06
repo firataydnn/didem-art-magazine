@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-05T23:41:49.226247+00:00",
-  "source_generated_at": "2026-11-05T23:41:30.397637+00:00",
+  "generated_at": "2026-11-06T06:57:16.513231+00:00",
+  "source_generated_at": "2026-11-06T06:56:44.705876+00:00",
   "notice": "Kulis aday bağlantıları. Metin, iddia, alıntı ve fotoğraf henüz ATELIER tarafından doğrulanmadı. Otomatik haber yayınlamaz.",
   "items": [
     {
@@ -89,6 +89,19 @@
       "published_at": "2026-11-05T09:34:57+00:00",
       "category": "MÜZAYEDE MASASI",
       "priority": 12,
+      "editorial_status": "source_link_requires_review",
+      "source_verified": false,
+      "article_approved": false,
+      "image_rights": "not_cleared",
+      "note": "Publisher headline only. Not an independently checked art gossip report."
+    },
+    {
+      "title": "$3 Million Georgia O’Keeffe Found Under Pile of Coats Heads to Auction",
+      "url": "https://www.artforum.com/news/georgia-okeeffe-found-hidden-in-closet-bound-for-auction-1234763146/",
+      "source": "Artforum",
+      "published_at": "2026-11-06T00:16:34+00:00",
+      "category": "MÜZAYEDE MASASI",
+      "priority": 10,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
       "article_approved": false,
@@ -291,32 +304,6 @@
       "note": "Publisher headline only. Not an independently checked art gossip report."
     },
     {
-      "title": "Largest Ever Yoshitomo Nara Artwork to Reach Auction Could Net $15m",
-      "url": "https://ocula.com/magazine/art-news/largest-ever-yoshitomo-nara-auction-15m/",
-      "source": "Ocula",
-      "published_at": "2026-11-03T04:53:45+00:00",
-      "category": "MÜZAYEDE MASASI",
-      "priority": 8,
-      "editorial_status": "source_link_requires_review",
-      "source_verified": false,
-      "article_approved": false,
-      "image_rights": "not_cleared",
-      "note": "Publisher headline only. Not an independently checked art gossip report."
-    },
-    {
-      "title": "Prospect Cologne Wants to Turn the Tables on Traditional Art Fairs",
-      "url": "https://ocula.com/magazine/art-news/prospect-cologne-alternative-art-fair/",
-      "source": "Ocula",
-      "published_at": "2026-11-05T05:12:03+00:00",
-      "category": "FUAR KORİDORU",
-      "priority": 7,
-      "editorial_status": "source_link_requires_review",
-      "source_verified": false,
-      "article_approved": false,
-      "image_rights": "not_cleared",
-      "note": "Publisher headline only. Not an independently checked art gossip report."
-    },
-    {
       "title": "November Book Bag: from a book about broken art to a collection of Zanele Muholi’s LGBTQ+ portraits",
       "url": "https://www.theartnewspaper.com/2026/11/03/november-book-bag-from-a-book-about-broken-art-to-a-collection-of-zanele-muholis-lgbtq+-portraits",
       "source": "The Art Newspaper",
@@ -356,6 +343,32 @@
       "note": "Publisher headline only. Not an independently checked art gossip report."
     },
     {
+      "title": "Largest Ever Yoshitomo Nara Artwork to Reach Auction Could Net $15m",
+      "url": "https://ocula.com/magazine/art-news/largest-ever-yoshitomo-nara-auction-15m/",
+      "source": "Ocula",
+      "published_at": "2026-11-03T04:53:45+00:00",
+      "category": "MÜZAYEDE MASASI",
+      "priority": 7,
+      "editorial_status": "source_link_requires_review",
+      "source_verified": false,
+      "article_approved": false,
+      "image_rights": "not_cleared",
+      "note": "Publisher headline only. Not an independently checked art gossip report."
+    },
+    {
+      "title": "Prospect Cologne Wants to Turn the Tables on Traditional Art Fairs",
+      "url": "https://ocula.com/magazine/art-news/prospect-cologne-alternative-art-fair/",
+      "source": "Ocula",
+      "published_at": "2026-11-05T05:12:03+00:00",
+      "category": "FUAR KORİDORU",
+      "priority": 6,
+      "editorial_status": "source_link_requires_review",
+      "source_verified": false,
+      "article_approved": false,
+      "image_rights": "not_cleared",
+      "note": "Publisher headline only. Not an independently checked art gossip report."
+    },
+    {
       "title": "The Indian Pavilion in Venice Asks: What Is Home?",
       "url": "https://hyperallergic.com/the-indian-pavilion-in-venice-asks-what-is-home/",
       "source": "Hyperallergic",
@@ -374,19 +387,6 @@
       "source": "Artforum",
       "published_at": "2026-11-03T18:31:54+00:00",
       "category": "FUAR KORİDORU",
-      "priority": 5,
-      "editorial_status": "source_link_requires_review",
-      "source_verified": false,
-      "article_approved": false,
-      "image_rights": "not_cleared",
-      "note": "Publisher headline only. Not an independently checked art gossip report."
-    },
-    {
-      "title": "‘Good News for the Trade’: EU Body to Downgrade Art Market Money Laundering Risk",
-      "url": "https://ocula.com/magazine/art-news/eu-downgrade-art-market-money-laundering-risk/",
-      "source": "Ocula",
-      "published_at": "2026-11-03T00:38:15+00:00",
-      "category": "SANAT & GÜÇ",
       "priority": 5,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
