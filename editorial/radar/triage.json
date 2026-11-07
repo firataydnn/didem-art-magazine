@@ -1,20 +1,8 @@
 {
   "schema": 1,
-  "count": 429,
+  "count": 432,
   "possible_duplicates": 0,
   "items": [
-    {
-      "id": "e8372d70c925d81c60e5",
-      "title": "2028 Whitney Biennial to Be Curated by Meg Onli and Zack Winokur",
-      "url": "https://www.artnews.com/art-news/news/2028-whitney-biennial-meg-onli-zack-winokur-curators-1234804890/",
-      "source": "ARTnews",
-      "published": "2026-11-06T11:39:16+00:00",
-      "priority_score": 10,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
     {
       "id": "7f3317c0cbb31537b1f4",
       "title": "Meg Onli and Zack Winokur to Curate 2028 Whitney Biennial",
@@ -22,6 +10,18 @@
       "source": "Hyperallergic",
       "published": "2026-11-06T19:24:39+00:00",
       "priority_score": 10,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "e8372d70c925d81c60e5",
+      "title": "2028 Whitney Biennial to Be Curated by Meg Onli and Zack Winokur",
+      "url": "https://www.artnews.com/art-news/news/2028-whitney-biennial-meg-onli-zack-winokur-curators-1234804890/",
+      "source": "ARTnews",
+      "published": "2026-11-06T11:39:16+00:00",
+      "priority_score": 8,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -46,6 +46,18 @@
       "source": "ARTnews",
       "published": "2026-11-04T17:28:27+00:00",
       "priority_score": 8,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "cb74f09c65eb3dab248d",
+      "title": "A New Hudson Valley Art Space Promises to Be As Accessible as It Is In Flux",
+      "url": "https://www.artnews.com/art-news/news/branchline-gochman-family-collection-opening-1234805014/",
+      "source": "ARTnews",
+      "published": "2026-11-06T23:16:14+00:00",
+      "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -160,11 +172,11 @@
       "publication_approved": false
     },
     {
-      "id": "fae56fba8ec0112f571b",
-      "title": "Here’s How Major Galleries’ UK Operations Performed in 2025",
-      "url": "https://www.artnews.com/list/art-news/market/how-major-galleries-uk-operations-performed-in-1234804441/",
+      "id": "929b83eebc86a9f5379c",
+      "title": "How Going Blind Made Doris Salcedo’s Art Bigger and Better",
+      "url": "https://www.artnews.com/art-news/artists/doris-salcedo-blind-white-cube-house-hair-1234804779/",
       "source": "ARTnews",
-      "published": "2026-11-06T11:03:00+00:00",
+      "published": "2026-11-07T10:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -201,18 +213,6 @@
       "url": "https://www.artnews.com/art-news/news/lucien-smith-cause-of-death-announced-morning-links-1234804895/",
       "source": "ARTnews",
       "published": "2026-11-06T14:23:51+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "4fde97e1c73d15a7d3c3",
-      "title": "Met Gala’s New Theme Is So Basic",
-      "url": "https://hyperallergic.com/met-galas-new-theme-is-so-basic/",
-      "source": "Hyperallergic",
-      "published": "2026-11-06T11:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -268,6 +268,18 @@
       "publication_approved": false
     },
     {
+      "id": "a54ea9c23fff5c70fe6c",
+      "title": "Please Don’t Sit on the Flowers",
+      "url": "https://hyperallergic.com/please-dont-sit-on-the-flowers/",
+      "source": "Hyperallergic",
+      "published": "2026-11-07T11:00:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "4356b2e6823159ed7153",
       "title": "President Trump Moves to Make Oval Office a Public Monument",
       "url": "https://www.artnews.com/art-news/news/trump-proclamation-seeks-oval-office-national-monument-1234804961/",
@@ -285,18 +297,6 @@
       "url": "https://www.artnews.com/art-news/news/romes-galleria-borghese-opens-competition-extension-1234804922/",
       "source": "ARTnews",
       "published": "2026-11-06T18:17:13+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "ee146cca670b89f53e4a",
-      "title": "Tate Britain’s ’90s Show Is All Scene, No Substance",
-      "url": "https://www.artnews.com/art-in-america/aia-reviews/tate-britain-90s-art-fashion-edward-enniful-alexander-mcqueen-1234804772/",
-      "source": "ARTnews",
-      "published": "2026-11-06T10:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -520,18 +520,6 @@
       "publication_approved": false
     },
     {
-      "id": "4125d844c14b20f1c7c2",
-      "title": "Assyria is Far from Ancient in Esther Elia’s Characterizations of Contemporary ‘Diasporic Deities’",
-      "url": "https://www.thisiscolossal.com/2026/11/esther-elia-assyrian-culture-tile-sculptures-paintings/",
-      "source": "Colossal",
-      "published": "2026-11-03T22:25:26+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "5161a3e4405414552707",
       "title": "At MoMA, Brancusi Is Lost in Space",
       "url": "https://hyperallergic.com/at-moma-brancusi-is-lost-in-space/",
@@ -736,11 +724,11 @@
       "publication_approved": false
     },
     {
-      "id": "4aa51c335dda4749ff32",
-      "title": "In Reply to Senators’ Amicus Briefs, Austria, Albertina, and Leopold Museum Double Down on Unconstitutionality of HEAR Act",
-      "url": "https://www.artnews.com/art-news/news/austria-albertina-leopold-senator-amicus-brief-response-1234804373/",
+      "id": "fae56fba8ec0112f571b",
+      "title": "Here’s How Major Galleries’ UK Operations Performed in 2025",
+      "url": "https://www.artnews.com/list/art-news/market/how-major-galleries-uk-operations-performed-in-1234804441/",
       "source": "ARTnews",
-      "published": "2026-10-31T03:25:07+00:00",
+      "published": "2026-11-06T11:03:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -801,6 +789,18 @@
       "url": "https://hyperallergic.com/met-galas-new-theme-is-the-biggest-recession-indicator-yet/",
       "source": "Hyperallergic",
       "published": "2026-11-05T20:59:11+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "4fde97e1c73d15a7d3c3",
+      "title": "Met Gala’s New Theme Is So Basic",
+      "url": "https://hyperallergic.com/met-galas-new-theme-is-so-basic/",
+      "source": "Hyperallergic",
+      "published": "2026-11-06T11:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -928,11 +928,11 @@
       "publication_approved": false
     },
     {
-      "id": "124c9468e79de8f06fb9",
-      "title": "The Art of Showing Up",
-      "url": "https://hyperallergic.com/the-art-of-showing-up/",
-      "source": "Hyperallergic",
-      "published": "2026-11-04T11:00:00+00:00",
+      "id": "ee146cca670b89f53e4a",
+      "title": "Tate Britain’s ’90s Show Is All Scene, No Substance",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/tate-britain-90s-art-fashion-edward-enniful-alexander-mcqueen-1234804772/",
+      "source": "ARTnews",
+      "published": "2026-11-06T10:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1360,6 +1360,18 @@
       "publication_approved": false
     },
     {
+      "id": "4125d844c14b20f1c7c2",
+      "title": "Assyria is Far from Ancient in Esther Elia’s Characterizations of Contemporary ‘Diasporic Deities’",
+      "url": "https://www.thisiscolossal.com/2026/11/esther-elia-assyrian-culture-tile-sculptures-paintings/",
+      "source": "Colossal",
+      "published": "2026-11-03T22:25:26+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "402e25e12e8205cadbe9",
       "title": "Au Revoir, Art Basel Paris",
       "url": "https://hyperallergic.com/au-revoir-art-basel-paris/",
@@ -1677,6 +1689,18 @@
       "url": "https://www.artnews.com/art-news/news/lawmaker-says-kennedy-center-closure-hide-failure-trump-1234804435/",
       "source": "ARTnews",
       "published": "2026-11-02T18:56:42+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "4aa51c335dda4749ff32",
+      "title": "In Reply to Senators’ Amicus Briefs, Austria, Albertina, and Leopold Museum Double Down on Unconstitutionality of HEAR Act",
+      "url": "https://www.artnews.com/art-news/news/austria-albertina-leopold-senator-amicus-brief-response-1234804373/",
+      "source": "ARTnews",
+      "published": "2026-10-31T03:25:07+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2008,6 +2032,18 @@
       "publication_approved": false
     },
     {
+      "id": "124c9468e79de8f06fb9",
+      "title": "The Art of Showing Up",
+      "url": "https://hyperallergic.com/the-art-of-showing-up/",
+      "source": "Hyperallergic",
+      "published": "2026-11-04T11:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "d1d80d7e68c6b81bb76d",
       "title": "The Best Booths at Art Basel Paris, From Tar Paintings to a Falling Knife",
       "url": "https://www.artnews.com/list/art-news/market/art-basel-paris-2026-best-booths-1234803335/",
@@ -2032,18 +2068,6 @@
       "publication_approved": false
     },
     {
-      "id": "b5c7bcbeab5848351a02",
-      "title": "The Greatest Art Costumes From Hyperallergic's Halloween Party",
-      "url": "https://hyperallergic.com/the-greatest-art-costumes-from-hyperallergics-halloween-party-2026/",
-      "source": "Hyperallergic",
-      "published": "2026-10-30T22:37:24+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "54a2e6a23c4b59507ee0",
       "title": "The Indian Pavilion in Venice Asks: What Is Home?",
       "url": "https://hyperallergic.com/the-indian-pavilion-in-venice-asks-what-is-home/",
@@ -2061,18 +2085,6 @@
       "url": "https://www.artnews.com/art-news/news/metropolitan-museum-art-vacheron-constantin-residency-1234804336/",
       "source": "ARTnews",
       "published": "2026-10-30T15:44:13+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "cdde8c6da61cdb26f470",
-      "title": "To Live Is to Believe",
-      "url": "https://hyperallergic.com/to-live-is-to-believe/",
-      "source": "Hyperallergic",
-      "published": "2026-10-31T10:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -4576,6 +4588,18 @@
       "publication_approved": false
     },
     {
+      "id": "b5c7bcbeab5848351a02",
+      "title": "The Greatest Art Costumes From Hyperallergic's Halloween Party",
+      "url": "https://hyperallergic.com/the-greatest-art-costumes-from-hyperallergics-halloween-party-2026/",
+      "source": "Hyperallergic",
+      "published": "2026-10-30T22:37:24+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "9209c1d06972f004efcb",
       "title": "The Huntington’s Newest Acquisitions Include Works by Raqib Shaw, Robert Indiana, and More",
       "url": "https://www.artnews.com/art-news/news/huntington-2026-acquisitions-raqib-shaw-robert-indiana-1234802620/",
@@ -4761,6 +4785,18 @@
       "url": "https://hyperallergic.com/to-be-alone-with-your-thoughts-in-70s-new-york/",
       "source": "Hyperallergic",
       "published": "2026-10-20T15:37:54+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "cdde8c6da61cdb26f470",
+      "title": "To Live Is to Believe",
+      "url": "https://hyperallergic.com/to-live-is-to-believe/",
+      "source": "Hyperallergic",
+      "published": "2026-10-31T10:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",

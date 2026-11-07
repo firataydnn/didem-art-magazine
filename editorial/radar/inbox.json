@@ -2,6 +2,45 @@
   "schema": 1,
   "items": [
     {
+      "id": "929b83eebc86a9f5379c",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "How Going Blind Made Doris Salcedo’s Art Bigger and Better",
+      "url": "https://www.artnews.com/art-news/artists/doris-salcedo-blind-white-cube-house-hair-1234804779/",
+      "published": "2026-11-07T10:00:00+00:00",
+      "summary": "The Colombian artist spent three years crafting a monumental structure out of human hair for her new show at White Cube in New York.",
+      "discovered": "2026-11-07T11:47:18.742840+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "cb74f09c65eb3dab248d",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "A New Hudson Valley Art Space Promises to Be As Accessible as It Is In Flux",
+      "url": "https://www.artnews.com/art-news/news/branchline-gochman-family-collection-opening-1234805014/",
+      "published": "2026-11-06T23:16:14+00:00",
+      "summary": "Branchline in Katonah, New York, opens November 6 with an exhibition 'Line Break' of Indigenous artists.",
+      "discovered": "2026-11-07T11:47:18.742840+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "a54ea9c23fff5c70fe6c",
+      "source": "Hyperallergic",
+      "category": "sanat-basini",
+      "title": "Please Don’t Sit on the Flowers",
+      "url": "https://hyperallergic.com/please-dont-sit-on-the-flowers/",
+      "published": "2026-11-07T11:00:00+00:00",
+      "summary": "Long-lost Georgia O’Keeffe landscape goes to auction, Brancusi gets lost at MoMA, interview with Doris Salcedo, and is showing at documenta worth it?",
+      "discovered": "2026-11-07T11:47:18.742840+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "4356b2e6823159ed7153",
       "source": "ARTnews",
       "category": "sanat-basini",
