@@ -1,9 +1,22 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-07T01:59:49.435700+00:00",
-  "source_generated_at": "2026-11-07T01:59:28.788475+00:00",
+  "generated_at": "2026-11-07T08:54:30.319115+00:00",
+  "source_generated_at": "2026-11-07T08:54:07.499004+00:00",
   "notice": "Kulis aday bağlantıları. Metin, iddia, alıntı ve fotoğraf henüz ATELIER tarafından doğrulanmadı. Otomatik haber yayınlamaz.",
   "items": [
+    {
+      "title": "Gallery GF Brings Contemporary Art Into a New Dimension",
+      "url": "https://news.artnet.com/art-world/gallery-gf-2832147",
+      "source": "Artnet",
+      "published_at": "2026-11-06T21:00:48+00:00",
+      "category": "GALERİ KULİSİ",
+      "priority": 12,
+      "editorial_status": "source_link_requires_review",
+      "source_verified": false,
+      "article_approved": false,
+      "image_rights": "not_cleared",
+      "note": "Publisher headline only. Not an independently checked art gossip report."
+    },
     {
       "title": "French court orders restitution of Pissarro painting sold at Sotheby’s for £1.2m to heirs of Jewish banker",
       "url": "https://www.theartnewspaper.com/2026/11/06/pissarro-painting-sothebys-restitution-salomon-flavian-nazi-loot-case",
@@ -36,7 +49,7 @@
       "source": "Artnet",
       "published_at": "2026-11-06T07:30:34+00:00",
       "category": "FUAR KORİDORU",
-      "priority": 12,
+      "priority": 11,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
       "article_approved": false,
@@ -226,19 +239,6 @@
       "note": "Publisher headline only. Not an independently checked art gossip report."
     },
     {
-      "title": "Fair Warning to Auction Major Yoshitomo Nara Painting for Up to $15 M.",
-      "url": "https://www.artnews.com/art-news/news/yoshitomo-nara-fair-warning-auction-loic-gouzer-1234804618/",
-      "source": "ARTnews",
-      "published_at": "2026-11-03T21:22:06+00:00",
-      "category": "MÜZAYEDE MASASI",
-      "priority": 9,
-      "editorial_status": "source_link_requires_review",
-      "source_verified": false,
-      "article_approved": false,
-      "image_rights": "not_cleared",
-      "note": "Publisher headline only. Not an independently checked art gossip report."
-    },
-    {
       "title": "The Schach Is Back! Kenny Dishes on Ken Griffin’s $250M Leonardo, a Dealer Detained, and More",
       "url": "https://news.artnet.com/art-world/kenny-schachter-ken-griffin-leonardo-vito-schnabel-2832565",
       "source": "Artnet",
@@ -400,7 +400,7 @@
       "source": "Ocula",
       "published_at": "2026-11-05T05:12:00+00:00",
       "category": "FUAR KORİDORU",
-      "priority": 6,
+      "priority": 5,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
       "article_approved": false,
