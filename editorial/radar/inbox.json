@@ -2,6 +2,19 @@
   "schema": 1,
   "items": [
     {
+      "id": "1da497f66fd6144fbc59",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "Death Row’s Last Meals Anchor a Museum-Wide Survey of Incarceration Art",
+      "url": "https://www.artnews.com/art-news/reviews/grand-rapids-museum-of-art-hosts-surveys-of-prison-art-1234804902/",
+      "published": "2026-11-07T13:40:00+00:00",
+      "summary": "From now through January 2027, the Grand Rapids Art Museum is host to three solo exhibitions of art by or about people once incarcerated within the United States.",
+      "discovered": "2026-11-07T20:57:28.781573+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "929b83eebc86a9f5379c",
       "source": "ARTnews",
       "category": "sanat-basini",
