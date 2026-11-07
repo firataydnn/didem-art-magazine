@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-06T21:35:04.415898+00:00",
+  "generated_at": "2026-11-07T01:59:42.973530+00:00",
   "notice": "Primary source page monitoring only. Page changes are not verified publication events. Restricted press rooms must not be bypassed.",
   "sources": [
     {
@@ -368,6 +368,11 @@
           "status": "institutional_page_link_unverified_date"
         },
         {
+          "title": "Tate awarded major funding for future art scholarships",
+          "url": "https://www.tate.org.uk/press/press-releases/tate-awarded-major-funding-for-future-art-scholarships",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
           "title": "Tate announces 2026–27 programme for Hyundai Tate Research Centre: Transnational",
           "url": "https://www.tate.org.uk/press/press-releases/tate-announces-hyundai-tate-research-centre-transnational-programme",
           "status": "institutional_page_link_unverified_date"
@@ -395,11 +400,6 @@
         {
           "title": "Hyundai Commission: Tarek Atoui: Hold",
           "url": "https://www.tate.org.uk/press/press-releases/hyundai-commission-tarek-atoui-hold",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "The 90 s : Art and Fashion: 8 October 2026 - 14 February 2027",
-          "url": "https://www.tate.org.uk/press/press-releases/the-90s-art-and-fashion-open",
           "status": "institutional_page_link_unverified_date"
         }
       ],
