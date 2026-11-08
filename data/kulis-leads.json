@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-07T21:57:09.549048+00:00",
-  "source_generated_at": "2026-11-07T21:56:53.575407+00:00",
+  "generated_at": "2026-11-08T01:29:09.999653+00:00",
+  "source_generated_at": "2026-11-08T01:28:53.081934+00:00",
   "notice": "Kulis aday bağlantıları. Metin, iddia, alıntı ve fotoğraf henüz ATELIER tarafından doğrulanmadı. Otomatik haber yayınlamaz.",
   "items": [
     {
@@ -161,19 +161,6 @@
       "note": "Publisher headline only. Not an independently checked art gossip report."
     },
     {
-      "title": "$3 Million Georgia O’Keeffe Found in East Village Coat Closet Heads to Auction",
-      "url": "https://www.artforum.com/news/georgia-okeeffe-found-hidden-in-closet-bound-for-auction-1234763146/",
-      "source": "Artforum",
-      "published_at": "2026-11-06T00:16:34+00:00",
-      "category": "MÜZAYEDE MASASI",
-      "priority": 9,
-      "editorial_status": "source_link_requires_review",
-      "source_verified": false,
-      "article_approved": false,
-      "image_rights": "not_cleared",
-      "note": "Publisher headline only. Not an independently checked art gossip report."
-    },
-    {
       "title": "Whitney Museum selects a staff curator and a stage director to lead 2028 biennial",
       "url": "https://www.theartnewspaper.com/2026/11/06/whitney-biennial-2028-curators-meg-onli-zack-winokur",
       "source": "The Art Newspaper",
@@ -218,6 +205,19 @@
       "source": "ARTnews",
       "published_at": "2026-11-06T11:03:00+00:00",
       "category": "GALERİ KULİSİ",
+      "priority": 8,
+      "editorial_status": "source_link_requires_review",
+      "source_verified": false,
+      "article_approved": false,
+      "image_rights": "not_cleared",
+      "note": "Publisher headline only. Not an independently checked art gossip report."
+    },
+    {
+      "title": "$3 Million Georgia O’Keeffe Found in East Village Coat Closet Heads to Auction",
+      "url": "https://www.artforum.com/news/georgia-okeeffe-found-hidden-in-closet-bound-for-auction-1234763146/",
+      "source": "Artforum",
+      "published_at": "2026-11-06T00:16:34+00:00",
+      "category": "MÜZAYEDE MASASI",
       "priority": 8,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
