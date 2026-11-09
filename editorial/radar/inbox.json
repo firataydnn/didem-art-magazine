@@ -2,6 +2,32 @@
   "schema": 1,
   "items": [
     {
+      "id": "95cc543eaf7a1fbb0d21",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "The 13 Best London Museums to Visit",
+      "url": "https://www.artnews.com/list/art-news/artists/best-london-museums-to-visit-1234804828/",
+      "published": "2026-11-09T10:30:00+00:00",
+      "summary": "London’s numerous museums, many of them free to enter, feature some of the best art, history, science, and cultural collections in the world",
+      "discovered": "2026-11-09T14:00:27.192082+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "11c882649cf84fbe5081",
+      "source": "Hyperallergic",
+      "category": "sanat-basini",
+      "title": "The People Against the Arch",
+      "url": "https://hyperallergic.com/the-people-against-the-arch/",
+      "published": "2026-11-09T11:00:00+00:00",
+      "summary": "Protesters in DC roast the Arc de Trump, plus the Whitney Museum announces the next curators of its blockbuster biennial.",
+      "discovered": "2026-11-09T14:00:27.192082+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "1da497f66fd6144fbc59",
       "source": "ARTnews",
       "category": "sanat-basini",
