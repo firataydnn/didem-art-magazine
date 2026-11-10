@@ -2,6 +2,58 @@
   "schema": 1,
   "items": [
     {
+      "id": "869285e54d12d867205e",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "Contemporary Stained-Glass Windows Installed in Notre-Dame, Spanish Man Awarded $1.12 M. for Renaissance Door Discovery, and More: Morning Links for November 10, 2026",
+      "url": "https://www.artnews.com/art-news/news/contemporary-stained-glass-windows-installed-in-notre-dame-1234805395/",
+      "published": "2026-11-10T13:30:00+00:00",
+      "summary": "Here's what we're reading this morning.",
+      "discovered": "2026-11-10T13:35:03.647591+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "5e7f076754ccfd6add9a",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "The Most Expensive Artworks by Pablo Picasso Ever Sold at Auction",
+      "url": "https://www.artnews.com/list/art-news/artists/pablo-picasso-highest-auction-records-1234594915/",
+      "published": "2026-11-10T10:30:00+00:00",
+      "summary": "“He is in many ways the gold standard of the art market,” said mega dealer Larry Gagosian.",
+      "discovered": "2026-11-10T13:35:03.647591+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "a0b98b341a65a23d5754",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "Collectors Jill and Peter Kraus Want Artists to Look at Their Upstate New York Property and React to It",
+      "url": "https://www.artnews.com/art-news/news/collectors-jill-and-peter-kraus-open-house-tour-1234805031/",
+      "published": "2026-11-10T10:00:00+00:00",
+      "summary": "The Krauses have filled their expansive country property with nearly 20 site-specific commissions.",
+      "discovered": "2026-11-10T13:35:03.647591+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "bef59a94b326a438d933",
+      "source": "Hyperallergic",
+      "category": "sanat-basini",
+      "title": "Mona Chalabi on Money and Art",
+      "url": "https://hyperallergic.com/mona-chalabi-on-money-and-art/",
+      "published": "2026-11-10T11:00:00+00:00",
+      "summary": "An interview with the Pulitzer Prize winner, Lori Waxman on bringing sexy back in Chicago, stolen Picasso prints found, and the problem with clouds.",
+      "discovered": "2026-11-10T13:35:03.647591+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "8a751daa79da1ecacab4",
       "source": "ARTnews",
       "category": "sanat-basini",
