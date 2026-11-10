@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-10T12:44:49.663392+00:00",
+  "generated_at": "2026-11-10T20:52:53.069996+00:00",
   "notice": "Primary source page monitoring only. Page changes are not verified publication events. Restricted press rooms must not be bypassed.",
   "sources": [
     {
@@ -234,6 +234,11 @@
       "status": "reachable",
       "candidates": [
         {
+          "title": "Type: story Category: Press Release Sotheby's Important Watches Sale Breaks New Records in Geneva",
+          "url": "https://www.sothebys.com/articles/sothebys-important-watches-sale-breaks-new-records-in-geneva",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
           "title": "Type: story Category: Press Release One of the Earliest Landscapes in Western Art History to Make Auction Debut",
           "url": "https://www.sothebys.com/articles/one-of-the-earliest-landscapes-in-western-art-history-to-make-auction-debut",
           "status": "institutional_page_link_unverified_date"
@@ -276,11 +281,6 @@
         {
           "title": "Type: story Category: Press Release $34 Million Record-Breaking Roman Torso leads White-Glove Magnum Opus Auction at Sotheby's New York",
           "url": "https://www.sothebys.com/articles/34-million-record-breaking-roman-torso-leads-white-glove-magnum-opus-auction-at-sothebys-new-york",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Type: story Category: Press Release Schlumberger Collection Becomes Most Valuable Sale of Fine Art Ever Staged at Sotheby's Paris",
-          "url": "https://www.sothebys.com/articles/schlumberger-collection-becomes-most-valuable-sale-of-fine-art-ever-staged-at-sothebys-paris",
           "status": "institutional_page_link_unverified_date"
         }
       ],
@@ -373,6 +373,16 @@
           "status": "institutional_page_link_unverified_date"
         },
         {
+          "title": "Tate welcomes new fundraising print portfolio from Counter Editions celebrating women artists",
+          "url": "https://www.tate.org.uk/press/press-releases/tate-welcomes-new-fundraising-print-portfolio-from-counter-editions-celebrating-women-artists",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Vanessa Bell & Duncan Grant: Inside Bloomsbury: 12 November 2026 - 11 April 2027",
+          "url": "https://www.tate.org.uk/press/press-releases/vanessa-bell--duncan-grant-inside-bloomsbury-open",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
           "title": "Tate awarded major funding for future art scholarships",
           "url": "https://www.tate.org.uk/press/press-releases/tate-awarded-major-funding-for-future-art-scholarships",
           "status": "institutional_page_link_unverified_date"
@@ -395,16 +405,6 @@
         {
           "title": "Tate acquires new works for the national collection at Frieze London and Frieze Masters",
           "url": "https://www.tate.org.uk/press/press-releases/tate-acquires-new-works-for-the-national-collection-at-frieze-london-and-frieze-masters",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Light and Magic: The Birth of Art Photography: 14 October 2026 - 21 February 2027",
-          "url": "https://www.tate.org.uk/press/press-releases/light-and-magic-october-press-release",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Hyundai Commission: Tarek Atoui: Hold",
-          "url": "https://www.tate.org.uk/press/press-releases/hyundai-commission-tarek-atoui-hold",
           "status": "institutional_page_link_unverified_date"
         }
       ],
