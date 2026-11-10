@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-10T04:10:29.843754+00:00",
+  "generated_at": "2026-11-10T12:44:49.663392+00:00",
   "notice": "Primary source page monitoring only. Page changes are not verified publication events. Restricted press rooms must not be bypassed.",
   "sources": [
     {
@@ -332,6 +332,11 @@
       "access": "public",
       "status": "reachable",
       "candidates": [
+        {
+          "title": "Read more Art 9 November 2026 Opening hours of the Austrian Pavilion Closed on Tuesday 10 November. From Wednesday 11 to Sunday 15, the Pavilion will be open fr",
+          "url": "https://www.labiennale.org/en/news/opening-hours-austrian-pavilion",
+          "status": "institutional_page_link_unverified_date"
+        },
         {
           "title": "Exhibitions and activities",
           "url": "https://www.labiennale.org/en/asac/exhibitions-and-activities",
