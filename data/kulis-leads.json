@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-11T01:58:18.367313+00:00",
-  "source_generated_at": "2026-11-11T01:58:00.704094+00:00",
+  "generated_at": "2026-11-11T09:32:43.328404+00:00",
+  "source_generated_at": "2026-11-11T09:32:13.068595+00:00",
   "notice": "Kulis aday bağlantıları. Metin, iddia, alıntı ve fotoğraf henüz ATELIER tarafından doğrulanmadı. Otomatik haber yayınlamaz.",
   "items": [
     {
@@ -135,12 +135,12 @@
       "note": "Publisher headline only. Not an independently checked art gossip report."
     },
     {
-      "title": "sprouted earth and soil spill across gallery for landscape of future memories installation",
-      "url": "https://www.designboom.com/art/sprouted-earth-soil-gallery-landscape-future-memories-installation-buro-zemla/",
-      "source": "Designboom Art",
-      "published_at": "2026-11-10T07:15:18+00:00",
-      "category": "GALERİ KULİSİ",
-      "priority": 10,
+      "title": "Julia Stoschek Collection to Celebrate 20 Years with ‘Selfish in Bed’ Exhibition and Düsseldorf Reopening",
+      "url": "https://www.artnews.com/art-news/news/julia-stoschek-collection-selfish-in-bed-20th-anniversary-1234805311/",
+      "source": "ARTnews",
+      "published_at": "2026-11-10T14:00:00+00:00",
+      "category": "KOLEKSİYONERLER",
+      "priority": 9,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
       "article_approved": false,
@@ -148,11 +148,11 @@
       "note": "Publisher headline only. Not an independently checked art gossip report."
     },
     {
-      "title": "Julia Stoschek Collection to Celebrate 20 Years with ‘Selfish in Bed’ Exhibition and Düsseldorf Reopening",
-      "url": "https://www.artnews.com/art-news/news/julia-stoschek-collection-selfish-in-bed-20th-anniversary-1234805311/",
-      "source": "ARTnews",
-      "published_at": "2026-11-10T14:00:00+00:00",
-      "category": "KOLEKSİYONERLER",
+      "title": "sprouted earth and soil spill across gallery for landscape of future memories installation",
+      "url": "https://www.designboom.com/art/sprouted-earth-soil-gallery-landscape-future-memories-installation-buro-zemla/",
+      "source": "Designboom Art",
+      "published_at": "2026-11-10T07:15:18+00:00",
+      "category": "GALERİ KULİSİ",
       "priority": 9,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
