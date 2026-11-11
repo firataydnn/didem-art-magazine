@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-11T09:32:37.623056+00:00",
+  "generated_at": "2026-11-11T17:55:53.300188+00:00",
   "notice": "Primary source page monitoring only. Page changes are not verified publication events. Restricted press rooms must not be bypassed.",
   "sources": [
     {
@@ -333,7 +333,7 @@
       "status": "reachable",
       "candidates": [
         {
-          "title": "Read more Art 10 November 2026 Opening hours of the Austrian Pavilion From Wednesday 11 to Sunday 15 November, the Pavilion will be open from 10 am to 3 pm.",
+          "title": "Read more Art 10 November 2026 Opening hours of the Austrian Pavilion From Wednesday 11 to Sunday 15 November, the Pavilion is open from 10 am to 3 pm.",
           "url": "https://www.labiennale.org/en/news/opening-hours-austrian-pavilion",
           "status": "institutional_page_link_unverified_date"
         },
