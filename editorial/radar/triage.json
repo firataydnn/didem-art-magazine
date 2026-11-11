@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "count": 479,
+  "count": 484,
   "possible_duplicates": 0,
   "items": [
     {
@@ -16,23 +16,23 @@
       "publication_approved": false
     },
     {
-      "id": "5e7f076754ccfd6add9a",
-      "title": "The Most Expensive Artworks by Pablo Picasso Ever Sold at Auction",
-      "url": "https://www.artnews.com/list/art-news/artists/pablo-picasso-highest-auction-records-1234594915/",
+      "id": "3beb6a6161a14f9c170c",
+      "title": "Julia Stoschek Collection to Celebrate 20 Years with ‘Selfish in Bed’ Exhibition and Düsseldorf Reopening",
+      "url": "https://www.artnews.com/art-news/news/julia-stoschek-collection-selfish-in-bed-20th-anniversary-1234805311/",
       "source": "ARTnews",
-      "published": "2026-11-10T10:30:00+00:00",
-      "priority_score": 10,
+      "published": "2026-11-10T14:00:00+00:00",
+      "priority_score": 9,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
       "publication_approved": false
     },
     {
-      "id": "3beb6a6161a14f9c170c",
-      "title": "Julia Stoschek Collection to Celebrate 20 Years with ‘Selfish in Bed’ Exhibition and Düsseldorf Reopening",
-      "url": "https://www.artnews.com/art-news/news/julia-stoschek-collection-selfish-in-bed-20th-anniversary-1234805311/",
+      "id": "d7a80d03351479bf48bc",
+      "title": "Museum Organizations Call Bipartisan Infrastruture Bill a ‘Sweeping Assault’ on Historic and Sacred Places",
+      "url": "https://www.artnews.com/art-news/news/bipartisan-bill-museums-sweeping-assault-historic-places-1234805501/",
       "source": "ARTnews",
-      "published": "2026-11-10T14:00:00+00:00",
+      "published": "2026-11-10T22:41:34+00:00",
       "priority_score": 9,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -64,12 +64,36 @@
       "publication_approved": false
     },
     {
+      "id": "5e7f076754ccfd6add9a",
+      "title": "The Most Expensive Artworks by Pablo Picasso Ever Sold at Auction",
+      "url": "https://www.artnews.com/list/art-news/artists/pablo-picasso-highest-auction-records-1234594915/",
+      "source": "ARTnews",
+      "published": "2026-11-10T10:30:00+00:00",
+      "priority_score": 8,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "1b67f733595e5e3d6764",
       "title": "The World’s Best Biennial Is in St. Louis",
       "url": "https://www.artnews.com/art-in-america/aia-reviews/counterpublic-st-louis-triennial-tony-cokes-ryan-trecartin-glenn-ligon-1234804769/",
       "source": "ARTnews",
       "published": "2026-11-09T17:02:49+00:00",
       "priority_score": 8,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "1632d87d75d93dbf6b42",
+      "title": "A New Home for Native Art in New York",
+      "url": "https://hyperallergic.com/a-new-home-for-native-art-in-new-york/",
+      "source": "Hyperallergic",
+      "published": "2026-11-11T11:00:00+00:00",
+      "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -112,11 +136,11 @@
       "publication_approved": false
     },
     {
-      "id": "d816d75ada083d36c550",
-      "title": "Call for Proposals: Roman Witt Residency at the University of Michigan",
-      "url": "https://hyperallergic.com/call-for-proposals-roman-witt-residency-at-the-university-of-michigan/",
+      "id": "5a38052de2a367a93def",
+      "title": "Brokies, This Met Gala Is for You",
+      "url": "https://hyperallergic.com/brokies-this-met-gala-is-for-you/",
       "source": "Hyperallergic",
-      "published": "2026-11-10T16:00:00+00:00",
+      "published": "2026-11-10T22:35:25+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -124,11 +148,11 @@
       "publication_approved": false
     },
     {
-      "id": "a0b98b341a65a23d5754",
-      "title": "Collectors Jill and Peter Kraus Want Artists to Look at Their Upstate New York Property and React to It",
-      "url": "https://www.artnews.com/art-news/news/collectors-jill-and-peter-kraus-open-house-tour-1234805031/",
-      "source": "ARTnews",
-      "published": "2026-11-10T10:00:00+00:00",
+      "id": "d816d75ada083d36c550",
+      "title": "Call for Proposals: Roman Witt Residency at the University of Michigan",
+      "url": "https://hyperallergic.com/call-for-proposals-roman-witt-residency-at-the-university-of-michigan/",
+      "source": "Hyperallergic",
+      "published": "2026-11-10T16:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -196,6 +220,18 @@
       "publication_approved": false
     },
     {
+      "id": "6b5996cb857f4c51bd56",
+      "title": "Limited-Edition Screenprints for the Budding Collector",
+      "url": "https://www.thisiscolossal.com/2026/11/prints-colossal-gift-guide-2026/",
+      "source": "Colossal",
+      "published": "2026-11-10T23:15:05+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "053cddbaa6cb83cdf349",
       "title": "Mamdani Begins Reconstruction of Historic Chinatown Building Decimated in 2020 Fire",
       "url": "https://hyperallergic.com/mamdani-begins-reconstruction-of-historic-chinatown-building-decimated-in-2020-fire/",
@@ -232,30 +268,6 @@
       "publication_approved": false
     },
     {
-      "id": "da3793aa42bf0b172108",
-      "title": "Mona Chalabi Paints a Picture of Class Inequality",
-      "url": "https://hyperallergic.com/mona-chalabi-paints-a-picture-of-class-inequality/",
-      "source": "Hyperallergic",
-      "published": "2026-11-09T23:02:33+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "bef59a94b326a438d933",
-      "title": "Mona Chalabi on Money and Art",
-      "url": "https://hyperallergic.com/mona-chalabi-on-money-and-art/",
-      "source": "Hyperallergic",
-      "published": "2026-11-10T11:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "1cd3724cddc1b9b8f9f1",
       "title": "Mrs. Gallery Marks 10 Years of Getting Art Collectors to Queens",
       "url": "https://hyperallergic.com/mrs-gallery-marks-10-years-of-getting-art-collectors-to-queens/",
@@ -273,6 +285,18 @@
       "url": "https://www.artnews.com/art-news/market/martin-luther-king-i-have-a-dream-draft-christies-auction-1234805390/",
       "source": "ARTnews",
       "published": "2026-11-10T14:05:10+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "3a09aee616beec5fc520",
+      "title": "RM’s SFMOMA Show Changed My Mind About Celebrity Curators",
+      "url": "https://www.artnews.com/art-news/reviews/rm-sfmoma-review-1234805463/",
+      "source": "ARTnews",
+      "published": "2026-11-11T10:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -496,6 +520,18 @@
       "publication_approved": false
     },
     {
+      "id": "a0b98b341a65a23d5754",
+      "title": "Collectors Jill and Peter Kraus Want Artists to Look at Their Upstate New York Property and React to It",
+      "url": "https://www.artnews.com/art-news/news/collectors-jill-and-peter-kraus-open-house-tour-1234805031/",
+      "source": "ARTnews",
+      "published": "2026-11-10T10:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "1da497f66fd6144fbc59",
       "title": "Death Row’s Last Meals Anchor a Museum-Wide Survey of Incarceration Art",
       "url": "https://www.artnews.com/art-news/reviews/grand-rapids-museum-of-art-hosts-surveys-of-prison-art-1234804902/",
@@ -585,6 +621,30 @@
       "url": "https://www.artnews.com/art-news/news/moab-petroglyphs-vandalized-utah-1234805350/",
       "source": "ARTnews",
       "published": "2026-11-09T21:50:31+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "da3793aa42bf0b172108",
+      "title": "Mona Chalabi Paints a Picture of Class Inequality",
+      "url": "https://hyperallergic.com/mona-chalabi-paints-a-picture-of-class-inequality/",
+      "source": "Hyperallergic",
+      "published": "2026-11-09T23:02:33+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "bef59a94b326a438d933",
+      "title": "Mona Chalabi on Money and Art",
+      "url": "https://hyperallergic.com/mona-chalabi-on-money-and-art/",
+      "source": "Hyperallergic",
+      "published": "2026-11-10T11:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1185,18 +1245,6 @@
       "url": "https://www.artnews.com/art-news/news/art-basel-paris-closing-early-satellite-fairs-ope-1234803619/",
       "source": "ARTnews",
       "published": "2026-10-22T23:43:30+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "4125d844c14b20f1c7c2",
-      "title": "Assyria is Far from Ancient in Esther Elia’s Characterizations of Contemporary ‘Diasporic Deities’",
-      "url": "https://www.thisiscolossal.com/2026/11/esther-elia-assyrian-culture-tile-sculptures-paintings/",
-      "source": "Colossal",
-      "published": "2026-11-03T22:25:26+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2128,18 +2176,6 @@
       "publication_approved": false
     },
     {
-      "id": "124c9468e79de8f06fb9",
-      "title": "The Art of Showing Up",
-      "url": "https://hyperallergic.com/the-art-of-showing-up/",
-      "source": "Hyperallergic",
-      "published": "2026-11-04T11:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "d1d80d7e68c6b81bb76d",
       "title": "The Best Booths at Art Basel Paris, From Tar Paintings to a Falling Knife",
       "url": "https://www.artnews.com/list/art-news/market/art-basel-paris-2026-best-booths-1234803335/",
@@ -2805,6 +2841,18 @@
       "url": "https://hyperallergic.com/asia-now-2026-brings-contemporary-asian-art-to-paris/",
       "source": "Hyperallergic",
       "published": "2026-10-15T14:27:51+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "4125d844c14b20f1c7c2",
+      "title": "Assyria is Far from Ancient in Esther Elia’s Characterizations of Contemporary ‘Diasporic Deities’",
+      "url": "https://www.thisiscolossal.com/2026/11/esther-elia-assyrian-culture-tile-sculptures-paintings/",
+      "source": "Colossal",
+      "published": "2026-11-03T22:25:26+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -5025,6 +5073,18 @@
       "url": "https://hyperallergic.com/the-art-world-has-an-ai-problem/",
       "source": "Hyperallergic",
       "published": "2026-10-21T10:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "124c9468e79de8f06fb9",
+      "title": "The Art of Showing Up",
+      "url": "https://hyperallergic.com/the-art-of-showing-up/",
+      "source": "Hyperallergic",
+      "published": "2026-11-04T11:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
