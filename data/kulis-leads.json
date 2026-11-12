@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-12T00:49:05.679850+00:00",
-  "source_generated_at": "2026-11-12T00:48:48.524279+00:00",
+  "generated_at": "2026-11-12T09:55:43.203223+00:00",
+  "source_generated_at": "2026-11-12T09:55:21.360170+00:00",
   "notice": "Kulis aday bağlantıları. Metin, iddia, alıntı ve fotoğraf henüz ATELIER tarafından doğrulanmadı. Otomatik haber yayınlamaz.",
   "items": [
     {
@@ -44,7 +44,7 @@
       "note": "Publisher headline only. Not an independently checked art gossip report."
     },
     {
-      "title": "Art Basel offers compensation to dealers after early closure of Paris fair due to protests",
+      "title": "Art Basel offers compensation to dealers after early closure of Paris fair",
       "url": "https://www.theartnewspaper.com/2026/11/11/art-basel-offers-compensation-to-dealers-after-early-closure-of-paris-fair",
       "source": "The Art Newspaper",
       "published_at": "2026-11-11T14:15:00+00:00",
@@ -239,19 +239,6 @@
       "note": "Publisher headline only. Not an independently checked art gossip report."
     },
     {
-      "title": "Auction Exec Guillaume Cerutti Heads to Versailles",
-      "url": "https://news.artnet.com/multimedia/art-market-minute-nov-9-2834031",
-      "source": "Artnet",
-      "published_at": "2026-11-09T09:57:08+00:00",
-      "category": "MÜZAYEDE MASASI",
-      "priority": 10,
-      "editorial_status": "source_link_requires_review",
-      "source_verified": false,
-      "article_approved": false,
-      "image_rights": "not_cleared",
-      "note": "Publisher headline only. Not an independently checked art gossip report."
-    },
-    {
       "title": "With Protests Quieting Down But Not Forgotten, Dealers Return to the Grand Palais for Paris Photo",
       "url": "https://www.artnews.com/art-news/market/paris-photo-2026-report-photography-bicentennial-1234805587/",
       "source": "ARTnews",
@@ -330,12 +317,12 @@
       "note": "Publisher headline only. Not an independently checked art gossip report."
     },
     {
-      "title": "sprouted earth and soil spill across gallery for landscape of future memories installation",
-      "url": "https://www.designboom.com/art/sprouted-earth-soil-gallery-landscape-future-memories-installation-buro-zemla/",
-      "source": "Designboom Art",
-      "published_at": "2026-11-10T07:15:18+00:00",
-      "category": "GALERİ KULİSİ",
-      "priority": 9,
+      "title": "Julia Stoschek Collection to Celebrate 20 Years with ‘Selfish in Bed’ Exhibition and Düsseldorf Reopening",
+      "url": "https://www.artnews.com/art-news/news/julia-stoschek-collection-selfish-in-bed-20th-anniversary-1234805311/",
+      "source": "ARTnews",
+      "published_at": "2026-11-10T14:00:00+00:00",
+      "category": "KOLEKSİYONERLER",
+      "priority": 8,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
       "article_approved": false,
@@ -343,11 +330,11 @@
       "note": "Publisher headline only. Not an independently checked art gossip report."
     },
     {
-      "title": "Julia Stoschek Collection to Celebrate 20 Years with ‘Selfish in Bed’ Exhibition and Düsseldorf Reopening",
-      "url": "https://www.artnews.com/art-news/news/julia-stoschek-collection-selfish-in-bed-20th-anniversary-1234805311/",
-      "source": "ARTnews",
-      "published_at": "2026-11-10T14:00:00+00:00",
-      "category": "KOLEKSİYONERLER",
+      "title": "sprouted earth and soil spill across gallery for landscape of future memories installation",
+      "url": "https://www.designboom.com/art/sprouted-earth-soil-gallery-landscape-future-memories-installation-buro-zemla/",
+      "source": "Designboom Art",
+      "published_at": "2026-11-10T07:15:18+00:00",
+      "category": "GALERİ KULİSİ",
       "priority": 8,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
@@ -465,6 +452,19 @@
       "source": "Hyperallergic",
       "published_at": "2026-11-10T16:00:00+00:00",
       "category": "SANAT & GÜÇ",
+      "priority": 6,
+      "editorial_status": "source_link_requires_review",
+      "source_verified": false,
+      "article_approved": false,
+      "image_rights": "not_cleared",
+      "note": "Publisher headline only. Not an independently checked art gossip report."
+    },
+    {
+      "title": "Yukiko Yamagata Named Executive Director of Print Center New York",
+      "url": "https://www.artforum.com/news/yukiko-yamagata-executive-director-print-center-new-york-1234763299/",
+      "source": "Artforum",
+      "published_at": "2026-11-10T15:26:35+00:00",
+      "category": "GALERİ KULİSİ",
       "priority": 6,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
