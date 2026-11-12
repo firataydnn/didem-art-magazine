@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-12T09:55:36.964346+00:00",
+  "generated_at": "2026-11-12T18:23:30.209764+00:00",
   "notice": "Primary source page monitoring only. Page changes are not verified publication events. Restricted press rooms must not be bypassed.",
   "sources": [
     {
@@ -373,6 +373,11 @@
           "status": "institutional_page_link_unverified_date"
         },
         {
+          "title": "Tate Publishing Announces Vanessa Bell and Duncan Grant: Inside Bloomsbury",
+          "url": "https://www.tate.org.uk/press/press-releases/tate-publishing-announces-vanessa-bell-and-duncan-grant-inside-bloomsbury",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
           "title": "Tate welcomes new fundraising print portfolio from Counter Editions celebrating women artists",
           "url": "https://www.tate.org.uk/press/press-releases/tate-welcomes-new-fundraising-print-portfolio-from-counter-editions-celebrating-women-artists",
           "status": "institutional_page_link_unverified_date"
@@ -400,11 +405,6 @@
         {
           "title": "Wilhelmina Barns-Graham at Tate St Ives: 24 October 2026 – 3 May 2027",
           "url": "https://www.tate.org.uk/press/press-releases/wilhelmina-barns-graham-at-tate-st-ives",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Tate acquires new works for the national collection at Frieze London and Frieze Masters",
-          "url": "https://www.tate.org.uk/press/press-releases/tate-acquires-new-works-for-the-national-collection-at-frieze-london-and-frieze-masters",
           "status": "institutional_page_link_unverified_date"
         }
       ],
