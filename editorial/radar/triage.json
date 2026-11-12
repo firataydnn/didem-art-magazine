@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "count": 504,
+  "count": 505,
   "possible_duplicates": 0,
   "items": [
     {
@@ -82,18 +82,6 @@
       "source": "ARTnews",
       "published": "2026-11-09T17:02:49+00:00",
       "priority_score": 8,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "1632d87d75d93dbf6b42",
-      "title": "A New Home for Native Art in New York",
-      "url": "https://hyperallergic.com/a-new-home-for-native-art-in-new-york/",
-      "source": "Hyperallergic",
-      "published": "2026-11-11T11:00:00+00:00",
-      "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -268,6 +256,18 @@
       "publication_approved": false
     },
     {
+      "id": "e0a13db77bc34c28fa53",
+      "title": "Nvidia Honeypot Yields Meme Gold",
+      "url": "https://hyperallergic.com/nvidia-honeypot-yields-meme-gold/",
+      "source": "Hyperallergic",
+      "published": "2026-11-12T11:00:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "fc7b9cc659090ada1296",
       "title": "Oxford University Museum Returns 39 Sets of Ancestral Remains to Naga People of India",
       "url": "https://www.artnews.com/art-news/news/pitt-rivers-museum-oxford-returns-naga-ancestral-remains-1234805458/",
@@ -285,18 +285,6 @@
       "url": "https://hyperallergic.com/piecing-together-romare-beardens-life/",
       "source": "Hyperallergic",
       "published": "2026-11-11T21:43:41+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "3a09aee616beec5fc520",
-      "title": "RM’s SFMOMA Show Changed My Mind About Celebrity Curators",
-      "url": "https://www.artnews.com/art-news/reviews/rm-sfmoma-review-1234805463/",
-      "source": "ARTnews",
-      "published": "2026-11-11T10:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -400,18 +388,6 @@
       "publication_approved": false
     },
     {
-      "id": "b68acefcdf430381dd5c",
-      "title": "Long-Lost Georgia O’Keeffe Landscape Goes to Auction",
-      "url": "https://hyperallergic.com/long-lost-georgia-okeeffe-landscape-goes-to-auction/",
-      "source": "Hyperallergic",
-      "published": "2026-11-05T12:00:00+00:00",
-      "priority_score": 6,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "7f3317c0cbb31537b1f4",
       "title": "Meg Onli and Zack Winokur to Curate 2028 Whitney Biennial",
       "url": "https://hyperallergic.com/meg-onli-and-zack-winokur-to-curate-2028-whitney-biennial/",
@@ -442,6 +418,18 @@
       "source": "ARTnews",
       "published": "2026-10-22T12:28:42+00:00",
       "priority_score": 6,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "1632d87d75d93dbf6b42",
+      "title": "A New Home for Native Art in New York",
+      "url": "https://hyperallergic.com/a-new-home-for-native-art-in-new-york/",
+      "source": "Hyperallergic",
+      "published": "2026-11-11T11:00:00+00:00",
+      "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -820,6 +808,18 @@
       "publication_approved": false
     },
     {
+      "id": "3a09aee616beec5fc520",
+      "title": "RM’s SFMOMA Show Changed My Mind About Celebrity Curators",
+      "url": "https://www.artnews.com/art-news/reviews/rm-sfmoma-review-1234805463/",
+      "source": "ARTnews",
+      "published": "2026-11-11T10:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "44f06c574a0a8ce92abd",
       "title": "Rare Jan van Huysum Pendant Paintings Head to Christie’s for $10.7 M.",
       "url": "https://www.artnews.com/art-news/news/jan-van-huysums-paintings-christies-sale-1234805129/",
@@ -873,30 +873,6 @@
       "url": "https://hyperallergic.com/susan-siltons-loud-and-proud-whistle/",
       "source": "Hyperallergic",
       "published": "2026-11-10T20:36:53+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "95cc543eaf7a1fbb0d21",
-      "title": "The 13 Best London Museums to Visit",
-      "url": "https://www.artnews.com/list/art-news/artists/best-london-museums-to-visit-1234804828/",
-      "source": "ARTnews",
-      "published": "2026-11-09T10:30:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "11c882649cf84fbe5081",
-      "title": "The People Against the Arch",
-      "url": "https://hyperallergic.com/the-people-against-the-arch/",
-      "source": "Hyperallergic",
-      "published": "2026-11-09T11:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1053,6 +1029,18 @@
       "url": "https://www.artnews.com/art-news/news/kim-kardashian-first-auction-purchase-monet-painting-1234804238/",
       "source": "ARTnews",
       "published": "2026-10-29T19:42:27+00:00",
+      "priority_score": 4,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "b68acefcdf430381dd5c",
+      "title": "Long-Lost Georgia O’Keeffe Landscape Goes to Auction",
+      "url": "https://hyperallergic.com/long-lost-georgia-okeeffe-landscape-goes-to-auction/",
+      "source": "Hyperallergic",
+      "published": "2026-11-05T12:00:00+00:00",
       "priority_score": 4,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1504,18 +1492,6 @@
       "publication_approved": false
     },
     {
-      "id": "3ac69147670a8bafc6e0",
-      "title": "Daniel Sikkema Sentenced to Life for Murder of Art Dealer Brent Sikkema",
-      "url": "https://hyperallergic.com/daniel-sikkema-sentenced-to-life-for-murder-of-art-dealer-brent-sikkema/",
-      "source": "Hyperallergic",
-      "published": "2026-11-04T23:36:26+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "b78d6463009e6adf4419",
       "title": "Dealers Scramble to Get Works Out of Paris After Surprise Art Basel Announcement",
       "url": "https://www.artnews.com/art-news/market/art-basel-paris-closure-protests-dealers-respond-1234803592/",
@@ -1545,18 +1521,6 @@
       "url": "https://hyperallergic.com/discover-marcel-duchamp-at-the-philadelphia-museum-of-art/",
       "source": "Hyperallergic",
       "published": "2026-10-28T15:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "31d9daf2d05af21f0d21",
-      "title": "Doris Salcedo Traces the Shape of Memory",
-      "url": "https://hyperallergic.com/doris-salcedo-traces-the-shape-of-memory/",
-      "source": "Hyperallergic",
-      "published": "2026-11-05T11:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2236,6 +2200,18 @@
       "publication_approved": false
     },
     {
+      "id": "95cc543eaf7a1fbb0d21",
+      "title": "The 13 Best London Museums to Visit",
+      "url": "https://www.artnews.com/list/art-news/artists/best-london-museums-to-visit-1234804828/",
+      "source": "ARTnews",
+      "published": "2026-11-09T10:30:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "d1d80d7e68c6b81bb76d",
       "title": "The Best Booths at Art Basel Paris, From Tar Paintings to a Falling Knife",
       "url": "https://www.artnews.com/list/art-news/market/art-basel-paris-2026-best-booths-1234803335/",
@@ -2289,6 +2265,18 @@
       "url": "https://www.artnews.com/art-news/news/metropolitan-museum-art-vacheron-constantin-residency-1234804336/",
       "source": "ARTnews",
       "published": "2026-10-30T15:44:13+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "11c882649cf84fbe5081",
+      "title": "The People Against the Arch",
+      "url": "https://hyperallergic.com/the-people-against-the-arch/",
+      "source": "Hyperallergic",
+      "published": "2026-11-09T11:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -3208,6 +3196,18 @@
       "publication_approved": false
     },
     {
+      "id": "3ac69147670a8bafc6e0",
+      "title": "Daniel Sikkema Sentenced to Life for Murder of Art Dealer Brent Sikkema",
+      "url": "https://hyperallergic.com/daniel-sikkema-sentenced-to-life-for-murder-of-art-dealer-brent-sikkema/",
+      "source": "Hyperallergic",
+      "published": "2026-11-04T23:36:26+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "93936585170f496c35f5",
       "title": "Daniel Sikkema Sentenced to Life in Prison for the Murder of New York Art Dealer Brent Sikkema",
       "url": "https://www.artnews.com/art-news/news/daniel-sikkema-sentenced-life-prison-murder-brent-sikkema-1234804679/",
@@ -3285,6 +3285,18 @@
       "url": "https://www.artnews.com/art-news/news/donors-are-secretly-trying-to-save-the-kennedy-centers-artworks-from-destruction-or-disposal-amid-trump-takeover-1234803103/",
       "source": "ARTnews",
       "published": "2026-10-20T17:45:51+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "31d9daf2d05af21f0d21",
+      "title": "Doris Salcedo Traces the Shape of Memory",
+      "url": "https://hyperallergic.com/doris-salcedo-traces-the-shape-of-memory/",
+      "source": "Hyperallergic",
+      "published": "2026-11-05T11:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
