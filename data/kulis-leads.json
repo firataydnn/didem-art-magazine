@@ -1,9 +1,22 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-13T01:10:39.585358+00:00",
-  "source_generated_at": "2026-11-13T01:10:21.889607+00:00",
+  "generated_at": "2026-11-13T09:40:01.673745+00:00",
+  "source_generated_at": "2026-11-13T09:39:44.457922+00:00",
   "notice": "Kulis aday bağlantıları. Metin, iddia, alıntı ve fotoğraf henüz ATELIER tarafından doğrulanmadı. Otomatik haber yayınlamaz.",
   "items": [
+    {
+      "title": "The Whitney Is Sending a $18M de Kooning to Auction",
+      "url": "https://news.artnet.com/market/whitney-deaccession-de-kooning-auction-christies-2835978",
+      "source": "Artnet",
+      "published_at": "2026-11-13T01:12:26+00:00",
+      "category": "MÜZAYEDE MASASI",
+      "priority": 12,
+      "editorial_status": "source_link_requires_review",
+      "source_verified": false,
+      "article_approved": false,
+      "image_rights": "not_cleared",
+      "note": "Publisher headline only. Not an independently checked art gossip report."
+    },
     {
       "title": "Christie’s Posts Highest Watch Total Ever and Sells Bulgari Pink Diamond for $14 M.",
       "url": "https://www.artnews.com/art-news/market/christies-posts-highest-watch-total-ever-bulgari-pink-1234805692/",
@@ -452,19 +465,6 @@
       "source": "Hyperallergic",
       "published_at": "2026-11-10T16:00:00+00:00",
       "category": "SANAT & GÜÇ",
-      "priority": 5,
-      "editorial_status": "source_link_requires_review",
-      "source_verified": false,
-      "article_approved": false,
-      "image_rights": "not_cleared",
-      "note": "Publisher headline only. Not an independently checked art gossip report."
-    },
-    {
-      "title": "Yukiko Yamagata Named Executive Director of Print Center New York",
-      "url": "https://www.artforum.com/news/yukiko-yamagata-executive-director-print-center-new-york-1234763299/",
-      "source": "Artforum",
-      "published_at": "2026-11-10T15:26:35+00:00",
-      "category": "GALERİ KULİSİ",
       "priority": 5,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
