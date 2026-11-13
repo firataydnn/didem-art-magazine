@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-12T18:23:30.209764+00:00",
+  "generated_at": "2026-11-13T01:10:34.008066+00:00",
   "notice": "Primary source page monitoring only. Page changes are not verified publication events. Restricted press rooms must not be bypassed.",
   "sources": [
     {
@@ -55,6 +55,11 @@
           "status": "institutional_page_link_unverified_date"
         },
         {
+          "title": "The Museum of Modern Art Announces the Winner of the Inaugural Ambasz-MoMA Annual Prize for Nature-Reconciled Architecture",
+          "url": "https://press.moma.org/news/ambasz-prize-winner-2026/",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
           "title": "MoMA, Centre Pompidou, and M+ Announce Unprecedented Cultural Alliance",
           "url": "https://press.moma.org/news/culturalalliance/",
           "status": "institutional_page_link_unverified_date"
@@ -87,11 +92,6 @@
         {
           "title": "MoMA Marks the Nation’s 250th Anniversary with a Dynamic Summer Program and Membership to Celebrate Community and Creativity",
           "url": "https://press.moma.org/news/moma-america-250th-anniversary/",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "MoMA PS1 Announces 50th Anniversary Programs",
-          "url": "https://press.moma.org/news/moma-ps1-announces-50th-anniversary-programs/",
           "status": "institutional_page_link_unverified_date"
         }
       ],
