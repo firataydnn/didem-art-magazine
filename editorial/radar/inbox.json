@@ -2,6 +2,19 @@
   "schema": 1,
   "items": [
     {
+      "id": "6acbc1c3f2db0216c2d4",
+      "source": "Hyperallergic",
+      "category": "sanat-basini",
+      "title": "Special Edition: Jesus",
+      "url": "https://hyperallergic.com/11-14-26-weekly-newsletter-2/",
+      "published": "2026-11-14T11:00:00+00:00",
+      "summary": "Mona Chalabi, Anne Anlin Cheng and Patty Chang, Miles Greenberg, Betsy James Wyeth, and the hottest memes about the Nvidia honeypot.",
+      "discovered": "2026-11-14T12:17:22.806988+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "eca67b90bde597c5967d",
       "source": "ARTnews",
       "category": "sanat-basini",

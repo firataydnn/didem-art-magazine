@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "count": 551,
+  "count": 552,
   "possible_duplicates": 0,
   "items": [
     {
@@ -112,18 +112,6 @@
       "publication_approved": false
     },
     {
-      "id": "374c92b4e0f0005b7f41",
-      "title": "A Toolkit for a Liberated Art World",
-      "url": "https://hyperallergic.com/a-toolkit-for-a-liberated-art-world/",
-      "source": "Hyperallergic",
-      "published": "2026-11-13T11:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "1f3946a36275e4cf3fb1",
       "title": "A View From the Easel: Leslie Lewis Sigler",
       "url": "https://hyperallergic.com/a-view-from-the-easel-leslie-lewis-sigler/",
@@ -141,18 +129,6 @@
       "url": "https://hyperallergic.com/art-basel-paris-to-give-galleries-a-20-discount-after-early-closure/",
       "source": "Hyperallergic",
       "published": "2026-11-11T16:20:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "099f3fc7a2dd28b2c5da",
-      "title": "Artnet’s Kalshi Partnership Faces Swift Backlash Online, But Advisers Are More Mixed",
-      "url": "https://www.artnews.com/art-news/market/artnet-kalshi-partnership-backlash-art-world-1234805778/",
-      "source": "ARTnews",
-      "published": "2026-11-12T23:36:56+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -220,18 +196,6 @@
       "publication_approved": false
     },
     {
-      "id": "c13bda9dd7b364134940",
-      "title": "How Does an Artist Know When She’s Done? A Major Marisa Merz Retrospective Turns the Question on Its Head",
-      "url": "https://www.artnews.com/art-in-america/aia-reviews/marisa-merz-arte-povera-turin-retrospective-1234805723/",
-      "source": "ARTnews",
-      "published": "2026-11-13T10:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "774b6db3b7f99e521027",
       "title": "Long-Lost Charles Le Brun Painting Returns to the New Palace in Potsdam",
       "url": "https://www.artnews.com/art-news/news/lost-charles-le-brun-painting-returned-new-palace-potsdam-1234805935/",
@@ -268,30 +232,6 @@
       "publication_approved": false
     },
     {
-      "id": "2930d042e815e371b5c4",
-      "title": "Print Center and Women’s Studio Workshop Name New Leaders",
-      "url": "https://hyperallergic.com/print-center-and-womens-studio-workshop-name-new-leaders/",
-      "source": "Hyperallergic",
-      "published": "2026-11-12T22:46:17+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "0bc0b5dba47acb91bddc",
-      "title": "Protesters Urge Steven Spielberg to Boycott MoMA Over Leon Black’s Epstein Ties",
-      "url": "https://hyperallergic.com/protesters-urge-steven-spielberg-to-boycott-moma-over-leon-blacks-epstein-ties/",
-      "source": "Hyperallergic",
-      "published": "2026-11-13T00:01:38+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "5baec68e94a729ca6ebf",
       "title": "Rhizome Announces Partnership With Electronic Arts Intermix Following Vimeo Censorship Concerns",
       "url": "https://www.artnews.com/art-news/news/rhizome-electronic-arts-intermix-partnership-vimeo-censorship-1234805760/",
@@ -321,6 +261,18 @@
       "url": "https://www.thisiscolossal.com/2026/11/sean-doran-crimson-star-film/",
       "source": "Colossal",
       "published": "2026-11-13T14:53:38+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "6acbc1c3f2db0216c2d4",
+      "title": "Special Edition: Jesus",
+      "url": "https://hyperallergic.com/11-14-26-weekly-newsletter-2/",
+      "source": "Hyperallergic",
+      "published": "2026-11-14T11:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -496,11 +448,11 @@
       "publication_approved": false
     },
     {
-      "id": "1632d87d75d93dbf6b42",
-      "title": "A New Home for Native Art in New York",
-      "url": "https://hyperallergic.com/a-new-home-for-native-art-in-new-york/",
+      "id": "374c92b4e0f0005b7f41",
+      "title": "A Toolkit for a Liberated Art World",
+      "url": "https://hyperallergic.com/a-toolkit-for-a-liberated-art-world/",
       "source": "Hyperallergic",
-      "published": "2026-11-11T11:00:00+00:00",
+      "published": "2026-11-13T11:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -585,6 +537,18 @@
       "url": "https://hyperallergic.com/art-problems-should-i-get-an-mfa/",
       "source": "Hyperallergic",
       "published": "2026-11-11T15:25:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "099f3fc7a2dd28b2c5da",
+      "title": "Artnet’s Kalshi Partnership Faces Swift Backlash Online, But Advisers Are More Mixed",
+      "url": "https://www.artnews.com/art-news/market/artnet-kalshi-partnership-backlash-art-world-1234805778/",
+      "source": "ARTnews",
+      "published": "2026-11-12T23:36:56+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -736,6 +700,18 @@
       "publication_approved": false
     },
     {
+      "id": "c13bda9dd7b364134940",
+      "title": "How Does an Artist Know When She’s Done? A Major Marisa Merz Retrospective Turns the Question on Its Head",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/marisa-merz-arte-povera-turin-retrospective-1234805723/",
+      "source": "ARTnews",
+      "published": "2026-11-13T10:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "65e34e7c146cedd244b9",
       "title": "How Sky Glabush Conjures Atmospheric Landscapes in Sand and Oil Paint",
       "url": "https://www.thisiscolossal.com/2026/11/sky-glabush-landscape-paintings/",
@@ -789,18 +765,6 @@
       "url": "https://www.artnews.com/art-news/news/kennedy-family-joins-litigation-against-trump-triumphal-arch-1234805580/",
       "source": "ARTnews",
       "published": "2026-11-11T20:32:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "6b5996cb857f4c51bd56",
-      "title": "Limited-Edition Screenprints for the Budding Collector",
-      "url": "https://www.thisiscolossal.com/2026/11/prints-colossal-gift-guide-2026/",
-      "source": "Colossal",
-      "published": "2026-11-10T23:15:05+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -904,11 +868,23 @@
       "publication_approved": false
     },
     {
-      "id": "3a09aee616beec5fc520",
-      "title": "RM’s SFMOMA Show Changed My Mind About Celebrity Curators",
-      "url": "https://www.artnews.com/art-news/reviews/rm-sfmoma-review-1234805463/",
-      "source": "ARTnews",
-      "published": "2026-11-11T10:00:00+00:00",
+      "id": "2930d042e815e371b5c4",
+      "title": "Print Center and Women’s Studio Workshop Name New Leaders",
+      "url": "https://hyperallergic.com/print-center-and-womens-studio-workshop-name-new-leaders/",
+      "source": "Hyperallergic",
+      "published": "2026-11-12T22:46:17+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "0bc0b5dba47acb91bddc",
+      "title": "Protesters Urge Steven Spielberg to Boycott MoMA Over Leon Black’s Epstein Ties",
+      "url": "https://hyperallergic.com/protesters-urge-steven-spielberg-to-boycott-moma-over-leon-blacks-epstein-ties/",
+      "source": "Hyperallergic",
+      "published": "2026-11-13T00:01:38+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1192,11 +1168,11 @@
       "publication_approved": false
     },
     {
-      "id": "cb74f09c65eb3dab248d",
-      "title": "A New Hudson Valley Art Space Promises to Be As Accessible as It Is In Flux",
-      "url": "https://www.artnews.com/art-news/news/branchline-gochman-family-collection-opening-1234805014/",
-      "source": "ARTnews",
-      "published": "2026-11-06T23:16:14+00:00",
+      "id": "1632d87d75d93dbf6b42",
+      "title": "A New Home for Native Art in New York",
+      "url": "https://hyperallergic.com/a-new-home-for-native-art-in-new-york/",
+      "source": "Hyperallergic",
+      "published": "2026-11-11T11:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1816,18 +1792,6 @@
       "publication_approved": false
     },
     {
-      "id": "929b83eebc86a9f5379c",
-      "title": "How Going Blind Made Doris Salcedo’s Art Bigger and Better",
-      "url": "https://www.artnews.com/art-news/artists/doris-salcedo-blind-white-cube-house-hair-1234804779/",
-      "source": "ARTnews",
-      "published": "2026-11-07T10:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "30afba4c3c89f49096db",
       "title": "How Miles Greenberg Got “WAR” Past the Censors",
       "url": "https://hyperallergic.com/how-miles-greenberg-got-war-past-the-censors/",
@@ -1929,6 +1893,18 @@
       "url": "https://hyperallergic.com/leila-reichert-appointed-as-senior-curator-at-weisman-art-museum/",
       "source": "Hyperallergic",
       "published": "2026-11-03T19:41:55+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "6b5996cb857f4c51bd56",
+      "title": "Limited-Edition Screenprints for the Budding Collector",
+      "url": "https://www.thisiscolossal.com/2026/11/prints-colossal-gift-guide-2026/",
+      "source": "Colossal",
+      "published": "2026-11-10T23:15:05+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2140,18 +2116,6 @@
       "publication_approved": false
     },
     {
-      "id": "a54ea9c23fff5c70fe6c",
-      "title": "Please Don’t Sit on the Flowers",
-      "url": "https://hyperallergic.com/please-dont-sit-on-the-flowers/",
-      "source": "Hyperallergic",
-      "published": "2026-11-07T11:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "56154681d52c7d2e2884",
       "title": "Prized Monet Paintings at the Center of Milwaukee Art Museum and MFA St. Petersburg’s World Series Wager",
       "url": "https://www.artnews.com/art-news/news/monet-milwaukee-art-museum-mfa-st-petersburgs-world-series-wager-1234803724/",
@@ -2181,6 +2145,18 @@
       "url": "https://www.artnews.com/art-news/news/national-museum-of-colombia-protests-1234802997/",
       "source": "ARTnews",
       "published": "2026-10-19T19:19:36+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "3a09aee616beec5fc520",
+      "title": "RM’s SFMOMA Show Changed My Mind About Celebrity Curators",
+      "url": "https://www.artnews.com/art-news/reviews/rm-sfmoma-review-1234805463/",
+      "source": "ARTnews",
+      "published": "2026-11-11T10:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2637,6 +2613,18 @@
       "url": "https://hyperallergic.com/a-midterm-election-guide-for-artists-and-arts-workers/",
       "source": "Hyperallergic",
       "published": "2026-11-02T23:58:09+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "cb74f09c65eb3dab248d",
+      "title": "A New Hudson Valley Art Space Promises to Be As Accessible as It Is In Flux",
+      "url": "https://www.artnews.com/art-news/news/branchline-gochman-family-collection-opening-1234805014/",
+      "source": "ARTnews",
+      "published": "2026-11-06T23:16:14+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -4084,6 +4072,18 @@
       "publication_approved": false
     },
     {
+      "id": "929b83eebc86a9f5379c",
+      "title": "How Going Blind Made Doris Salcedo’s Art Bigger and Better",
+      "url": "https://www.artnews.com/art-news/artists/doris-salcedo-blind-white-cube-house-hair-1234804779/",
+      "source": "ARTnews",
+      "published": "2026-11-07T10:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "bc4ac0ac9d859c5987b9",
       "title": "How Mexican Photographers Made a Nation",
       "url": "https://hyperallergic.com/how-mexican-photographers-made-a-nation/",
@@ -5229,6 +5229,18 @@
       "url": "https://www.thisiscolossal.com/2026/10/zebu-vibrant-abstract-murals/",
       "source": "Colossal",
       "published": "2026-10-27T19:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "a54ea9c23fff5c70fe6c",
+      "title": "Please Don’t Sit on the Flowers",
+      "url": "https://hyperallergic.com/please-dont-sit-on-the-flowers/",
+      "source": "Hyperallergic",
+      "published": "2026-11-07T11:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
