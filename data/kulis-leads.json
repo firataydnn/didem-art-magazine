@@ -1,7 +1,7 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-13T23:39:32.847727+00:00",
-  "source_generated_at": "2026-11-13T23:39:11.412166+00:00",
+  "generated_at": "2026-11-14T06:37:53.013038+00:00",
+  "source_generated_at": "2026-11-14T06:37:35.701211+00:00",
   "notice": "Kulis aday bağlantıları. Metin, iddia, alıntı ve fotoğraf henüz ATELIER tarafından doğrulanmadı. Otomatik haber yayınlamaz.",
   "items": [
     {
@@ -88,7 +88,7 @@
       "source": "Artnet",
       "published_at": "2026-11-13T01:12:26+00:00",
       "category": "MÜZAYEDE MASASI",
-      "priority": 12,
+      "priority": 11,
       "editorial_status": "source_link_requires_review",
       "source_verified": false,
       "article_approved": false,
@@ -200,7 +200,7 @@
       "note": "Publisher headline only. Not an independently checked art gossip report."
     },
     {
-      "title": "She Wanted to be Shocked. Inside Storied Art Dealer Ileana Sonnabend’s Collection",
+      "title": "She Wanted to Be Shocked. Inside Storied Art Dealer Ileana Sonnabend’s Collection",
       "url": "https://news.artnet.com/market/ileana-sonnabend-christies-auction-rome-exhibition-2834995",
       "source": "Artnet",
       "published_at": "2026-11-13T22:23:54+00:00",
