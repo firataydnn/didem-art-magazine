@@ -28,30 +28,6 @@
       "publication_approved": false
     },
     {
-      "id": "5a0a6435370c07a1ec0c",
-      "title": "Vienna Actionism Museum to Cease Exhibition Program Following Controversial Otto Muehl Show",
-      "url": "https://www.artnews.com/art-news/news/vienna-actionism-museum-ceases-exhibition-program-1234805741/",
-      "source": "ARTnews",
-      "published": "2026-11-12T19:49:05+00:00",
-      "priority_score": 9,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "730586728fbf464733e3",
-      "title": "Lorna Simpson Wins $105,000 Wolfgang Hahn Prize",
-      "url": "https://www.artnews.com/art-news/news/lorna-simpson-2027-wolfgang-hahn-prize-1234805680/",
-      "source": "ARTnews",
-      "published": "2026-11-12T20:54:31+00:00",
-      "priority_score": 8,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "169939b65723553e586d",
       "title": "ARTnews Awards 2026 Best Gallery Group Show: “Horror”",
       "url": "https://www.artnews.com/art-news/artists/horror-artnews-awards-2026-best-gallery-group-show-1234805784/",
@@ -160,11 +136,11 @@
       "publication_approved": false
     },
     {
-      "id": "d72381e1d872a8077f23",
-      "title": "Newark Museum Is Latest Art Institution to Transfer Ownership of David Drake Vessel",
-      "url": "https://www.artnews.com/art-news/news/newark-museum-of-art-david-drake-ownership-transfer-1234805709/",
+      "id": "5a0a6435370c07a1ec0c",
+      "title": "Vienna Actionism Museum to Cease Exhibition Program Following Controversial Otto Muehl Show",
+      "url": "https://www.artnews.com/art-news/news/vienna-actionism-museum-ceases-exhibition-program-1234805741/",
       "source": "ARTnews",
-      "published": "2026-11-12T17:57:59+00:00",
+      "published": "2026-11-12T19:49:05+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -232,6 +208,18 @@
       "publication_approved": false
     },
     {
+      "id": "730586728fbf464733e3",
+      "title": "Lorna Simpson Wins $105,000 Wolfgang Hahn Prize",
+      "url": "https://www.artnews.com/art-news/news/lorna-simpson-2027-wolfgang-hahn-prize-1234805680/",
+      "source": "ARTnews",
+      "published": "2026-11-12T20:54:31+00:00",
+      "priority_score": 6,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "b56d5afb7c05b0825413",
       "title": "Monet Painting Sells for $56.2 M., Setting French Auction Record at Sotheby’s Paris",
       "url": "https://www.artnews.com/art-news/market/claude-monet-iris-french-auction-record-sothebys-paris-1234803611/",
@@ -292,18 +280,6 @@
       "publication_approved": false
     },
     {
-      "id": "69fb94728197c6b1dad6",
-      "title": "$160,000 Hans Arp Sculpture Stolen From Art Cologne",
-      "url": "https://hyperallergic.com/160-000-hans-arp-sculpture-stolen-from-art-cologne/",
-      "source": "Hyperallergic",
-      "published": "2026-11-12T17:38:52+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "e80022191d94685dd5cc",
       "title": "45% of US Independent Arts Publications Face Existential Crisis, Report Finds",
       "url": "https://hyperallergic.com/45-of-us-independent-arts-publications-face-existential-crisis-report-finds/",
@@ -333,30 +309,6 @@
       "url": "https://hyperallergic.com/a-view-from-the-easel-leslie-lewis-sigler/",
       "source": "Hyperallergic",
       "published": "2026-11-13T15:52:35+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "cac90295ee2869c6c671",
-      "title": "After the Midterms, the Real Work for Arts and Culture Begins",
-      "url": "https://hyperallergic.com/after-the-midterms-the-real-work-for-arts-and-culture-begins/",
-      "source": "Hyperallergic",
-      "published": "2026-11-12T21:05:18+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "71e0a90941ca36b29457",
-      "title": "American Novelist and Four Others to Stand Trial Over Sale of Gold Looted from Shipwreck",
-      "url": "https://www.artnews.com/art-news/news/american-novelist-stand-trial-over-sale-gold-ingots-looted-1234805740/",
-      "source": "ARTnews",
-      "published": "2026-11-12T19:44:43+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -424,42 +376,6 @@
       "publication_approved": false
     },
     {
-      "id": "c3754103c04216c212bc",
-      "title": "Celebrate Indigenous Cinema and Storytelling with Free Films",
-      "url": "https://hyperallergic.com/celebrate-indigenous-cinema-and-storytelling-with-free-short-films/",
-      "source": "Hyperallergic",
-      "published": "2026-11-12T16:24:45+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "4219fd0c357da4db11a3",
-      "title": "Chicago’s Viral ‘Bean’ Stunt Inspires Londoners to Move the Marble Arch",
-      "url": "https://www.artnews.com/art-news/news/londoners-plan-move-marble-arch-inspired-chicago-bean-stunt-1234805742/",
-      "source": "ARTnews",
-      "published": "2026-11-12T19:38:10+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "568c67e24bbb56a65c01",
-      "title": "Christie’s Posts Highest Watch Total Ever and Sells Bulgari Pink Diamond for $14 M.",
-      "url": "https://www.artnews.com/art-news/market/christies-posts-highest-watch-total-ever-bulgari-pink-1234805692/",
-      "source": "ARTnews",
-      "published": "2026-11-12T18:13:20+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "bb302a4bdf055e5fbdf3",
       "title": "Contemporary Beadworker Ken Williams Jr Awarded Rakow Commission by Corning Museum of Glass",
       "url": "https://hyperallergic.com/contemporary-beadworker-ken-williams-jr-awarded-rakow-commission-by-corning-museum-of-glass/",
@@ -508,30 +424,6 @@
       "publication_approved": false
     },
     {
-      "id": "ddae802dbd0b849b4174",
-      "title": "Get Up-Close to Cells, Ink, and Insects in the Nikon Small World Photomicrography Contest",
-      "url": "https://www.thisiscolossal.com/2026/11/nikon-small-world-photomicrography-competition-2026-winners/",
-      "source": "Colossal",
-      "published": "2026-11-12T14:51:12+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "221c0e6b09ad443f27fc",
-      "title": "Hiroshi Sato’s Art Against Enshittification",
-      "url": "https://hyperallergic.com/hiroshi-satos-art-against-enshittification/",
-      "source": "Hyperallergic",
-      "published": "2026-11-12T16:30:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "c13bda9dd7b364134940",
       "title": "How Does an Artist Know When She’s Done? A Major Marisa Merz Retrospective Turns the Question on Its Head",
       "url": "https://www.artnews.com/art-in-america/aia-reviews/marisa-merz-arte-povera-turin-retrospective-1234805723/",
@@ -561,18 +453,6 @@
       "url": "https://hyperallergic.com/how-to-free-the-art-world-from-its-neoliberal-capture/",
       "source": "Hyperallergic",
       "published": "2026-11-12T22:02:09+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "3ba30822cdb789fcf793",
-      "title": "Human Rights Orgs Denounce Egypt's Arrest of Mada Masr Editor Lina Attalah",
-      "url": "https://hyperallergic.com/human-rights-orgs-denounce-egypts-arrest-of-mada-masr-editor-lina-attalah/",
-      "source": "Hyperallergic",
-      "published": "2026-11-12T20:46:03+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -616,30 +496,6 @@
       "publication_approved": false
     },
     {
-      "id": "8b5eaff13e53e2cc9632",
-      "title": "MoMA Shells Out $200,000 for Inaugural Ambasz Prize for ‘Nature-Reconciled’ Architecture, Half of Which Will Go To Plant Trees",
-      "url": "https://www.artnews.com/art-news/news/moma-inaugural-ambasz-prize-nature-architecture-plant-trees-1234805788/",
-      "source": "ARTnews",
-      "published": "2026-11-12T21:41:42+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "36560954452e16f1f730",
-      "title": "Monumental Equestrian Statue of Roman Emperor Once Stood in Second Century Scotland",
-      "url": "https://www.artnews.com/art-news/news/bronze-leg-part-monumental-statue-of-roman-emperor-scotland-1234805764/",
-      "source": "ARTnews",
-      "published": "2026-11-12T20:27:55+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "d7a80d03351479bf48bc",
       "title": "Museum Organizations Call Bipartisan Infrastruture Bill a ‘Sweeping Assault’ on Historic and Sacred Places",
       "url": "https://www.artnews.com/art-news/news/bipartisan-bill-museums-sweeping-assault-historic-places-1234805501/",
@@ -652,11 +508,11 @@
       "publication_approved": false
     },
     {
-      "id": "fc7b9cc659090ada1296",
-      "title": "Oxford University Museum Returns 39 Sets of Ancestral Remains to Naga People of India",
-      "url": "https://www.artnews.com/art-news/news/pitt-rivers-museum-oxford-returns-naga-ancestral-remains-1234805458/",
+      "id": "d72381e1d872a8077f23",
+      "title": "Newark Museum Is Latest Art Institution to Transfer Ownership of David Drake Vessel",
+      "url": "https://www.artnews.com/art-news/news/newark-museum-of-art-david-drake-ownership-transfer-1234805709/",
       "source": "ARTnews",
-      "published": "2026-11-10T20:52:31+00:00",
+      "published": "2026-11-12T17:57:59+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -664,11 +520,11 @@
       "publication_approved": false
     },
     {
-      "id": "4f562e914048a56f575b",
-      "title": "Peter Morris Architects’ Pastel Pink ‘Cloud House’ Billows in Northwest London",
-      "url": "https://www.thisiscolossal.com/2026/11/peter-morris-architects-the-cloud-house-london/",
-      "source": "Colossal",
-      "published": "2026-11-12T18:08:37+00:00",
+      "id": "fc7b9cc659090ada1296",
+      "title": "Oxford University Museum Returns 39 Sets of Ancestral Remains to Naga People of India",
+      "url": "https://www.artnews.com/art-news/news/pitt-rivers-museum-oxford-returns-naga-ancestral-remains-1234805458/",
+      "source": "ARTnews",
+      "published": "2026-11-10T20:52:31+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -693,18 +549,6 @@
       "url": "https://hyperallergic.com/protesters-urge-steven-spielberg-to-boycott-moma-over-leon-blacks-epstein-ties/",
       "source": "Hyperallergic",
       "published": "2026-11-13T00:01:38+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "47f6e57738cc95960740",
-      "title": "Rembrandt’s “Night Watch” Is Alive!",
-      "url": "https://hyperallergic.com/rembrandts-night-watch-is-alive/",
-      "source": "Hyperallergic",
-      "published": "2026-11-12T15:30:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -741,18 +585,6 @@
       "url": "https://www.thisiscolossal.com/2026/11/sean-doran-crimson-star-film/",
       "source": "Colossal",
       "published": "2026-11-13T14:53:38+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "961b4cc2af1a44fd357f",
-      "title": "Soldier Designs Limited-Edition Hublot Timepieces in Latest Artist Collaboration",
-      "url": "https://www.artnews.com/art-news/news/soldier-collaboration-hublot-50-limited-edition-timepieces-1234805694/",
-      "source": "ARTnews",
-      "published": "2026-11-12T17:48:02+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -813,18 +645,6 @@
       "url": "https://hyperallergic.com/tribal-groups-urge-congress-to-halt-bill-that-threatens-sacred-sites/",
       "source": "Hyperallergic",
       "published": "2026-11-13T20:44:36+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "7b0be34df9255f24e51f",
-      "title": "‘Secret’ Location of a Vandalized and Rescued Banksy Revealed",
-      "url": "https://www.artnews.com/art-news/news/secret-location-vandalized-rescued-banksy-revealed-1234805699/",
-      "source": "ARTnews",
-      "published": "2026-11-12T17:54:48+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1024,6 +844,18 @@
       "publication_approved": false
     },
     {
+      "id": "69fb94728197c6b1dad6",
+      "title": "$160,000 Hans Arp Sculpture Stolen From Art Cologne",
+      "url": "https://hyperallergic.com/160-000-hans-arp-sculpture-stolen-from-art-cologne/",
+      "source": "Hyperallergic",
+      "published": "2026-11-12T17:38:52+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "1632d87d75d93dbf6b42",
       "title": "A New Home for Native Art in New York",
       "url": "https://hyperallergic.com/a-new-home-for-native-art-in-new-york/",
@@ -1072,6 +904,18 @@
       "publication_approved": false
     },
     {
+      "id": "cac90295ee2869c6c671",
+      "title": "After the Midterms, the Real Work for Arts and Culture Begins",
+      "url": "https://hyperallergic.com/after-the-midterms-the-real-work-for-arts-and-culture-begins/",
+      "source": "Hyperallergic",
+      "published": "2026-11-12T21:05:18+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "2148ab0dff99af45635e",
       "title": "Ah, the Many Smells of Frieze London",
       "url": "https://hyperallergic.com/ah-the-many-smells-of-frieze-london/",
@@ -1089,6 +933,18 @@
       "url": "https://www.artnews.com/art-news/news/american-alliance-museums-democrats-congress-election-win-1234805415/",
       "source": "ARTnews",
       "published": "2026-11-10T18:17:17+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "71e0a90941ca36b29457",
+      "title": "American Novelist and Four Others to Stand Trial Over Sale of Gold Looted from Shipwreck",
+      "url": "https://www.artnews.com/art-news/news/american-novelist-stand-trial-over-sale-gold-ingots-looted-1234805740/",
+      "source": "ARTnews",
+      "published": "2026-11-12T19:44:43+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1408,11 +1264,47 @@
       "publication_approved": false
     },
     {
+      "id": "c3754103c04216c212bc",
+      "title": "Celebrate Indigenous Cinema and Storytelling with Free Films",
+      "url": "https://hyperallergic.com/celebrate-indigenous-cinema-and-storytelling-with-free-short-films/",
+      "source": "Hyperallergic",
+      "published": "2026-11-12T16:24:45+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "b27bb4514494dc10871d",
       "title": "Chanel Becomes Lead Sponsor of Hong Kong’s M+ Museum in Expanded Three-Year Deal",
       "url": "https://www.artnews.com/art-news/news/chanel-m-plus-hong-kong-museum-lead-partner-1234803225/",
       "source": "ARTnews",
       "published": "2026-10-21T16:18:06+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "4219fd0c357da4db11a3",
+      "title": "Chicago’s Viral ‘Bean’ Stunt Inspires Londoners to Move the Marble Arch",
+      "url": "https://www.artnews.com/art-news/news/londoners-plan-move-marble-arch-inspired-chicago-bean-stunt-1234805742/",
+      "source": "ARTnews",
+      "published": "2026-11-12T19:38:10+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "568c67e24bbb56a65c01",
+      "title": "Christie’s Posts Highest Watch Total Ever and Sells Bulgari Pink Diamond for $14 M.",
+      "url": "https://www.artnews.com/art-news/market/christies-posts-highest-watch-total-ever-bulgari-pink-1234805692/",
+      "source": "ARTnews",
+      "published": "2026-11-12T18:13:20+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1708,6 +1600,18 @@
       "publication_approved": false
     },
     {
+      "id": "ddae802dbd0b849b4174",
+      "title": "Get Up-Close to Cells, Ink, and Insects in the Nikon Small World Photomicrography Contest",
+      "url": "https://www.thisiscolossal.com/2026/11/nikon-small-world-photomicrography-competition-2026-winners/",
+      "source": "Colossal",
+      "published": "2026-11-12T14:51:12+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "f848cfd2e813576c5339",
       "title": "Getty Pitches In on First-Ever Conservation of an Earthquake-Damaged 17th-Century Church in the Andean Highlands of Peru",
       "url": "https://www.artnews.com/art-news/news/getty-conservation-earthquake-damaged-church-peru-1234805336/",
@@ -1768,11 +1672,35 @@
       "publication_approved": false
     },
     {
+      "id": "221c0e6b09ad443f27fc",
+      "title": "Hiroshi Sato’s Art Against Enshittification",
+      "url": "https://hyperallergic.com/hiroshi-satos-art-against-enshittification/",
+      "source": "Hyperallergic",
+      "published": "2026-11-12T16:30:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "30afba4c3c89f49096db",
       "title": "How Miles Greenberg Got “WAR” Past the Censors",
       "url": "https://hyperallergic.com/how-miles-greenberg-got-war-past-the-censors/",
       "source": "Hyperallergic",
       "published": "2026-11-10T15:30:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "3ba30822cdb789fcf793",
+      "title": "Human Rights Orgs Denounce Egypt's Arrest of Mada Masr Editor Lina Attalah",
+      "url": "https://hyperallergic.com/human-rights-orgs-denounce-egypts-arrest-of-mada-masr-editor-lina-attalah/",
+      "source": "Hyperallergic",
+      "published": "2026-11-12T20:46:03+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1972,6 +1900,18 @@
       "publication_approved": false
     },
     {
+      "id": "8b5eaff13e53e2cc9632",
+      "title": "MoMA Shells Out $200,000 for Inaugural Ambasz Prize for ‘Nature-Reconciled’ Architecture, Half of Which Will Go To Plant Trees",
+      "url": "https://www.artnews.com/art-news/news/moma-inaugural-ambasz-prize-nature-architecture-plant-trees-1234805788/",
+      "source": "ARTnews",
+      "published": "2026-11-12T21:41:42+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "8a751daa79da1ecacab4",
       "title": "Moab Petroglyphs Discovered Vandalized: ‘Irreplaceable Cultural Resources’",
       "url": "https://www.artnews.com/art-news/news/moab-petroglyphs-vandalized-utah-1234805350/",
@@ -2001,6 +1941,18 @@
       "url": "https://hyperallergic.com/mona-chalabi-on-money-and-art/",
       "source": "Hyperallergic",
       "published": "2026-11-10T11:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "36560954452e16f1f730",
+      "title": "Monumental Equestrian Statue of Roman Emperor Once Stood in Second Century Scotland",
+      "url": "https://www.artnews.com/art-news/news/bronze-leg-part-monumental-statue-of-roman-emperor-scotland-1234805764/",
+      "source": "ARTnews",
+      "published": "2026-11-12T20:27:55+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2128,6 +2080,18 @@
       "publication_approved": false
     },
     {
+      "id": "4f562e914048a56f575b",
+      "title": "Peter Morris Architects’ Pastel Pink ‘Cloud House’ Billows in Northwest London",
+      "url": "https://www.thisiscolossal.com/2026/11/peter-morris-architects-the-cloud-house-london/",
+      "source": "Colossal",
+      "published": "2026-11-12T18:08:37+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "802fa3e9bffb9d31b99a",
       "title": "Piecing Together Romare Bearden’s Life",
       "url": "https://hyperallergic.com/piecing-together-romare-beardens-life/",
@@ -2212,6 +2176,18 @@
       "publication_approved": false
     },
     {
+      "id": "47f6e57738cc95960740",
+      "title": "Rembrandt’s “Night Watch” Is Alive!",
+      "url": "https://hyperallergic.com/rembrandts-night-watch-is-alive/",
+      "source": "Hyperallergic",
+      "published": "2026-11-12T15:30:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "6d445d21ffb5ac7b891b",
       "title": "Scholar Dishes About Finding a Long-Lost Caravaggio Painting in Paris",
       "url": "https://www.artnews.com/art-news/news/lost-caravaggio-painting-rediscovered-paris-terzaghi-1234805289/",
@@ -2253,6 +2229,18 @@
       "url": "https://hyperallergic.com/six-stolen-picassos-found-under-pile-of-clothes-in-french-home/",
       "source": "Hyperallergic",
       "published": "2026-11-09T19:31:25+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "961b4cc2af1a44fd357f",
+      "title": "Soldier Designs Limited-Edition Hublot Timepieces in Latest Artist Collaboration",
+      "url": "https://www.artnews.com/art-news/news/soldier-collaboration-hublot-50-limited-edition-timepieces-1234805694/",
+      "source": "ARTnews",
+      "published": "2026-11-12T17:48:02+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2541,6 +2529,18 @@
       "url": "https://www.artnews.com/art-news/news/zohran-mamdani-moma-west-african-architecture-kader-attia-1234805397/",
       "source": "ARTnews",
       "published": "2026-11-10T14:41:21+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "7b0be34df9255f24e51f",
+      "title": "‘Secret’ Location of a Vandalized and Rescued Banksy Revealed",
+      "url": "https://www.artnews.com/art-news/news/secret-location-vandalized-rescued-banksy-revealed-1234805699/",
+      "source": "ARTnews",
+      "published": "2026-11-12T17:54:48+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
