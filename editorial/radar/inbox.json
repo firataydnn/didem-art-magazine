@@ -2,6 +2,45 @@
   "schema": 1,
   "items": [
     {
+      "id": "f77850d1951ce0e00ee8",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "South London Gallery Director Margot Heller to Step Down After 25 Years",
+      "url": "https://www.artnews.com/art-news/news/south-london-gallerys-director-margot-heller-steps-down-1234806114/",
+      "published": "2026-11-16T12:30:00+00:00",
+      "summary": "The gallery confirmed she will exit the gallery in spring 2027 to pursue a new chapter as an independent curator and advisor.",
+      "discovered": "2026-11-16T13:46:33.284474+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "923946e3146efb87c2bd",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "Sotheby’s $180 M. Van Gogh Sale Faces Eleventh-Hour Nazi-Era Restitution Claim",
+      "url": "https://www.artnews.com/art-news/news/sothebys-van-gogh-180-million-restitution-claim-1936-sale-1234806093/",
+      "published": "2026-11-16T01:40:28+00:00",
+      "summary": "A claim from the heirs of its former Jewish owner has complicated one of the biggest auctions of the year.",
+      "discovered": "2026-11-16T13:46:33.284474+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "b14d2099b2d980add69d",
+      "source": "Hyperallergic",
+      "category": "sanat-basini",
+      "title": "Hockney and His Beverly Hills Patron",
+      "url": "https://hyperallergic.com/hockney-and-his-beverly-hills-patron/",
+      "published": "2026-11-16T11:00:00+00:00",
+      "summary": "A review of James Cahill’s book on the painter and the patron in “Beverly Hills Housewife,” the state of arts journalism, and why Tribal Nations are opposing a Congressional bill.",
+      "discovered": "2026-11-16T13:46:33.284474+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "671dd6cf900b601da249",
       "source": "ARTnews",
       "category": "sanat-basini",
