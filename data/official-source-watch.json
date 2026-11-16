@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-16T06:42:54.879493+00:00",
+  "generated_at": "2026-11-16T18:38:32.847819+00:00",
   "notice": "Primary source page monitoring only. Page changes are not verified publication events. Restricted press rooms must not be bypassed.",
   "sources": [
     {
@@ -234,6 +234,16 @@
       "status": "reachable",
       "candidates": [
         {
+          "title": "Type: story Category: Press Release Sotheby's Reveals All of the Art Heading to Abu Dhabi Auction this December",
+          "url": "https://www.sothebys.com/articles/sothebys-reveals-all-of-the-art-heading-to-abu-dhabi-auction-this-december",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Type: story Category: Press Release RESULTS Surprise Donor Takes 'Presidents’ Barrel Funds to €1m in €14.4m Hospices de Beaune Wine Sale",
+          "url": "https://www.sothebys.com/articles/results-surprise-donor-takes-presidents-barrel-funds-to-1m-in-14-4m-hospices-de-beaune-wine-sale",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
           "title": "Type: story Category: Press Release Sotheby's Important Watches Sale Breaks New Records in Geneva",
           "url": "https://www.sothebys.com/articles/sothebys-important-watches-sale-breaks-new-records-in-geneva",
           "status": "institutional_page_link_unverified_date"
@@ -271,16 +281,6 @@
         {
           "title": "Type: story Category: Press Release Sotheby's Collectors' Week Returns to Abu Dhabi, With a Fine Art Auction First",
           "url": "https://www.sothebys.com/articles/sothebys-collectors-week-returns-to-abu-dhabi-with-a-fine-art-auction-first",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Type: story Category: Press Release Sotheby's Paris Achieves Its Highest Total for a Marquee Sale Series: €137.7M / $154.6M",
-          "url": "https://www.sothebys.com/articles/sothebys-paris-achieves-its-highest-total-for-a-marquee-sale-series-137-7m-154-6m",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Type: story Category: Press Release $34 Million Record-Breaking Roman Torso leads White-Glove Magnum Opus Auction at Sotheby's New York",
-          "url": "https://www.sothebys.com/articles/34-million-record-breaking-roman-torso-leads-white-glove-magnum-opus-auction-at-sothebys-new-york",
           "status": "institutional_page_link_unverified_date"
         }
       ],
@@ -333,7 +333,7 @@
       "status": "reachable",
       "candidates": [
         {
-          "title": "Read more Art 10 November 2026 Opening hours of the Austrian Pavilion From Wednesday 11 to Sunday 15 November, the Pavilion is open from 10 am to 3 pm.",
+          "title": "Read more Art 13 November 2026 Opening hours of the Austrian Pavilion Closed on Monday 16 and Tuesday 17 November.",
           "url": "https://www.labiennale.org/en/news/opening-hours-austrian-pavilion",
           "status": "institutional_page_link_unverified_date"
         },
@@ -373,6 +373,16 @@
           "status": "institutional_page_link_unverified_date"
         },
         {
+          "title": "Tate Liverpool launches fundraising campaign to keep world-class art accessible for the next generation",
+          "url": "https://www.tate.org.uk/press/press-releases/tate-liverpool-launches-fundraising-campaign-to-keep-world-class-art-accessible-for-the-next-generation",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Gainsborough 300: Celebrating 300 years of Thomas Gainsborough through major exhibitions and landmark events across the UK in 2027",
+          "url": "https://www.tate.org.uk/press/press-releases/gainsborough-300",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
           "title": "Tate Publishing Announces Vanessa Bell and Duncan Grant: Inside Bloomsbury",
           "url": "https://www.tate.org.uk/press/press-releases/tate-publishing-announces-vanessa-bell-and-duncan-grant-inside-bloomsbury",
           "status": "institutional_page_link_unverified_date"
@@ -395,16 +405,6 @@
         {
           "title": "Tate announces 2026–27 programme for Hyundai Tate Research Centre: Transnational",
           "url": "https://www.tate.org.uk/press/press-releases/tate-announces-hyundai-tate-research-centre-transnational-programme",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Unique collection of historic Anglo-Indian artworks gifted to Tate by Charles Greig",
-          "url": "https://www.tate.org.uk/press/press-releases/tate-acquires-new-works-for-the-unique-collection-of-historic-anglo-indian-artworks-gifted-to-tate-by-charles-greig",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Wilhelmina Barns-Graham at Tate St Ives: 24 October 2026 – 3 May 2027",
-          "url": "https://www.tate.org.uk/press/press-releases/wilhelmina-barns-graham-at-tate-st-ives",
           "status": "institutional_page_link_unverified_date"
         }
       ],
