@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-17T13:34:19.148818+00:00",
+  "generated_at": "2026-11-17T22:28:30.710555+00:00",
   "notice": "Primary source page monitoring only. Page changes are not verified publication events. Restricted press rooms must not be bypassed.",
   "sources": [
     {
@@ -234,6 +234,16 @@
       "status": "reachable",
       "candidates": [
         {
+          "title": "Type: story Category: Press Release Sotheby's Sales of Contemporary Art Realizes $378.7M | More than Double November 2025",
+          "url": "https://www.sothebys.com/articles/sothebys-sales-of-contemporary-art-realizes-378-7m-more-than-double-november-2025",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Type: story Category: Press Release Van Gogh's Châtaigniers en fleurs - Agreement Reached Ahead of 18 November Sale",
+          "url": "https://www.sothebys.com/articles/van-goghs-chataigniers-en-fleurs-agreement-reached-ahead-of-18-november-sale",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
           "title": "Type: story Category: Press Release Sotheby's Reveals All of the Art Heading to Abu Dhabi Auction this December",
           "url": "https://www.sothebys.com/articles/sothebys-reveals-all-of-the-art-heading-to-abu-dhabi-auction-this-december",
           "status": "institutional_page_link_unverified_date"
@@ -271,16 +281,6 @@
         {
           "title": "Type: story Category: Press Release Sotheby's New Dubai Gallery Opens on 10 Year UAE Anniversary",
           "url": "https://www.sothebys.com/articles/sothebys-new-dubai-gallery-opens-on-10-year-uae-anniversary",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Type: story Category: Press Release $47.3M Result for \"Jodi\" The Nano at Sotheby's - *Second Highest Price For Dinosaur at Auction*",
-          "url": "https://www.sothebys.com/en/articles/47-3m-result-for-jodi-the-nano-at-sothebys-second-highest-price-for-dinosaur-at-auction",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Type: story Category: Press Release Sotheby's Collectors' Week Returns to Abu Dhabi, With a Fine Art Auction First",
-          "url": "https://www.sothebys.com/articles/sothebys-collectors-week-returns-to-abu-dhabi-with-a-fine-art-auction-first",
           "status": "institutional_page_link_unverified_date"
         }
       ],
@@ -373,6 +373,16 @@
           "status": "institutional_page_link_unverified_date"
         },
         {
+          "title": "Tate Publishing Releases Not Over Yet: A new zine captures the photographs, flyers and collective energy of Britain’s rave and club culture in the 1990s",
+          "url": "https://www.tate.org.uk/press/press-releases/tate-publishing-releases-not-over-yet",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "New Tate Publication Captures the Creative Energy of the 1990 s",
+          "url": "https://www.tate.org.uk/press/press-releases/new-tate-publication-captures-the-creative-energy-of-the-1990s",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
           "title": "Anawana Haloba selected to create Tate Modern’s Infinities Commission in 2027",
           "url": "https://www.tate.org.uk/press/press-releases/anawana-haloba-selected-to-create-tate-moderns-infinities-commission-in-2027",
           "status": "institutional_page_link_unverified_date"
@@ -395,16 +405,6 @@
         {
           "title": "Tate welcomes new fundraising print portfolio from Counter Editions celebrating women artists",
           "url": "https://www.tate.org.uk/press/press-releases/tate-welcomes-new-fundraising-print-portfolio-from-counter-editions-celebrating-women-artists",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Vanessa Bell & Duncan Grant: Inside Bloomsbury: 12 November 2026 - 11 April 2027",
-          "url": "https://www.tate.org.uk/press/press-releases/vanessa-bell--duncan-grant-inside-bloomsbury-open",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Tate awarded major funding for future art scholarships",
-          "url": "https://www.tate.org.uk/press/press-releases/tate-awarded-major-funding-for-future-art-scholarships",
           "status": "institutional_page_link_unverified_date"
         }
       ],
