@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-17T02:58:48.153735+00:00",
+  "generated_at": "2026-11-17T13:34:19.148818+00:00",
   "notice": "Primary source page monitoring only. Page changes are not verified publication events. Restricted press rooms must not be bypassed.",
   "sources": [
     {
@@ -333,7 +333,7 @@
       "status": "reachable",
       "candidates": [
         {
-          "title": "Read more Art 13 November 2026 Opening hours of the Austrian Pavilion Closed on Monday 16 and Tuesday 17 November.",
+          "title": "Read more Art 13 November 2026 Opening hours of the Austrian Pavilion Due to weather conditions, the Pavilion will be open 10 am to 3 pm from Wednesday 18 to Sa",
           "url": "https://www.labiennale.org/en/news/opening-hours-austrian-pavilion",
           "status": "institutional_page_link_unverified_date"
         },
@@ -373,6 +373,11 @@
           "status": "institutional_page_link_unverified_date"
         },
         {
+          "title": "Anawana Haloba selected to create Tate Modern’s Infinities Commission in 2027",
+          "url": "https://www.tate.org.uk/press/press-releases/anawana-haloba-selected-to-create-tate-moderns-infinities-commission-in-2027",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
           "title": "Tate Liverpool launches fundraising campaign to keep world-class art accessible for the next generation",
           "url": "https://www.tate.org.uk/press/press-releases/tate-liverpool-launches-fundraising-campaign-to-keep-world-class-art-accessible-for-the-next-generation",
           "status": "institutional_page_link_unverified_date"
@@ -400,11 +405,6 @@
         {
           "title": "Tate awarded major funding for future art scholarships",
           "url": "https://www.tate.org.uk/press/press-releases/tate-awarded-major-funding-for-future-art-scholarships",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Tate announces 2026–27 programme for Hyundai Tate Research Centre: Transnational",
-          "url": "https://www.tate.org.uk/press/press-releases/tate-announces-hyundai-tate-research-centre-transnational-programme",
           "status": "institutional_page_link_unverified_date"
         }
       ],
