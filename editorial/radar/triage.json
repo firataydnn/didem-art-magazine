@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "count": 586,
+  "count": 592,
   "possible_duplicates": 0,
   "items": [
     {
@@ -64,6 +64,18 @@
       "publication_approved": false
     },
     {
+      "id": "d5d575d59da721e98387",
+      "title": "Yayoi Kusama ‘Infinity Net’ Painting Sells for $15.1 M. at Sotheby’s, Setting a Record",
+      "url": "https://www.artnews.com/art-news/market/yayoi-kusama-infinity-net-painting-record-sale-sothebys-1234806198/",
+      "source": "ARTnews",
+      "published": "2026-11-17T02:08:25+00:00",
+      "priority_score": 9,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "63d206de05b539e937cd",
       "title": "Sotheby’s Hedreen Auction Proceeds Will Repay Loan, Not Fund University Museum: Report",
       "url": "https://www.artnews.com/art-news/news/sothebys-hedreen-auction-proceeds-will-repay-loan-not-fund-university-museum-report-1234805958/",
@@ -112,6 +124,30 @@
       "publication_approved": false
     },
     {
+      "id": "656053edf9175c1d62fd",
+      "title": "Artsy and Artnet Acquire First Thursday as Art-Tech Expansion Picks Up Speed",
+      "url": "https://www.artnews.com/art-news/news/artsy-artnet-acquire-first-thursday-gallery-software-1234806185/",
+      "source": "ARTnews",
+      "published": "2026-11-17T13:00:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "7dec19f6c31812971636",
+      "title": "At Sotheby’s $378.7 M. Doubleheader, Buyers Take Risks Again, Even as Bidding Drags",
+      "url": "https://www.artnews.com/art-news/market/sothebys-november-2026-baum-collection-contemporary-auction-1234806277/",
+      "source": "ARTnews",
+      "published": "2026-11-17T05:44:41+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "b74b10ba54f45bddcac2",
       "title": "British Museums Are Experiencing a ‘Bayeux Bounce’ in Attendance, Thanks to Replicas of the Tapestry",
       "url": "https://www.artnews.com/art-news/news/british-museums-experiencing-bayeux-bounce-attendance-1234806172/",
@@ -148,6 +184,18 @@
       "publication_approved": false
     },
     {
+      "id": "9ae6afd60e786ee13c51",
+      "title": "For Abi Palmer, Chronic Illness Is Like Being an Indoor Cat",
+      "url": "https://www.artnews.com/art-in-america/columns/abi-palmer-chronic-illness-cat-goldsmiths-slugs-1234806312/",
+      "source": "ARTnews",
+      "published": "2026-11-17T14:37:37+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "28671d91b5acf68daf60",
       "title": "From Pipe Cleaners to Clay, Baskets Break Craft Traditions in ‘Interwoven’",
       "url": "https://www.thisiscolossal.com/2026/11/interwoven-basketry-as-expanded-practice-craft-exhibition/",
@@ -160,11 +208,11 @@
       "publication_approved": false
     },
     {
-      "id": "b14d2099b2d980add69d",
-      "title": "Hockney and His Beverly Hills Patron",
-      "url": "https://hyperallergic.com/hockney-and-his-beverly-hills-patron/",
+      "id": "f56052abcfe571e89005",
+      "title": "Latinx Artists Are the New Visionaries",
+      "url": "https://hyperallergic.com/latinx-artists-are-the-new-visionaries/",
       "source": "Hyperallergic",
-      "published": "2026-11-16T11:00:00+00:00",
+      "published": "2026-11-16T20:59:20+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -172,11 +220,11 @@
       "publication_approved": false
     },
     {
-      "id": "f56052abcfe571e89005",
-      "title": "Latinx Artists Are the New Visionaries",
-      "url": "https://hyperallergic.com/latinx-artists-are-the-new-visionaries/",
+      "id": "ac53f3615624c6f8a413",
+      "title": "Latinx Art’s New Visionaries",
+      "url": "https://hyperallergic.com/latinx-arts-new-visionaries/",
       "source": "Hyperallergic",
-      "published": "2026-11-16T20:59:20+00:00",
+      "published": "2026-11-17T11:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -208,35 +256,23 @@
       "publication_approved": false
     },
     {
+      "id": "3c99e7207f0609f88221",
+      "title": "Rashid Johnson, Christopher Wool, and Dawoud Bey Enter MCA Chicago Through 65-Work Gift",
+      "url": "https://www.artnews.com/art-news/news/mca-chicago-guthman-gift-rashid-johnson-christopher-wool-1234806296/",
+      "source": "ARTnews",
+      "published": "2026-11-17T13:59:12+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "30ebaed32f804fa3e2ef",
       "title": "Restitution Claim on $180M Van Gogh Shakes Up Sotheby's Marquee Week",
       "url": "https://hyperallergic.com/restitution-claim-on-180m-van-gogh-shakes-up-sothebys-marquee-week/",
       "source": "Hyperallergic",
       "published": "2026-11-16T20:07:12+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "923946e3146efb87c2bd",
-      "title": "Sotheby’s $180 M. Van Gogh Sale Faces Eleventh-Hour Nazi-Era Restitution Claim",
-      "url": "https://www.artnews.com/art-news/news/sothebys-van-gogh-180-million-restitution-claim-1936-sale-1234806093/",
-      "source": "ARTnews",
-      "published": "2026-11-16T01:40:28+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "f77850d1951ce0e00ee8",
-      "title": "South London Gallery Director Margot Heller to Step Down After 25 Years",
-      "url": "https://www.artnews.com/art-news/news/south-london-gallerys-director-margot-heller-steps-down-1234806114/",
-      "source": "ARTnews",
-      "published": "2026-11-16T12:30:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -436,18 +472,6 @@
       "publication_approved": false
     },
     {
-      "id": "5e7f076754ccfd6add9a",
-      "title": "The Most Expensive Artworks by Pablo Picasso Ever Sold at Auction",
-      "url": "https://www.artnews.com/list/art-news/artists/pablo-picasso-highest-auction-records-1234594915/",
-      "source": "ARTnews",
-      "published": "2026-11-10T10:30:00+00:00",
-      "priority_score": 6,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "a98a8466fd12cc273f57",
       "title": "Weekend Protests in Paris Raise Question of Early Art Basel Closure, $34.3 M. Marble Roman Torso Breaks Auction Records, and More: Morning Links for October 22, 2026",
       "url": "https://www.artnews.com/art-news/news/weekend-protests-paris-raise-question-early-art-basel-clos-1234803470/",
@@ -592,11 +616,11 @@
       "publication_approved": false
     },
     {
-      "id": "3beb6a6161a14f9c170c",
-      "title": "Julia Stoschek Collection to Celebrate 20 Years with ‘Selfish in Bed’ Exhibition and Düsseldorf Reopening",
-      "url": "https://www.artnews.com/art-news/news/julia-stoschek-collection-selfish-in-bed-20th-anniversary-1234805311/",
-      "source": "ARTnews",
-      "published": "2026-11-10T14:00:00+00:00",
+      "id": "b14d2099b2d980add69d",
+      "title": "Hockney and His Beverly Hills Patron",
+      "url": "https://hyperallergic.com/hockney-and-his-beverly-hills-patron/",
+      "source": "Hyperallergic",
+      "published": "2026-11-16T11:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -652,11 +676,23 @@
       "publication_approved": false
     },
     {
-      "id": "6acbc1c3f2db0216c2d4",
-      "title": "Special Edition: Jesus",
-      "url": "https://hyperallergic.com/11-14-26-weekly-newsletter-2/",
-      "source": "Hyperallergic",
-      "published": "2026-11-14T11:00:00+00:00",
+      "id": "923946e3146efb87c2bd",
+      "title": "Sotheby’s $180 M. Van Gogh Sale Faces Eleventh-Hour Nazi-Era Restitution Claim",
+      "url": "https://www.artnews.com/art-news/news/sothebys-van-gogh-180-million-restitution-claim-1936-sale-1234806093/",
+      "source": "ARTnews",
+      "published": "2026-11-16T01:40:28+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "f77850d1951ce0e00ee8",
+      "title": "South London Gallery Director Margot Heller to Step Down After 25 Years",
+      "url": "https://www.artnews.com/art-news/news/south-london-gallerys-director-margot-heller-steps-down-1234806114/",
+      "source": "ARTnews",
+      "published": "2026-11-16T12:30:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -837,6 +873,18 @@
       "url": "https://hyperallergic.com/the-center-cannot-hold-at-the-toronto-biennial/",
       "source": "Hyperallergic",
       "published": "2026-10-23T19:01:25+00:00",
+      "priority_score": 4,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "5e7f076754ccfd6add9a",
+      "title": "The Most Expensive Artworks by Pablo Picasso Ever Sold at Auction",
+      "url": "https://www.artnews.com/list/art-news/artists/pablo-picasso-highest-auction-records-1234594915/",
+      "source": "ARTnews",
+      "published": "2026-11-10T10:30:00+00:00",
       "priority_score": 4,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1372,18 +1420,6 @@
       "publication_approved": false
     },
     {
-      "id": "a0b98b341a65a23d5754",
-      "title": "Collectors Jill and Peter Kraus Want Artists to Look at Their Upstate New York Property and React to It",
-      "url": "https://www.artnews.com/art-news/news/collectors-jill-and-peter-kraus-open-house-tour-1234805031/",
-      "source": "ARTnews",
-      "published": "2026-11-10T10:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "fcb9c6b45a257a6e7d97",
       "title": "Comcast Cofounder Gives $20 M. to Philadelphia Museum of Art, One of its Largest Gifts, To Greatly Expand Education Spaces",
       "url": "https://www.artnews.com/art-news/news/comcast-cofounder-20m-philadelphia-museum-art-education-1234803636/",
@@ -1401,18 +1437,6 @@
       "url": "https://www.artnews.com/art-news/news/protestors-alicja-kwade-remove-art-basel-paris-sculpture-1234803329/",
       "source": "ARTnews",
       "published": "2026-10-21T20:28:37+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "869285e54d12d867205e",
-      "title": "Contemporary Stained-Glass Windows Installed in Notre-Dame, Spanish Man Awarded $1.12 M. for Renaissance Door Discovery, and More: Morning Links for November 10, 2026",
-      "url": "https://www.artnews.com/art-news/news/contemporary-stained-glass-windows-installed-in-notre-dame-1234805395/",
-      "source": "ARTnews",
-      "published": "2026-11-10T13:30:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1852,6 +1876,18 @@
       "publication_approved": false
     },
     {
+      "id": "3beb6a6161a14f9c170c",
+      "title": "Julia Stoschek Collection to Celebrate 20 Years with ‘Selfish in Bed’ Exhibition and Düsseldorf Reopening",
+      "url": "https://www.artnews.com/art-news/news/julia-stoschek-collection-selfish-in-bed-20th-anniversary-1234805311/",
+      "source": "ARTnews",
+      "published": "2026-11-10T14:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "1f50b2cbb874bb882faf",
       "title": "Kennedy Family Joins Litigation Opposing Trump’s Triumphal Arch",
       "url": "https://www.artnews.com/art-news/news/kennedy-family-joins-litigation-against-trump-triumphal-arch-1234805580/",
@@ -2008,18 +2044,6 @@
       "publication_approved": false
     },
     {
-      "id": "bef59a94b326a438d933",
-      "title": "Mona Chalabi on Money and Art",
-      "url": "https://hyperallergic.com/mona-chalabi-on-money-and-art/",
-      "source": "Hyperallergic",
-      "published": "2026-11-10T11:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "36560954452e16f1f730",
       "title": "Monumental Equestrian Statue of Roman Emperor Once Stood in Second Century Scotland",
       "url": "https://www.artnews.com/art-news/news/bronze-leg-part-monumental-statue-of-roman-emperor-scotland-1234805764/",
@@ -2121,18 +2145,6 @@
       "url": "https://hyperallergic.com/nvidia-honeypot-yields-meme-gold/",
       "source": "Hyperallergic",
       "published": "2026-11-12T11:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "6431fb2c23cbf87713c5",
-      "title": "Only Known Handwritten Draft of Martin Luther King Jr.’s ‘I Have a Dream’ Speech Could Top $10 M. at Christie’s",
-      "url": "https://www.artnews.com/art-news/market/martin-luther-king-i-have-a-dream-draft-christies-auction-1234805390/",
-      "source": "ARTnews",
-      "published": "2026-11-10T14:05:10+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2325,6 +2337,18 @@
       "url": "https://www.artnews.com/art-news/news/soldier-collaboration-hublot-50-limited-edition-timepieces-1234805694/",
       "source": "ARTnews",
       "published": "2026-11-12T17:48:02+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "6acbc1c3f2db0216c2d4",
+      "title": "Special Edition: Jesus",
+      "url": "https://hyperallergic.com/11-14-26-weekly-newsletter-2/",
+      "source": "Hyperallergic",
+      "published": "2026-11-14T11:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -3604,6 +3628,18 @@
       "publication_approved": false
     },
     {
+      "id": "a0b98b341a65a23d5754",
+      "title": "Collectors Jill and Peter Kraus Want Artists to Look at Their Upstate New York Property and React to It",
+      "url": "https://www.artnews.com/art-news/news/collectors-jill-and-peter-kraus-open-house-tour-1234805031/",
+      "source": "ARTnews",
+      "published": "2026-11-10T10:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "0e7efbe6412867a17dab",
       "title": "Collins Obijiaku’s Tender Portraits Conjure Memories and Community",
       "url": "https://www.thisiscolossal.com/2026/11/collins-obijiaku-portraits-oil-paintings/",
@@ -3621,6 +3657,18 @@
       "url": "https://www.thisiscolossal.com/2026/10/nasa-james-webb-space-telescope-lion-nebula/",
       "source": "Colossal",
       "published": "2026-10-19T13:39:50+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "869285e54d12d867205e",
+      "title": "Contemporary Stained-Glass Windows Installed in Notre-Dame, Spanish Man Awarded $1.12 M. for Renaissance Door Discovery, and More: Morning Links for November 10, 2026",
+      "url": "https://www.artnews.com/art-news/news/contemporary-stained-glass-windows-installed-in-notre-dame-1234805395/",
+      "source": "ARTnews",
+      "published": "2026-11-10T13:30:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -5164,6 +5212,18 @@
       "publication_approved": false
     },
     {
+      "id": "bef59a94b326a438d933",
+      "title": "Mona Chalabi on Money and Art",
+      "url": "https://hyperallergic.com/mona-chalabi-on-money-and-art/",
+      "source": "Hyperallergic",
+      "published": "2026-11-10T11:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "56892adc530900a97181",
       "title": "Monument to Iwo Jima Flag-Raising Near Quantico Vandalized",
       "url": "https://www.artnews.com/art-news/news/monument-to-iwo-jima-flag-raising-near-quantico-vandalized-1234803717/",
@@ -5313,6 +5373,18 @@
       "url": "https://www.thisiscolossal.com/2026/10/november-2026-opportunities-open-calls-residencies-and-grants-for-artists/",
       "source": "Colossal",
       "published": "2026-10-29T22:46:33+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "6431fb2c23cbf87713c5",
+      "title": "Only Known Handwritten Draft of Martin Luther King Jr.’s ‘I Have a Dream’ Speech Could Top $10 M. at Christie’s",
+      "url": "https://www.artnews.com/art-news/market/martin-luther-king-i-have-a-dream-draft-christies-auction-1234805390/",
+      "source": "ARTnews",
+      "published": "2026-11-10T14:05:10+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
