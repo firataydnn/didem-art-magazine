@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-18T07:40:17.703490+00:00",
+  "generated_at": "2026-11-18T17:19:30.197000+00:00",
   "notice": "Primary source page monitoring only. Page changes are not verified publication events. Restricted press rooms must not be bypassed.",
   "sources": [
     {
@@ -45,18 +45,13 @@
       "status": "reachable",
       "candidates": [
         {
-          "title": "MoMA’s 18th Annual Film Benefit, Presented by CHANEL, To Honor Steven Spielberg on November 12",
-          "url": "https://press.moma.org/news/momas-18th-annual-film-benefit-presented-by-chanel-to-honor-steven-spielberg-on-november-12/",
+          "title": "The Museum of Modern Art Announces the Winner of the Inaugural Ambasz-MoMA Annual Prize for Nature-Reconciled Architecture",
+          "url": "https://press.moma.org/news/ambasz-prize-winner-2026/",
           "status": "institutional_page_link_unverified_date"
         },
         {
           "title": "MoMA PS1 to Become New York City’s Largest Free Museum in 2026, Made Possible by Gift from Sonya Yu Celebrating 50th Anniversary",
           "url": "https://press.moma.org/news/moma-ps1-to-become-new-york-citys-largest-free-museum-in-2026-made-possible-by-gift-from-sonya-yu-celebrating-50th-anniversary/",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "The Museum of Modern Art Announces the Winner of the Inaugural Ambasz-MoMA Annual Prize for Nature-Reconciled Architecture",
-          "url": "https://press.moma.org/news/ambasz-prize-winner-2026/",
           "status": "institutional_page_link_unverified_date"
         },
         {
@@ -77,6 +72,11 @@
         {
           "title": "Chef DeVonn Francis to Open New Café at MoMA PS1 This Fall",
           "url": "https://press.moma.org/news/chef-devonn-francis-to-open-new-cafe-at-moma-ps1-this-fall/",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "MoMA’s 18th Annual Film Benefit, Presented by CHANEL, To Honor Steven Spielberg on November 12",
+          "url": "https://press.moma.org/news/momas-18th-annual-film-benefit-presented-by-chanel-to-honor-steven-spielberg-on-november-12/",
           "status": "institutional_page_link_unverified_date"
         },
         {
