@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-19T10:28:14.327327+00:00",
+  "generated_at": "2026-11-19T20:44:49.426146+00:00",
   "notice": "Primary source page monitoring only. Page changes are not verified publication events. Restricted press rooms must not be bypassed.",
   "sources": [
     {
@@ -12,17 +12,17 @@
       "candidates": [
         {
           "title": "Read Full Press Release",
+          "url": "https://www.artbasel.com/stories/art-basel-announces-further-highlights-of-its-2026-miami-beach-edition-1",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Read Full Press Release",
           "url": "https://www.artbasel.com/stories/art-basel-unveils-exhibitors-for-its-2027-qatar-edition",
           "status": "institutional_page_link_unverified_date"
         },
         {
           "title": "Read Full Press Release",
           "url": "https://www.artbasel.com/stories/art-basel-and-live-nation-present-god-hates-space-by-gener8ion",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Read Full Press Release",
-          "url": "https://www.artbasel.com/stories/the-art-basel-and-ubs-survey-of-global-collecting-2026",
           "status": "institutional_page_link_unverified_date"
         }
       ],
@@ -234,6 +234,11 @@
       "status": "reachable",
       "candidates": [
         {
+          "title": "Type: story Category: Press Release $190M Record-Breaking Van Gogh Leads Historic $777M Night at Sotheby's",
+          "url": "https://www.sothebys.com/articles/190m-record-breaking-van-gogh-leads-historic-777m-night-at-sothebys",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
           "title": "Type: story Category: Press Release Sotheby's Sales of Contemporary Art Realizes $378.7M | More than Double November 2025",
           "url": "https://www.sothebys.com/articles/sothebys-sales-of-contemporary-art-realizes-378-7m-more-than-double-november-2025",
           "status": "institutional_page_link_unverified_date"
@@ -276,11 +281,6 @@
         {
           "title": "Type: story Category: Press Release Sotheby's Presents the Jewelry Collection of Art World Grande Dame Pauline Karpidas",
           "url": "https://www.sothebys.com/articles/sothebys-presents-the-jewelry-collection-of-art-world-grande-dame-pauline-karpidas",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Type: story Category: Press Release Sotheby's New Dubai Gallery Opens on 10 Year UAE Anniversary",
-          "url": "https://www.sothebys.com/articles/sothebys-new-dubai-gallery-opens-on-10-year-uae-anniversary",
           "status": "institutional_page_link_unverified_date"
         }
       ],
@@ -332,11 +332,6 @@
       "access": "public",
       "status": "reachable",
       "candidates": [
-        {
-          "title": "Read more Art 13 November 2026 Opening hours of the Austrian Pavilion Due to weather conditions, the Pavilion will be open 10 am to 3 pm from Wednesday 18 to Sa",
-          "url": "https://www.labiennale.org/en/news/opening-hours-austrian-pavilion",
-          "status": "institutional_page_link_unverified_date"
-        },
         {
           "title": "Exhibitions and activities",
           "url": "https://www.labiennale.org/en/asac/exhibitions-and-activities",
