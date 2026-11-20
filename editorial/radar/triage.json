@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "count": 671,
+  "count": 677,
   "possible_duplicates": 0,
   "items": [
     {
@@ -57,30 +57,6 @@
       "url": "https://www.artnews.com/art-news/market/frieze-abu-dhabi-rebrands-high-quality-art-large-sums-1234806923/",
       "source": "ARTnews",
       "published": "2026-11-19T22:00:23+00:00",
-      "priority_score": 9,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "9538828a0880efc0a5b5",
-      "title": "Led by Record-Breaking $190.4 M. van Gogh, Sotheby’s Impressionist and Modern Art Sales Rake in $777.8 M.",
-      "url": "https://www.artnews.com/art-news/market/sothebys-modern-art-sale-blaquier-arrieta-van-gogh-1234806802/",
-      "source": "ARTnews",
-      "published": "2026-11-19T05:13:14+00:00",
-      "priority_score": 9,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "9e38bc89e100169e94b3",
-      "title": "Sotheby’s New York Impressionist and Modern Art Sale Rakes in $777.8 M., Italian Exhibition Ordered to Remove Fascist Imagery, and More: Morning Links for November 19, 2026",
-      "url": "https://www.artnews.com/art-news/news/italian-exhibition-ordered-to-remove-fascist-imagery-1234806818/",
-      "source": "ARTnews",
-      "published": "2026-11-19T13:00:00+00:00",
       "priority_score": 9,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -196,18 +172,6 @@
       "publication_approved": false
     },
     {
-      "id": "b9b10de9b962263ef377",
-      "title": "A Tiny Monet With a Wild Backstory Just Fetched More Than 20 Times its Estimate at a Christie’s Day Sale",
-      "url": "https://www.artnews.com/art-news/market/tiny-monet-wild-backstory-7-million-christies-day-sale-1234806754/",
-      "source": "ARTnews",
-      "published": "2026-11-19T02:04:08+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "5987eade99624a18b9d1",
       "title": "ARTnews Awards 2026 Best Thematic Museum Exhibition: “MONUMENTS”",
       "url": "https://www.artnews.com/art-news/artists/monuments-artnews-awards-2026-best-thematic-museum-show-1234805839/",
@@ -280,11 +244,23 @@
       "publication_approved": false
     },
     {
-      "id": "8240d27644c6722eec69",
-      "title": "Cézanne ‘Arlequin’ Sells for $111 M. at Sotheby’s, Becoming One of the Most Expensive Paintings by the Artist",
-      "url": "https://www.artnews.com/art-news/market/cezanne-arlequin-sothebys-sale-1234806687/",
+      "id": "38e5824faf8ab0995328",
+      "title": "Christie’s Notches a $145.9 M. Sale of 21st-Century Art, Led by a $32.9 M. Basquiat, amid Flagging Energy",
+      "url": "https://www.artnews.com/art-news/market/christies-21st-century-art-sale-november-2026-1234806916/",
       "source": "ARTnews",
-      "published": "2026-11-18T23:40:29+00:00",
+      "published": "2026-11-20T03:49:20+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "ec6d0310c07e591e80ba",
+      "title": "Dramatic Waves Crash on Iceland’s Coast in Photos by Vilhelm Gunnarsson",
+      "url": "https://www.thisiscolossal.com/2026/11/vilhelm-gunnarsson-iceland-ocean-photography/",
+      "source": "Colossal",
+      "published": "2026-11-20T12:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -304,11 +280,11 @@
       "publication_approved": false
     },
     {
-      "id": "80c53afe1201d68029ad",
-      "title": "How Well Do You Know Your Artistic Icons?",
-      "url": "https://www.artnews.com/art-in-america/columns/know-your-artistic-icons-1234805684/",
-      "source": "ARTnews",
-      "published": "2026-11-19T10:00:00+00:00",
+      "id": "ed1dc0981728db343e8f",
+      "title": "Hilma af Klint Is Rolling in Her Grave",
+      "url": "https://hyperallergic.com/hilma-af-klint-is-rolling-in-her-grave/",
+      "source": "Hyperallergic",
+      "published": "2026-11-20T11:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -340,11 +316,35 @@
       "publication_approved": false
     },
     {
+      "id": "6376b3e2e66a3aff1e09",
+      "title": "LA’s The Landing Gallery Closes, Christie’s Brings in $145.9 M. But Falls Short of Estimates, and More: Morning Links for November 19, 2026",
+      "url": "https://www.artnews.com/art-news/news/the-landing-la-gallery-closes-morning-links-1234806998/",
+      "source": "ARTnews",
+      "published": "2026-11-20T14:00:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "79f079126caf08d88857",
       "title": "Laia Abril Photographs the Instruments of Rape Culture",
       "url": "https://hyperallergic.com/laia-abril-photographs-the-instruments-of-rape-culture/",
       "source": "Hyperallergic",
       "published": "2026-11-19T20:44:40+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "9538828a0880efc0a5b5",
+      "title": "Led by Record-Breaking $190.4 M. van Gogh, Sotheby’s Impressionist and Modern Art Sales Rake in $777.8 M.",
+      "url": "https://www.artnews.com/art-news/market/sothebys-modern-art-sale-blaquier-arrieta-van-gogh-1234806802/",
+      "source": "ARTnews",
+      "published": "2026-11-19T05:13:14+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -388,18 +388,6 @@
       "publication_approved": false
     },
     {
-      "id": "33c9069d0116bf119812",
-      "title": "Phillips Names Senior Leadership in Asia, Clark Art Institute Hires New Chief Curator, and More: Industry Moves for November 19, 2026",
-      "url": "https://www.artnews.com/art-news/market/phillips-asia-leadership-industry-moves-november-18-2026-1234806719/",
-      "source": "ARTnews",
-      "published": "2026-11-19T10:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "d5280d94c1e9bbbe16bd",
       "title": "Piaget’s Latest Release Is a Limited-Edition Andy Warhol Camouflage Watch",
       "url": "https://www.artnews.com/art-news/news/piaget-warhol-foundation-collaboration-art-week-nyc-2026-1234806880/",
@@ -424,18 +412,6 @@
       "publication_approved": false
     },
     {
-      "id": "42a326ae22e3ea3ab9d6",
-      "title": "Recovering Edward Said’s Voice",
-      "url": "https://hyperallergic.com/recovering-edward-saids-voice/",
-      "source": "Hyperallergic",
-      "published": "2026-11-19T11:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "47c2db46b95a9a74c8f3",
       "title": "Richard Powell Unsettles Race and Color Theory",
       "url": "https://hyperallergic.com/richard-powell-unsettles-race-and-color-theory/",
@@ -448,11 +424,35 @@
       "publication_approved": false
     },
     {
+      "id": "9e38bc89e100169e94b3",
+      "title": "Sotheby’s New York Impressionist and Modern Art Sale Rakes in $777.8 M., Italian Exhibition Ordered to Remove Fascist Imagery, and More: Morning Links for November 19, 2026",
+      "url": "https://www.artnews.com/art-news/news/italian-exhibition-ordered-to-remove-fascist-imagery-1234806818/",
+      "source": "ARTnews",
+      "published": "2026-11-19T13:00:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "b0eae59539ef4359167b",
       "title": "The Ebullient Ecofeminism of Carolina Caycedo",
       "url": "https://hyperallergic.com/the-ebullient-ecofeminism-of-carolina-caycedo/",
       "source": "Hyperallergic",
       "published": "2026-11-19T21:25:44+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "9448acc81dbb127393ad",
+      "title": "The Landing, Beloved Los Angeles Gallery with a Keen Eye for Pairing Historical and Contemporary Artists, Closes After 14 Years",
+      "url": "https://www.artnews.com/art-news/news/the-landing-los-angeles-gallery-closes-1234806982/",
+      "source": "ARTnews",
+      "published": "2026-11-20T00:02:11+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -484,11 +484,11 @@
       "publication_approved": false
     },
     {
-      "id": "d5d575d59da721e98387",
-      "title": "Yayoi Kusama ‘Infinity Net’ Painting Sells for $15.1 M. at Sotheby’s, Setting a Record",
-      "url": "https://www.artnews.com/art-news/market/yayoi-kusama-infinity-net-painting-record-sale-sothebys-1234806198/",
+      "id": "eaea280bac4df37fd384",
+      "title": "Was Grandma Moses a Foil to Modernity, or a Product of It?",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/grandma-moses-survey-modernity-crystal-bridges-arkansas-1234806881/",
       "source": "ARTnews",
-      "published": "2026-11-17T02:08:25+00:00",
+      "published": "2026-11-20T10:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -592,6 +592,18 @@
       "publication_approved": false
     },
     {
+      "id": "b9b10de9b962263ef377",
+      "title": "A Tiny Monet With a Wild Backstory Just Fetched More Than 20 Times its Estimate at a Christie’s Day Sale",
+      "url": "https://www.artnews.com/art-news/market/tiny-monet-wild-backstory-7-million-christies-day-sale-1234806754/",
+      "source": "ARTnews",
+      "published": "2026-11-19T02:04:08+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "b699e7ac3faf9e1f2c61",
       "title": "ARTnews Celebrates the Inaugural Art Week NYC, November 11-14, 2026",
       "url": "https://www.artnews.com/gallery/art-news/photos/artnews-celebrates-the-inaugural-art-week-nyc-november-11-14-1234806388/",
@@ -652,30 +664,6 @@
       "publication_approved": false
     },
     {
-      "id": "656053edf9175c1d62fd",
-      "title": "Artsy and Artnet Acquire First Thursday as Art-Tech Expansion Picks Up Speed",
-      "url": "https://www.artnews.com/art-news/news/artsy-artnet-acquire-first-thursday-gallery-software-1234806185/",
-      "source": "ARTnews",
-      "published": "2026-11-17T13:00:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "7dec19f6c31812971636",
-      "title": "At Sotheby’s $378.7 M. Doubleheader, Buyers Take Risks Again, Even as Bidding Drags",
-      "url": "https://www.artnews.com/art-news/market/sothebys-november-2026-baum-collection-contemporary-auction-1234806277/",
-      "source": "ARTnews",
-      "published": "2026-11-17T05:44:41+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "4c1ae5869d4bf7561d3a",
       "title": "Beer With a Painter: Ouattara Watts",
       "url": "https://hyperallergic.com/beer-with-a-painter-ouattara-watts/",
@@ -705,6 +693,18 @@
       "url": "https://www.artnews.com/art-news/market/christies-20th-century-sale-starry-lots-kandinsky-klimt-1234806613/",
       "source": "ARTnews",
       "published": "2026-11-18T05:22:12+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "8240d27644c6722eec69",
+      "title": "Cézanne ‘Arlequin’ Sells for $111 M. at Sotheby’s, Becoming One of the Most Expensive Paintings by the Artist",
+      "url": "https://www.artnews.com/art-news/market/cezanne-arlequin-sothebys-sale-1234806687/",
+      "source": "ARTnews",
+      "published": "2026-11-18T23:40:29+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -820,6 +820,18 @@
       "publication_approved": false
     },
     {
+      "id": "80c53afe1201d68029ad",
+      "title": "How Well Do You Know Your Artistic Icons?",
+      "url": "https://www.artnews.com/art-in-america/columns/know-your-artistic-icons-1234805684/",
+      "source": "ARTnews",
+      "published": "2026-11-19T10:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "357c688f26fc8cdbe310",
       "title": "How “American Gothic” Took On a Life of Its Own",
       "url": "https://hyperallergic.com/how-american-gothic-took-on-a-life-of-its-own/",
@@ -837,18 +849,6 @@
       "url": "https://hyperallergic.com/is-my-art-funny-to-you/",
       "source": "Hyperallergic",
       "published": "2026-11-18T22:22:24+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "ac53f3615624c6f8a413",
-      "title": "Latinx Art’s New Visionaries",
-      "url": "https://hyperallergic.com/latinx-arts-new-visionaries/",
-      "source": "Hyperallergic",
-      "published": "2026-11-17T11:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -988,6 +988,18 @@
       "publication_approved": false
     },
     {
+      "id": "33c9069d0116bf119812",
+      "title": "Phillips Names Senior Leadership in Asia, Clark Art Institute Hires New Chief Curator, and More: Industry Moves for November 19, 2026",
+      "url": "https://www.artnews.com/art-news/market/phillips-asia-leadership-industry-moves-november-18-2026-1234806719/",
+      "source": "ARTnews",
+      "published": "2026-11-19T10:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "3ff88b98542e3d22de8a",
       "title": "RIP to the National Historic Preservation Act",
       "url": "https://hyperallergic.com/rip-to-the-national-historic-preservation-act/",
@@ -1012,11 +1024,11 @@
       "publication_approved": false
     },
     {
-      "id": "3c99e7207f0609f88221",
-      "title": "Rashid Johnson, Christopher Wool, and Dawoud Bey Enter MCA Chicago Through 65-Work Gift",
-      "url": "https://www.artnews.com/art-news/news/mca-chicago-guthman-gift-rashid-johnson-christopher-wool-1234806296/",
-      "source": "ARTnews",
-      "published": "2026-11-17T13:59:12+00:00",
+      "id": "42a326ae22e3ea3ab9d6",
+      "title": "Recovering Edward Said’s Voice",
+      "url": "https://hyperallergic.com/recovering-edward-saids-voice/",
+      "source": "Hyperallergic",
+      "published": "2026-11-19T11:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1209,6 +1221,18 @@
       "url": "https://www.artnews.com/art-news/news/wyoming-art-dealer-false-native-american-heritage-1234806657/",
       "source": "ARTnews",
       "published": "2026-11-18T16:15:45+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "d5d575d59da721e98387",
+      "title": "Yayoi Kusama ‘Infinity Net’ Painting Sells for $15.1 M. at Sotheby’s, Setting a Record",
+      "url": "https://www.artnews.com/art-news/market/yayoi-kusama-infinity-net-painting-record-sale-sothebys-1234806198/",
+      "source": "ARTnews",
+      "published": "2026-11-17T02:08:25+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1473,18 +1497,6 @@
       "url": "https://hyperallergic.com/45-of-us-independent-arts-publications-face-existential-crisis-report-finds/",
       "source": "Hyperallergic",
       "published": "2026-11-13T21:17:16+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "374c92b4e0f0005b7f41",
-      "title": "A Toolkit for a Liberated Art World",
-      "url": "https://hyperallergic.com/a-toolkit-for-a-liberated-art-world/",
-      "source": "Hyperallergic",
-      "published": "2026-11-13T11:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1792,6 +1804,18 @@
       "publication_approved": false
     },
     {
+      "id": "656053edf9175c1d62fd",
+      "title": "Artsy and Artnet Acquire First Thursday as Art-Tech Expansion Picks Up Speed",
+      "url": "https://www.artnews.com/art-news/news/artsy-artnet-acquire-first-thursday-gallery-software-1234806185/",
+      "source": "ARTnews",
+      "published": "2026-11-17T13:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "f37251054cdb260b4edd",
       "title": "As Art Basel Paris Shutters for Weekend Protests, Satellite Fairs Keep Their Doors Open",
       "url": "https://www.artnews.com/art-news/news/art-basel-paris-closing-early-satellite-fairs-ope-1234803619/",
@@ -1809,6 +1833,18 @@
       "url": "https://hyperallergic.com/at-nycs-adaa-art-fair-unlimited-shrimp-and-2k-diebenkorns/",
       "source": "Hyperallergic",
       "published": "2026-11-13T21:20:39+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "7dec19f6c31812971636",
+      "title": "At Sotheby’s $378.7 M. Doubleheader, Buyers Take Risks Again, Even as Bidding Drags",
+      "url": "https://www.artnews.com/art-news/market/sothebys-november-2026-baum-collection-contemporary-auction-1234806277/",
+      "source": "ARTnews",
+      "published": "2026-11-17T05:44:41+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2200,18 +2236,6 @@
       "publication_approved": false
     },
     {
-      "id": "c13bda9dd7b364134940",
-      "title": "How Does an Artist Know When She’s Done? A Major Marisa Merz Retrospective Turns the Question on Its Head",
-      "url": "https://www.artnews.com/art-in-america/aia-reviews/marisa-merz-arte-povera-turin-retrospective-1234805723/",
-      "source": "ARTnews",
-      "published": "2026-11-13T10:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "7856725b248ba182e915",
       "title": "Hundreds Protest in Colombia After Far-Right President Removes Works From National Museum",
       "url": "https://hyperallergic.com/hundreds-protest-in-colombia-after-far-right-president-removes-works-from-national-museum/",
@@ -2265,6 +2289,18 @@
       "url": "https://hyperallergic.com/latinx-artists-are-the-new-visionaries/",
       "source": "Hyperallergic",
       "published": "2026-11-16T20:59:20+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "ac53f3615624c6f8a413",
+      "title": "Latinx Art’s New Visionaries",
+      "url": "https://hyperallergic.com/latinx-arts-new-visionaries/",
+      "source": "Hyperallergic",
+      "published": "2026-11-17T11:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2500,11 +2536,11 @@
       "publication_approved": false
     },
     {
-      "id": "0bc0b5dba47acb91bddc",
-      "title": "Protesters Urge Steven Spielberg to Boycott MoMA Over Leon Black’s Epstein Ties",
-      "url": "https://hyperallergic.com/protesters-urge-steven-spielberg-to-boycott-moma-over-leon-blacks-epstein-ties/",
-      "source": "Hyperallergic",
-      "published": "2026-11-13T00:01:38+00:00",
+      "id": "ca122e56f6eee4c45668",
+      "title": "Protests Erupt Over Removal of LGBTQ and Feminist Objects at National Museum of Colombia",
+      "url": "https://www.artnews.com/art-news/news/national-museum-of-colombia-protests-1234802997/",
+      "source": "ARTnews",
+      "published": "2026-10-19T19:19:36+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2512,11 +2548,11 @@
       "publication_approved": false
     },
     {
-      "id": "ca122e56f6eee4c45668",
-      "title": "Protests Erupt Over Removal of LGBTQ and Feminist Objects at National Museum of Colombia",
-      "url": "https://www.artnews.com/art-news/news/national-museum-of-colombia-protests-1234802997/",
+      "id": "3c99e7207f0609f88221",
+      "title": "Rashid Johnson, Christopher Wool, and Dawoud Bey Enter MCA Chicago Through 65-Work Gift",
+      "url": "https://www.artnews.com/art-news/news/mca-chicago-guthman-gift-rashid-johnson-christopher-wool-1234806296/",
       "source": "ARTnews",
-      "published": "2026-10-19T19:19:36+00:00",
+      "published": "2026-11-17T13:59:12+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -3189,6 +3225,18 @@
       "url": "https://www.artnews.com/art-news/market/sothebys-christies-november-2026-auction-consignors-1234804676/",
       "source": "ARTnews",
       "published": "2026-11-04T20:56:22+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "374c92b4e0f0005b7f41",
+      "title": "A Toolkit for a Liberated Art World",
+      "url": "https://hyperallergic.com/a-toolkit-for-a-liberated-art-world/",
+      "source": "Hyperallergic",
+      "published": "2026-11-13T11:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -4936,6 +4984,18 @@
       "publication_approved": false
     },
     {
+      "id": "c13bda9dd7b364134940",
+      "title": "How Does an Artist Know When She’s Done? A Major Marisa Merz Retrospective Turns the Question on Its Head",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/marisa-merz-arte-povera-turin-retrospective-1234805723/",
+      "source": "ARTnews",
+      "published": "2026-11-13T10:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "a8d3bff11fc2360e49c9",
       "title": "How Former Theater Kid James Talarico Stands Up for the Arts in Texas",
       "url": "https://hyperallergic.com/how-former-theater-kid-james-talarico-stands-up-for-the-arts-in-texas/",
@@ -6465,6 +6525,18 @@
       "url": "https://hyperallergic.com/print-center-and-womens-studio-workshop-name-new-leaders/",
       "source": "Hyperallergic",
       "published": "2026-11-12T22:46:17+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "0bc0b5dba47acb91bddc",
+      "title": "Protesters Urge Steven Spielberg to Boycott MoMA Over Leon Black’s Epstein Ties",
+      "url": "https://hyperallergic.com/protesters-urge-steven-spielberg-to-boycott-moma-over-leon-blacks-epstein-ties/",
+      "source": "Hyperallergic",
+      "published": "2026-11-13T00:01:38+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
