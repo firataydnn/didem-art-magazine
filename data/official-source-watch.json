@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-20T03:27:34.097426+00:00",
+  "generated_at": "2026-11-20T13:04:22.964133+00:00",
   "notice": "Primary source page monitoring only. Page changes are not verified publication events. Restricted press rooms must not be bypassed.",
   "sources": [
     {
@@ -174,6 +174,11 @@
       "status": "reachable",
       "candidates": [
         {
+          "title": "documenta Documenta 16: Invitation in Twelve Cities with Ströer Press",
+          "url": "https://documenta.de/en/news/documenta-sixteen-einladung-in-zwoelf-staedten-mit-stroeer",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
           "title": "documenta Announcement of D16's Extended Curatorial Team Press",
           "url": "https://documenta.de/en/news/d16-gibt-erweitertes-kuratorisches-team-bekannt",
           "status": "institutional_page_link_unverified_date"
@@ -216,11 +221,6 @@
         {
           "title": "documenta From Fashion Department Store to an Office Complex",
           "url": "https://documenta.de/en/news/modekaufhaus-zum-buerokomplex",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Fridericianum documenta Taking a break from the heat at Fridericianum — free admission for everyone on the last weekend in June",
-          "url": "https://documenta.de/en/news/hitzefrei-im-fridericianum",
           "status": "institutional_page_link_unverified_date"
         }
       ],
@@ -332,6 +332,11 @@
       "access": "public",
       "status": "reachable",
       "candidates": [
+        {
+          "title": "Read more Art 18 November 2026 Opening hours of the Austrian Pavilion Due to weather conditions, the Pavilion will be open 10 am to 3 pm from Wednesday 18 to Sa",
+          "url": "https://www.labiennale.org/en/news/opening-hours-austrian-pavilion",
+          "status": "institutional_page_link_unverified_date"
+        },
         {
           "title": "Exhibitions and activities",
           "url": "https://www.labiennale.org/en/asac/exhibitions-and-activities",
