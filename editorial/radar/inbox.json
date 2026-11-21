@@ -2,6 +2,19 @@
   "schema": 1,
   "items": [
     {
+      "id": "d02f6976aef5cf51d00e",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "Art Advisor Sophia Cohen on How the Next Generation of Collectors Is Approaching the Art Market",
+      "url": "https://www.artnews.com/art-news/news/sophia-cohen-siren-projects-art-week-nyc-1234807155/",
+      "published": "2026-11-21T14:00:00+00:00",
+      "summary": "Cohen, formerly of Gavin Brown's enterprise and Gagosian, launched Siren Projects in 2024.",
+      "discovered": "2026-11-21T22:13:22.445042+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "cbae7fb9539c7223e32b",
       "source": "ARTnews",
       "category": "sanat-basini",
