@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "count": 695,
+  "count": 700,
   "possible_duplicates": 0,
   "items": [
     {
@@ -100,35 +100,11 @@
       "publication_approved": false
     },
     {
-      "id": "09d1d976e054075ada27",
-      "title": "A Wassily Kandinsky Sold by the Nahmads Fetches $85.8 M. at Christie’s, Notching a New Auction High",
-      "url": "https://www.artnews.com/art-news/market/wassily-kandinsky-nahmads-christies-new-auction-high-1234806466/",
-      "source": "ARTnews",
-      "published": "2026-11-18T00:53:44+00:00",
-      "priority_score": 8,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "c769301add635cdf9c21",
       "title": "EU Countries Renew Call To Exclude Russia from Venice Ahead of 2027 Architecture Biennale",
       "url": "https://www.artnews.com/art-news/news/eu-countries-renew-call-to-exclude-russia-from-venice-ahead-of-2027-architecture-biennale-1234806682/",
       "source": "ARTnews",
       "published": "2026-11-18T17:50:33+00:00",
-      "priority_score": 8,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "1f6d663e0520791df304",
-      "title": "The Most Expensive Works by Gustav Klimt Sold at Auction",
-      "url": "https://www.artnews.com/list/art-news/market/gustav-klimt-most-expensive-works-sold-at-auction-1234801492/",
-      "source": "ARTnews",
-      "published": "2026-11-18T02:44:37+00:00",
       "priority_score": 8,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -184,30 +160,6 @@
       "publication_approved": false
     },
     {
-      "id": "38e5824faf8ab0995328",
-      "title": "Christie’s Notches a $145.9 M. Sale of 21st-Century Art, Led by a $32.9 M. Basquiat, amid Flagging Energy",
-      "url": "https://www.artnews.com/art-news/market/christies-21st-century-art-sale-november-2026-1234806916/",
-      "source": "ARTnews",
-      "published": "2026-11-20T03:49:20+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "ec6d0310c07e591e80ba",
-      "title": "Dramatic Waves Crash on Iceland’s Coast in Photos by Vilhelm Gunnarsson",
-      "url": "https://www.thisiscolossal.com/2026/11/vilhelm-gunnarsson-iceland-ocean-photography/",
-      "source": "Colossal",
-      "published": "2026-11-20T12:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "2d7ca89166389b951841",
       "title": "El Greco Masterpiece Gets Its Colors Back After More Than 400 Years",
       "url": "https://www.artnews.com/art-news/news/el-greco-martyrdom-saint-maurice-restoration-1234807093/",
@@ -256,11 +208,11 @@
       "publication_approved": false
     },
     {
-      "id": "ed1dc0981728db343e8f",
-      "title": "Hilma af Klint Is Rolling in Her Grave",
-      "url": "https://hyperallergic.com/hilma-af-klint-is-rolling-in-her-grave/",
+      "id": "3f49500e9e674f07d537",
+      "title": "Hail to the Squash King",
+      "url": "https://hyperallergic.com/hail-to-the-squash-king/",
       "source": "Hyperallergic",
-      "published": "2026-11-20T11:00:00+00:00",
+      "published": "2026-11-21T11:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -304,6 +256,30 @@
       "publication_approved": false
     },
     {
+      "id": "cbae7fb9539c7223e32b",
+      "title": "Ireland’s Experiment in Paying Artists a Basic Income Is Working as Intended For Artists",
+      "url": "https://www.artnews.com/art-news/news/is-ireland-experiment-in-paying-artists-basic-income-working-1234806168/",
+      "source": "ARTnews",
+      "published": "2026-11-21T13:19:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "9cec95730708d85a04f1",
+      "title": "Is GTA VI the Art Miami Deserves?",
+      "url": "https://hyperallergic.com/is-gta-vi-the-art-miami-deserves/",
+      "source": "Hyperallergic",
+      "published": "2026-11-20T23:51:17+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "fcf7d75213e1f7790a7a",
       "title": "Judge Allows Lawsuit Over Allegedly Stolen Fra Angelico to Move Forward",
       "url": "https://www.artnews.com/art-news/news/bic-heirs-fra-angelico-lawsuit-feigen-estate-ruling-1234807135/",
@@ -333,6 +309,18 @@
       "url": "https://www.artnews.com/art-news/market/sothebys-modern-art-sale-blaquier-arrieta-van-gogh-1234806802/",
       "source": "ARTnews",
       "published": "2026-11-19T05:13:14+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "a890934621f729ca76bb",
+      "title": "Maren Hassinger Won’t Be Weighed Down",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/maren-hassinger-bampfa-retrospective-berkeley-1234806748/",
+      "source": "ARTnews",
+      "published": "2026-11-21T10:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -400,18 +388,6 @@
       "publication_approved": false
     },
     {
-      "id": "9448acc81dbb127393ad",
-      "title": "The Landing, Beloved Los Angeles Gallery with a Keen Eye for Pairing Historical and Contemporary Artists, Closes After 14 Years",
-      "url": "https://www.artnews.com/art-news/news/the-landing-los-angeles-gallery-closes-1234806982/",
-      "source": "ARTnews",
-      "published": "2026-11-20T00:02:11+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "074f57c0b5e698146b6a",
       "title": "The Real Miami Museums and Artists Behind GTA VI’s Vice City",
       "url": "https://hyperallergic.com/the-real-miami-museums-and-artists-behind-gta-vis-vice-city/",
@@ -448,18 +424,6 @@
       "publication_approved": false
     },
     {
-      "id": "eaea280bac4df37fd384",
-      "title": "Was Grandma Moses a Foil to Modernity, or a Product of It?",
-      "url": "https://www.artnews.com/art-in-america/aia-reviews/grandma-moses-survey-modernity-crystal-bridges-arkansas-1234806881/",
-      "source": "ARTnews",
-      "published": "2026-11-20T10:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "c8db153028c8a7ed9bf6",
       "title": "Working Mothers Face Pervasive Discrimination in London Art World, Study Finds",
       "url": "https://www.artnews.com/art-news/news/working-mothers-face-discrimination-in-london-art-world-1234807151/",
@@ -478,6 +442,18 @@
       "source": "ARTnews",
       "published": "2026-11-20T18:54:35+00:00",
       "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "09d1d976e054075ada27",
+      "title": "A Wassily Kandinsky Sold by the Nahmads Fetches $85.8 M. at Christie’s, Notching a New Auction High",
+      "url": "https://www.artnews.com/art-news/market/wassily-kandinsky-nahmads-christies-new-auction-high-1234806466/",
+      "source": "ARTnews",
+      "published": "2026-11-18T00:53:44+00:00",
+      "priority_score": 6,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -568,6 +544,18 @@
       "publication_approved": false
     },
     {
+      "id": "1f6d663e0520791df304",
+      "title": "The Most Expensive Works by Gustav Klimt Sold at Auction",
+      "url": "https://www.artnews.com/list/art-news/market/gustav-klimt-most-expensive-works-sold-at-auction-1234801492/",
+      "source": "ARTnews",
+      "published": "2026-11-18T02:44:37+00:00",
+      "priority_score": 6,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "a98a8466fd12cc273f57",
       "title": "Weekend Protests in Paris Raise Question of Early Art Basel Closure, $34.3 M. Marble Roman Torso Breaks Auction Records, and More: Morning Links for October 22, 2026",
       "url": "https://www.artnews.com/art-news/news/weekend-protests-paris-raise-question-early-art-basel-clos-1234803470/",
@@ -640,18 +628,6 @@
       "publication_approved": false
     },
     {
-      "id": "650233460e07f607586d",
-      "title": "Anti-Monuments to Trump",
-      "url": "https://hyperallergic.com/anti-monuments-to-trump/",
-      "source": "Hyperallergic",
-      "published": "2026-11-18T11:00:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "fc164598335aac773d01",
       "title": "Arpita Singh, Indian Painter Who Never Stopped Innovating, Dies at 89",
       "url": "https://hyperallergic.com/obits-2/",
@@ -712,11 +688,11 @@
       "publication_approved": false
     },
     {
-      "id": "dc3f4187f13e36cc299f",
-      "title": "Christie’s Buzzy 20th-Century Sale Totals $626.6 M., with Starry Lots Above $80 M. by Kandinsky and Klimt",
-      "url": "https://www.artnews.com/art-news/market/christies-20th-century-sale-starry-lots-kandinsky-klimt-1234806613/",
+      "id": "38e5824faf8ab0995328",
+      "title": "Christie’s Notches a $145.9 M. Sale of 21st-Century Art, Led by a $32.9 M. Basquiat, amid Flagging Energy",
+      "url": "https://www.artnews.com/art-news/market/christies-21st-century-art-sale-november-2026-1234806916/",
       "source": "ARTnews",
-      "published": "2026-11-18T05:22:12+00:00",
+      "published": "2026-11-20T03:49:20+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -729,6 +705,18 @@
       "url": "https://www.artnews.com/art-news/market/cezanne-arlequin-sothebys-sale-1234806687/",
       "source": "ARTnews",
       "published": "2026-11-18T23:40:29+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "ec6d0310c07e591e80ba",
+      "title": "Dramatic Waves Crash on Iceland’s Coast in Photos by Vilhelm Gunnarsson",
+      "url": "https://www.thisiscolossal.com/2026/11/vilhelm-gunnarsson-iceland-ocean-photography/",
+      "source": "Colossal",
+      "published": "2026-11-20T12:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -789,6 +777,18 @@
       "url": "https://www.thisiscolossal.com/2026/11/sylvain-lefebvre-oil-paintings-marbled-paper/",
       "source": "Colossal",
       "published": "2026-11-18T20:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "ed1dc0981728db343e8f",
+      "title": "Hilma af Klint Is Rolling in Her Grave",
+      "url": "https://hyperallergic.com/hilma-af-klint-is-rolling-in-her-grave/",
+      "source": "Hyperallergic",
+      "published": "2026-11-20T11:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1000,18 +1000,6 @@
       "publication_approved": false
     },
     {
-      "id": "a093acdbf29ee05660d1",
-      "title": "Seven Works Reportedly from Jeff Koons’s Collection Fetch a Lackluster $104 M. at Christie’s, Led by a $31.2 M. Picasso",
-      "url": "https://www.artnews.com/art-news/market/jeff-koons-collection-christies-picasso-1234806433/",
-      "source": "ARTnews",
-      "published": "2026-11-18T04:19:39+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "aa864fef4884cbe486fe",
       "title": "Sotheby’s Hospices de Beaune Charity Wine Sale Nets $15.8 M. in France, with One Barrel Selling for Record $1.1 M.",
       "url": "https://www.artnews.com/art-news/market/sothebys-hospices-de-beaune-charity-wine-sale-results-1234806240/",
@@ -1024,11 +1012,35 @@
       "publication_approved": false
     },
     {
+      "id": "733f68baf06c30c8299d",
+      "title": "Still Here and Independent",
+      "url": "https://hyperallergic.com/still-here-and-independent/",
+      "source": "Hyperallergic",
+      "published": "2026-11-20T06:30:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "b0eae59539ef4359167b",
       "title": "The Ebullient Ecofeminism of Carolina Caycedo",
       "url": "https://hyperallergic.com/the-ebullient-ecofeminism-of-carolina-caycedo/",
       "source": "Hyperallergic",
       "published": "2026-11-19T21:25:44+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "9448acc81dbb127393ad",
+      "title": "The Landing, Beloved Los Angeles Gallery with a Keen Eye for Pairing Historical and Contemporary Artists, Closes After 14 Years",
+      "url": "https://www.artnews.com/art-news/news/the-landing-los-angeles-gallery-closes-1234806982/",
+      "source": "ARTnews",
+      "published": "2026-11-20T00:02:11+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1101,6 +1113,18 @@
       "url": "https://hyperallergic.com/vilcek-foundation-launches-open-call-for-2027-grants-offering-200-000-in-funding-to-us-nonprofits/",
       "source": "Hyperallergic",
       "published": "2026-11-18T15:15:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "eaea280bac4df37fd384",
+      "title": "Was Grandma Moses a Foil to Modernity, or a Product of It?",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/grandma-moses-survey-modernity-crystal-bridges-arkansas-1234806881/",
+      "source": "ARTnews",
+      "published": "2026-11-20T10:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1624,6 +1648,18 @@
       "publication_approved": false
     },
     {
+      "id": "650233460e07f607586d",
+      "title": "Anti-Monuments to Trump",
+      "url": "https://hyperallergic.com/anti-monuments-to-trump/",
+      "source": "Hyperallergic",
+      "published": "2026-11-18T11:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "667d1bcbedc7169045fe",
       "title": "Applications are Open for the Core Residency Program at the Museum of Fine Arts, Houston",
       "url": "https://hyperallergic.com/applications-are-open-for-the-core-residency-program-at-the-museum-of-fine-arts-houston/",
@@ -1833,6 +1869,18 @@
       "url": "https://www.artnews.com/art-news/news/chanel-m-plus-hong-kong-museum-lead-partner-1234803225/",
       "source": "ARTnews",
       "published": "2026-10-21T16:18:06+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "dc3f4187f13e36cc299f",
+      "title": "Christie’s Buzzy 20th-Century Sale Totals $626.6 M., with Starry Lots Above $80 M. by Kandinsky and Klimt",
+      "url": "https://www.artnews.com/art-news/market/christies-20th-century-sale-starry-lots-kandinsky-klimt-1234806613/",
+      "source": "ARTnews",
+      "published": "2026-11-18T05:22:12+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2644,6 +2692,18 @@
       "publication_approved": false
     },
     {
+      "id": "a093acdbf29ee05660d1",
+      "title": "Seven Works Reportedly from Jeff Koons’s Collection Fetch a Lackluster $104 M. at Christie’s, Led by a $31.2 M. Picasso",
+      "url": "https://www.artnews.com/art-news/market/jeff-koons-collection-christies-picasso-1234806433/",
+      "source": "ARTnews",
+      "published": "2026-11-18T04:19:39+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "87816d33f55cf1499ec9",
       "title": "Shahzia Sikander Confronts British Colonial Legacy in High Line Video Work",
       "url": "https://hyperallergic.com/shahzia-sikander-confronts-british-colonial-legacy-in-high-line-video-work/",
@@ -2685,18 +2745,6 @@
       "url": "https://www.artnews.com/art-news/news/south-london-gallerys-director-margot-heller-steps-down-1234806114/",
       "source": "ARTnews",
       "published": "2026-11-16T12:30:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "6acbc1c3f2db0216c2d4",
-      "title": "Special Edition: Jesus",
-      "url": "https://hyperallergic.com/11-14-26-weekly-newsletter-2/",
-      "source": "Hyperallergic",
-      "published": "2026-11-14T11:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -7101,6 +7149,18 @@
       "url": "https://www.artnews.com/art-news/market/sothebys-dinosaur-jodi-nanotyrannus-47-million-auction-1234803969/",
       "source": "ARTnews",
       "published": "2026-10-27T15:38:37+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "6acbc1c3f2db0216c2d4",
+      "title": "Special Edition: Jesus",
+      "url": "https://hyperallergic.com/11-14-26-weekly-newsletter-2/",
+      "source": "Hyperallergic",
+      "published": "2026-11-14T11:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
