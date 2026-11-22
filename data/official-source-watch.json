@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-22T02:18:28.771484+00:00",
+  "generated_at": "2026-11-22T12:40:42.040357+00:00",
   "notice": "Primary source page monitoring only. Page changes are not verified publication events. Restricted press rooms must not be bypassed.",
   "sources": [
     {
@@ -12,17 +12,17 @@
       "candidates": [
         {
           "title": "Read Full Press Release",
+          "url": "https://www.artbasel.com/stories/art-basel-qatar-unveils-reimagined-public-program-for-its-second-edition",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Read Full Press Release",
           "url": "https://www.artbasel.com/stories/art-basel-announces-further-highlights-of-its-2026-miami-beach-edition-1",
           "status": "institutional_page_link_unverified_date"
         },
         {
           "title": "Read Full Press Release",
           "url": "https://www.artbasel.com/stories/art-basel-unveils-exhibitors-for-its-2027-qatar-edition",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Read Full Press Release",
-          "url": "https://www.artbasel.com/stories/art-basel-and-live-nation-present-god-hates-space-by-gener8ion",
           "status": "institutional_page_link_unverified_date"
         }
       ],
