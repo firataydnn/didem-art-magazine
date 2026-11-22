@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "count": 701,
+  "count": 702,
   "possible_duplicates": 0,
   "items": [
     {
@@ -21,7 +21,7 @@
       "url": "https://www.artnews.com/art-news/news/laura-hoptman-winner-2027-audrey-irmas-award-ccs-bard-1234806705/",
       "source": "ARTnews",
       "published": "2026-11-19T14:19:17+00:00",
-      "priority_score": 11,
+      "priority_score": 9,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -100,35 +100,11 @@
       "publication_approved": false
     },
     {
-      "id": "8740d70527b46d45071b",
-      "title": "Amsterdam’s Stedelijk Museum Names Krist Gruijthuijsen as Next Director",
-      "url": "https://www.artnews.com/art-news/news/stedelijk-museum-krist-gruijthuijsen-director-1234806867/",
+      "id": "f350afb38d80611aa5b8",
+      "title": "Carolina Herrera’s Wes Gordon and Oribe’s Daniel Kaner on Collecting as a Personal Passion and a Creative Practice",
+      "url": "https://www.artnews.com/art-news/news/wes-gordon-daniel-kaner-carolina-herrera-oribe-art-week-nyc-2026-1234806633/",
       "source": "ARTnews",
-      "published": "2026-11-19T18:14:19+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "d02f6976aef5cf51d00e",
-      "title": "Art Advisor Sophia Cohen on How the Next Generation of Collectors Is Approaching the Art Market",
-      "url": "https://www.artnews.com/art-news/news/sophia-cohen-siren-projects-art-week-nyc-1234807155/",
-      "source": "ARTnews",
-      "published": "2026-11-21T14:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "f36c2a26ddc4630099d4",
-      "title": "Frieze Abu Dhabi Debuts to Brisk Sales and Confident Dealers",
-      "url": "https://www.artnews.com/art-news/market/frieze-abu-dhabi-rebrands-high-quality-art-large-sums-1234806923/",
-      "source": "ARTnews",
-      "published": "2026-11-19T22:00:23+00:00",
+      "published": "2026-11-22T14:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -268,18 +244,6 @@
       "publication_approved": false
     },
     {
-      "id": "d43d23c5b8b9a8b2b206",
-      "title": "A New Jean-Michel Basquiat Documentary Considers the Artist Behind the Work",
-      "url": "https://www.thisiscolossal.com/2026/11/jean-michel-basquiat-authorized-documentary-netflix/",
-      "source": "Colossal",
-      "published": "2026-11-19T20:30:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "d11af4d7dbf8468fa97f",
       "title": "A View From the Easel: Rei Xiao",
       "url": "https://hyperallergic.com/a-view-from-the-easel-rei-xiao/",
@@ -304,11 +268,23 @@
       "publication_approved": false
     },
     {
-      "id": "ea820d01c1950c7c4f0a",
-      "title": "Ahmed Morsi, Whose Poetic Paintings Long for His Egyptian Homeland, Dies at 96",
-      "url": "https://www.artnews.com/art-news/news/ahmed-morsi-painter-poet-dead-1234806958/",
+      "id": "8740d70527b46d45071b",
+      "title": "Amsterdam’s Stedelijk Museum Names Krist Gruijthuijsen as Next Director",
+      "url": "https://www.artnews.com/art-news/news/stedelijk-museum-krist-gruijthuijsen-director-1234806867/",
       "source": "ARTnews",
-      "published": "2026-11-19T21:59:00+00:00",
+      "published": "2026-11-19T18:14:19+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "d02f6976aef5cf51d00e",
+      "title": "Art Advisor Sophia Cohen on How the Next Generation of Collectors Is Approaching the Art Market",
+      "url": "https://www.artnews.com/art-news/news/sophia-cohen-siren-projects-art-week-nyc-1234807155/",
+      "source": "ARTnews",
+      "published": "2026-11-21T14:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -321,42 +297,6 @@
       "url": "https://www.artnews.com/art-news/market/art-basel-paris-avant-premiere-2026-sales-1234803150/",
       "source": "ARTnews",
       "published": "2026-10-20T21:04:49+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "2a1dc27ee35a260f8545",
-      "title": "Art Dealer Sentenced for Falsely Claiming Native Heritage",
-      "url": "https://hyperallergic.com/art-dealer-sentenced-for-falsely-claiming-native-heritage/",
-      "source": "Hyperallergic",
-      "published": "2026-11-19T19:23:10+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "ceb24356abe0cc829ab3",
-      "title": "Art World Advice Columnists Chen & Lampert Answered Questions as Old as Time",
-      "url": "https://www.artnews.com/art-news/news/advice-columnists-chen-lampert-answered-questions-art-week-nyc-2026-1234806741/",
-      "source": "ARTnews",
-      "published": "2026-11-19T15:31:21+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "320099979e190d6999bd",
-      "title": "Benin Puts Pressure on Musée du Quai Branly in Paris to Return 35 Looted Objects",
-      "url": "https://www.artnews.com/art-news/news/benin-musee-du-quai-branly-paris-looted-objects-1234806938/",
-      "source": "ARTnews",
-      "published": "2026-11-19T21:49:13+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -424,11 +364,11 @@
       "publication_approved": false
     },
     {
-      "id": "3594d0d1239139cde87c",
-      "title": "Grand Theft Auto VI ’s Vice City Pays Homage to the Bass, Among More Art Easter Eggs",
-      "url": "https://www.artnews.com/art-news/news/grand-theft-auto-vice-city-bass-museum-art-oregano-basel-1234807185/",
+      "id": "f36c2a26ddc4630099d4",
+      "title": "Frieze Abu Dhabi Debuts to Brisk Sales and Confident Dealers",
+      "url": "https://www.artnews.com/art-news/market/frieze-abu-dhabi-rebrands-high-quality-art-large-sums-1234806923/",
       "source": "ARTnews",
-      "published": "2026-11-20T21:12:22+00:00",
+      "published": "2026-11-19T22:00:23+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -436,11 +376,11 @@
       "publication_approved": false
     },
     {
-      "id": "0233f621df5e429fbc05",
-      "title": "Guadalupe Maravilla to Offer Midnight Mass Sound Bath at St. John the Divine Cathedral",
-      "url": "https://www.artnews.com/art-news/news/guadalupe-maravilla-midnight-mass-sound-bath-creative-time-1234806824/",
+      "id": "3594d0d1239139cde87c",
+      "title": "Grand Theft Auto VI ’s Vice City Pays Homage to the Bass, Among More Art Easter Eggs",
+      "url": "https://www.artnews.com/art-news/news/grand-theft-auto-vice-city-bass-museum-art-oregano-basel-1234807185/",
       "source": "ARTnews",
-      "published": "2026-11-19T16:00:00+00:00",
+      "published": "2026-11-20T21:12:22+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -477,18 +417,6 @@
       "url": "https://www.artnews.com/art-news/news/david-nolan-anton-svyatsky-art-week-nyc-2026-1234806643/",
       "source": "ARTnews",
       "published": "2026-11-20T21:00:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "232ad94f43fd19b9f191",
-      "title": "Iconic and Independent: New York Studio School's MFA Program",
-      "url": "https://hyperallergic.com/iconic-and-independent-new-york-studio-schools-mfa-program/",
-      "source": "Hyperallergic",
-      "published": "2026-11-19T15:45:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -568,18 +496,6 @@
       "publication_approved": false
     },
     {
-      "id": "79f079126caf08d88857",
-      "title": "Laia Abril Photographs the Instruments of Rape Culture",
-      "url": "https://hyperallergic.com/laia-abril-photographs-the-instruments-of-rape-culture/",
-      "source": "Hyperallergic",
-      "published": "2026-11-19T20:44:40+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "9538828a0880efc0a5b5",
       "title": "Led by Record-Breaking $190.4 M. van Gogh, Sotheby’s Impressionist and Modern Art Sales Rake in $777.8 M.",
       "url": "https://www.artnews.com/art-news/market/sothebys-modern-art-sale-blaquier-arrieta-van-gogh-1234806802/",
@@ -604,18 +520,6 @@
       "publication_approved": false
     },
     {
-      "id": "13c8b07bde3dc390f6bd",
-      "title": "Native Artist Receives $10K Grant to Revive Visor Craftmaking",
-      "url": "https://hyperallergic.com/native-artist-receives-10k-grant-to-revive-visor-craftmaking/",
-      "source": "Hyperallergic",
-      "published": "2026-11-19T19:02:14+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "40e6849396cf3e2308b1",
       "title": "New Museum Inks Multiyear Partnership with Video Art–Focused Vega Foundation",
       "url": "https://www.artnews.com/art-news/news/new-museum-vega-foundation-partnership-1234806199/",
@@ -633,42 +537,6 @@
       "url": "https://www.artnews.com/art-news/news/mta-arts-and-design-art-week-nyc-2026-1234806681/",
       "source": "ARTnews",
       "published": "2026-11-18T19:52:30+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "d5280d94c1e9bbbe16bd",
-      "title": "Piaget’s Latest Release Is a Limited-Edition Andy Warhol Camouflage Watch",
-      "url": "https://www.artnews.com/art-news/news/piaget-warhol-foundation-collaboration-art-week-nyc-2026-1234806880/",
-      "source": "ARTnews",
-      "published": "2026-11-19T19:17:06+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "48c6dfbe469791a6d7d7",
-      "title": "Rare Hilma af Klint Painting Sells for Staggering $12.7M",
-      "url": "https://hyperallergic.com/rare-hilma-af-klint-painting-sells-for-staggering-12-7m/",
-      "source": "Hyperallergic",
-      "published": "2026-11-19T21:51:36+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "47c2db46b95a9a74c8f3",
-      "title": "Richard Powell Unsettles Race and Color Theory",
-      "url": "https://hyperallergic.com/richard-powell-unsettles-race-and-color-theory/",
-      "source": "Hyperallergic",
-      "published": "2026-11-19T17:13:40+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -741,18 +609,6 @@
       "url": "https://www.artnews.com/art-news/news/paul-pfeiffer-larry-allison-berg-sports-art-week-nyc-1234807147/",
       "source": "ARTnews",
       "published": "2026-11-20T19:57:47+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "b0eae59539ef4359167b",
-      "title": "The Ebullient Ecofeminism of Carolina Caycedo",
-      "url": "https://hyperallergic.com/the-ebullient-ecofeminism-of-carolina-caycedo/",
-      "source": "Hyperallergic",
-      "published": "2026-11-19T21:25:44+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -897,30 +753,6 @@
       "url": "https://www.artnews.com/art-news/news/yoshitomo-nara-fair-warning-15-million-auction-1234807111/",
       "source": "ARTnews",
       "published": "2026-11-20T18:54:35+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "673d0d3806501e65500c",
-      "title": "Yoshitomo Nara’s Beloved Wide-Eyed Figures Return to New York",
-      "url": "https://www.thisiscolossal.com/2026/11/yoshitomo-nara-new-york/",
-      "source": "Colossal",
-      "published": "2026-11-19T18:28:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "90194dfef07cad8ddd8c",
-      "title": "‘We’re Still Here’ Celebrates Remarkable Quilts by 15 Contemporary Black Artists",
-      "url": "https://www.thisiscolossal.com/2026/11/were-still-here-carolyn-mazloomi-quilts/",
-      "source": "Colossal",
-      "published": "2026-11-19T16:30:22+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1204,6 +1036,18 @@
       "publication_approved": false
     },
     {
+      "id": "d43d23c5b8b9a8b2b206",
+      "title": "A New Jean-Michel Basquiat Documentary Considers the Artist Behind the Work",
+      "url": "https://www.thisiscolossal.com/2026/11/jean-michel-basquiat-authorized-documentary-netflix/",
+      "source": "Colossal",
+      "published": "2026-11-19T20:30:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "b9b10de9b962263ef377",
       "title": "A Tiny Monet With a Wild Backstory Just Fetched More Than 20 Times its Estimate at a Christie’s Day Sale",
       "url": "https://www.artnews.com/art-news/market/tiny-monet-wild-backstory-7-million-christies-day-sale-1234806754/",
@@ -1281,6 +1125,18 @@
       "url": "https://hyperallergic.com/ah-the-many-smells-of-frieze-london/",
       "source": "Hyperallergic",
       "published": "2026-10-15T19:08:04+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "ea820d01c1950c7c4f0a",
+      "title": "Ahmed Morsi, Whose Poetic Paintings Long for His Egyptian Homeland, Dies at 96",
+      "url": "https://www.artnews.com/art-news/news/ahmed-morsi-painter-poet-dead-1234806958/",
+      "source": "ARTnews",
+      "published": "2026-11-19T21:59:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1444,11 +1300,35 @@
       "publication_approved": false
     },
     {
+      "id": "2a1dc27ee35a260f8545",
+      "title": "Art Dealer Sentenced for Falsely Claiming Native Heritage",
+      "url": "https://hyperallergic.com/art-dealer-sentenced-for-falsely-claiming-native-heritage/",
+      "source": "Hyperallergic",
+      "published": "2026-11-19T19:23:10+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "f5c2187e152c49b45135",
       "title": "Art Week NYC Announces 32 Participating Institutions, New Museum Programming for Inaugural Fall Event",
       "url": "https://www.artnews.com/art-news/news/art-week-nyc-2026-participating-institutions-1234802608/",
       "source": "ARTnews",
       "published": "2026-10-16T15:05:20+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "ceb24356abe0cc829ab3",
+      "title": "Art World Advice Columnists Chen & Lampert Answered Questions as Old as Time",
+      "url": "https://www.artnews.com/art-news/news/advice-columnists-chen-lampert-answered-questions-art-week-nyc-2026-1234806741/",
+      "source": "ARTnews",
+      "published": "2026-11-19T15:31:21+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1533,6 +1413,18 @@
       "url": "https://hyperallergic.com/beer-with-a-painter-ouattara-watts/",
       "source": "Hyperallergic",
       "published": "2026-11-17T19:21:51+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "320099979e190d6999bd",
+      "title": "Benin Puts Pressure on Musée du Quai Branly in Paris to Return 35 Looted Objects",
+      "url": "https://www.artnews.com/art-news/news/benin-musee-du-quai-branly-paris-looted-objects-1234806938/",
+      "source": "ARTnews",
+      "published": "2026-11-19T21:49:13+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1972,6 +1864,18 @@
       "publication_approved": false
     },
     {
+      "id": "0233f621df5e429fbc05",
+      "title": "Guadalupe Maravilla to Offer Midnight Mass Sound Bath at St. John the Divine Cathedral",
+      "url": "https://www.artnews.com/art-news/news/guadalupe-maravilla-midnight-mass-sound-bath-creative-time-1234806824/",
+      "source": "ARTnews",
+      "published": "2026-11-19T16:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "c0e716c523491c05e528",
       "title": "Hand-Marbled Papers Ground Sylvain Lefebvre’s Surreal Landscapes",
       "url": "https://www.thisiscolossal.com/2026/11/sylvain-lefebvre-oil-paintings-marbled-paper/",
@@ -2056,6 +1960,18 @@
       "publication_approved": false
     },
     {
+      "id": "232ad94f43fd19b9f191",
+      "title": "Iconic and Independent: New York Studio School's MFA Program",
+      "url": "https://hyperallergic.com/iconic-and-independent-new-york-studio-schools-mfa-program/",
+      "source": "Hyperallergic",
+      "published": "2026-11-19T15:45:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "4aa51c335dda4749ff32",
       "title": "In Reply to Senators’ Amicus Briefs, Austria, Albertina, and Leopold Museum Double Down on Unconstitutionality of HEAR Act",
       "url": "https://www.artnews.com/art-news/news/austria-albertina-leopold-senator-amicus-brief-response-1234804373/",
@@ -2097,6 +2013,18 @@
       "url": "https://www.artnews.com/art-news/news/julia-stoschek-collection-selfish-in-bed-20th-anniversary-1234805311/",
       "source": "ARTnews",
       "published": "2026-11-10T14:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "79f079126caf08d88857",
+      "title": "Laia Abril Photographs the Instruments of Rape Culture",
+      "url": "https://hyperallergic.com/laia-abril-photographs-the-instruments-of-rape-culture/",
+      "source": "Hyperallergic",
+      "published": "2026-11-19T20:44:40+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2320,6 +2248,18 @@
       "publication_approved": false
     },
     {
+      "id": "13c8b07bde3dc390f6bd",
+      "title": "Native Artist Receives $10K Grant to Revive Visor Craftmaking",
+      "url": "https://hyperallergic.com/native-artist-receives-10k-grant-to-revive-visor-craftmaking/",
+      "source": "Hyperallergic",
+      "published": "2026-11-19T19:02:14+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "99031b37d04e82bdf629",
       "title": "Navigate the Open Sea with Juliet Schreckinger’s Cooperative Creatures",
       "url": "https://www.thisiscolossal.com/2026/11/juliet-schreckinger-limitless-sea-ink-graphite-drawings/",
@@ -2440,6 +2380,18 @@
       "publication_approved": false
     },
     {
+      "id": "d5280d94c1e9bbbe16bd",
+      "title": "Piaget’s Latest Release Is a Limited-Edition Andy Warhol Camouflage Watch",
+      "url": "https://www.artnews.com/art-news/news/piaget-warhol-foundation-collaboration-art-week-nyc-2026-1234806880/",
+      "source": "ARTnews",
+      "published": "2026-11-19T19:17:06+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "342998e1efdf01f3fa85",
       "title": "Practice Mindfulness with Roeselien Raimond’s Portraits of Relaxed Winter Foxes",
       "url": "https://www.thisiscolossal.com/2026/11/roeselien-raimond-zen-and-the-art-of-winter-foxes-photography/",
@@ -2512,6 +2464,18 @@
       "publication_approved": false
     },
     {
+      "id": "48c6dfbe469791a6d7d7",
+      "title": "Rare Hilma af Klint Painting Sells for Staggering $12.7M",
+      "url": "https://hyperallergic.com/rare-hilma-af-klint-painting-sells-for-staggering-12-7m/",
+      "source": "Hyperallergic",
+      "published": "2026-11-19T21:51:36+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "3c99e7207f0609f88221",
       "title": "Rashid Johnson, Christopher Wool, and Dawoud Bey Enter MCA Chicago Through 65-Work Gift",
       "url": "https://www.artnews.com/art-news/news/mca-chicago-guthman-gift-rashid-johnson-christopher-wool-1234806296/",
@@ -2553,6 +2517,18 @@
       "url": "https://hyperallergic.com/restitution-claim-on-180m-van-gogh-shakes-up-sothebys-marquee-week/",
       "source": "Hyperallergic",
       "published": "2026-11-16T20:07:12+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "47c2db46b95a9a74c8f3",
+      "title": "Richard Powell Unsettles Race and Color Theory",
+      "url": "https://hyperallergic.com/richard-powell-unsettles-race-and-color-theory/",
+      "source": "Hyperallergic",
+      "published": "2026-11-19T17:13:40+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2733,6 +2709,18 @@
       "url": "https://www.thisiscolossal.com/2026/11/colossal-gift-guide-2026/",
       "source": "Colossal",
       "published": "2026-11-17T21:05:30+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "b0eae59539ef4359167b",
+      "title": "The Ebullient Ecofeminism of Carolina Caycedo",
+      "url": "https://hyperallergic.com/the-ebullient-ecofeminism-of-carolina-caycedo/",
+      "source": "Hyperallergic",
+      "published": "2026-11-19T21:25:44+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2968,11 +2956,35 @@
       "publication_approved": false
     },
     {
+      "id": "673d0d3806501e65500c",
+      "title": "Yoshitomo Nara’s Beloved Wide-Eyed Figures Return to New York",
+      "url": "https://www.thisiscolossal.com/2026/11/yoshitomo-nara-new-york/",
+      "source": "Colossal",
+      "published": "2026-11-19T18:28:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "0b86bd6baec4888abc35",
       "title": "Zohran Mamdani Spends a Birthday to Remember at the Studio Museum in Harlem",
       "url": "https://www.artnews.com/art-news/news/zohran-mamdani-studio-museum-in-harlem-taylor-simmons-1234802962/",
       "source": "ARTnews",
       "published": "2026-10-19T17:52:47+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "90194dfef07cad8ddd8c",
+      "title": "‘We’re Still Here’ Celebrates Remarkable Quilts by 15 Contemporary Black Artists",
+      "url": "https://www.thisiscolossal.com/2026/11/were-still-here-carolyn-mazloomi-quilts/",
+      "source": "Colossal",
+      "published": "2026-11-19T16:30:22+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",

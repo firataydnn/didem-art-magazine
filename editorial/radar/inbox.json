@@ -2,6 +2,19 @@
   "schema": 1,
   "items": [
     {
+      "id": "f350afb38d80611aa5b8",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "Carolina Herrera’s Wes Gordon and Oribe’s Daniel Kaner on Collecting as a Personal Passion and a Creative Practice",
+      "url": "https://www.artnews.com/art-news/news/wes-gordon-daniel-kaner-carolina-herrera-oribe-art-week-nyc-2026-1234806633/",
+      "published": "2026-11-22T14:00:00+00:00",
+      "summary": "Gordon and Kaner reveal how they've build their own collections, and what inspires their work in the fashion and beauty world.",
+      "discovered": "2026-11-22T22:31:53.783169+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "d02f6976aef5cf51d00e",
       "source": "ARTnews",
       "category": "sanat-basini",
