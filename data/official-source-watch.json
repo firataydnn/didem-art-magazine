@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-23T02:53:37.695071+00:00",
+  "generated_at": "2026-11-23T14:50:19.477496+00:00",
   "notice": "Primary source page monitoring only. Page changes are not verified publication events. Restricted press rooms must not be bypassed.",
   "sources": [
     {
@@ -12,17 +12,17 @@
       "candidates": [
         {
           "title": "Read Full Press Release",
+          "url": "https://www.artbasel.com/stories/art-basel-unveils-gallery-line-up-for-its-2027-hong-kong-edition",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Read Full Press Release",
           "url": "https://www.artbasel.com/stories/art-basel-qatar-unveils-reimagined-public-program-for-its-second-edition",
           "status": "institutional_page_link_unverified_date"
         },
         {
           "title": "Read Full Press Release",
           "url": "https://www.artbasel.com/stories/art-basel-announces-further-highlights-of-its-2026-miami-beach-edition-1",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Read Full Press Release",
-          "url": "https://www.artbasel.com/stories/art-basel-unveils-exhibitors-for-its-2027-qatar-edition",
           "status": "institutional_page_link_unverified_date"
         }
       ],
@@ -140,18 +140,18 @@
           "status": "institutional_page_link_unverified_date"
         },
         {
+          "title": "Insitutionel | Exposition Inauguration de Kanal-Centre Pompidou à Bruxelles Communiqué de presse",
+          "url": "https://www.centrepompidou.fr/fr/offre-aux-professionnels/espace-presse/ianuguration-de-kanal-centre-pompidou-a-bruxelles",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
+          "title": "Exposition inaugurale A truly immense journey 28 novembre 2026 - 10 janvier 2028 KANAL-Centre Pompidou, Bruxelles (Belgique) Communiqué de presse",
+          "url": "https://www.centrepompidou.fr/fr/offre-aux-professionnels/espace-presse/a-truly-immense-journey",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
           "title": "Anniversaire 1977 ►2027 50 ans du Centre Pompidou Dossier de presse",
           "url": "https://www.centrepompidou.fr/fr/offre-aux-professionnels/espace-presse/1977-2027-50-ans-du-centre-pompidou",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Institutionnel Le Centre Pompidou, le MoMA et M+ annoncent une alliance culturelle inédite 30 octobre 2026 Hong Kong Communiqué de presse",
-          "url": "https://www.centrepompidou.fr/fr/offre-aux-professionnels/espace-presse/cultural-alliance",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Institutionnel Inscription au titre des monuments historiques 28 octobre 2026 Communiqué de presse",
-          "url": "https://www.centrepompidou.fr/fr/offre-aux-professionnels/espace-presse/inscription-du-centre-pompikdou-au-titre-des-monuments-historiques",
           "status": "institutional_page_link_unverified_date"
         }
       ],
@@ -173,6 +173,11 @@
       "access": "public",
       "status": "reachable",
       "candidates": [
+        {
+          "title": "documenta documenta archiv Klaus Honnef (1939–2026)",
+          "url": "https://documenta.de/en/news/klaus-honnef-1939-2026",
+          "status": "institutional_page_link_unverified_date"
+        },
         {
           "title": "documenta Documenta 16: Invitation in Twelve Cities with Ströer Press",
           "url": "https://documenta.de/en/news/documenta-sixteen-einladung-in-zwoelf-staedten-mit-stroeer",
@@ -216,11 +221,6 @@
         {
           "title": "documenta documenta archiv Rune Mields (1935–2026)",
           "url": "https://documenta.de/en/news/rune-mields-1935-2026",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "documenta From Fashion Department Store to an Office Complex",
-          "url": "https://documenta.de/en/news/modekaufhaus-zum-buerokomplex",
           "status": "institutional_page_link_unverified_date"
         }
       ],
@@ -333,11 +333,6 @@
       "status": "reachable",
       "candidates": [
         {
-          "title": "Read more Art 18 November 2026 Opening hours of the Austrian Pavilion Due to weather conditions, the Pavilion will be open 10 am to 3 pm from Wednesday 18 to Sa",
-          "url": "https://www.labiennale.org/en/news/opening-hours-austrian-pavilion",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
           "title": "Exhibitions and activities",
           "url": "https://www.labiennale.org/en/asac/exhibitions-and-activities",
           "status": "institutional_page_link_unverified_date"
@@ -373,6 +368,11 @@
           "status": "institutional_page_link_unverified_date"
         },
         {
+          "title": "The Art of Gifting from Tate Shops",
+          "url": "https://www.tate.org.uk/press/press-releases/the-art-of-gifting-from-tate-shops",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
           "title": "Tate Publishing Releases Not Over Yet: A new zine captures the photographs, flyers and collective energy of Britain’s rave and club culture in the 1990s",
           "url": "https://www.tate.org.uk/press/press-releases/tate-publishing-releases-not-over-yet",
           "status": "institutional_page_link_unverified_date"
@@ -400,11 +400,6 @@
         {
           "title": "Tate Publishing Announces Vanessa Bell and Duncan Grant: Inside Bloomsbury",
           "url": "https://www.tate.org.uk/press/press-releases/tate-publishing-announces-vanessa-bell-and-duncan-grant-inside-bloomsbury",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Tate welcomes new fundraising print portfolio from Counter Editions celebrating women artists",
-          "url": "https://www.tate.org.uk/press/press-releases/tate-welcomes-new-fundraising-print-portfolio-from-counter-editions-celebrating-women-artists",
           "status": "institutional_page_link_unverified_date"
         }
       ],
