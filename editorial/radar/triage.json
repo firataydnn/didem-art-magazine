@@ -1,26 +1,14 @@
 {
   "schema": 1,
-  "count": 718,
+  "count": 723,
   "possible_duplicates": 0,
   "items": [
     {
-      "id": "cb8d4d1000b50f01604d",
-      "title": "Controversial Venice Biennale Closes, Athens Police Seize 35 Forgeries, and More: Morning Links for November 23, 2026",
-      "url": "https://www.artnews.com/art-news/news/controversial-venice-biennale-closes-morning-links-1234807296/",
+      "id": "74d16629283a473048f7",
+      "title": "A New Museum in Georgia’s Wine Country Shows Another Side of the Country’s Art History",
+      "url": "https://www.artnews.com/art-news/news/kvareli-foundation-for-contemporary-art-georgia-opening-1234807297/",
       "source": "ARTnews",
-      "published": "2026-11-23T14:23:00+00:00",
-      "priority_score": 10,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "9753ba92f47e897243fe",
-      "title": "Art Basel Hong Kong Lines Up 232 Exhibitors and a New Floor Plan for Its 2027 Edition",
-      "url": "https://www.artnews.com/art-news/market/art-basel-hong-kong-2027-exhibitor-list-1234807256/",
-      "source": "ARTnews",
-      "published": "2026-11-23T08:00:00+00:00",
+      "published": "2026-11-24T12:26:01+00:00",
       "priority_score": 9,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -52,12 +40,36 @@
       "publication_approved": false
     },
     {
+      "id": "2029de48ff75a75c91a5",
+      "title": "Frieze Los Angeles Lines Up 102 Exhibitors for 2027 Edition",
+      "url": "https://www.artnews.com/art-news/market/frieze-los-angeles-2027-exhibitor-list-1234807432/",
+      "source": "ARTnews",
+      "published": "2026-11-24T14:00:00+00:00",
+      "priority_score": 9,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "47cfdc84248b8bffc072",
       "title": "Laura Hoptman Wins CCS Bard’s 2027 Audrey Irmas Award for Curatorial Excellence",
       "url": "https://www.artnews.com/art-news/news/laura-hoptman-winner-2027-audrey-irmas-award-ccs-bard-1234806705/",
       "source": "ARTnews",
       "published": "2026-11-19T14:19:17+00:00",
       "priority_score": 9,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "cb8d4d1000b50f01604d",
+      "title": "Controversial Venice Biennale Closes, Athens Police Seize 35 Forgeries, and More: Morning Links for November 23, 2026",
+      "url": "https://www.artnews.com/art-news/news/controversial-venice-biennale-closes-morning-links-1234807296/",
+      "source": "ARTnews",
+      "published": "2026-11-23T14:23:00+00:00",
+      "priority_score": 8,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -88,11 +100,23 @@
       "publication_approved": false
     },
     {
-      "id": "23a8ab90c48de8b62ec6",
-      "title": "Dance into the Week with an Entirely Hand-Drawn Animation for the Osees",
-      "url": "https://www.thisiscolossal.com/2026/11/catherine-lepage-dancing-on-osees/",
-      "source": "Colossal",
-      "published": "2026-11-23T15:27:51+00:00",
+      "id": "1e5fd6d5093e857e6b52",
+      "title": "A Minimalist, a Maximalist, and 30 Years of Friendship",
+      "url": "https://www.artnews.com/art-in-america/interviews/sarah-lucas-cerith-wyn-evans-gladstone-1234807421/",
+      "source": "ARTnews",
+      "published": "2026-11-24T15:33:48+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "9753ba92f47e897243fe",
+      "title": "Art Basel Hong Kong Lines Up 232 Exhibitors and a New Floor Plan for Its 2027 Edition",
+      "url": "https://www.artnews.com/art-news/market/art-basel-hong-kong-2027-exhibitor-list-1234807256/",
+      "source": "ARTnews",
+      "published": "2026-11-23T08:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -124,59 +148,11 @@
       "publication_approved": false
     },
     {
-      "id": "cff1e080867778fc5038",
-      "title": "Hauser & Wirth Now Represents Ser Serpas, Fast-Rising Artist Who Combs the Detritus of Everyday Life",
-      "url": "https://www.artnews.com/art-news/market/ser-serpas-hauser-and-wirth-gallery-representation-1234807276/",
-      "source": "ARTnews",
-      "published": "2026-11-23T14:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "02a4f9cd3904c47bc059",
-      "title": "Inside Edward Said’s World",
-      "url": "https://hyperallergic.com/inside-edward-saids-world/",
-      "source": "Hyperallergic",
-      "published": "2026-11-23T11:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "8363c26e2b91086fbb7d",
-      "title": "Lucy Sante Talks About What Collage Enables That Writing Can’t",
-      "url": "https://www.artnews.com/art-in-america/columns/lucy-sante-interview-collage-1234806243/",
-      "source": "ARTnews",
-      "published": "2026-11-23T10:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "9a101b2663eafa76fd37",
       "title": "Lynette Yiadom-Boakye and Anne Imhof Make Vogue’s 2026 Best-Dressed List",
       "url": "https://www.artnews.com/art-news/news/lynette-yiadom-boakye-anne-imhof-vogue-best-dressed-list-1234807360/",
       "source": "ARTnews",
       "published": "2026-11-23T20:08:13+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "a47c622110fef6b213b1",
-      "title": "Miami Through the GTA VI Looking-Glass",
-      "url": "https://hyperallergic.com/miami-through-the-gta-vi-looking-glass/",
-      "source": "Hyperallergic",
-      "published": "2026-11-23T11:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -208,11 +184,35 @@
       "publication_approved": false
     },
     {
+      "id": "f80bc96b41070e88f051",
+      "title": "South African Artist Tamlin Blake Found Dead, Germany to Restitute Archive of Nazi-Persecuted Jehovah’s Witnesses to Family, and More: Morning Links for November 24, 2026",
+      "url": "https://www.artnews.com/art-news/news/south-african-artist-and-curator-tamlin-blake-found-dead-1234807445/",
+      "source": "ARTnews",
+      "published": "2026-11-24T14:30:33+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "3e77e58beffb1490fbbf",
       "title": "Su Blackwell Enchants with Folkloric Stories That Spring from Vintage Books",
       "url": "https://www.thisiscolossal.com/2026/11/su-blackwell-vintage-books/",
       "source": "Colossal",
       "published": "2026-11-23T20:33:23+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "9fb7dafc6a20122b6fd9",
+      "title": "The Inaugural Australian Street Photography Awards Highlight the Vagaries of Daily Life",
+      "url": "https://www.thisiscolossal.com/2026/11/australian-street-photography-awards-2026/",
+      "source": "Colossal",
+      "published": "2026-11-24T14:53:38+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -448,18 +448,6 @@
       "publication_approved": false
     },
     {
-      "id": "d02f6976aef5cf51d00e",
-      "title": "Art Advisor Sophia Cohen on How the Next Generation of Collectors Is Approaching the Art Market",
-      "url": "https://www.artnews.com/art-news/news/sophia-cohen-siren-projects-art-week-nyc-1234807155/",
-      "source": "ARTnews",
-      "published": "2026-11-21T14:00:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "499d4d6cd437bbdcec5c",
       "title": "Art Basel Paris Opens Avant Première with ‘Good Energy,’ a Smattering of Sales, and One $100 M. Work",
       "url": "https://www.artnews.com/art-news/market/art-basel-paris-avant-premiere-2026-sales-1234803150/",
@@ -496,6 +484,18 @@
       "publication_approved": false
     },
     {
+      "id": "23a8ab90c48de8b62ec6",
+      "title": "Dance into the Week with an Entirely Hand-Drawn Animation for the Osees",
+      "url": "https://www.thisiscolossal.com/2026/11/catherine-lepage-dancing-on-osees/",
+      "source": "Colossal",
+      "published": "2026-11-23T15:27:51+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "f36c2a26ddc4630099d4",
       "title": "Frieze Abu Dhabi Debuts to Brisk Sales and Confident Dealers",
       "url": "https://www.artnews.com/art-news/market/frieze-abu-dhabi-rebrands-high-quality-art-large-sums-1234806923/",
@@ -508,11 +508,11 @@
       "publication_approved": false
     },
     {
-      "id": "3f49500e9e674f07d537",
-      "title": "Hail to the Squash King",
-      "url": "https://hyperallergic.com/hail-to-the-squash-king/",
-      "source": "Hyperallergic",
-      "published": "2026-11-21T11:00:00+00:00",
+      "id": "cff1e080867778fc5038",
+      "title": "Hauser & Wirth Now Represents Ser Serpas, Fast-Rising Artist Who Combs the Detritus of Everyday Life",
+      "url": "https://www.artnews.com/art-news/market/ser-serpas-hauser-and-wirth-gallery-representation-1234807276/",
+      "source": "ARTnews",
+      "published": "2026-11-23T14:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -532,11 +532,11 @@
       "publication_approved": false
     },
     {
-      "id": "cbae7fb9539c7223e32b",
-      "title": "Ireland’s Experiment in Paying Artists a Basic Income Is Working as Intended For Artists",
-      "url": "https://www.artnews.com/art-news/news/is-ireland-experiment-in-paying-artists-basic-income-working-1234806168/",
-      "source": "ARTnews",
-      "published": "2026-11-21T13:19:00+00:00",
+      "id": "02a4f9cd3904c47bc059",
+      "title": "Inside Edward Said’s World",
+      "url": "https://hyperallergic.com/inside-edward-saids-world/",
+      "source": "Hyperallergic",
+      "published": "2026-11-23T11:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -556,11 +556,23 @@
       "publication_approved": false
     },
     {
-      "id": "a890934621f729ca76bb",
-      "title": "Maren Hassinger Won’t Be Weighed Down",
-      "url": "https://www.artnews.com/art-in-america/aia-reviews/maren-hassinger-bampfa-retrospective-berkeley-1234806748/",
+      "id": "8363c26e2b91086fbb7d",
+      "title": "Lucy Sante Talks About What Collage Enables That Writing Can’t",
+      "url": "https://www.artnews.com/art-in-america/columns/lucy-sante-interview-collage-1234806243/",
       "source": "ARTnews",
-      "published": "2026-11-21T10:00:00+00:00",
+      "published": "2026-11-23T10:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "a47c622110fef6b213b1",
+      "title": "Miami Through the GTA VI Looking-Glass",
+      "url": "https://hyperallergic.com/miami-through-the-gta-vi-looking-glass/",
+      "source": "Hyperallergic",
+      "published": "2026-11-23T11:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1096,6 +1108,18 @@
       "publication_approved": false
     },
     {
+      "id": "d02f6976aef5cf51d00e",
+      "title": "Art Advisor Sophia Cohen on How the Next Generation of Collectors Is Approaching the Art Market",
+      "url": "https://www.artnews.com/art-news/news/sophia-cohen-siren-projects-art-week-nyc-1234807155/",
+      "source": "ARTnews",
+      "published": "2026-11-21T14:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "09bc36179b37fb60ef3e",
       "title": "Art Basel Paris Undergoes Lockdown Ahead of Opening",
       "url": "https://hyperallergic.com/art-basel-paris-undergoes-lockdown-ahead-of-opening/",
@@ -1216,35 +1240,11 @@
       "publication_approved": false
     },
     {
-      "id": "656053edf9175c1d62fd",
-      "title": "Artsy and Artnet Acquire First Thursday as Art-Tech Expansion Picks Up Speed",
-      "url": "https://www.artnews.com/art-news/news/artsy-artnet-acquire-first-thursday-gallery-software-1234806185/",
-      "source": "ARTnews",
-      "published": "2026-11-17T13:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "f37251054cdb260b4edd",
       "title": "As Art Basel Paris Shutters for Weekend Protests, Satellite Fairs Keep Their Doors Open",
       "url": "https://www.artnews.com/art-news/news/art-basel-paris-closing-early-satellite-fairs-ope-1234803619/",
       "source": "ARTnews",
       "published": "2026-10-22T23:43:30+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "7dec19f6c31812971636",
-      "title": "At Sotheby’s $378.7 M. Doubleheader, Buyers Take Risks Again, Even as Bidding Drags",
-      "url": "https://www.artnews.com/art-news/market/sothebys-november-2026-baum-collection-contemporary-auction-1234806277/",
-      "source": "ARTnews",
-      "published": "2026-11-17T05:44:41+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1576,18 +1576,6 @@
       "publication_approved": false
     },
     {
-      "id": "9ae6afd60e786ee13c51",
-      "title": "For Abi Palmer, Chronic Illness Is Like Being an Indoor Cat",
-      "url": "https://www.artnews.com/art-in-america/columns/abi-palmer-chronic-illness-cat-goldsmiths-slugs-1234806312/",
-      "source": "ARTnews",
-      "published": "2026-11-17T14:37:37+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "cc4287da7456f3a3b73f",
       "title": "Former High Museum COO Sentenced to One Year in Prison for Siphoning $600,000 to Buy Guitars",
       "url": "https://www.artnews.com/art-news/news/former-high-museum-coo-sentenced-1234804610/",
@@ -1744,6 +1732,18 @@
       "publication_approved": false
     },
     {
+      "id": "3f49500e9e674f07d537",
+      "title": "Hail to the Squash King",
+      "url": "https://hyperallergic.com/hail-to-the-squash-king/",
+      "source": "Hyperallergic",
+      "published": "2026-11-21T11:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "c0e716c523491c05e528",
       "title": "Hand-Marbled Papers Ground Sylvain Lefebvre’s Surreal Landscapes",
       "url": "https://www.thisiscolossal.com/2026/11/sylvain-lefebvre-oil-paintings-marbled-paper/",
@@ -1888,6 +1888,18 @@
       "publication_approved": false
     },
     {
+      "id": "cbae7fb9539c7223e32b",
+      "title": "Ireland’s Experiment in Paying Artists a Basic Income Is Working as Intended For Artists",
+      "url": "https://www.artnews.com/art-news/news/is-ireland-experiment-in-paying-artists-basic-income-working-1234806168/",
+      "source": "ARTnews",
+      "published": "2026-11-21T13:19:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "9cec95730708d85a04f1",
       "title": "Is GTA VI the Art Miami Deserves?",
       "url": "https://hyperallergic.com/is-gta-vi-the-art-miami-deserves/",
@@ -1960,18 +1972,6 @@
       "publication_approved": false
     },
     {
-      "id": "ac53f3615624c6f8a413",
-      "title": "Latinx Art’s New Visionaries",
-      "url": "https://hyperallergic.com/latinx-arts-new-visionaries/",
-      "source": "Hyperallergic",
-      "published": "2026-11-17T11:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "fa5a08ed9f235cd45e2c",
       "title": "Leah Ke Yi Zheng Joins Antenna Space, Pérez Art Museum Miami to Honor Nicolas Berggruen, and More: Industry Moves for October 28, 2026",
       "url": "https://www.artnews.com/art-news/market/leah-ke-yi-zheng-nicolas-berggruen-industry-moves-1234804150/",
@@ -2037,6 +2037,18 @@
       "url": "https://hyperallergic.com/mfa-ma-and-phd-programs-to-apply-for-by-early-2027/",
       "source": "Hyperallergic",
       "published": "2026-11-17T19:29:45+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "a890934621f729ca76bb",
+      "title": "Maren Hassinger Won’t Be Weighed Down",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/maren-hassinger-bampfa-retrospective-berkeley-1234806748/",
+      "source": "ARTnews",
+      "published": "2026-11-21T10:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2157,18 +2169,6 @@
       "url": "https://hyperallergic.com/native-artist-receives-10k-grant-to-revive-visor-craftmaking/",
       "source": "Hyperallergic",
       "published": "2026-11-19T19:02:14+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "99031b37d04e82bdf629",
-      "title": "Navigate the Open Sea with Juliet Schreckinger’s Cooperative Creatures",
-      "url": "https://www.thisiscolossal.com/2026/11/juliet-schreckinger-limitless-sea-ink-graphite-drawings/",
-      "source": "Colossal",
-      "published": "2026-11-17T15:32:42+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2361,18 +2361,6 @@
       "url": "https://hyperallergic.com/rare-hilma-af-klint-painting-sells-for-staggering-12-7m/",
       "source": "Hyperallergic",
       "published": "2026-11-19T21:51:36+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "3c99e7207f0609f88221",
-      "title": "Rashid Johnson, Christopher Wool, and Dawoud Bey Enter MCA Chicago Through 65-Work Gift",
-      "url": "https://www.artnews.com/art-news/news/mca-chicago-guthman-gift-rashid-johnson-christopher-wool-1234806296/",
-      "source": "ARTnews",
-      "published": "2026-11-17T13:59:12+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -3856,6 +3844,18 @@
       "publication_approved": false
     },
     {
+      "id": "656053edf9175c1d62fd",
+      "title": "Artsy and Artnet Acquire First Thursday as Art-Tech Expansion Picks Up Speed",
+      "url": "https://www.artnews.com/art-news/news/artsy-artnet-acquire-first-thursday-gallery-software-1234806185/",
+      "source": "ARTnews",
+      "published": "2026-11-17T13:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "d0e05a346e27ca15d8a0",
       "title": "As Politicians Break Promises, This Public Artwork Keeps Them",
       "url": "https://hyperallergic.com/as-politicians-break-promises-this-public-artwork-keeps-them/",
@@ -3933,6 +3933,18 @@
       "url": "https://hyperallergic.com/at-nycs-adaa-art-fair-unlimited-shrimp-and-2k-diebenkorns/",
       "source": "Hyperallergic",
       "published": "2026-11-13T21:20:39+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "7dec19f6c31812971636",
+      "title": "At Sotheby’s $378.7 M. Doubleheader, Buyers Take Risks Again, Even as Bidding Drags",
+      "url": "https://www.artnews.com/art-news/market/sothebys-november-2026-baum-collection-contemporary-auction-1234806277/",
+      "source": "ARTnews",
+      "published": "2026-11-17T05:44:41+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -4761,6 +4773,18 @@
       "url": "https://www.artnews.com/art-news/news/fondation-louis-vuitton-gustave-fayet-exhibition-1234803022/",
       "source": "ARTnews",
       "published": "2026-10-20T06:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "9ae6afd60e786ee13c51",
+      "title": "For Abi Palmer, Chronic Illness Is Like Being an Indoor Cat",
+      "url": "https://www.artnews.com/art-in-america/columns/abi-palmer-chronic-illness-cat-goldsmiths-slugs-1234806312/",
+      "source": "ARTnews",
+      "published": "2026-11-17T14:37:37+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -5716,6 +5740,18 @@
       "publication_approved": false
     },
     {
+      "id": "ac53f3615624c6f8a413",
+      "title": "Latinx Art’s New Visionaries",
+      "url": "https://hyperallergic.com/latinx-arts-new-visionaries/",
+      "source": "Hyperallergic",
+      "published": "2026-11-17T11:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "bd7d3a2ceeb5e1876af4",
       "title": "Layli Long Soldier’s Poetic Lifeblood",
       "url": "https://hyperallergic.com/layli-long-soldiers-poetic-lifeblood/",
@@ -6316,6 +6352,18 @@
       "publication_approved": false
     },
     {
+      "id": "99031b37d04e82bdf629",
+      "title": "Navigate the Open Sea with Juliet Schreckinger’s Cooperative Creatures",
+      "url": "https://www.thisiscolossal.com/2026/11/juliet-schreckinger-limitless-sea-ink-graphite-drawings/",
+      "source": "Colossal",
+      "published": "2026-11-17T15:32:42+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "fbc997050eb6c1df757a",
       "title": "Nearly Everyone Is Concerned About How Museums Use AI in Exhibitions, Survey Says",
       "url": "https://www.artnews.com/art-news/news/museums-ai-use-exhibitions-survey-1234804639/",
@@ -6849,6 +6897,18 @@
       "url": "https://www.artnews.com/art-news/news/jan-van-huysums-paintings-christies-sale-1234805129/",
       "source": "ARTnews",
       "published": "2026-11-09T17:34:19+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "3c99e7207f0609f88221",
+      "title": "Rashid Johnson, Christopher Wool, and Dawoud Bey Enter MCA Chicago Through 65-Work Gift",
+      "url": "https://www.artnews.com/art-news/news/mca-chicago-guthman-gift-rashid-johnson-christopher-wool-1234806296/",
+      "source": "ARTnews",
+      "published": "2026-11-17T13:59:12+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
