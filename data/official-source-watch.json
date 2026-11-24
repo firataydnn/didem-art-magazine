@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-24T02:56:44.675062+00:00",
+  "generated_at": "2026-11-24T14:57:30.649537+00:00",
   "notice": "Primary source page monitoring only. Page changes are not verified publication events. Restricted press rooms must not be bypassed.",
   "sources": [
     {
@@ -368,6 +368,11 @@
           "status": "institutional_page_link_unverified_date"
         },
         {
+          "title": "Sonia Boyce: 26 March - 22 August 2027",
+          "url": "https://www.tate.org.uk/press/press-releases/sonia-boyce",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
           "title": "The Art of Gifting from Tate Shops",
           "url": "https://www.tate.org.uk/press/press-releases/the-art-of-gifting-from-tate-shops",
           "status": "institutional_page_link_unverified_date"
@@ -395,11 +400,6 @@
         {
           "title": "Gainsborough 300: Celebrating 300 years of Thomas Gainsborough through major exhibitions and landmark events across the UK in 2027",
           "url": "https://www.tate.org.uk/press/press-releases/gainsborough-300",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Tate Publishing Announces Vanessa Bell and Duncan Grant: Inside Bloomsbury",
-          "url": "https://www.tate.org.uk/press/press-releases/tate-publishing-announces-vanessa-bell-and-duncan-grant-inside-bloomsbury",
           "status": "institutional_page_link_unverified_date"
         }
       ],
