@@ -1,8 +1,20 @@
 {
   "schema": 1,
-  "count": 723,
+  "count": 731,
   "possible_duplicates": 0,
   "items": [
+    {
+      "id": "1805da8facea38c28d72",
+      "title": "Bukhara Biennial Unveils ‘The Long Welcome’ Theme and Names First Artists",
+      "url": "https://www.artnews.com/art-news/news/bukhara-biennial-theme-first-artists-1234807593/",
+      "source": "ARTnews",
+      "published": "2026-11-24T21:15:46+00:00",
+      "priority_score": 10,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
     {
       "id": "74d16629283a473048f7",
       "title": "A New Museum in Georgia’s Wine Country Shows Another Side of the Country’s Art History",
@@ -28,18 +40,6 @@
       "publication_approved": false
     },
     {
-      "id": "9a45d1d6a77b1d16bc7c",
-      "title": "Faurschou Ends Its Public Exhibition Program as Its New York Space Heads for Demolition",
-      "url": "https://www.artnews.com/art-news/news/faurschou-foundation-ends-shows-sells-new-york-building-1234807321/",
-      "source": "ARTnews",
-      "published": "2026-11-23T20:10:42+00:00",
-      "priority_score": 9,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "2029de48ff75a75c91a5",
       "title": "Frieze Los Angeles Lines Up 102 Exhibitors for 2027 Edition",
       "url": "https://www.artnews.com/art-news/market/frieze-los-angeles-2027-exhibitor-list-1234807432/",
@@ -52,11 +52,47 @@
       "publication_approved": false
     },
     {
+      "id": "bf52e25db716ddf5b681",
+      "title": "Kate Jenkins Whips Up Delicious ‘Knitalian’ Dishes in an Immersive Exhibition",
+      "url": "https://www.thisiscolossal.com/2026/11/kate-jenkins-knitalian-knitted-foods-sculpture-installation/",
+      "source": "Colossal",
+      "published": "2026-11-24T20:30:00+00:00",
+      "priority_score": 9,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "47cfdc84248b8bffc072",
       "title": "Laura Hoptman Wins CCS Bard’s 2027 Audrey Irmas Award for Curatorial Excellence",
       "url": "https://www.artnews.com/art-news/news/laura-hoptman-winner-2027-audrey-irmas-award-ccs-bard-1234806705/",
       "source": "ARTnews",
       "published": "2026-11-19T14:19:17+00:00",
+      "priority_score": 9,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "3645edf410877fa125d5",
+      "title": "Military History Museum in Dresden Agrees to Return Contested Nazi-Era Family Archive to Jehovah’s Witnesses",
+      "url": "https://www.artnews.com/art-news/news/jehovahs-witnesses-military-history-museum-dresden-family-archive-nazi-era-1234807616/",
+      "source": "ARTnews",
+      "published": "2026-11-24T21:20:01+00:00",
+      "priority_score": 9,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "875a3c41ba820487a8d6",
+      "title": "Thelma Golden To Step Down From Role as Director of Studio Museum in Harlem",
+      "url": "https://www.artnews.com/art-news/artists/thelma-golden-to-step-down-director-studio-museum-in-harlem-1234807621/",
+      "source": "ARTnews",
+      "published": "2026-11-24T21:52:47+00:00",
       "priority_score": 9,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -88,18 +124,6 @@
       "publication_approved": false
     },
     {
-      "id": "54fecc413c25426e905a",
-      "title": "13th-Century Carving Stolen by Art Thief ‘Eric the Belgian’ Recovered in the UK",
-      "url": "https://www.artnews.com/art-news/news/13th-century-carving-stolen-art-thief-eric-the-belgian-recovered-uk-1234807344/",
-      "source": "ARTnews",
-      "published": "2026-11-23T19:08:45+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "1e5fd6d5093e857e6b52",
       "title": "A Minimalist, a Maximalist, and 30 Years of Friendship",
       "url": "https://www.artnews.com/art-in-america/interviews/sarah-lucas-cerith-wyn-evans-gladstone-1234807421/",
@@ -124,11 +148,11 @@
       "publication_approved": false
     },
     {
-      "id": "23539042df6841bb54c1",
-      "title": "Did a Trump Staffer Accidentally Reveal White House Plans to Revamp the Smithsonian?",
-      "url": "https://www.artnews.com/art-news/news/trump-staffer-reveal-white-house-plans-revamp-smithsonian-1234807305/",
+      "id": "fb3e1d807bc73af4ff31",
+      "title": "Dora Maar’s Paris Apartment Is For Sale, Picasso Wall Drawings and All",
+      "url": "https://www.artnews.com/art-news/news/dora-maar-paris-apartment-sale-picasso-wall-drawings-1234807368/",
       "source": "ARTnews",
-      "published": "2026-11-23T16:49:30+00:00",
+      "published": "2026-11-24T17:30:33+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -136,11 +160,11 @@
       "publication_approved": false
     },
     {
-      "id": "e0255a4ccaffc415d8da",
-      "title": "Friedrich Christian Flick, Art Collector and Scion of German Industrialists with Nazi Past, Dies at 82",
-      "url": "https://www.artnews.com/art-news/news/friedrich-christian-flick-collection-dead-82-1234807322/",
+      "id": "3b7c5e2b098438d4efdc",
+      "title": "EVA International Announces Theme for 50th Anniversary Edition in 2027",
+      "url": "https://www.artnews.com/art-news/news/eva-international-announces-details-1234807519/",
       "source": "ARTnews",
-      "published": "2026-11-23T19:03:52+00:00",
+      "published": "2026-11-24T18:40:31+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -148,11 +172,11 @@
       "publication_approved": false
     },
     {
-      "id": "9a101b2663eafa76fd37",
-      "title": "Lynette Yiadom-Boakye and Anne Imhof Make Vogue’s 2026 Best-Dressed List",
-      "url": "https://www.artnews.com/art-news/news/lynette-yiadom-boakye-anne-imhof-vogue-best-dressed-list-1234807360/",
+      "id": "9a45d1d6a77b1d16bc7c",
+      "title": "Faurschou Ends Its Public Exhibition Program as Its New York Space Heads for Demolition",
+      "url": "https://www.artnews.com/art-news/news/faurschou-foundation-ends-shows-sells-new-york-building-1234807321/",
       "source": "ARTnews",
-      "published": "2026-11-23T20:08:13+00:00",
+      "published": "2026-11-23T20:10:42+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -160,11 +184,11 @@
       "publication_approved": false
     },
     {
-      "id": "3180337144c580b12632",
-      "title": "Mohamed bin Zayed University of Artificial Intelligence Launches $250,000 Art Commission Program",
-      "url": "https://www.artnews.com/art-news/news/mbzuai-launches-inaugural-250000-commission-1234807312/",
+      "id": "0891f5c7bebc4a4e90a4",
+      "title": "Iraq’s Museums Are Finally Opening Their Doors Again",
+      "url": "https://www.artnews.com/art-news/news/iraq-museums-reopen-national-museum-1234807536/",
       "source": "ARTnews",
-      "published": "2026-11-23T17:20:49+00:00",
+      "published": "2026-11-24T18:59:27+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -172,11 +196,11 @@
       "publication_approved": false
     },
     {
-      "id": "d58c2741f80b5b16cb9c",
-      "title": "Since 2020, the Canon Has Grown Bigger Than Ever Before. Will Museums and the Market Continue to Listen?",
-      "url": "https://www.artnews.com/art-news/news/2020s-expanding-canon-art-week-nyc-1234807332/",
-      "source": "ARTnews",
-      "published": "2026-11-23T21:19:24+00:00",
+      "id": "9b5bd4e744f4409a0545",
+      "title": "Six Artworks Under $1,000 We’d Love to Give (and Receive!) This Holiday",
+      "url": "https://www.thisiscolossal.com/2026/11/six-artworks-under-1000-gift-guide/",
+      "source": "Colossal",
+      "published": "2026-11-24T18:13:49+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -189,18 +213,6 @@
       "url": "https://www.artnews.com/art-news/news/south-african-artist-and-curator-tamlin-blake-found-dead-1234807445/",
       "source": "ARTnews",
       "published": "2026-11-24T14:30:33+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "3e77e58beffb1490fbbf",
-      "title": "Su Blackwell Enchants with Folkloric Stories That Spring from Vintage Books",
-      "url": "https://www.thisiscolossal.com/2026/11/su-blackwell-vintage-books/",
-      "source": "Colossal",
-      "published": "2026-11-23T20:33:23+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -232,18 +244,6 @@
       "publication_approved": false
     },
     {
-      "id": "60ac4deaed0161ed911b",
-      "title": "With MoMA, M+, and the Centre Pompidou’s Alliance, Museums Enter a New Era of Collaboration",
-      "url": "https://www.artnews.com/art-news/opinion/moma-m-plus-centre-pompidou-alliance-collaboration-1234807316/",
-      "source": "ARTnews",
-      "published": "2026-11-23T17:16:58+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "c66af7aa21c023a44d8b",
       "title": "15 Van Gogh Masterpieces that Set Auction Records",
       "url": "https://www.artnews.com/list/art-news/market/van-gogh-masterpieces-that-set-auction-records-1234784867/",
@@ -256,47 +256,11 @@
       "publication_approved": false
     },
     {
-      "id": "09d1d976e054075ada27",
-      "title": "A Wassily Kandinsky Sold by the Nahmads Fetches $85.8 M. at Christie’s, Notching a New Auction High",
-      "url": "https://www.artnews.com/art-news/market/wassily-kandinsky-nahmads-christies-new-auction-high-1234806466/",
-      "source": "ARTnews",
-      "published": "2026-11-18T00:53:44+00:00",
-      "priority_score": 6,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "49afcf18f0c835dad211",
-      "title": "Amid Legal Controversy, Christie’s Withdraws Frida Kahlo Painting Hours Before Auction",
-      "url": "https://www.artnews.com/art-news/news/frida-kahlo-painting-withdrawn-christies-auction-1234806448/",
-      "source": "ARTnews",
-      "published": "2026-11-17T21:08:32+00:00",
-      "priority_score": 6,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "42d3bdb24a1be2451167",
       "title": "Christie’s First Abu Dhabi Art Auction to Be Accompanied by Exhibition of $60 M.–$80 M. Kandinsky",
       "url": "https://www.artnews.com/art-news/market/christies-first-abu-dhabi-art-auction-kandinsky-exhibition-1234803967/",
       "source": "ARTnews",
       "published": "2026-10-27T20:23:11+00:00",
-      "priority_score": 6,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "5815aba2b0cb4246bb9e",
-      "title": "Cologne Auction House Moves Forward with Sale of Gothic Paintings as Jewish Dealer’s Heirs Claim They Were ‘Stolen’",
-      "url": "https://www.artnews.com/art-news/news/german-jewish-dealer-lempertz-restitution-johann-koerbecke-1234806324/",
-      "source": "ARTnews",
-      "published": "2026-11-17T18:47:42+00:00",
       "priority_score": 6,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -333,18 +297,6 @@
       "url": "https://www.artnews.com/art-news/market/claude-monet-iris-french-auction-record-sothebys-paris-1234803611/",
       "source": "ARTnews",
       "published": "2026-10-22T21:13:42+00:00",
-      "priority_score": 6,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "14674e3196ebb90d71dc",
-      "title": "Rare Hilma af Klint Work Heads to Auction",
-      "url": "https://hyperallergic.com/rare-hilma-af-klint-work-heads-to-auction/",
-      "source": "Hyperallergic",
-      "published": "2026-11-17T22:40:09+00:00",
       "priority_score": 6,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -406,6 +358,18 @@
       "source": "ARTnews",
       "published": "2026-10-22T12:28:42+00:00",
       "priority_score": 6,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "54fecc413c25426e905a",
+      "title": "13th-Century Carving Stolen by Art Thief ‘Eric the Belgian’ Recovered in the UK",
+      "url": "https://www.artnews.com/art-news/news/13th-century-carving-stolen-art-thief-eric-the-belgian-recovered-uk-1234807344/",
+      "source": "ARTnews",
+      "published": "2026-11-23T19:08:45+00:00",
+      "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -496,6 +460,30 @@
       "publication_approved": false
     },
     {
+      "id": "23539042df6841bb54c1",
+      "title": "Did a Trump Staffer Accidentally Reveal White House Plans to Revamp the Smithsonian?",
+      "url": "https://www.artnews.com/art-news/news/trump-staffer-reveal-white-house-plans-revamp-smithsonian-1234807305/",
+      "source": "ARTnews",
+      "published": "2026-11-23T16:49:30+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "e0255a4ccaffc415d8da",
+      "title": "Friedrich Christian Flick, Art Collector and Scion of German Industrialists with Nazi Past, Dies at 82",
+      "url": "https://www.artnews.com/art-news/news/friedrich-christian-flick-collection-dead-82-1234807322/",
+      "source": "ARTnews",
+      "published": "2026-11-23T19:03:52+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "f36c2a26ddc4630099d4",
       "title": "Frieze Abu Dhabi Debuts to Brisk Sales and Confident Dealers",
       "url": "https://www.artnews.com/art-news/market/frieze-abu-dhabi-rebrands-high-quality-art-large-sums-1234806923/",
@@ -568,6 +556,18 @@
       "publication_approved": false
     },
     {
+      "id": "9a101b2663eafa76fd37",
+      "title": "Lynette Yiadom-Boakye and Anne Imhof Make Vogue’s 2026 Best-Dressed List",
+      "url": "https://www.artnews.com/art-news/news/lynette-yiadom-boakye-anne-imhof-vogue-best-dressed-list-1234807360/",
+      "source": "ARTnews",
+      "published": "2026-11-23T20:08:13+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "a47c622110fef6b213b1",
       "title": "Miami Through the GTA VI Looking-Glass",
       "url": "https://hyperallergic.com/miami-through-the-gta-vi-looking-glass/",
@@ -580,11 +580,11 @@
       "publication_approved": false
     },
     {
-      "id": "40e6849396cf3e2308b1",
-      "title": "New Museum Inks Multiyear Partnership with Video Art–Focused Vega Foundation",
-      "url": "https://www.artnews.com/art-news/news/new-museum-vega-foundation-partnership-1234806199/",
+      "id": "3180337144c580b12632",
+      "title": "Mohamed bin Zayed University of Artificial Intelligence Launches $250,000 Art Commission Program",
+      "url": "https://www.artnews.com/art-news/news/mbzuai-launches-inaugural-250000-commission-1234807312/",
       "source": "ARTnews",
-      "published": "2026-11-17T17:00:00+00:00",
+      "published": "2026-11-23T17:20:49+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -604,6 +604,18 @@
       "publication_approved": false
     },
     {
+      "id": "d58c2741f80b5b16cb9c",
+      "title": "Since 2020, the Canon Has Grown Bigger Than Ever Before. Will Museums and the Market Continue to Listen?",
+      "url": "https://www.artnews.com/art-news/news/2020s-expanding-canon-art-week-nyc-1234807332/",
+      "source": "ARTnews",
+      "published": "2026-11-23T21:19:24+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "9e38bc89e100169e94b3",
       "title": "Sotheby’s New York Impressionist and Modern Art Sale Rakes in $777.8 M., Italian Exhibition Ordered to Remove Fascist Imagery, and More: Morning Links for November 19, 2026",
       "url": "https://www.artnews.com/art-news/news/italian-exhibition-ordered-to-remove-fascist-imagery-1234806818/",
@@ -616,11 +628,11 @@
       "publication_approved": false
     },
     {
-      "id": "c0933b41116adb16fcaa",
-      "title": "The Met and the Shanghai Museum Sign Collaborative Agreement",
-      "url": "https://hyperallergic.com/the-met-and-the-shanghai-museum-sign-collaborative-agreement/",
-      "source": "Hyperallergic",
-      "published": "2026-11-17T19:27:56+00:00",
+      "id": "3e77e58beffb1490fbbf",
+      "title": "Su Blackwell Enchants with Folkloric Stories That Spring from Vintage Books",
+      "url": "https://www.thisiscolossal.com/2026/11/su-blackwell-vintage-books/",
+      "source": "Colossal",
+      "published": "2026-11-23T20:33:23+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -652,6 +664,18 @@
       "publication_approved": false
     },
     {
+      "id": "60ac4deaed0161ed911b",
+      "title": "With MoMA, M+, and the Centre Pompidou’s Alliance, Museums Enter a New Era of Collaboration",
+      "url": "https://www.artnews.com/art-news/opinion/moma-m-plus-centre-pompidou-alliance-collaboration-1234807316/",
+      "source": "ARTnews",
+      "published": "2026-11-23T17:16:58+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "e8372d70c925d81c60e5",
       "title": "2028 Whitney Biennial to Be Curated by Meg Onli and Zack Winokur",
       "url": "https://www.artnews.com/art-news/news/2028-whitney-biennial-meg-onli-zack-winokur-curators-1234804890/",
@@ -664,11 +688,35 @@
       "publication_approved": false
     },
     {
+      "id": "09d1d976e054075ada27",
+      "title": "A Wassily Kandinsky Sold by the Nahmads Fetches $85.8 M. at Christie’s, Notching a New Auction High",
+      "url": "https://www.artnews.com/art-news/market/wassily-kandinsky-nahmads-christies-new-auction-high-1234806466/",
+      "source": "ARTnews",
+      "published": "2026-11-18T00:53:44+00:00",
+      "priority_score": 4,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "80be3ea788c028cfe7a3",
       "title": "Actor Says He Removed His Mother’s Art from Venice Biennale Installation as a Pro-Israel Protest",
       "url": "https://www.artnews.com/art-news/news/art-removed-venice-biennale-denniston-hill-israel-1234805408/",
       "source": "ARTnews",
       "published": "2026-11-10T20:10:49+00:00",
+      "priority_score": 4,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "49afcf18f0c835dad211",
+      "title": "Amid Legal Controversy, Christie’s Withdraws Frida Kahlo Painting Hours Before Auction",
+      "url": "https://www.artnews.com/art-news/news/frida-kahlo-painting-withdrawn-christies-auction-1234806448/",
+      "source": "ARTnews",
+      "published": "2026-11-17T21:08:32+00:00",
       "priority_score": 4,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -705,6 +753,18 @@
       "url": "https://www.artnews.com/art-news/market/christies-blockbuster-klimt-landscape-80m-guaranteed-1234803727/",
       "source": "ARTnews",
       "published": "2026-10-26T10:00:00+00:00",
+      "priority_score": 4,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "5815aba2b0cb4246bb9e",
+      "title": "Cologne Auction House Moves Forward with Sale of Gothic Paintings as Jewish Dealer’s Heirs Claim They Were ‘Stolen’",
+      "url": "https://www.artnews.com/art-news/news/german-jewish-dealer-lempertz-restitution-johann-koerbecke-1234806324/",
+      "source": "ARTnews",
+      "published": "2026-11-17T18:47:42+00:00",
       "priority_score": 4,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -825,6 +885,18 @@
       "url": "https://hyperallergic.com/only-known-manuscript-of-mlks-i-have-a-dream-could-fetch-10m-at-auction/",
       "source": "Hyperallergic",
       "published": "2026-11-09T18:16:23+00:00",
+      "priority_score": 4,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "14674e3196ebb90d71dc",
+      "title": "Rare Hilma af Klint Work Heads to Auction",
+      "url": "https://hyperallergic.com/rare-hilma-af-klint-work-heads-to-auction/",
+      "source": "Hyperallergic",
+      "published": "2026-11-17T22:40:09+00:00",
       "priority_score": 4,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -976,18 +1048,6 @@
       "publication_approved": false
     },
     {
-      "id": "b699e7ac3faf9e1f2c61",
-      "title": "ARTnews Celebrates the Inaugural Art Week NYC, November 11-14, 2026",
-      "url": "https://www.artnews.com/gallery/art-news/photos/artnews-celebrates-the-inaugural-art-week-nyc-november-11-14-1234806388/",
-      "source": "ARTnews",
-      "published": "2026-11-17T17:34:49+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "4684634fac27d3c18d39",
       "title": "After a Museum Explores Homes Destroyed by US-Made Munitions, House Republicans Demand Information on Smithsonian’s Curatorial Process",
       "url": "https://www.artnews.com/art-news/news/house-republicans-demand-smithsonian-curatorial-process-1234804234/",
@@ -1041,18 +1101,6 @@
       "url": "https://www.artnews.com/art-news/market/80m-kandinsky-guggenheim-guaranteed-record-christies-1234803586/",
       "source": "ARTnews",
       "published": "2026-10-22T20:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "f2b33d14f61850725f1f",
-      "title": "Anawana Haloba Chosen for Tate Modern’s 2027 Infinities Commission",
-      "url": "https://www.artnews.com/art-news/news/anawana-haloba-tate-modern-2027-infinities-commission-1234806320/",
-      "source": "ARTnews",
-      "published": "2026-11-17T16:13:01+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1264,35 +1312,11 @@
       "publication_approved": false
     },
     {
-      "id": "4c1ae5869d4bf7561d3a",
-      "title": "Beer With a Painter: Ouattara Watts",
-      "url": "https://hyperallergic.com/beer-with-a-painter-ouattara-watts/",
-      "source": "Hyperallergic",
-      "published": "2026-11-17T19:21:51+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "320099979e190d6999bd",
       "title": "Benin Puts Pressure on Musée du Quai Branly in Paris to Return 35 Looted Objects",
       "url": "https://www.artnews.com/art-news/news/benin-musee-du-quai-branly-paris-looted-objects-1234806938/",
       "source": "ARTnews",
       "published": "2026-11-19T21:49:13+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "6c09527a00d4a7805d29",
-      "title": "Celebrating the Inaugural Art Week NYC, Organized by ARTnews, Art in America, and Artforum",
-      "url": "https://www.artnews.com/art-news/news/celebrating-inaugural-art-week-nyc-2026-1234806358/",
-      "source": "ARTnews",
-      "published": "2026-11-17T17:53:33+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1540,18 +1564,6 @@
       "publication_approved": false
     },
     {
-      "id": "92e32a09f46ede54cb56",
-      "title": "Esoteric Rituals Meet K-Pop in a Stop-Motion Music Video for Balming Tiger’s ‘Janjan’",
-      "url": "https://www.thisiscolossal.com/2026/11/esoteric-rituals-meet-k-pop-in-a-stop-motion-music-video-for-balming-tigers-janjan/",
-      "source": "Colossal",
-      "published": "2026-11-17T19:26:31+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "e3e806c7926834dec949",
       "title": "Europol Warns of More Aggressive Museum Heists as Thieves Change Tactics and Targets",
       "url": "https://www.artnews.com/art-news/news/europol-warns-of-more-aggressive-museum-heists-thieves-change-tactics-targets-1234805942/",
@@ -1780,18 +1792,6 @@
       "publication_approved": false
     },
     {
-      "id": "15f4b01c8d79cc9bf558",
-      "title": "How Should We Memorialize the Trump Era?",
-      "url": "https://hyperallergic.com/how-should-we-memorialize-the-trump-era/",
-      "source": "Hyperallergic",
-      "published": "2026-11-17T21:36:07+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "80c53afe1201d68029ad",
       "title": "How Well Do You Know Your Artistic Icons?",
       "url": "https://www.artnews.com/art-in-america/columns/know-your-artistic-icons-1234805684/",
@@ -2008,35 +2008,11 @@
       "publication_approved": false
     },
     {
-      "id": "77d3afa30758a6e6adef",
-      "title": "Louis Vuitton Launches Three Fragrances as Part of Expansive Keith Haring Collection",
-      "url": "https://www.artnews.com/art-news/news/louis-vuitton-keith-haring-fragrances-1234806425/",
-      "source": "ARTnews",
-      "published": "2026-11-17T21:25:27+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "fc018f4570e7b3cae848",
       "title": "Louvre, Picasso Museum, Musée d’Orsay Will Close Saturday In Anticipation of Hard-Left Groups Targeting Public Buildings, Says Interior Minister",
       "url": "https://www.artnews.com/art-news/news/louvre-picasso-museum-musee-dorsay-will-close-saturday-paris-protests-1234803645/",
       "source": "ARTnews",
       "published": "2026-10-23T17:54:09+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "b8eedcf18ff401d03ab3",
-      "title": "MFA, MA, and PhD Programs to Apply for by Early 2027",
-      "url": "https://hyperallergic.com/mfa-ma-and-phd-programs-to-apply-for-by-early-2027/",
-      "source": "Hyperallergic",
-      "published": "2026-11-17T19:29:45+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2061,18 +2037,6 @@
       "url": "https://www.artnews.com/art-in-america/features/mary-misss-fight-public-art-lawsuit-greenwood-pond-1234806328/",
       "source": "ARTnews",
       "published": "2026-11-18T18:10:09+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "bc2961baa032f5aa2ca3",
-      "title": "Meet Natalie White, Photography’s Giant Polaroid Whisperer",
-      "url": "https://hyperallergic.com/meet-natalie-white-photographys-giant-polaroid-whisperer/",
-      "source": "Hyperallergic",
-      "published": "2026-11-17T20:46:59+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2188,6 +2152,18 @@
       "publication_approved": false
     },
     {
+      "id": "40e6849396cf3e2308b1",
+      "title": "New Museum Inks Multiyear Partnership with Video Art–Focused Vega Foundation",
+      "url": "https://www.artnews.com/art-news/news/new-museum-vega-foundation-partnership-1234806199/",
+      "source": "ARTnews",
+      "published": "2026-11-17T17:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "d72381e1d872a8077f23",
       "title": "Newark Museum Is Latest Art Institution to Transfer Ownership of David Drake Vessel",
       "url": "https://www.artnews.com/art-news/news/newark-museum-of-art-david-drake-ownership-transfer-1234805709/",
@@ -2229,18 +2205,6 @@
       "url": "https://www.artnews.com/art-news/news/morning-links-october-16-norton-simon-museum-1234802810/",
       "source": "ARTnews",
       "published": "2026-10-16T23:59:51+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "e4a7568892d9097177aa",
-      "title": "Olivia Reavey's Impromptu Sensuality",
-      "url": "https://hyperallergic.com/olivia-reaveys-impromptu-sensuality/",
-      "source": "Hyperallergic",
-      "published": "2026-11-17T21:15:03+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2332,30 +2296,6 @@
       "publication_approved": false
     },
     {
-      "id": "3ff88b98542e3d22de8a",
-      "title": "RIP to the National Historic Preservation Act",
-      "url": "https://hyperallergic.com/rip-to-the-national-historic-preservation-act/",
-      "source": "Hyperallergic",
-      "published": "2026-11-17T16:44:12+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "a58436d85b31fbf7f0dd",
-      "title": "Rare Artist-Designed Louis Vuitton Handbags Included in Upcoming Christie’s Upcoming Online Sale",
-      "url": "https://www.artnews.com/art-news/market/louis-vuitton-artist-designed-handbags-christies-scarcity-infinity-sale-1234806445/",
-      "source": "ARTnews",
-      "published": "2026-11-17T21:43:13+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "48c6dfbe469791a6d7d7",
       "title": "Rare Hilma af Klint Painting Sells for Staggering $12.7M",
       "url": "https://hyperallergic.com/rare-hilma-af-klint-painting-sells-for-staggering-12-7m/",
@@ -2421,18 +2361,6 @@
       "url": "https://www.artnews.com/art-news/market/jeff-koons-collection-christies-picasso-1234806433/",
       "source": "ARTnews",
       "published": "2026-11-18T04:19:39+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "87816d33f55cf1499ec9",
-      "title": "Shahzia Sikander Confronts British Colonial Legacy in High Line Video Work",
-      "url": "https://hyperallergic.com/shahzia-sikander-confronts-british-colonial-legacy-in-high-line-video-work/",
-      "source": "Hyperallergic",
-      "published": "2026-11-17T21:26:29+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2524,18 +2452,6 @@
       "publication_approved": false
     },
     {
-      "id": "058669092bfc9d3878d5",
-      "title": "Taylor Swift’s Costumes and Instruments Are Coming to the MFA Boston",
-      "url": "https://www.artnews.com/art-news/news/taylor-swifts-costumes-collection-new-exhibition-1234806510/",
-      "source": "ARTnews",
-      "published": "2026-11-17T22:11:16+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "a1d95e692340f41854ee",
       "title": "The Beauty of the Game: Artist Paul Pfeiffer and Collectors Larry and Allison Berg on the Evolving Crossover Between Art and Sports",
       "url": "https://www.artnews.com/art-news/news/paul-pfeiffer-larry-allison-berg-sports-art-week-nyc-1234807147/",
@@ -2565,18 +2481,6 @@
       "url": "https://www.artnews.com/list/art-news/market/art-basel-paris-2026-public-program-best-works-1234803248/",
       "source": "ARTnews",
       "published": "2026-10-21T16:05:56+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "13f58df647950156238c",
-      "title": "The Colossal Guide for Creative Gifting",
-      "url": "https://www.thisiscolossal.com/2026/11/colossal-gift-guide-2026/",
-      "source": "Colossal",
-      "published": "2026-11-17T21:05:30+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2620,11 +2524,11 @@
       "publication_approved": false
     },
     {
-      "id": "0a7fe543d458e01035bb",
-      "title": "The Most Expensive Works by Wassily Kandinsky Ever Sold",
-      "url": "https://www.artnews.com/list/art-news/market/the-most-expensive-works-by-wassily-kandinsky-ever-sold-1234805893/",
-      "source": "ARTnews",
-      "published": "2026-11-17T22:37:21+00:00",
+      "id": "c0933b41116adb16fcaa",
+      "title": "The Met and the Shanghai Museum Sign Collaborative Agreement",
+      "url": "https://hyperallergic.com/the-met-and-the-shanghai-museum-sign-collaborative-agreement/",
+      "source": "Hyperallergic",
+      "published": "2026-11-17T19:27:56+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2781,18 +2685,6 @@
       "url": "https://www.artnews.com/art-news/market/whitney-museum-de-kooning-yellow-river-christies-auction-1234805966/",
       "source": "ARTnews",
       "published": "2026-11-13T22:36:56+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "caad904dd59bdab21314",
-      "title": "Who Gets Remembered in Art History? New Free Online Course Explores Women Who Shaped Indonesian Art",
-      "url": "https://hyperallergic.com/who-gets-remembered-in-art-history-new-free-online-course-explores-women-who-shaped-indonesian-art/",
-      "source": "Hyperallergic",
-      "published": "2026-11-17T16:15:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -3352,6 +3244,18 @@
       "publication_approved": false
     },
     {
+      "id": "b699e7ac3faf9e1f2c61",
+      "title": "ARTnews Celebrates the Inaugural Art Week NYC, November 11-14, 2026",
+      "url": "https://www.artnews.com/gallery/art-news/photos/artnews-celebrates-the-inaugural-art-week-nyc-november-11-14-1234806388/",
+      "source": "ARTnews",
+      "published": "2026-11-17T17:34:49+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "fecc0d64878ddffccbb2",
       "title": "ARTnews and Hublot Host Dinner at New York Headquarters of Kid Super",
       "url": "https://www.artnews.com/art-in-america/features/artnews-hublot-host-dinner-new-york-headquarters-kid-super-1234804519/",
@@ -3561,6 +3465,18 @@
       "url": "https://hyperallergic.com/ana-mendietas-lasting-imprint-on-art/",
       "source": "Hyperallergic",
       "published": "2026-11-02T17:45:18+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "f2b33d14f61850725f1f",
+      "title": "Anawana Haloba Chosen for Tate Modern’s 2027 Infinities Commission",
+      "url": "https://www.artnews.com/art-news/news/anawana-haloba-tate-modern-2027-infinities-commission-1234806320/",
+      "source": "ARTnews",
+      "published": "2026-11-17T16:13:01+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -4036,6 +3952,18 @@
       "publication_approved": false
     },
     {
+      "id": "4c1ae5869d4bf7561d3a",
+      "title": "Beer With a Painter: Ouattara Watts",
+      "url": "https://hyperallergic.com/beer-with-a-painter-ouattara-watts/",
+      "source": "Hyperallergic",
+      "published": "2026-11-17T19:21:51+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "bbfc9d64a070934cdefc",
       "title": "Before AI There Was the Octopus",
       "url": "https://hyperallergic.com/before-ai-there-was-the-octopus/",
@@ -4197,6 +4125,18 @@
       "url": "https://hyperallergic.com/celebrate-indigenous-cinema-and-storytelling-with-free-short-films/",
       "source": "Hyperallergic",
       "published": "2026-11-12T16:24:45+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "6c09527a00d4a7805d29",
+      "title": "Celebrating the Inaugural Art Week NYC, Organized by ARTnews, Art in America, and Artforum",
+      "url": "https://www.artnews.com/art-news/news/celebrating-inaugural-art-week-nyc-2026-1234806358/",
+      "source": "ARTnews",
+      "published": "2026-11-17T17:53:33+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -4641,6 +4581,18 @@
       "url": "https://www.thisiscolossal.com/2026/10/gretchen-scherer-in-time-paintings-art-history-interiors/",
       "source": "Colossal",
       "published": "2026-10-29T17:49:15+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "92e32a09f46ede54cb56",
+      "title": "Esoteric Rituals Meet K-Pop in a Stop-Motion Music Video for Balming Tiger’s ‘Janjan’",
+      "url": "https://www.thisiscolossal.com/2026/11/esoteric-rituals-meet-k-pop-in-a-stop-motion-music-video-for-balming-tigers-janjan/",
+      "source": "Colossal",
+      "published": "2026-11-17T19:26:31+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -5241,6 +5193,18 @@
       "url": "https://hyperallergic.com/how-miles-greenberg-got-war-past-the-censors/",
       "source": "Hyperallergic",
       "published": "2026-11-10T15:30:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "15f4b01c8d79cc9bf558",
+      "title": "How Should We Memorialize the Trump Era?",
+      "url": "https://hyperallergic.com/how-should-we-memorialize-the-trump-era/",
+      "source": "Hyperallergic",
+      "published": "2026-11-17T21:36:07+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -5860,6 +5824,18 @@
       "publication_approved": false
     },
     {
+      "id": "77d3afa30758a6e6adef",
+      "title": "Louis Vuitton Launches Three Fragrances as Part of Expansive Keith Haring Collection",
+      "url": "https://www.artnews.com/art-news/news/louis-vuitton-keith-haring-fragrances-1234806425/",
+      "source": "ARTnews",
+      "published": "2026-11-17T21:25:27+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "3f1d6a61b5601a94cb31",
       "title": "Louvre Among Major Paris Museums to Shutter During Saturday Protests",
       "url": "https://hyperallergic.com/louvre-among-major-paris-museums-to-shutter-during-saturday-protests/",
@@ -5937,6 +5913,18 @@
       "url": "https://hyperallergic.com/mfa-boston-to-allow-visitors-to-watch-live-conservation-of-dutch-painting/",
       "source": "Hyperallergic",
       "published": "2026-11-05T20:19:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "b8eedcf18ff401d03ab3",
+      "title": "MFA, MA, and PhD Programs to Apply for by Early 2027",
+      "url": "https://hyperallergic.com/mfa-ma-and-phd-programs-to-apply-for-by-early-2027/",
+      "source": "Hyperallergic",
+      "published": "2026-11-17T19:29:45+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -6057,6 +6045,18 @@
       "url": "https://hyperallergic.com/massive-king-ramses-ii-statues-unearthed-in-egypt/",
       "source": "Hyperallergic",
       "published": "2026-10-16T17:31:45+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "bc2961baa032f5aa2ca3",
+      "title": "Meet Natalie White, Photography’s Giant Polaroid Whisperer",
+      "url": "https://hyperallergic.com/meet-natalie-white-photographys-giant-polaroid-whisperer/",
+      "source": "Hyperallergic",
+      "published": "2026-11-17T20:46:59+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -6472,6 +6472,18 @@
       "publication_approved": false
     },
     {
+      "id": "e4a7568892d9097177aa",
+      "title": "Olivia Reavey's Impromptu Sensuality",
+      "url": "https://hyperallergic.com/olivia-reaveys-impromptu-sensuality/",
+      "source": "Hyperallergic",
+      "published": "2026-11-17T21:15:03+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "6431fb2c23cbf87713c5",
       "title": "Only Known Handwritten Draft of Martin Luther King Jr.’s ‘I Have a Dream’ Speech Could Top $10 M. at Christie’s",
       "url": "https://www.artnews.com/art-news/market/martin-luther-king-i-have-a-dream-draft-christies-auction-1234805390/",
@@ -6868,6 +6880,18 @@
       "publication_approved": false
     },
     {
+      "id": "3ff88b98542e3d22de8a",
+      "title": "RIP to the National Historic Preservation Act",
+      "url": "https://hyperallergic.com/rip-to-the-national-historic-preservation-act/",
+      "source": "Hyperallergic",
+      "published": "2026-11-17T16:44:12+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "3a09aee616beec5fc520",
       "title": "RM’s SFMOMA Show Changed My Mind About Celebrity Curators",
       "url": "https://www.artnews.com/art-news/reviews/rm-sfmoma-review-1234805463/",
@@ -6885,6 +6909,18 @@
       "url": "https://www.artnews.com/art-news/news/rana-hadid-taking-the-zaha-hadid-foundation-into-the-future-1234804752/",
       "source": "ARTnews",
       "published": "2026-11-05T18:08:27+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "a58436d85b31fbf7f0dd",
+      "title": "Rare Artist-Designed Louis Vuitton Handbags Included in Upcoming Christie’s Upcoming Online Sale",
+      "url": "https://www.artnews.com/art-news/market/louis-vuitton-artist-designed-handbags-christies-scarcity-infinity-sale-1234806445/",
+      "source": "ARTnews",
+      "published": "2026-11-17T21:43:13+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -7185,6 +7221,18 @@
       "url": "https://www.thisiscolossal.com/2026/11/sean-doran-crimson-star-film/",
       "source": "Colossal",
       "published": "2026-11-13T14:53:38+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "87816d33f55cf1499ec9",
+      "title": "Shahzia Sikander Confronts British Colonial Legacy in High Line Video Work",
+      "url": "https://hyperallergic.com/shahzia-sikander-confronts-british-colonial-legacy-in-high-line-video-work/",
+      "source": "Hyperallergic",
+      "published": "2026-11-17T21:26:29+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -7540,6 +7588,18 @@
       "publication_approved": false
     },
     {
+      "id": "058669092bfc9d3878d5",
+      "title": "Taylor Swift’s Costumes and Instruments Are Coming to the MFA Boston",
+      "url": "https://www.artnews.com/art-news/news/taylor-swifts-costumes-collection-new-exhibition-1234806510/",
+      "source": "ARTnews",
+      "published": "2026-11-17T22:11:16+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "6c7503e208ad88a8e7c2",
       "title": "Ted Turner’s Western Art Collection to Sell at Christie’s for $20 M.",
       "url": "https://www.artnews.com/art-news/market/ted-turner-western-art-collection-christies-sale-1234805555/",
@@ -7696,6 +7756,18 @@
       "publication_approved": false
     },
     {
+      "id": "13f58df647950156238c",
+      "title": "The Colossal Guide for Creative Gifting",
+      "url": "https://www.thisiscolossal.com/2026/11/colossal-gift-guide-2026/",
+      "source": "Colossal",
+      "published": "2026-11-17T21:05:30+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "4e9f470b79ca60ad18d9",
       "title": "The Elie Khouri Art Foundation Appoints Sumayya Vally of Counterspace as Architect to Design the Foundation",
       "url": "https://www.artnews.com/art-news/news/elie-khouri-art-foundation-appoints-sumayya-vally-architect-1234805538/",
@@ -7797,6 +7869,18 @@
       "url": "https://hyperallergic.com/the-mit-professors-bedazzling-security-cameras-to-highlight-campus-surveillance/",
       "source": "Hyperallergic",
       "published": "2026-10-20T17:48:36+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "0a7fe543d458e01035bb",
+      "title": "The Most Expensive Works by Wassily Kandinsky Ever Sold",
+      "url": "https://www.artnews.com/list/art-news/market/the-most-expensive-works-by-wassily-kandinsky-ever-sold-1234805893/",
+      "source": "ARTnews",
+      "published": "2026-11-17T22:37:21+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -8385,6 +8469,18 @@
       "url": "https://hyperallergic.com/when-does-a-woman-artist-reach-her-prime/",
       "source": "Hyperallergic",
       "published": "2026-10-22T21:23:40+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "caad904dd59bdab21314",
+      "title": "Who Gets Remembered in Art History? New Free Online Course Explores Women Who Shaped Indonesian Art",
+      "url": "https://hyperallergic.com/who-gets-remembered-in-art-history-new-free-online-course-explores-women-who-shaped-indonesian-art/",
+      "source": "Hyperallergic",
+      "published": "2026-11-17T16:15:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
