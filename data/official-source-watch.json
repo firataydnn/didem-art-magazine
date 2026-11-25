@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-25T00:50:48.209852+00:00",
+  "generated_at": "2026-11-25T11:26:08.431584+00:00",
   "notice": "Primary source page monitoring only. Page changes are not verified publication events. Restricted press rooms must not be bypassed.",
   "sources": [
     {
@@ -368,6 +368,11 @@
           "status": "institutional_page_link_unverified_date"
         },
         {
+          "title": "Tate Liverpool to reopen in autumn 2027 with landmark Surrealism exhibition",
+          "url": "https://www.tate.org.uk/press/press-releases/tate-liverpool-to-reopen-in-autumn-2027-with-landmark-surrealism-exhibition",
+          "status": "institutional_page_link_unverified_date"
+        },
+        {
           "title": "Sonia Boyce: 26 March - 22 August 2027",
           "url": "https://www.tate.org.uk/press/press-releases/sonia-boyce",
           "status": "institutional_page_link_unverified_date"
@@ -395,11 +400,6 @@
         {
           "title": "Tate Liverpool launches fundraising campaign to keep world-class art accessible for the next generation",
           "url": "https://www.tate.org.uk/press/press-releases/tate-liverpool-launches-fundraising-campaign-to-keep-world-class-art-accessible-for-the-next-generation",
-          "status": "institutional_page_link_unverified_date"
-        },
-        {
-          "title": "Gainsborough 300: Celebrating 300 years of Thomas Gainsborough through major exhibitions and landmark events across the UK in 2027",
-          "url": "https://www.tate.org.uk/press/press-releases/gainsborough-300",
           "status": "institutional_page_link_unverified_date"
         }
       ],
