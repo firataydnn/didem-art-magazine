@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "count": 744,
+  "count": 746,
   "possible_duplicates": 0,
   "items": [
     {
-      "id": "2f7e86772a864b3f1840",
-      "title": "Christie’s Adds UK Auction House Dreweatts to Its Portfolio",
-      "url": "https://www.artnews.com/art-news/market/christies-adds-uk-auction-house-dreweatts-to-portfolio-1234807665/",
+      "id": "acc339d45bd5b37af4de",
+      "title": "Hoor Al Qasimi Named Curator of 2028 Venice Biennale",
+      "url": "https://www.artnews.com/art-news/news/hoor-al-qasimi-named-curator-2028-venice-biennale-1234808028/",
       "source": "ARTnews",
-      "published": "2026-11-25T15:07:26+00:00",
+      "published": "2026-11-26T11:34:06+00:00",
       "priority_score": 10,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -21,18 +21,6 @@
       "url": "https://hyperallergic.com/drawing-centers-laura-hoptman-wins-curatorial-excellence-award/",
       "source": "Hyperallergic",
       "published": "2026-11-19T22:36:49+00:00",
-      "priority_score": 9,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "47cfdc84248b8bffc072",
-      "title": "Laura Hoptman Wins CCS Bard’s 2027 Audrey Irmas Award for Curatorial Excellence",
-      "url": "https://www.artnews.com/art-news/news/laura-hoptman-winner-2027-audrey-irmas-award-ccs-bard-1234806705/",
-      "source": "ARTnews",
-      "published": "2026-11-19T14:19:17+00:00",
       "priority_score": 9,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -64,11 +52,11 @@
       "publication_approved": false
     },
     {
-      "id": "cb8d4d1000b50f01604d",
-      "title": "Controversial Venice Biennale Closes, Athens Police Seize 35 Forgeries, and More: Morning Links for November 23, 2026",
-      "url": "https://www.artnews.com/art-news/news/controversial-venice-biennale-closes-morning-links-1234807296/",
+      "id": "2f7e86772a864b3f1840",
+      "title": "Christie’s Adds UK Auction House Dreweatts to Its Portfolio",
+      "url": "https://www.artnews.com/art-news/market/christies-adds-uk-auction-house-dreweatts-to-portfolio-1234807665/",
       "source": "ARTnews",
-      "published": "2026-11-23T14:23:00+00:00",
+      "published": "2026-11-25T15:07:26+00:00",
       "priority_score": 8,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -81,30 +69,6 @@
       "url": "https://www.artnews.com/art-news/news/kvareli-foundation-for-contemporary-art-georgia-opening-1234807297/",
       "source": "ARTnews",
       "published": "2026-11-24T12:26:01+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "17a01de5ec4b2b81e135",
-      "title": "A Sculptural Playground in Shanghai Is Designed for Human-Powered Play",
-      "url": "https://www.thisiscolossal.com/2026/11/wade-leta-catching-feelings-shanghai/",
-      "source": "Colossal",
-      "published": "2026-11-25T14:11:15+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "9753ba92f47e897243fe",
-      "title": "Art Basel Hong Kong Lines Up 232 Exhibitors and a New Floor Plan for Its 2027 Edition",
-      "url": "https://www.artnews.com/art-news/market/art-basel-hong-kong-2027-exhibitor-list-1234807256/",
-      "source": "ARTnews",
-      "published": "2026-11-23T08:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -177,6 +141,30 @@
       "url": "https://www.thisiscolossal.com/2026/11/kate-jenkins-knitalian-knitted-foods-sculpture-installation/",
       "source": "Colossal",
       "published": "2026-11-24T20:30:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "17b97400ccb91da54bba",
+      "title": "Kevin Love’s Miami Home Features Work by Antony Gormley, Rashid Johnson, Ed Ruscha and Richard Prince",
+      "url": "https://www.artnews.com/art-news/news/kevin-love-miami-home-artworks-rashid-johnson-ed-ruscha-1234808032/",
+      "source": "ARTnews",
+      "published": "2026-11-26T14:47:22+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "47cfdc84248b8bffc072",
+      "title": "Laura Hoptman Wins CCS Bard’s 2027 Audrey Irmas Award for Curatorial Excellence",
+      "url": "https://www.artnews.com/art-news/news/laura-hoptman-winner-2027-audrey-irmas-award-ccs-bard-1234806705/",
+      "source": "ARTnews",
+      "published": "2026-11-19T14:19:17+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -328,6 +316,18 @@
       "publication_approved": false
     },
     {
+      "id": "cb8d4d1000b50f01604d",
+      "title": "Controversial Venice Biennale Closes, Athens Police Seize 35 Forgeries, and More: Morning Links for November 23, 2026",
+      "url": "https://www.artnews.com/art-news/news/controversial-venice-biennale-closes-morning-links-1234807296/",
+      "source": "ARTnews",
+      "published": "2026-11-23T14:23:00+00:00",
+      "priority_score": 6,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "183f4eeea5e0ee4b9a26",
       "title": "Jewish Museum in Rural Argentina Stays Open Amid Clash With Local Government, Rare Hilma af Klint Abstract Painting Hits Auction, and More: Morning Links for October 20, 2026",
       "url": "https://www.artnews.com/art-news/news/villa-dominguez-jewish-museum-open-clash-local-government-1234803039/",
@@ -436,6 +436,18 @@
       "publication_approved": false
     },
     {
+      "id": "17a01de5ec4b2b81e135",
+      "title": "A Sculptural Playground in Shanghai Is Designed for Human-Powered Play",
+      "url": "https://www.thisiscolossal.com/2026/11/wade-leta-catching-feelings-shanghai/",
+      "source": "Colossal",
+      "published": "2026-11-25T14:11:15+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "6b67467755f7e16a5ab7",
       "title": "A Sprawling Exhibition of Latin American Art and Fashion Is Coming to NYC",
       "url": "https://hyperallergic.com/a-sprawling-exhibition-of-latin-american-art-and-fashion-is-coming-to-nyc/",
@@ -465,6 +477,18 @@
       "url": "https://www.artnews.com/art-news/news/stedelijk-museum-krist-gruijthuijsen-director-1234806867/",
       "source": "ARTnews",
       "published": "2026-11-19T18:14:19+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "9753ba92f47e897243fe",
+      "title": "Art Basel Hong Kong Lines Up 232 Exhibitors and a New Floor Plan for Its 2027 Edition",
+      "url": "https://www.artnews.com/art-news/market/art-basel-hong-kong-2027-exhibitor-list-1234807256/",
+      "source": "ARTnews",
+      "published": "2026-11-23T08:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -556,30 +580,6 @@
       "publication_approved": false
     },
     {
-      "id": "cff1e080867778fc5038",
-      "title": "Hauser & Wirth Now Represents Ser Serpas, Fast-Rising Artist Who Combs the Detritus of Everyday Life",
-      "url": "https://www.artnews.com/art-news/market/ser-serpas-hauser-and-wirth-gallery-representation-1234807276/",
-      "source": "ARTnews",
-      "published": "2026-11-23T14:00:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "02a4f9cd3904c47bc059",
-      "title": "Inside Edward Said’s World",
-      "url": "https://hyperallergic.com/inside-edward-saids-world/",
-      "source": "Hyperallergic",
-      "published": "2026-11-23T11:00:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "0891f5c7bebc4a4e90a4",
       "title": "Iraq’s Museums Are Finally Opening Their Doors Again",
       "url": "https://www.artnews.com/art-news/news/iraq-museums-reopen-national-museum-1234807536/",
@@ -592,47 +592,11 @@
       "publication_approved": false
     },
     {
-      "id": "9538828a0880efc0a5b5",
-      "title": "Led by Record-Breaking $190.4 M. van Gogh, Sotheby’s Impressionist and Modern Art Sales Rake in $777.8 M.",
-      "url": "https://www.artnews.com/art-news/market/sothebys-modern-art-sale-blaquier-arrieta-van-gogh-1234806802/",
-      "source": "ARTnews",
-      "published": "2026-11-19T05:13:14+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "8363c26e2b91086fbb7d",
-      "title": "Lucy Sante Talks About What Collage Enables That Writing Can’t",
-      "url": "https://www.artnews.com/art-in-america/columns/lucy-sante-interview-collage-1234806243/",
-      "source": "ARTnews",
-      "published": "2026-11-23T10:00:00+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "9a101b2663eafa76fd37",
       "title": "Lynette Yiadom-Boakye and Anne Imhof Make Vogue’s 2026 Best-Dressed List",
       "url": "https://www.artnews.com/art-news/news/lynette-yiadom-boakye-anne-imhof-vogue-best-dressed-list-1234807360/",
       "source": "ARTnews",
       "published": "2026-11-23T20:08:13+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "a47c622110fef6b213b1",
-      "title": "Miami Through the GTA VI Looking-Glass",
-      "url": "https://hyperallergic.com/miami-through-the-gta-vi-looking-glass/",
-      "source": "Hyperallergic",
-      "published": "2026-11-23T11:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -669,18 +633,6 @@
       "url": "https://www.thisiscolossal.com/2026/11/six-artworks-under-1000-gift-guide/",
       "source": "Colossal",
       "published": "2026-11-24T18:13:49+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "9e38bc89e100169e94b3",
-      "title": "Sotheby’s New York Impressionist and Modern Art Sale Rakes in $777.8 M., Italian Exhibition Ordered to Remove Fascist Imagery, and More: Morning Links for November 19, 2026",
-      "url": "https://www.artnews.com/art-news/news/italian-exhibition-ordered-to-remove-fascist-imagery-1234806818/",
-      "source": "ARTnews",
-      "published": "2026-11-19T13:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1077,18 +1029,6 @@
       "url": "https://www.thisiscolossal.com/2026/11/jean-michel-basquiat-authorized-documentary-netflix/",
       "source": "Colossal",
       "published": "2026-11-19T20:30:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "b9b10de9b962263ef377",
-      "title": "A Tiny Monet With a Wild Backstory Just Fetched More Than 20 Times its Estimate at a Christie’s Day Sale",
-      "url": "https://www.artnews.com/art-news/market/tiny-monet-wild-backstory-7-million-christies-day-sale-1234806754/",
-      "source": "ARTnews",
-      "published": "2026-11-19T02:04:08+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1768,6 +1708,18 @@
       "publication_approved": false
     },
     {
+      "id": "cff1e080867778fc5038",
+      "title": "Hauser & Wirth Now Represents Ser Serpas, Fast-Rising Artist Who Combs the Detritus of Everyday Life",
+      "url": "https://www.artnews.com/art-news/market/ser-serpas-hauser-and-wirth-gallery-representation-1234807276/",
+      "source": "ARTnews",
+      "published": "2026-11-23T14:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "12edc9991791fa2fdbb5",
       "title": "Have Fashion Folk Ruined the Frieze London Experience?",
       "url": "https://www.artnews.com/art-news/opinion/frieze-london-fashion-industry-experience-1234802660/",
@@ -1785,18 +1737,6 @@
       "url": "https://hyperallergic.com/hilma-af-klint-is-rolling-in-her-grave/",
       "source": "Hyperallergic",
       "published": "2026-11-20T11:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "80c53afe1201d68029ad",
-      "title": "How Well Do You Know Your Artistic Icons?",
-      "url": "https://www.artnews.com/art-in-america/columns/know-your-artistic-icons-1234805684/",
-      "source": "ARTnews",
-      "published": "2026-11-19T10:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1888,6 +1828,18 @@
       "publication_approved": false
     },
     {
+      "id": "02a4f9cd3904c47bc059",
+      "title": "Inside Edward Said’s World",
+      "url": "https://hyperallergic.com/inside-edward-saids-world/",
+      "source": "Hyperallergic",
+      "published": "2026-11-23T11:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "cbae7fb9539c7223e32b",
       "title": "Ireland’s Experiment in Paying Artists a Basic Income Is Working as Intended For Artists",
       "url": "https://www.artnews.com/art-news/news/is-ireland-experiment-in-paying-artists-basic-income-working-1234806168/",
@@ -1972,6 +1924,18 @@
       "publication_approved": false
     },
     {
+      "id": "9538828a0880efc0a5b5",
+      "title": "Led by Record-Breaking $190.4 M. van Gogh, Sotheby’s Impressionist and Modern Art Sales Rake in $777.8 M.",
+      "url": "https://www.artnews.com/art-news/market/sothebys-modern-art-sale-blaquier-arrieta-van-gogh-1234806802/",
+      "source": "ARTnews",
+      "published": "2026-11-19T05:13:14+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "b7a9b39010819fa005b7",
       "title": "Leila Reichert Appointed as Senior Curator at Weisman Art Museum",
       "url": "https://hyperallergic.com/leila-reichert-appointed-as-senior-curator-at-weisman-art-museum/",
@@ -2008,11 +1972,35 @@
       "publication_approved": false
     },
     {
+      "id": "8363c26e2b91086fbb7d",
+      "title": "Lucy Sante Talks About What Collage Enables That Writing Can’t",
+      "url": "https://www.artnews.com/art-in-america/columns/lucy-sante-interview-collage-1234806243/",
+      "source": "ARTnews",
+      "published": "2026-11-23T10:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "a890934621f729ca76bb",
       "title": "Maren Hassinger Won’t Be Weighed Down",
       "url": "https://www.artnews.com/art-in-america/aia-reviews/maren-hassinger-bampfa-retrospective-berkeley-1234806748/",
       "source": "ARTnews",
       "published": "2026-11-21T10:00:00+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "a47c622110fef6b213b1",
+      "title": "Miami Through the GTA VI Looking-Glass",
+      "url": "https://hyperallergic.com/miami-through-the-gta-vi-looking-glass/",
+      "source": "Hyperallergic",
+      "published": "2026-11-23T11:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2176,18 +2164,6 @@
       "publication_approved": false
     },
     {
-      "id": "33c9069d0116bf119812",
-      "title": "Phillips Names Senior Leadership in Asia, Clark Art Institute Hires New Chief Curator, and More: Industry Moves for November 19, 2026",
-      "url": "https://www.artnews.com/art-news/market/phillips-asia-leadership-industry-moves-november-18-2026-1234806719/",
-      "source": "ARTnews",
-      "published": "2026-11-19T10:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "d5280d94c1e9bbbe16bd",
       "title": "Piaget’s Latest Release Is a Limited-Edition Andy Warhol Camouflage Watch",
       "url": "https://www.artnews.com/art-news/news/piaget-warhol-foundation-collaboration-art-week-nyc-2026-1234806880/",
@@ -2241,18 +2217,6 @@
       "url": "https://hyperallergic.com/rare-hilma-af-klint-painting-sells-for-staggering-12-7m/",
       "source": "Hyperallergic",
       "published": "2026-11-19T21:51:36+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "42a326ae22e3ea3ab9d6",
-      "title": "Recovering Edward Said’s Voice",
-      "url": "https://hyperallergic.com/recovering-edward-saids-voice/",
-      "source": "Hyperallergic",
-      "published": "2026-11-19T11:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2325,6 +2289,18 @@
       "url": "https://www.artnews.com/art-news/market/sothebys-hospices-de-beaune-charity-wine-sale-results-1234806240/",
       "source": "ARTnews",
       "published": "2026-11-16T21:36:35+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "9e38bc89e100169e94b3",
+      "title": "Sotheby’s New York Impressionist and Modern Art Sale Rakes in $777.8 M., Italian Exhibition Ordered to Remove Fascist Imagery, and More: Morning Links for November 19, 2026",
+      "url": "https://www.artnews.com/art-news/news/italian-exhibition-ordered-to-remove-fascist-imagery-1234806818/",
+      "source": "ARTnews",
+      "published": "2026-11-19T13:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2961,6 +2937,18 @@
       "url": "https://www.artnews.com/art-news/market/sothebys-christies-november-2026-auction-consignors-1234804676/",
       "source": "ARTnews",
       "published": "2026-11-04T20:56:22+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "b9b10de9b962263ef377",
+      "title": "A Tiny Monet With a Wild Backstory Just Fetched More Than 20 Times its Estimate at a Christie’s Day Sale",
+      "url": "https://www.artnews.com/art-news/market/tiny-monet-wild-backstory-7-million-christies-day-sale-1234806754/",
+      "source": "ARTnews",
+      "published": "2026-11-19T02:04:08+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -5224,6 +5212,18 @@
       "publication_approved": false
     },
     {
+      "id": "80c53afe1201d68029ad",
+      "title": "How Well Do You Know Your Artistic Icons?",
+      "url": "https://www.artnews.com/art-in-america/columns/know-your-artistic-icons-1234805684/",
+      "source": "ARTnews",
+      "published": "2026-11-19T10:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "01148b8026f9c892dddb",
       "title": "How to Free the Art World From Its Neoliberal Capture",
       "url": "https://hyperallergic.com/how-to-free-the-art-world-from-its-neoliberal-capture/",
@@ -6784,6 +6784,18 @@
       "publication_approved": false
     },
     {
+      "id": "33c9069d0116bf119812",
+      "title": "Phillips Names Senior Leadership in Asia, Clark Art Institute Hires New Chief Curator, and More: Industry Moves for November 19, 2026",
+      "url": "https://www.artnews.com/art-news/market/phillips-asia-leadership-industry-moves-november-18-2026-1234806719/",
+      "source": "ARTnews",
+      "published": "2026-11-19T10:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "6ee4922d545d93a25c59",
       "title": "Phillips UK Reports Revenue Drop of 22.3 Percent for 2025, But Claims 2026 Is Major Rebound",
       "url": "https://www.artnews.com/art-news/market/phillips-reports-revenue-drop-22-3-percent-for-2025-1234804216/",
@@ -7029,6 +7041,18 @@
       "url": "https://www.artnews.com/art-news/news/mca-chicago-guthman-gift-rashid-johnson-christopher-wool-1234806296/",
       "source": "ARTnews",
       "published": "2026-11-17T13:59:12+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "42a326ae22e3ea3ab9d6",
+      "title": "Recovering Edward Said’s Voice",
+      "url": "https://hyperallergic.com/recovering-edward-saids-voice/",
+      "source": "Hyperallergic",
+      "published": "2026-11-19T11:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",

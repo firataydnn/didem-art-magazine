@@ -2,6 +2,32 @@
   "schema": 1,
   "items": [
     {
+      "id": "17b97400ccb91da54bba",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "Kevin Love’s Miami Home Features Work by Antony Gormley, Rashid Johnson, Ed Ruscha and Richard Prince",
+      "url": "https://www.artnews.com/art-news/news/kevin-love-miami-home-artworks-rashid-johnson-ed-ruscha-1234808032/",
+      "published": "2026-11-26T14:47:22+00:00",
+      "summary": "The the five-time NBA All-Star opened up about collecting and his friendships with artists Jonas Wood and Rashid Johnson.",
+      "discovered": "2026-11-26T15:26:59.648623+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "acc339d45bd5b37af4de",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "Hoor Al Qasimi Named Curator of 2028 Venice Biennale",
+      "url": "https://www.artnews.com/art-news/news/hoor-al-qasimi-named-curator-2028-venice-biennale-1234808028/",
+      "published": "2026-11-26T11:34:06+00:00",
+      "summary": "The Venice Biennale will run from April 8 to November 26, 2028.",
+      "discovered": "2026-11-26T15:26:59.648623+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "414e0c7beeaf0e10eafd",
       "source": "ARTnews",
       "category": "sanat-basini",
