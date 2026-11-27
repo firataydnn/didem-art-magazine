@@ -2,6 +2,58 @@
   "schema": 1,
   "items": [
     {
+      "id": "f9ab7a7aceca48b7700e",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "Carroll Dunham Calls His Filthy Formalism “Abstraction with a Hard-On”",
+      "url": "https://www.artnews.com/art-in-america/features/carroll-dunham-ica-miami-laurie-simmons-1234807999/",
+      "published": "2026-11-27T10:00:00+00:00",
+      "summary": "Ahead of his Miami retrospective, the artist and his allies help a skeptic understand his work.",
+      "discovered": "2026-11-27T15:15:22.578345+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "bbc6001ead2c120f6150",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "Batima Zaurbekova’s Textiles Meld Traditional Kazakh Techniques with Modernist Influences, Defying Easy Categorization",
+      "url": "https://www.artnews.com/art-news/artists/batima-zaurbekova-retrospective-almaty-kazakhstan-1234807853/",
+      "published": "2026-11-27T10:00:00+00:00",
+      "summary": "The 80-year-old artist is the subject of a major retrospective at the Abylkhan Kasteyev National Museum of Arts.",
+      "discovered": "2026-11-27T15:15:22.578345+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "f34c50cc24f4e2753919",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "Rare Marie Antoinette ‘Breast Bowl’ Hammers for $2.47 M. in Paris, Surpassing Top Estimate",
+      "url": "https://www.artnews.com/art-news/market/marie-antoinette-breast-bowl-hammers-past-estimate-rare-1234808074/",
+      "published": "2026-11-26T18:28:25+00:00",
+      "summary": "The rare “nipple bowl” is one of four such bowls that was made for the French queen’s \"pleasure dairy\" near the Château de Versailles.",
+      "discovered": "2026-11-27T15:15:22.578345+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "d5a9bb26820cbbba9cb0",
+      "source": "Colossal",
+      "category": "gorsel-kultur",
+      "title": "‘The Book of the Human Body’ Surveys 2,000 Years of Remarkable Anatomical Inquiry",
+      "url": "https://www.thisiscolossal.com/2026/11/the-book-of-the-human-body-taschen-anthology/",
+      "published": "2026-11-27T14:00:00+00:00",
+      "summary": "We've long wanted to understand our innards. Do stories and artists like this matter to you? Become a Colossal Member today and support independent arts publishing for as little as $7 per month. The article ‘The Book of the Human Body’ Surveys 2,000 Years of Remarkable Anatomical Inquiry appeared first on Colossal .",
+      "discovered": "2026-11-27T15:15:22.578345+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "6a846b9c67537457b2bc",
       "source": "ARTnews",
       "category": "sanat-basini",

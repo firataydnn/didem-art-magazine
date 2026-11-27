@@ -1,20 +1,8 @@
 {
   "schema": 1,
-  "count": 749,
-  "possible_duplicates": 0,
+  "count": 753,
+  "possible_duplicates": 1,
   "items": [
-    {
-      "id": "acc339d45bd5b37af4de",
-      "title": "Hoor Al Qasimi Named Curator of 2028 Venice Biennale",
-      "url": "https://www.artnews.com/art-news/news/hoor-al-qasimi-named-curator-2028-venice-biennale-1234808028/",
-      "source": "ARTnews",
-      "published": "2026-11-26T11:34:06+00:00",
-      "priority_score": 10,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
     {
       "id": "1805da8facea38c28d72",
       "title": "Bukhara Biennial Unveils ‘The Long Welcome’ Theme and Names First Artists",
@@ -40,12 +28,12 @@
       "publication_approved": false
     },
     {
-      "id": "74d16629283a473048f7",
-      "title": "A New Museum in Georgia’s Wine Country Shows Another Side of the Country’s Art History",
-      "url": "https://www.artnews.com/art-news/news/kvareli-foundation-for-contemporary-art-georgia-opening-1234807297/",
+      "id": "acc339d45bd5b37af4de",
+      "title": "Hoor Al Qasimi Named Curator of 2028 Venice Biennale",
+      "url": "https://www.artnews.com/art-news/news/hoor-al-qasimi-named-curator-2028-venice-biennale-1234808028/",
       "source": "ARTnews",
-      "published": "2026-11-24T12:26:01+00:00",
-      "priority_score": 7,
+      "published": "2026-11-26T11:34:06+00:00",
+      "priority_score": 8,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -57,6 +45,30 @@
       "url": "https://www.artnews.com/art-news/news/has-the-myth-been-shattered-exhibition-the-broad-la-1234807846/",
       "source": "ARTnews",
       "published": "2026-11-26T15:30:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "bbc6001ead2c120f6150",
+      "title": "Batima Zaurbekova’s Textiles Meld Traditional Kazakh Techniques with Modernist Influences, Defying Easy Categorization",
+      "url": "https://www.artnews.com/art-news/artists/batima-zaurbekova-retrospective-almaty-kazakhstan-1234807853/",
+      "source": "ARTnews",
+      "published": "2026-11-27T10:00:00+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "f9ab7a7aceca48b7700e",
+      "title": "Carroll Dunham Calls His Filthy Formalism “Abstraction with a Hard-On”",
+      "url": "https://www.artnews.com/art-in-america/features/carroll-dunham-ica-miami-laurie-simmons-1234807999/",
+      "source": "ARTnews",
+      "published": "2026-11-27T10:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -76,35 +88,11 @@
       "publication_approved": false
     },
     {
-      "id": "2029de48ff75a75c91a5",
-      "title": "Frieze Los Angeles Lines Up 102 Exhibitors for 2027 Edition",
-      "url": "https://www.artnews.com/art-news/market/frieze-los-angeles-2027-exhibitor-list-1234807432/",
-      "source": "ARTnews",
-      "published": "2026-11-24T14:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "bf52e25db716ddf5b681",
       "title": "Kate Jenkins Whips Up Delicious ‘Knitalian’ Dishes in an Immersive Exhibition",
       "url": "https://www.thisiscolossal.com/2026/11/kate-jenkins-knitalian-knitted-foods-sculpture-installation/",
       "source": "Colossal",
       "published": "2026-11-24T20:30:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "17b97400ccb91da54bba",
-      "title": "Kevin Love’s Miami Home Features Work by Antony Gormley, Rashid Johnson, Ed Ruscha and Richard Prince",
-      "url": "https://www.artnews.com/art-news/news/kevin-love-miami-home-artworks-rashid-johnson-ed-ruscha-1234808032/",
-      "source": "ARTnews",
-      "published": "2026-11-26T14:47:22+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -160,9 +148,9 @@
       "publication_approved": false
     },
     {
-      "id": "6a846b9c67537457b2bc",
+      "id": "f34c50cc24f4e2753919",
       "title": "Rare Marie Antoinette ‘Breast Bowl’ Hammers for $2.47 M. in Paris, Surpassing Top Estimate",
-      "url": "https://www.artnews.com/artnews/news/marie-antoinette-breast-bowl-hammers-past-estimate-rare-1234808074/",
+      "url": "https://www.artnews.com/art-news/market/marie-antoinette-breast-bowl-hammers-past-estimate-rare-1234808074/",
       "source": "ARTnews",
       "published": "2026-11-26T18:28:25+00:00",
       "priority_score": 7,
@@ -189,6 +177,18 @@
       "url": "https://www.artnews.com/art-news/news/pipilotti-rist-wins-mit-arts-award-1234806214/",
       "source": "ARTnews",
       "published": "2026-11-16T20:37:01+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "d5a9bb26820cbbba9cb0",
+      "title": "‘The Book of the Human Body’ Surveys 2,000 Years of Remarkable Anatomical Inquiry",
+      "url": "https://www.thisiscolossal.com/2026/11/the-book-of-the-human-body-taschen-anthology/",
+      "source": "Colossal",
+      "published": "2026-11-27T14:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -328,6 +328,18 @@
       "publication_approved": false
     },
     {
+      "id": "74d16629283a473048f7",
+      "title": "A New Museum in Georgia’s Wine Country Shows Another Side of the Country’s Art History",
+      "url": "https://www.artnews.com/art-news/news/kvareli-foundation-for-contemporary-art-georgia-opening-1234807297/",
+      "source": "ARTnews",
+      "published": "2026-11-24T12:26:01+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "17a01de5ec4b2b81e135",
       "title": "A Sculptural Playground in Shanghai Is Designed for Human-Powered Play",
       "url": "https://www.thisiscolossal.com/2026/11/wade-leta-catching-feelings-shanghai/",
@@ -460,11 +472,35 @@
       "publication_approved": false
     },
     {
+      "id": "2029de48ff75a75c91a5",
+      "title": "Frieze Los Angeles Lines Up 102 Exhibitors for 2027 Edition",
+      "url": "https://www.artnews.com/art-news/market/frieze-los-angeles-2027-exhibitor-list-1234807432/",
+      "source": "ARTnews",
+      "published": "2026-11-24T14:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "0891f5c7bebc4a4e90a4",
       "title": "Iraq’s Museums Are Finally Opening Their Doors Again",
       "url": "https://www.artnews.com/art-news/news/iraq-museums-reopen-national-museum-1234807536/",
       "source": "ARTnews",
       "published": "2026-11-24T18:59:27+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "17b97400ccb91da54bba",
+      "title": "Kevin Love’s Miami Home Features Work by Antony Gormley, Rashid Johnson, Ed Ruscha and Richard Prince",
+      "url": "https://www.artnews.com/art-news/news/kevin-love-miami-home-artworks-rashid-johnson-ed-ruscha-1234808032/",
+      "source": "ARTnews",
+      "published": "2026-11-26T14:47:22+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -520,18 +556,6 @@
       "publication_approved": false
     },
     {
-      "id": "f80bc96b41070e88f051",
-      "title": "South African Artist Tamlin Blake Found Dead, Germany to Restitute Archive of Nazi-Persecuted Jehovah’s Witnesses to Family, and More: Morning Links for November 24, 2026",
-      "url": "https://www.artnews.com/art-news/news/south-african-artist-and-curator-tamlin-blake-found-dead-1234807445/",
-      "source": "ARTnews",
-      "published": "2026-11-24T14:30:33+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "d417f4cee16a9a78be6f",
       "title": "Tate Liverpool Plans Fall 2027 Reopening With Surrealism Survey",
       "url": "https://www.artnews.com/art-news/news/tate-liverpool-plans-fall-2027-reopening-surrealism-survey-1234807954/",
@@ -549,18 +573,6 @@
       "url": "https://www.artnews.com/art-news/news/jerry-saltz-art-week-nyc-talk-1234807901/",
       "source": "ARTnews",
       "published": "2026-11-25T19:26:33+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "9fb7dafc6a20122b6fd9",
-      "title": "The Inaugural Australian Street Photography Awards Highlight the Vagaries of Daily Life",
-      "url": "https://www.thisiscolossal.com/2026/11/australian-street-photography-awards-2026/",
-      "source": "Colossal",
-      "published": "2026-11-24T14:53:38+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1216,18 +1228,6 @@
       "publication_approved": false
     },
     {
-      "id": "38e5824faf8ab0995328",
-      "title": "Christie’s Notches a $145.9 M. Sale of 21st-Century Art, Led by a $32.9 M. Basquiat, amid Flagging Energy",
-      "url": "https://www.artnews.com/art-news/market/christies-21st-century-art-sale-november-2026-1234806916/",
-      "source": "ARTnews",
-      "published": "2026-11-20T03:49:20+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "fcb9c6b45a257a6e7d97",
       "title": "Comcast Cofounder Gives $20 M. to Philadelphia Museum of Art, One of its Largest Gifts, To Greatly Expand Education Spaces",
       "url": "https://www.artnews.com/art-news/news/comcast-cofounder-20m-philadelphia-museum-art-education-1234803636/",
@@ -1353,18 +1353,6 @@
       "url": "https://www.thisiscolossal.com/2026/10/bondi-beach-sculpture-by-the-sea-exhibition-2026/",
       "source": "Colossal",
       "published": "2026-10-21T18:21:45+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "ec6d0310c07e591e80ba",
-      "title": "Dramatic Waves Crash on Iceland’s Coast in Photos by Vilhelm Gunnarsson",
-      "url": "https://www.thisiscolossal.com/2026/11/vilhelm-gunnarsson-iceland-ocean-photography/",
-      "source": "Colossal",
-      "published": "2026-11-20T12:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1636,18 +1624,6 @@
       "publication_approved": false
     },
     {
-      "id": "ed1dc0981728db343e8f",
-      "title": "Hilma af Klint Is Rolling in Her Grave",
-      "url": "https://hyperallergic.com/hilma-af-klint-is-rolling-in-her-grave/",
-      "source": "Hyperallergic",
-      "published": "2026-11-20T11:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "c998c17a5d1556bc6231",
       "title": "How do Artworks Acquire Value? New York Art Dealers David Nolan and Anton Svyatsky Weigh In.",
       "url": "https://www.artnews.com/art-news/news/david-nolan-anton-svyatsky-art-week-nyc-2026-1234806643/",
@@ -1773,18 +1749,6 @@
       "url": "https://www.artnews.com/art-news/news/julia-stoschek-collection-selfish-in-bed-20th-anniversary-1234805311/",
       "source": "ARTnews",
       "published": "2026-11-10T14:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "6376b3e2e66a3aff1e09",
-      "title": "LA’s The Landing Gallery Closes, Christie’s Brings in $145.9 M. But Falls Short of Estimates, and More: Morning Links for November 19, 2026",
-      "url": "https://www.artnews.com/art-news/news/the-landing-la-gallery-closes-morning-links-1234806998/",
-      "source": "ARTnews",
-      "published": "2026-11-20T14:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2176,11 +2140,11 @@
       "publication_approved": false
     },
     {
-      "id": "733f68baf06c30c8299d",
-      "title": "Still Here and Independent",
-      "url": "https://hyperallergic.com/still-here-and-independent/",
-      "source": "Hyperallergic",
-      "published": "2026-11-20T06:30:00+00:00",
+      "id": "f80bc96b41070e88f051",
+      "title": "South African Artist Tamlin Blake Found Dead, Germany to Restitute Archive of Nazi-Persecuted Jehovah’s Witnesses to Family, and More: Morning Links for November 24, 2026",
+      "url": "https://www.artnews.com/art-news/news/south-african-artist-and-curator-tamlin-blake-found-dead-1234807445/",
+      "source": "ARTnews",
+      "published": "2026-11-24T14:30:33+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2265,6 +2229,18 @@
       "url": "https://www.artnews.com/list/art-news/market/art-basel-paris-2026-public-program-best-works-1234803248/",
       "source": "ARTnews",
       "published": "2026-10-21T16:05:56+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "9fb7dafc6a20122b6fd9",
+      "title": "The Inaugural Australian Street Photography Awards Highlight the Vagaries of Daily Life",
+      "url": "https://www.thisiscolossal.com/2026/11/australian-street-photography-awards-2026/",
+      "source": "Colossal",
+      "published": "2026-11-24T14:53:38+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -2373,18 +2349,6 @@
       "url": "https://www.artnews.com/art-news/news/mummified-cat-remains-vienna-1234806201/",
       "source": "ARTnews",
       "published": "2026-11-16T20:00:24+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "eaea280bac4df37fd384",
-      "title": "Was Grandma Moses a Foil to Modernity, or a Product of It?",
-      "url": "https://www.artnews.com/art-in-america/aia-reviews/grandma-moses-survey-modernity-crystal-bridges-arkansas-1234806881/",
-      "source": "ARTnews",
-      "published": "2026-11-20T10:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -4000,6 +3964,18 @@
       "publication_approved": false
     },
     {
+      "id": "38e5824faf8ab0995328",
+      "title": "Christie’s Notches a $145.9 M. Sale of 21st-Century Art, Led by a $32.9 M. Basquiat, amid Flagging Energy",
+      "url": "https://www.artnews.com/art-news/market/christies-21st-century-art-sale-november-2026-1234806916/",
+      "source": "ARTnews",
+      "published": "2026-11-20T03:49:20+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "568c67e24bbb56a65c01",
       "title": "Christie’s Posts Highest Watch Total Ever and Sells Bulgari Pink Diamond for $14 M.",
       "url": "https://www.artnews.com/art-news/market/christies-posts-highest-watch-total-ever-bulgari-pink-1234805692/",
@@ -4317,6 +4293,18 @@
       "url": "https://hyperallergic.com/draconian-trump-executive-order-could-strip-art-orgs-of-nonprofit-status/",
       "source": "Hyperallergic",
       "published": "2026-11-16T15:36:18+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "ec6d0310c07e591e80ba",
+      "title": "Dramatic Waves Crash on Iceland’s Coast in Photos by Vilhelm Gunnarsson",
+      "url": "https://www.thisiscolossal.com/2026/11/vilhelm-gunnarsson-iceland-ocean-photography/",
+      "source": "Colossal",
+      "published": "2026-11-20T12:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -4965,6 +4953,18 @@
       "url": "https://www.artnews.com/art-news/news/hillary-clinton-yayoi-kusama-naoshima-1234803923/",
       "source": "ARTnews",
       "published": "2026-10-27T12:08:53+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "ed1dc0981728db343e8f",
+      "title": "Hilma af Klint Is Rolling in Her Grave",
+      "url": "https://hyperallergic.com/hilma-af-klint-is-rolling-in-her-grave/",
+      "source": "Hyperallergic",
+      "published": "2026-11-20T11:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -5637,6 +5637,18 @@
       "url": "https://www.artnews.com/list/art-news/news/lacma-2026-art-film-gala-slideshow-1234805207/",
       "source": "ARTnews",
       "published": "2026-11-09T20:39:35+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "6376b3e2e66a3aff1e09",
+      "title": "LA’s The Landing Gallery Closes, Christie’s Brings in $145.9 M. But Falls Short of Estimates, and More: Morning Links for November 19, 2026",
+      "url": "https://www.artnews.com/art-news/news/the-landing-la-gallery-closes-morning-links-1234806998/",
+      "source": "ARTnews",
+      "published": "2026-11-20T14:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -7504,6 +7516,18 @@
       "publication_approved": false
     },
     {
+      "id": "733f68baf06c30c8299d",
+      "title": "Still Here and Independent",
+      "url": "https://hyperallergic.com/still-here-and-independent/",
+      "source": "Hyperallergic",
+      "published": "2026-11-20T06:30:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "dae4fd61069e7f116f7d",
       "title": "Stolen Picasso Prints Found Under Pile of Clothes in French Riviera Apartment",
       "url": "https://www.artnews.com/art-news/news/stolen-picasso-prints-found-french-riviera-apartment-1234804731/",
@@ -8560,6 +8584,18 @@
       "publication_approved": false
     },
     {
+      "id": "eaea280bac4df37fd384",
+      "title": "Was Grandma Moses a Foil to Modernity, or a Product of It?",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/grandma-moses-survey-modernity-crystal-bridges-arkansas-1234806881/",
+      "source": "ARTnews",
+      "published": "2026-11-20T10:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "1f2120bef1de58e5e649",
       "title": "Welcome to the ‘Uncanny Valley,’ the Haas Brothers’ Fantastic and Cheeky Universe",
       "url": "https://www.thisiscolossal.com/2026/10/haas-brothers-uncanny-valley-austin-exhibition/",
@@ -8987,6 +9023,18 @@
       "published": "2026-11-02T20:11:27+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "6a846b9c67537457b2bc",
+      "title": "Rare Marie Antoinette ‘Breast Bowl’ Hammers for $2.47 M. in Paris, Surpassing Top Estimate",
+      "url": "https://www.artnews.com/artnews/news/marie-antoinette-breast-bowl-hammers-past-estimate-rare-1234808074/",
+      "source": "ARTnews",
+      "published": "2026-11-26T18:28:25+00:00",
+      "priority_score": 7,
+      "possible_duplicate_of": "f34c50cc24f4e2753919",
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
       "publication_approved": false
