@@ -2,6 +2,45 @@
   "schema": 1,
   "items": [
     {
+      "id": "6a846b9c67537457b2bc",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "Rare Marie Antoinette ‘Breast Bowl’ Hammers for $2.47 M. in Paris, Surpassing Top Estimate",
+      "url": "https://www.artnews.com/artnews/news/marie-antoinette-breast-bowl-hammers-past-estimate-rare-1234808074/",
+      "published": "2026-11-26T18:28:25+00:00",
+      "summary": "The rare “nipple bowl” is one of four such bowls that was made for the French queen’s \"pleasure dairy\" near the Château de Versailles.",
+      "discovered": "2026-11-27T01:02:14.930094+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "d8661c5534231fd996ff",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "Lisa Marei Schmidt Appointed Director of Kunstmuseum Bern and Zentrum Paul Klee",
+      "url": "https://www.artnews.com/art-news/news/lisa-schmidt-director-kunstmuseum-bern-zentrum-paul-klee-1234808049/",
+      "published": "2026-11-26T15:46:45+00:00",
+      "summary": "She will start at her new post on August 1, 2027.",
+      "discovered": "2026-11-27T01:02:14.930094+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
+      "id": "be107fcb8c38f816f018",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "At the Broad, Six Decades of Art Question the Myth of Progress",
+      "url": "https://www.artnews.com/art-news/news/has-the-myth-been-shattered-exhibition-the-broad-la-1234807846/",
+      "published": "2026-11-26T15:30:00+00:00",
+      "summary": "From Andy Warhol’s silkscreens of police brutality to Guadalupe Rosales’s mirrored newspaper, a new exhibition examines the injustices that America has struggled to leave behind.",
+      "discovered": "2026-11-27T01:02:14.930094+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "17b97400ccb91da54bba",
       "source": "ARTnews",
       "category": "sanat-basini",
