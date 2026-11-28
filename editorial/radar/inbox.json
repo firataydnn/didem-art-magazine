@@ -2,6 +2,19 @@
   "schema": 1,
   "items": [
     {
+      "id": "e4ecaca3c24f41d00e15",
+      "source": "ARTnews",
+      "category": "sanat-basini",
+      "title": "The Met’s Orientalism Exhibition Puts Edward Said on Display—and His Critique Aside",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/met-orientalism-edward-said-osman-hamdi-bey-jean-leon-gerome-1234808013/",
+      "published": "2026-11-28T10:00:00+00:00",
+      "summary": "Far from confronting the ideological premises of Orientalist representation, the exhibition seems to render them newly respectable.",
+      "discovered": "2026-11-28T14:19:04.992535+00:00",
+      "status": "new",
+      "image_status": "rights_pending",
+      "publication_approved": false
+    },
+    {
       "id": "9035bdd174353cdea44c",
       "source": "ARTnews",
       "category": "sanat-basini",

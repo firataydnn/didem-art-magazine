@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "count": 759,
+  "count": 760,
   "possible_duplicates": 1,
   "items": [
     {
@@ -40,6 +40,18 @@
       "publication_approved": false
     },
     {
+      "id": "e4ecaca3c24f41d00e15",
+      "title": "The Met’s Orientalism Exhibition Puts Edward Said on Display—and His Critique Aside",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/met-orientalism-edward-said-osman-hamdi-bey-jean-leon-gerome-1234808013/",
+      "source": "ARTnews",
+      "published": "2026-11-28T10:00:00+00:00",
+      "priority_score": 9,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "2f7e86772a864b3f1840",
       "title": "Christie’s Adds UK Auction House Dreweatts to Its Portfolio",
       "url": "https://www.artnews.com/art-news/market/christies-adds-uk-auction-house-dreweatts-to-portfolio-1234807665/",
@@ -58,30 +70,6 @@
       "source": "ARTnews",
       "published": "2026-11-26T11:34:06+00:00",
       "priority_score": 8,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "bbc6001ead2c120f6150",
-      "title": "Batima Zaurbekova’s Textiles Meld Traditional Kazakh Techniques with Modernist Influences, Defying Easy Categorization",
-      "url": "https://www.artnews.com/art-news/artists/batima-zaurbekova-retrospective-almaty-kazakhstan-1234807853/",
-      "source": "ARTnews",
-      "published": "2026-11-27T10:00:00+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "f9ab7a7aceca48b7700e",
-      "title": "Carroll Dunham Calls His Filthy Formalism “Abstraction with a Hard-On”",
-      "url": "https://www.artnews.com/art-in-america/features/carroll-dunham-ica-miami-laurie-simmons-1234807999/",
-      "source": "ARTnews",
-      "published": "2026-11-27T10:00:00+00:00",
-      "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
       "image_rights": "unverified",
@@ -165,18 +153,6 @@
       "url": "https://www.artnews.com/art-news/news/pipilotti-rist-wins-mit-arts-award-1234806214/",
       "source": "ARTnews",
       "published": "2026-11-16T20:37:01+00:00",
-      "priority_score": 7,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "d5a9bb26820cbbba9cb0",
-      "title": "‘The Book of the Human Body’ Surveys 2,000 Years of Remarkable Anatomical Inquiry",
-      "url": "https://www.thisiscolossal.com/2026/11/the-book-of-the-human-body-taschen-anthology/",
-      "source": "Colossal",
-      "published": "2026-11-27T14:00:00+00:00",
       "priority_score": 7,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -292,18 +268,6 @@
       "publication_approved": false
     },
     {
-      "id": "17a01de5ec4b2b81e135",
-      "title": "A Sculptural Playground in Shanghai Is Designed for Human-Powered Play",
-      "url": "https://www.thisiscolossal.com/2026/11/wade-leta-catching-feelings-shanghai/",
-      "source": "Colossal",
-      "published": "2026-11-25T14:11:15+00:00",
-      "priority_score": 5,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "5987eade99624a18b9d1",
       "title": "ARTnews Awards 2026 Best Thematic Museum Exhibition: “MONUMENTS”",
       "url": "https://www.artnews.com/art-news/artists/monuments-artnews-awards-2026-best-thematic-museum-show-1234805839/",
@@ -345,6 +309,30 @@
       "url": "https://www.artnews.com/art-news/news/has-the-myth-been-shattered-exhibition-the-broad-la-1234807846/",
       "source": "ARTnews",
       "published": "2026-11-26T15:30:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "bbc6001ead2c120f6150",
+      "title": "Batima Zaurbekova’s Textiles Meld Traditional Kazakh Techniques with Modernist Influences, Defying Easy Categorization",
+      "url": "https://www.artnews.com/art-news/artists/batima-zaurbekova-retrospective-almaty-kazakhstan-1234807853/",
+      "source": "ARTnews",
+      "published": "2026-11-27T10:00:00+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "f9ab7a7aceca48b7700e",
+      "title": "Carroll Dunham Calls His Filthy Formalism “Abstraction with a Hard-On”",
+      "url": "https://www.artnews.com/art-in-america/features/carroll-dunham-ica-miami-laurie-simmons-1234807999/",
+      "source": "ARTnews",
+      "published": "2026-11-27T10:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -573,6 +561,18 @@
       "url": "https://www.artnews.com/art-news/artists/what-is-internet-cinema-1234807781/",
       "source": "ARTnews",
       "published": "2026-11-25T16:08:43+00:00",
+      "priority_score": 5,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "d5a9bb26820cbbba9cb0",
+      "title": "‘The Book of the Human Body’ Surveys 2,000 Years of Remarkable Anatomical Inquiry",
+      "url": "https://www.thisiscolossal.com/2026/11/the-book-of-the-human-body-taschen-anthology/",
+      "source": "Colossal",
+      "published": "2026-11-27T14:00:00+00:00",
       "priority_score": 5,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -964,6 +964,18 @@
       "publication_approved": false
     },
     {
+      "id": "17a01de5ec4b2b81e135",
+      "title": "A Sculptural Playground in Shanghai Is Designed for Human-Powered Play",
+      "url": "https://www.thisiscolossal.com/2026/11/wade-leta-catching-feelings-shanghai/",
+      "source": "Colossal",
+      "published": "2026-11-25T14:11:15+00:00",
+      "priority_score": 3,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "6b67467755f7e16a5ab7",
       "title": "A Sprawling Exhibition of Latin American Art and Fashion Is Coming to NYC",
       "url": "https://hyperallergic.com/a-sprawling-exhibition-of-latin-american-art-and-fashion-is-coming-to-nyc/",
@@ -1065,18 +1077,6 @@
       "url": "https://hyperallergic.com/applications-are-open-for-the-core-residency-program-at-the-museum-of-fine-arts-houston/",
       "source": "Hyperallergic",
       "published": "2026-11-02T15:05:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "d02f6976aef5cf51d00e",
-      "title": "Art Advisor Sophia Cohen on How the Next Generation of Collectors Is Approaching the Art Market",
-      "url": "https://www.artnews.com/art-news/news/sophia-cohen-siren-projects-art-week-nyc-1234807155/",
-      "source": "ARTnews",
-      "published": "2026-11-21T14:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -1588,18 +1588,6 @@
       "publication_approved": false
     },
     {
-      "id": "3f49500e9e674f07d537",
-      "title": "Hail to the Squash King",
-      "url": "https://hyperallergic.com/hail-to-the-squash-king/",
-      "source": "Hyperallergic",
-      "published": "2026-11-21T11:00:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "cff1e080867778fc5038",
       "title": "Hauser & Wirth Now Represents Ser Serpas, Fast-Rising Artist Who Combs the Detritus of Everyday Life",
       "url": "https://www.artnews.com/art-news/market/ser-serpas-hauser-and-wirth-gallery-representation-1234807276/",
@@ -1696,18 +1684,6 @@
       "publication_approved": false
     },
     {
-      "id": "cbae7fb9539c7223e32b",
-      "title": "Ireland’s Experiment in Paying Artists a Basic Income Is Working as Intended For Artists",
-      "url": "https://www.artnews.com/art-news/news/is-ireland-experiment-in-paying-artists-basic-income-working-1234806168/",
-      "source": "ARTnews",
-      "published": "2026-11-21T13:19:00+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
       "id": "3beb6a6161a14f9c170c",
       "title": "Julia Stoschek Collection to Celebrate 20 Years with ‘Selfish in Bed’ Exhibition and Düsseldorf Reopening",
       "url": "https://www.artnews.com/art-news/news/julia-stoschek-collection-selfish-in-bed-20th-anniversary-1234805311/",
@@ -1797,18 +1773,6 @@
       "url": "https://www.artnews.com/art-news/news/lynette-yiadom-boakye-anne-imhof-vogue-best-dressed-list-1234807360/",
       "source": "ARTnews",
       "published": "2026-11-23T20:08:13+00:00",
-      "priority_score": 3,
-      "possible_duplicate_of": null,
-      "editorial_status": "needs_human_review",
-      "image_rights": "unverified",
-      "publication_approved": false
-    },
-    {
-      "id": "a890934621f729ca76bb",
-      "title": "Maren Hassinger Won’t Be Weighed Down",
-      "url": "https://www.artnews.com/art-in-america/aia-reviews/maren-hassinger-bampfa-retrospective-berkeley-1234806748/",
-      "source": "ARTnews",
-      "published": "2026-11-21T10:00:00+00:00",
       "priority_score": 3,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -3273,6 +3237,18 @@
       "url": "https://hyperallergic.com/obits-2/",
       "source": "Hyperallergic",
       "published": "2026-11-18T21:27:22+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "d02f6976aef5cf51d00e",
+      "title": "Art Advisor Sophia Cohen on How the Next Generation of Collectors Is Approaching the Art Market",
+      "url": "https://www.artnews.com/art-news/news/sophia-cohen-siren-projects-art-week-nyc-1234807155/",
+      "source": "ARTnews",
+      "published": "2026-11-21T14:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -4804,6 +4780,18 @@
       "publication_approved": false
     },
     {
+      "id": "3f49500e9e674f07d537",
+      "title": "Hail to the Squash King",
+      "url": "https://hyperallergic.com/hail-to-the-squash-king/",
+      "source": "Hyperallergic",
+      "published": "2026-11-21T11:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
       "id": "c0e716c523491c05e528",
       "title": "Hand-Marbled Papers Ground Sylvain Lefebvre’s Surreal Landscapes",
       "url": "https://www.thisiscolossal.com/2026/11/sylvain-lefebvre-oil-paintings-marbled-paper/",
@@ -5325,6 +5313,18 @@
       "url": "https://hyperallergic.com/intermedia-digital-arts-mfa-program-at-umbc-now-accepting-applications/",
       "source": "Hyperallergic",
       "published": "2026-11-06T16:00:00+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "cbae7fb9539c7223e32b",
+      "title": "Ireland’s Experiment in Paying Artists a Basic Income Is Working as Intended For Artists",
+      "url": "https://www.artnews.com/art-news/news/is-ireland-experiment-in-paying-artists-basic-income-working-1234806168/",
+      "source": "ARTnews",
+      "published": "2026-11-21T13:19:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
@@ -5973,6 +5973,18 @@
       "url": "https://www.artnews.com/art-news/news/kehinde-wiley-landlord-lawsuit-unpaid-rent-1234805862/",
       "source": "ARTnews",
       "published": "2026-11-13T20:53:34+00:00",
+      "priority_score": 1,
+      "possible_duplicate_of": null,
+      "editorial_status": "needs_human_review",
+      "image_rights": "unverified",
+      "publication_approved": false
+    },
+    {
+      "id": "a890934621f729ca76bb",
+      "title": "Maren Hassinger Won’t Be Weighed Down",
+      "url": "https://www.artnews.com/art-in-america/aia-reviews/maren-hassinger-bampfa-retrospective-berkeley-1234806748/",
+      "source": "ARTnews",
+      "published": "2026-11-21T10:00:00+00:00",
       "priority_score": 1,
       "possible_duplicate_of": null,
       "editorial_status": "needs_human_review",
